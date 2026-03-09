@@ -1,0 +1,211 @@
+[INÍCIO DO ARQUIVO 02_PERFIL_Genérico_v1.0.txt]
+
+📦 CYBER SP 2097 — PERFIL DO JOGADOR v1.0 (VERSÃO GENÉRICA)
+╔═══════════════════════════════════════════════════════════════════╗
+║ ║
+║ CYBER SP 2097 — PERFIL DO JOGADOR v1.0 ║
+║ ║
+║ Versão: 1.0 — TEMPLATE PARA NOVOS JOGADORES ║
+║ ║
+║ "Não é só um personagem. É como você joga." ║
+║ E o sistema aprende." ║
+║ ║
+╚═══════════════════════════════════════════════════════════════════╝
+=====================================================================
+⚠️ INSTRUÇÃO IMPORTANTE — LEIA ANTES DE PREENCHER
+=====================================================================
+Este arquivo é o **SEU PERFIL PESSOAL DE JOGADOR**.
+Ele contém:
+├─ Como VOCÊ gosta de jogar (preferências)
+├─ Seus padrões (que o Triggerbot vai aprender)
+├─ Preferências por classe (quando aplicável)
+└─ Suas configurações de aprendizado
+📌 REGRAS:
+├─ NÃO compartilhe este arquivo com outro jogador.
+├─ Cada jogador deve ter o SEU PRÓPRIO 02_PERFIL.
+├─ O Triggerbot aprende APENAS com o perfil carregado no chat.
+├─ Se você jogar com outro personagem, USE O MESMO 02_PERFIL.
+└─ Se outro jogador usar seu perfil, o Triggerbot vai achar que é VOCÊ.
+✅ SOBRE O PREENCHIMENTO:
+As seções abaixo são **OPCIONAIS**.
+├─ Se você preencher: ajuda o Triggerbot a refinar mais rápido.
+├─ Se não preencher: o Triggerbot vai **detectar seus padrões naturalmente**
+enquanto você joga (aprendizado dinâmico).
+└─ As seções de "PADRÕES IDENTIFICADOS" devem ficar em branco.
+O Triggerbot vai preenchê-las automaticamente com o tempo.
+=====================================================================
+🧑‍🏫 IDENTIFICAÇÃO (opcional, para contexto do Triggerbot)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+JOGADOR_PESSOA:
+Nome: [seu nome ou apelido]
+Idade: [opcional]
+Experiência: [há quanto tempo joga RPG?]
+Estilo declarado: [ex: "mestre raiz", "diplomata", "combatente", "versátil"]
+Relação com sistema: [novo jogador / veterano / conhecendo o sistema]
+---------------------------------------------------------------------
+🎯 PREFERÊNCIAS DE JOGO (opcional)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PREFERÊNCIAS:
+Abordagem: [diplomacia / combate / furtividade / equilibrado]
+Reações do mundo: [realistas / heroicas / cinemáticas]
+Mistérios: [contextuais / explícitos / profundos]
+Feedback: [final da sessão / durante / raramente]
+Modo mestre futuro: [sim / não / testando]
+---------------------------------------------------------------------
+🎮 PREFERÊNCIAS POR CLASSE (opcional - preencha se aplicável)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Se SOLO:
+Estilo de combate: [agressivo / protetor / tático]
+Uso de proteção: [protege aliados / foca em si]
+└─ [espaço para Triggerbot preencher padrões]
+Se NETRUNNER:
+Profundidade: [mergulhos profundos / só o básico]
+Relação com Eva: [curioso / evita / busca]
+└─ [espaço para Triggerbot preencher padrões]
+Se FIXER:
+Estilo de negociação: [direto / manipulador / honesto]
+Uso de favores: [acumula / gasta rápido]
+└─ [espaço para Triggerbot preencher padrões]
+Se TECH:
+Estilo de criação: [inventor / consertador / gambiarreiro]
+Relação com risco: [calculista / explosivo]
+└─ [espaço para Triggerbot preencher padrões]
+Se ROCKERBOY:
+Estilo de influência: [inspira multidões / foco em fãs]
+Mensagem: [protesto / esperança / caos]
+└─ [espaço para Triggerbot preencher padrões]
+---------------------------------------------------------------------
+📊 PADRÕES GLOBAIS (serão preenchidos pelo Triggerbot)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PADRÕES IDENTIFICADOS:
+├─ [O Triggerbot vai preencher conforme você joga]
+├─ ...
+└─ ...
+📌 IMPORTANTE:
+Os padrões que o Triggerbot vai aprender são SEUS como jogador,
+não de um personagem específico. Isso significa que:
+✅ Se você tiver VÁRIOS PERSONAGENS no mesmo mundo,
+o Triggerbot aplicará os MESMOS padrões a todos eles.
+✅ Se você criar um personagem NOVO amanhã,
+o Triggerbot continuará agindo de acordo com SEU jeito de jogar.
+✅ O que muda de um personagem para outro são:
+├─ Atributos (HP, FP, perícias)
+├─ Itens e equipamentos
+├─ Missões e objetivos
+└─ Relações com NPCs
+✅ Tudo isso fica nos arquivos de CAMPANHA (03_X).
+O 02_PERFIL é só sobre VOCÊ.
+---------------------------------------------------------------------
+📊 PADRÕES POR PERSONAGEM (serão preenchidos pelo Triggerbot)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+👤 PERSONAGEM: [NOME DO PRIMEIRO PERSONAGEM]
+├─ Classe: [Solo / Netrunner / Fixer / Tech / Rockerboy]
+├─ Desvios dos padrões globais:
+│ ├─ [ex: "fuga: 20% (menos que o padrão 80%)"]
+│ ├─ [ex: "combatividade: alta"]
+│ └─ [ex: "lealdade: baixa"]
+├─ Padrões específicos deste personagem:
+│ ├─ [ex: "odeia o Círculo"]
+│ ├─ [ex: "protege crianças"]
+│ └─ [ex: "age por vingança"]
+└─ Última atualização: [DATA]
+👤 PERSONAGEM: [NOME DO SEGUNDO PERSONAGEM, se houver]
+├─ Classe: [Solo / Netrunner / Fixer / Tech / Rockerboy]
+├─ Desvios dos padrões globais:
+│ └─ ...
+├─ Padrões específicos:
+│ └─ ...
+└─ Última atualização: [DATA]
+---------------------------------------------------------------------
+📊 MEMÓRIA DE ARQUIVOS (opcional — será preenchida pelo Triggerbot)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ [arquivo]
+│ ├─ hash: [código]
+│ ├─ versao: [v1.0]
+│ ├─ ultima_sessao: [DATA]
+│ └─ tamanho_tokens: [N]
+└─ ...
+---------------------------------------------------------------------
+🧠 APRENDIZADO DINÂMICO — CONFIGURAÇÕES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CONFIG:
+Modo atual: "ativo" # (ativo / silencioso / relatório)
+Confiança mínima: 85%
+Observar diálogo: true
+Observar combate: true
+Observar economia: true
+Mínimo ocorrências: 3
+Última sincronização: [DATA ATUAL]
+---------------------------------------------------------------------
+🎲 PROBABILIDADES CONTEXTUAIS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+probabilidades:
+escalas:
+quase_certo: [2, "+"] # 1d6, 2+ (83%)
+provavel: [4, "+"] # 1d6, 4+ (50%)
+talvez: [8, "+", 2] # 2d6, 8+ (41%)
+improvavel: [10, "+", 2] # 2d6, 10+ (16%)
+muito_improvavel: [16, "+", 3] # 3d6, 16+ (4.6%)
+impossivel: [0, "não rolar"]
+modificadores:
+├─ +1 dado: ação memorável/importante, deixou pistas, testemunhas presentes, ação à luz do dia, há muito tempo (esquecimento)
+└─ -1 dado: ação discreta/cuidadosa, cobriu rastros, reputação positiva, ajudou o NPC no passado
+---------------------------------------------------------------------
+✅ CHECKLIST DE MEMÓRIA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CHECKLIST:
+PRÉ-RESPOSTA:
+├─ Consultar 03_CAMPANHA_ATUAL.txt
+├─ Verificar inventário
+├─ Atualizar bateria -10%/h
+├─ Atualizar efeitos (café, drogas, vício adaptativo)
+├─ Listar NPCs presentes
+├─ Atualizar tempo (+5min padrão)
+└─ 10 GATILHOS (conforme 01_CORE)
+DURANTE:
+├─ Mencionar TODOS os NPCs da cena
+├─ Manter consistência de itens
+├─ Usar posições relativas e passos
+└─ Manter tom consistente com este perfil
+PÓS-RESPOSTA:
+├─ Conferir bateria/efeitos
+├─ Verificar NPCs esquecidos
+└─ Checar contradições
+---------------------------------------------------------------------
+🎭 SEPARAÇÃO MUNDO × CAMPANHA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SEPARAÇÃO:
+Princípio: "O jogador pode interferir no mundo, mas NUNCA ser incorporado à lore geral"
+LORE (11_LORE.txt):
+├─ Mundo neutro, independente de campanhas
+├─ Nunca alterar baseado em ações de jogadores
+├─ Imutável por ações de personagens
+└─ Contém: história, facções, figuras importantes, crônicas
+CAMPANHA (03_CAMPANHA_X.txt):
+├─ Tudo que acontece com seus personagens fica AQUI
+├─ Mortes, vitórias, derrotas — só nesta campanha
+├─ Pode ser arquivada quando a campanha acabar
+└─ Novo personagem = nova campanha = novo arquivo
+TRIGGERBOT (01_CORE e 02_PERFIL):
+├─ Apenas instruções e aprendizado
+├─ NUNCA contém estado da campanha
+└─ Pode ser reutilizado em múltiplas campanhas
+---------------------------------------------------------------------
+📊 FEEDBACK PÓS-SESSÃO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FEEDBACK:
+Quando: final da sessão (quando usuário disser que quer parar)
+Ferramenta: /como_foi (implementado no 01_CORE)
+---------------------------------------------------------------------
+⚠️ DESVANTAGENS (modelo para preenchimento)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ Vício (adaptativo): [🚬/🍺/💊/💉/🧪/☕/🔌] · Ciclo: [__]h
+└─ (escolher o emote conforme o tipo de vício)
+---------------------------------------------------------------------
+📚 REFERÊNCIAS DESTE ARQUIVO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ GURPS Social Engineering (#20) — contatos e reputação
+├─ Cyberpunk RED (#90) — Humanity e background
+└─ Estudos sobre PCC (#1-12) — lealdade e hierarquia
+---------------------------------------------------------------------
+FIM DO ARQUIVO 02_PERFIL_Genérico_v1.0.txt

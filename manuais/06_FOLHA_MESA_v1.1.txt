@@ -1,0 +1,488 @@
+[INÍCIO DO ARQUIVO 06_FOLHA_MESA_v1.1.txt]
+📦 CYBER SP 2097 — FOLHA DE MESA v1.1
+╔═══════════════════════════════════════════════════════════════════╗
+║ ║
+║ CYBER SP 2097 — FOLHA DE MESA v1.1 ║
+║ ║
+║ Versão: 1.1 — CONSOLIDADA + ATUALIZAÇÕES ║
+║ Inclui: tabelas rápidas, geradores, ║
+║ checklists, emotes, conversões, ║
+║ e resumos dos novos sistemas: downtime, ║
+║ roubo, morte, manutenção de ciberware, ║
+║ atributos 19-24, drogas brasileiras. ║
+║ ║
+╚═══════════════════════════════════════════════════════════════════╝
+=====================================================================
+⚠️ INSTRUÇÃO: A PARTIR DAQUI, O CONTEÚDO É TEXTO PURO PARA COPIAR
+=====================================================================
+📚 SUMÁRIO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ 1. CONSULTA RÁPIDA — ARQUIVOS DO SISTEMA
+├─ 2. REGRAS RÁPIDAS
+├─ 3. TABELAS DE DIFICULDADE (CD)
+├─ 4. NÍVEIS DE HP E REGRA DE DESMAIO
+├─ 5. CRÍTICOS E FALHAS
+├─ 6. TABELAS DE CLIMA E EVENTOS
+├─ 7. TABELAS DE PREÇOS RÁPIDOS
+├─ 8. TABELAS DE ARMAS E CIBERWARE (RESUMO)
+├─ 9. TABELAS DE MUNIÇÃO E GRANADAS
+├─ 10. TABELA DE QUALIDADE DE ITENS
+├─ 11. TABELAS DE POWER BANKS E BATERIA
+├─ 12. GERADORES RÁPIDOS
+├─ 13. SISTEMAS INTEGRADOS (SOBREVIVÊNCIA, TRANSPORTE, COMBATE, DOWNTIME, ROUBO, MORTE, MANUTENÇÃO)
+├─ 14. CHECKLIST DO MESTRE
+├─ 15. ANOTAÇÕES DA SESSÃO
+├─ 16. REFERÊNCIAS RÁPIDAS
+├─ 17. CHECKLIST DE OPÇÕES NARRATIVas
+├─ 18. EMOTES PADRONIZADOS POR PERÍCIA
+└─ 19. TABELA DE CONVERSÃO (METROS ⇄ PASSOS)
+---------------------------------------------------------------------
+1. CONSULTA RÁPIDA — ARQUIVOS DO SISTEMA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Arquivo | Conteúdo | Quando usar
+00_PRIMEIROS | Guia para novos jogadores | Antes de começar
+01_CORE | Núcleo do Triggerbot | Sempre no chat
+02_PERFIL | Perfil do jogador | Sempre no chat
+03_CAMPANHA | Campanha ativa | Sempre no chat
+04_REGRAS_BASE| Regras básicas | Consulta via /regras
+05_ITENS | Itens, armas, veículos | Consulta via /item
+06_FOLHA_MESA | Esta folha — tabelas rápidas | Consulta via /tabela
+07_ATLAS | Mapas e bairros | Consulta via /mapa
+08_REGRAS_MESTRE | Regras do mestre | Consulta via /regras
+09_PERFIL_MESTRE | Perfil do mestre | Ativar via /mestre on
+10_CONFIG | Configurações multi-LLM | Consulta via /platform
+11_LORE | História e crônicas da cidade | Consulta via /lore
+12_AMEACAS | Inimigos e criaturas | Consulta via /ameaca
+13_AVENTURAS | Missões e arcos | Consulta via /aventura
+14_GERADORES | Tabelas de geração | Consulta via /gerar
+15_INDICE | Índice remissivo | Consulta via /indice
+16_REFERENCIAS| Referências bibliográficas | Consulta via /ref
+17A_SISTEMAS | Regras fixas (reputação, economia, classes) | /sistema
+17B_TRIGGERBOT| Processos da IA (downtime, missões, roubo) | /triggerbot
+---------------------------------------------------------------------
+2. REGRAS RÁPIDAS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📋 COMO ROLAR TESTES:
+└─ 1d20 + Bônus do Atributo + Nível da Perícia ≥ CD
+📋 BÔNUS DE ATRIBUTO (ATRIBUTO -10)/2 (arredondado para baixo):
+Atributo | Bônus
+8-9 | -1
+10-11 | 0
+12-13 | +1
+14-15 | +2
+16-17 | +3
+18 | +4 (limite humano)
+19 | +4
+20 | +5
+21 | +5
+22 | +6
+23 | +6
+24 | +7 (limite cibernético)
+📋 REGRAS DE FÔLEGO (FP):
+├─ FP = HT (Saúde)
+├─ Gasta FP com esforço físico, habilidades especiais
+├─ Recupera 1 FP a cada 30 minutos de descanso leve
+├─ Recupera todos os FP após 8 horas de sono
+└─ FP 0 = desmaio por exaustão
+---------------------------------------------------------------------
+3. TABELAS DE DIFICULDADE (CD)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📊 DIFICULDADE (CD):
+Descrição | CD
+Muito fácil | 5
+Fácil | 8
+Médio | 11
+Difícil | 14
+Muito difícil | 17
+Quase impossível| 20+
+📋 TESTES COMUNS:
+Ação | Perícia | CD
+Atirar em alvo parado | Pontaria | 10
+Atirar em alvo em movimento| Pontaria | 12
+Atirar com cobertura | Pontaria | 14
+Socar | Briga | 10
+Agarrar | Briga | 12
+Esquivar | Esquiva | (resultado do ataque)
+Perceber emboscada | Percepção | 12
+Convencer guarda | Lábia | 12-16
+Intimidar | Intimidação | vs HT
+Hackear sistema simples | Computadores | 12
+Hackear sistema seguro | Computadores | 16
+Hackear sistema militar | Computadores | 20
+Primeiros socorros | Medicina | 12
+Dirigir normal | Condução | 10
+Dirigir perseguição | Condução | 14
+---------------------------------------------------------------------
+4. NÍVEIS DE HP E REGRA DE DESMAIO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📊 NÍVEIS DE HP:
+HP % | Nível | Efeito
+100-67% | 🟢 Normal| Sem penalidades
+66-34% | 🟡 Atenção| -1 testes físicos
+33-1% | 🔴 Crítico| -2 todos testes
+0 | 💀 Morrendo| Inconsciente, à beira da morte
+📋 REGRA DE DESMAIO:
+└─ Quando em HP Crítico (33-1%), qualquer ação que exija esforço físico exige teste de HT CD 12. Falha = desmaia 1d6 min.
+📋 MORTE EM 3 ESTÁGIOS (resumo):
+├─ 1. Morrendo (0 HP): 1d6 minutos para ser salvo, a cada minuto rolar 1d10 (1-2 piora, 3-7 estável, 8-9 melhora, 10 estabiliza)
+├─ 2. Primeiros socorros: Medicina CD 14 para estabilizar
+└─ 3. Último suspiro: se morrer, uma ação antes de partir
+📌 Detalhes completos em 04_REGRAS_BASE seção 12.
+---------------------------------------------------------------------
+5. CRÍTICOS E FALHAS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📋 20 NATURAL — SUCESSO CRÍTICO:
+└─ Role 1d10 na tabela de críticos (04_REGRAS_BASE seção 9). Efeito: dano máximo, bypass, informação extra, etc.
+📋 1 NATURAL — FALHA CRÍTICA:
+└─ Role 1d10 na tabela de falhas (04_REGRAS_BASE seção 9). Efeito: arma quebra, acerta aliado, alarme dispara, etc.
+---------------------------------------------------------------------
+6. TABELAS DE CLIMA E EVENTOS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🌦️ EFEITOS DO CLIMA:
+Clima | Efeito
+Normal (🌤️) | Sem efeitos
+Calor 40°C+ (🔥) | -1 FP por hora, sede a cada 3h
+Frio 5°C- (❄️) | -1 FP por hora, fome a cada 3h
+Chuva fraca (🌧️)| -1 Percepção, coleta de água 1L/h
+Chuva forte (🌧️)| -2 Percepção, risco de enchente
+Tempestade (⛈️) | -4 Percepção, risco de raio (3d6)
+Névoa química (🌫️)| -2 Percepção, -1 FP/h sem máscara
+🌪️ EVENTOS CLIMÁTICOS (role 1d20 na mudança de clima):
+1d20 | Evento | Efeito
+1 | Tempestade raios | 1d10: 1-2 raio (3d6)
+2 | Enchente relâmpago | Água sobe 1 nível em 30 min
+3 | Névoa química densa| -4 Percepção, 1d6 dano/h
+4-5 | Vendaval | -2 Pontaria, -1 deslocamento
+6-8 | Chuva ácida | Itens corroem (-1 durabilidade)
+9-11 | Névoa moderada | -2 Percepção
+12-14| Calor extremo | Sede a cada 3h
+15-17| Brisa fresca | +1 FP
+18-19| Arco-íris | +1 Insight
+20 | Fenômeno raro | Role 1d10 na tabela especial
+---------------------------------------------------------------------
+7. TABELAS DE PREÇOS RÁPIDOS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💰 PREÇOS RÁPIDOS (⭐⭐⭐ — Camada 3):
+Item | Preço (R$)
+Água mineral (1L) | 5
+Comida (refeição simples)| 15-25
+Café puro | 3
+Cigarro (maço) | 10
+Hotel Camada 3 | 80/noite
+Hotel Camada 2 | 300/noite
+Ônibus | 8
+Trem | 12
+Máscara simples | 20
+Kit primeiros socorros| 100
+Pistola 9mm | 350
+Datajack de rua | 1.500
+Kit manutenção básico (19-20) | 400
+Kit manutenção avançado (21-22) | 1.200
+SynthOil® básico (mês) | 300
+SynthBlood® (mês) | 1.000
+📌 1 Salário Mínimo (SM) = R$ 1.600. Preços proporcionais.
+---------------------------------------------------------------------
+8. TABELAS DE ARMAS E CIBERWARE (RESUMO)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔫 ARMAS COMUNS (resumo):
+Arma | Dano | Preço (R$)
+Pistola leve | 1d8 | 350
+Pistola pesada | 1d10+2| 600
+Submetralhadora | 2d6 | 800
+Escopeta | 3d6 | 700
+Fuzil | 2d10 | 1.500
+Faca | 1d4+1| 30
+Facão | 1d6+2| 60
+🧠 CIBERWARE (resumo níveis 16-24):
+Nv | Implante | Bônus | Insight | Manutenção/mês
+16 | Braço de obra | +1 FO | -1 | —
+17 | (idem) | | |
+18 | Braço reforçado | +2 FO | -1 | —
+19 | Braço Titânico | +2 FO | -1 | R$ 400
+20 | Braço Titânico+ | +3 FO | -2 | R$ 800
+21 | Braço Hércules | +3 FO | -3 | R$ 1.200 + SynthOil®
+22 | Braço Hércules+ | +4 FO | -4 | R$ 2.000 + SynthOil® Avançado
+23 | Braço Colosso | +4 FO | -5 | R$ 4.000 + SynthBlood®
+24 | Braço Colosso+ | +5 FO | -6 | R$ 8.000 + Fluido Neural®
+📌 Detalhes completos em 05_ITENS seção 4.
+---------------------------------------------------------------------
+9. TABELAS DE MUNIÇÃO E GRANADAS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔫 MUNIÇÃO (10 tiros):
+Tipo | Preço (R$)
+Comum | 30
+Perfurante | 80
+Expansiva | 60
+Elétrica | 120
+Explosiva | 300
+💣 GRANADAS:
+Tipo | Dano | Área | Preço (R$)
+Fragmentação | 4d6 | 6m | 150
+Explosiva | 5d6 | 4m | 200
+Atordoamento | 2d6* | 8m | 80
+Fumígena | — | 10m | 50
+Incendiária | 3d6+ | 5m | 200
+---------------------------------------------------------------------
+10. TABELA DE QUALIDADE DE ITENS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📊 QUALIDADE:
+Qualidade | Preço | Efeito | Falha | Manutenção
+⭐ GAMBIARRA | 30% | Instável | 1-3 | Quando quebra
+⭐⭐ RECUP. | 50% | Falha | 1-2 | Semanal
+⭐⭐⭐ ORIG. | 100% | Normal | — | 2 meses
+⭐⭐⭐⭐ PREM. | 150% | +1 bônus | — | 3 meses
+⭐⭐⭐⭐⭐ LENDA | 300% | +2 bônus | — | 6 meses
+---------------------------------------------------------------------
+11. TABELAS DE POWER BANKS E BATERIA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔋 POWER BANKS:
+Tipo | Cargas | Tempo | Preço (R$)
+Pequeno | 1 | 30 min | 50
+Médio | 2 | 30 min | 80
+Grande | 4 | 30 min | 150
+Turbo | 2 | 15 min | 200
+📱 CONSUMO DE BATERIA:
+├─ Celular (uso moderado): 10% por hora
+├─ Celular (uso intenso): 20% por hora
+├─ Lanterna: 15% por hora
+├─ Deck de netrunning: 30% por hora
+└─ Alerta quando abaixo de 15%
+---------------------------------------------------------------------
+12. GERADORES RÁPIDOS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📋 NOMES BRASILEIROS (1d20 – resumo):
+1d20 | Nome Masc | Nome Fem | Sobrenome | Apelido
+1 | João | Maria | Silva | Zé
+2 | José | Ana | Santos | Nego
+3 | Antônio | Francisca | Oliveira | Mineiro
+4 | Francisco | Antônia | Souza | Paulista
+5 | Carlos | Cláudia | Pereira | Carioca
+6 | Paulo | Patrícia | Lima | Gaúcho
+7 | Pedro | Sandra | Alves | Nordestino
+8 | Luiz | Fernanda | Ferreira | Baixinho
+9 | Márcio | Renata | Costa | Pezão
+10 | Rogério | Carla | Rodrigues | Sorriso
+11 | Rafael | Juliana | Carvalho | Baiano
+12 | Lucas | Letícia | Gomes | Ceará
+13 | Mateus | Amanda | Martins | Pernambuco
+14 | Gabriel | Camila | Araújo | Maranhão
+15 | Diego | Beatriz | Melo | Mãozinha
+16 | Felipe | Mariana | Cavalcanti| Dentinho
+17 | Bruno | Jéssica | Nascimento| Pequeno
+18 | Leonardo | Larissa | Vieira | Magrelo
+19 | Guilherme | Vanessa | Barros | Cabelo
+20 | Vinícius | Aline | Ribeiro | Careca
+📋 PERSONALIDADE DE NPC (1d10):
+1d10 | Traço | Motivação
+1 | Amigável | Sobreviver
+2 | Desconfiado | Proteger família
+3 | Ganancioso | Ficar rico
+4 | Medroso | Vingança
+5 | Agressivo | Fé
+6 | Sábio | Poder
+7 | Piadista | Curiosidade
+8 | Religioso | Medo
+9 | Cansado | Dever
+10 | Louco | Amor
+📋 ENCONTROS POR CAMADA (1d10 — rápido):
+1d10 | Camada 3 | Camada 4 | Camada 5
+1 | Polícia | Gangue | Surfista
+2 | Comerciante| Círculo | Morador túnel
+3 | Morador | Comunidade | Rato gigante
+4 | Mendigo | Mão de Deus| Esgoto
+5 | Gangue | Solaris | Desabamento
+6 | Acidente | Conflito | Criatura
+7 | Perseguição| Mutirão | Comerciante
+8 | Artista | Protesto | Festa
+9 | Drone | Barricada | Portal?
+10 | Figura imp.| Figura imp.| O Afogado
+📋 TESOUROS ALEATÓRIOS (1d10):
+1d10 | Tesouro
+1 | R$ 1d6 × 100
+2 | R$ 2d6 × 100
+3 | Munição 2d10
+4 | Arma comum
+5 | Arma rara
+6 | Ciberware simples
+7 | Informação (missão)
+8 | Favor de facção
+9 | Programa de netrunning
+10 | Múltiplos (role 2x)
+---------------------------------------------------------------------
+13. SISTEMAS INTEGRADOS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📋 13.1 SOBREVIVÊNCIA:
+Necessidade | Ciclo | Alerta | Efeito em falta
+🍚 FOME | 3 ref/dia| 1h antes| -1 FP (1 falta), -1 testes (2)
+💧 SEDE | 6h | 1h antes| 6h: -1 FP, 12h: -1 testes
+😴 SONO | 16h | 1h antes| 16h: 🔴, -2 testes
+🚬 VÍCIOS | depende | 1h antes| -2 testes, teste HT (ver 04_REGRAS_BASE)
+📋 13.2 TRANSPORTE (tempo para 1km):
+Meio | Passos | Tempo | Custo
+🚶 A pé | 667 | 12 min | R$ 0
+🛹 Skate | 1334 | 6 min | R$ 0
+🚲 Bicicleta| 2000 | 4 min | R$ 0
+🛵 Moto | 2667 | 3 min | R$ 0,50/km
+🚗 Carro | 3333 | 2,4 min | R$ 1,00/km
+🚌 Ônibus | 2000 | 4 min + espera| R$ 8
+🚆 Trem | 2667 | 3 min + espera| R$12
+📋 13.3 COMBATE TÁTICO:
+Situação | Bônus
+Cobertura parcial| +2 defesa
+Cobertura boa | +4 defesa
+Flanqueado | +2 acerto
+Posição elevada | +2 acerto
+Ataque pelas costas| +4 acerto
+Surpresa | Inimigo não age
+📋 13.4 DOWNTIME (resumo):
+├─ 2 atividades por período (entre missões)
+├─ Trabalhar (hustle): role 1d10 na tabela da classe (14_GERADORES)
+├─ Treinar: 1 semana = +1 PP, 1 mês = +3 PP
+├─ Projeto longo: relógio de 4-12 segmentos (role perícia)
+├─ Manutenção: obrigatória para ciberware 19+ (pague o custo mensal)
+├─ Vice: recupera 1d6 Insight (risco 1-3 de perder 1d3)
+├─ Descansar: recupera HP/Insight
+└─ Eventos de downtime: role 1d10 (1-2 problema, 3-4 nada, 5-7 normal, 8-9 oportunidade, 10 especial)
+📋 13.5 ROUBO (resumo):
+├─ 5 fases: investigação, infiltração, execução, extração, cobertura
+├─ Plano: mestre avalia 0-2 por fase (total 0-10)
+├─ Execução: bônus -3 a +3 por fase (falha crítica a crítico)
+├─ Qualidade total = plano + execução
+└─ Tabela de consequências: -3 a 0 = desastre; 1-3 = fracasso; 4-6 = sujo; 7-9 = limpo; 10-12 = perfeito; 13+ = lendário
+📌 Detalhes em 08_REGRAS_MESTRE seção 16.
+📋 13.6 MORTE (resumo):
+├─ Estágio 1 (0 HP): 1d6 minutos para ser salvo, a cada minuto role 1d10 (1-2 piora, 3-7 estável, 8-9 melhora, 10 estabiliza)
+├─ Estágio 2: primeiros socorros Medicina CD 14
+├─ Estágio 3: último suspiro (uma ação antes de morrer)
+└─ Morte instantânea: dano > HP máximo, queda >50m, explosão no centro, decapitação
+📌 Detalhes em 04_REGRAS_BASE seção 12.
+📋 13.7 MANUTENÇÃO DE CIBERWARE:
+├─ Ciberware nível 19+ exige manutenção mensal (valores em 05_ITENS)
+├─ Se não pagar, perde 1 ponto no atributo por mês; após 3 meses, perda permanente.
+├─ Fluidos sintéticos obrigatórios a partir do nível 21 (SynthOil®, SynthBlood®, Fluido Neural®)
+├─ Abstinência de fluidos: penalidades (ver 05_ITENS)
+└─ Obsolescência programada (Omni): ciberware nível 22+ vence em 5 anos; após, falhas e rejeição dobrada.
+---------------------------------------------------------------------
+14. CHECKLIST DO MESTRE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 ANTES DA SESSÃO:
+├─ [ ] Clima definido? (role 1d10 na tabela de clima)
+├─ [ ] Local definido? (consulte o Atlas — 07_ATLAS.txt)
+├─ [ ] NPCs principais prontos? (use gerador acima ou 14_GERADORES)
+├─ [ ] Missão definida? (use 13_AVENTURAS.txt ou gancho próprio)
+├─ [ ] Tokens iniciais anotados? (01_CORE.txt)
+└─ [ ] Backup da sessão anterior carregado? (03_CAMPANHA_ATUAL.txt)
+🎲 DURANTE A SESSÃO:
+├─ [ ] Registrar gasto de tokens a cada cena (01_CORE.txt)
+├─ [ ] Anotar decisões importantes dos PJs
+├─ [ ] Marcar NPCs que apareceram
+├─ [ ] Observar Insight dos PJs (perdas/ganhos)
+├─ [ ] Atualizar tempo na campanha (+5 minutos por interação)
+└─ [ ] Verificar dívidas e prazos ativos (prioridade máxima)
+✅ APÓS A SESSÃO:
+├─ [ ] Usar /finalizar_sessao (atualiza tudo e gera backup)
+├─ [ ] Anotar ganho de PP/dinheiro/reputação
+├─ [ ] Registrar consequências das missões
+├─ [ ] Atualizar 03_CAMPANHA_ATUAL.txt
+└─ [ ] Planejar próxima sessão
+---------------------------------------------------------------------
+15. ANOTAÇÕES DA SESSÃO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SESSÃO # ___ DATA: ___/___/___
+📖 RESUMO DA SESSÃO:
+_________________________________________________
+_________________________________________________
+👥 NPCs QUE APARECERAM:
+├─ _______________________________________________
+├─ _______________________________________________
+└─ _______________________________________________
+💰 RECOMPENSAS (dinheiro, itens, favores):
+├─ _______________________________________________
+└─ _______________________________________________
+📊 PROGRESSÃO (PP):
+└─ Personagem: __ → __
+⚠️ OBSERVAÇÕES IMPORTANTES:
+_________________________________________________
+---------------------------------------------------------------------
+16. REFERÊNCIAS RÁPIDAS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Se precisar de... | Vá para...
+Regras completas de clima | 08_REGRAS_MESTRE seção 1
+Tabela completa de preços | 05_ITENS seção 11
+História de facções | 11_LORE
+Fichas completas de líderes | 12_AMEACAS
+Regras de netrunning | 08_REGRAS_MESTRE seção 7
+Programas de netrunning | 05_ITENS seção 10
+Gerenciamento de bases | 08_REGRAS_MESTRE seção 6
+Fabricação de itens | 08_REGRAS_MESTRE seção 10
+Atlas completo de SP | 07_ATLAS
+Sistema de Justiça | 08_REGRAS_MESTRE seção 4
+Drogas e Vícios | 04_REGRAS_BASE seção 4.3 + 05_ITENS seção 9
+Saúde mental e traumas | 04_REGRAS_BASE seção 7
+Combate tático | 04_REGRAS_BASE seção 5
+Geradores completos | 14_GERADORES
+Índice completo | 15_INDICE
+Lógica das classes | 17A_SISTEMAS
+Processos da IA | 17B_TRIGGERBOT
+Atributos 19-24 | 04_REGRAS_BASE seção 11
+Manutenção de ciberware | 04_REGRAS_BASE seção 11.5 + 05_ITENS seção 4.8
+Drogas brasileiras | 05_ITENS seção 9
+Apps de mensagem | 05_ITENS seção 5
+Downtime | 17B_TRIGGERBOT seção 11
+Roubo | 08_REGRAS_MESTRE seção 16
+Morte | 04_REGRAS_BASE seção 12
+---------------------------------------------------------------------
+17. CHECKLIST DE OPÇÕES NARRATIVAS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Antes de apresentar opções aos jogadores:
+├─ [ ] Cada opção tem INTENÇÃO clara (o que o personagem quer)
+├─ [ ] Cada opção tem DISTÂNCIA em passos
+├─ [ ] Cada opção tem ABORDAGEM (discreto, agressivo, casual)
+├─ [ ] Cada opção tem PERÍCIA sugerida (quando aplicável)
+├─ [ ] Cada opção tem CD adequada (10/12/14/16)
+├─ [ ] As opções cobrem diferentes possibilidades
+├─ [ ] Há espaço para o jogador CRIAR algo novo
+└─ [ ] O contexto da cena está PRESENTE nas opções
+---------------------------------------------------------------------
+18. EMOTES PADRONIZADOS POR PERÍCIA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎲 EMOTES (usar nas opções e descrições):
+├─ 👣 = Furtividade
+├─ 👂 = Percepção (ouvir)
+├─ 👀 = Percepção (observar)
+├─ 🔍 = Investigar/Procurar
+├─ 🗣️ = Lábia/Enganação
+├─ 💪 = Força/Briga
+├─ 🎯 = Pontaria
+├─ 🦵 = Destreza/Acrobacia
+├─ 🧠 = Intelecto/Computadores
+├─ ⚔️ = Combate
+├─ 🏃 = Correr/Movimento
+├─ ⚠️ = Risco/Atenção
+└─ 🏡 = Seguro/Sem risco
+---------------------------------------------------------------------
+19. TABELA DE CONVERSÃO (METROS ⇄ PASSOS)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📏 1 PASSO = 1.5 METROS
+Metros | Passos | Uso comum
+1.5m | 1 passo | Distância mínima
+3m | 2 passos | Porta → balcão
+4.5m | 3 passos | Cômodo pequeno
+6m | 4 passos | 1 turno andando
+9m | 6 passos | Atravessar sala
+12m | 8 passos | 1 turno correndo
+15m | 10 passos | Distância média
+30m | 20 passos | Comprimento beco
+100m | 67 passos | Quarteirão
+---------------------------------------------------------------------
+📚 REFERÊNCIAS DESTE ARQUIVO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ GURPS Basic Set (#13-14) — tabelas rápidas
+├─ The Lazy Dungeon Master (#129) — checklist do mestre
+├─ 04_REGRAS_BASE — regras de atributos, morte, vícios
+├─ 05_ITENS — preços e itens
+├─ 08_REGRAS_MESTRE — clima, roubo, netrunning
+├─ 17B_TRIGGERBOT — downtime
+└─ Feedback de 7h de refinamento — versão 1.1
+---------------------------------------------------------------------
+FIM DO ARQUIVO 06_FOLHA_MESA_v1.1.txt

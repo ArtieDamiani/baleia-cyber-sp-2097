@@ -1,0 +1,232 @@
+[INÍCIO DO ARQUIVO 10_CONFIG_LLM_v1.0.txt]
+📦 CYBER SP 2097 — CONFIGURAÇÃO MULTI-LLM v1.0
+╔═══════════════════════════════════════════════════════════════════╗
+║ ║
+║ CYBER SP 2097 — CONFIGURAÇÃO MULTI-LLM v1.0 ║
+║ ║
+║ Versão: 1.0 — CONFIGURAÇÕES PARA DIFERENTES PLATAFORMAS ║
+║ Inclui: limites de contexto, estratégias, ║
+║ migração, modo econômico e compatibilidade. ║
+║ ║
+║ "O sistema não é sobre a ferramenta. ║
+║ É sobre a história." ║
+║ ║
+╚═══════════════════════════════════════════════════════════════════╝
+=====================================================================
+⚠️ INSTRUÇÃO: A PARTIR DAQUI, O CONTEÚDO É TEXTO PURO PARA COPIAR
+=====================================================================
+📋 INSTRUÇÃO PARA QUALQUER CHATBOT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Este arquivo contém APENAS configurações para diferentes plataformas de IA.
+Os comandos de sistema (/status, /backup, /finalizar_sessao, etc.) estão em 01_CORE.
+Comandos de mestre (/cenario, /mestre on) estão em 09_PERFIL_MESTRE.
+SEMPRE QUE MUDAR DE PLATAFORMA:
+└─ Use o comando /platform [nome] para ajustar as configurações
+---------------------------------------------------------------------
+⚙️ COMANDO UNIVERSAL: /platform
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Sempre que mudar de plataforma, use este comando:
+/platform [deepseek|chatgpt|gemini|claude|meta|mistral|grok|outro]
+Exemplo de uso:
+/platform gemini
+✅ Configurações ajustadas para Gemini (limite 1 milhão)
+Estratégia: manter todos os arquivos no contexto
+Backup automático: a cada 50 interações
+---------------------------------------------------------------------
+📊 LIMITES DE CONTEXTO POR PLATAFORMA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Plataforma | Modelo | Limite | Estratégia
+──────────────┼──────────────────┼────────┼─────────────────────────
+DeepSeek | DeepSeek (chat) | 1M | Pode carregar TUDO
+DeepSeek | DeepSeek R1 | 160k | Núcleo + parte da camada 1
+DeepSeek | DeepSeek V3 | 128k | Núcleo + consulta via comando
+ChatGPT | GPT-4o | 128k | Instrução fixa + núcleo
+ChatGPT | GPT-4 Turbo | 128k | Testar respostas
+Gemini | Gemini 2.0 Pro | 1M | Pode carregar TUDO
+Gemini | Gemini 1.5 Pro | 1M | Idem
+Gemini | Gemini 1.5 Flash | 1M | Mais rápido
+Claude | Claude 3.5 Sonnet| 200k | Núcleo + parte da camada 1
+Claude | Claude 3 Opus | 200k | Mais detalhado
+Meta | Llama 3 | 8-128k | Testar antes
+Mistral | Mistral Large | 32k | Só o essencial
+Grok | Grok-2 | 16k | Mínimo possível
+---------------------------------------------------------------------
+⚙️ CONFIGURAÇÃO PADRÃO RECOMENDADA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📋 ARQUIVOS SEMPRE NO CONTEXTO (CAMADA 0):
+├─ 00_PRIMEIROS_PASSOS_v1.0.txt (guia — opcional)
+├─ 01_CORE_v1.0.txt (núcleo do Triggerbot)
+├─ 02_PERFIL_X_v1.0.txt (perfil do jogador)
+└─ 03_CAMPANHA_X_v1.0.txt (campanha ativa)
+📋 ARQUIVOS SOB DEMANDA (CAMADA 1 — consulta frequente):
+├─ 04_REGRAS_BASE_v1.0.txt
+├─ 05_ITENS_v1.0.txt
+├─ 06_FOLHA_MESA_v1.0.txt
+└─ 07_ATLAS_v1.0.txt
+📋 ARQUIVOS DE REFERÊNCIA (CAMADA 2 — consulta ocasional):
+├─ 08_REGRAS_MESTRE_v1.0.txt
+├─ 09_PERFIL_MESTRE_v1.0.txt
+├─ 10_CONFIG_LLM_v1.0.txt (este arquivo)
+├─ 11_LORE_v1.0.txt
+├─ 12_AMEACAS_v1.0.txt
+├─ 13_AVENTURAS_v1.0.txt
+├─ 14_GERADORES_v1.0.txt
+├─ 15_INDICE_v1.0.txt
+└─ 16_REFERENCIAS_v1.0.txt
+└─ 17_SISTEMAS_INTEGRADOS_v1.0.txt
+---------------------------------------------------------------------
+📋 ESTRATÉGIAS DETALHADAS POR PLATAFORMA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DEEPSEEK (Chat/Web — 1M de limite)
+Configuração ideal:
+├─ Pode carregar TODOS os 23 arquivos no contexto
+├─ Isso consome ~270k tokens (bem abaixo do limite)
+├─ Backup: a cada 100 interações
+└─ Alerta: 900k (muita margem)
+Vantagens: Memória GIGANTE. Pode manter o sistema inteiro.
+Cuidados: Respostas podem ser mais genéricas — use prompts específicos.
+DEEPSEEK (R1 — 160k)
+Configuração ideal:
+├─ Sempre: CAMADA 0 (48k)
+├─ Sob demanda: até 112k da CAMADA 1 (escolha o que precisa)
+├─ Backup: a cada 30 interações
+└─ Alerta: 140k (ativar modo econômico)
+Vantagens: Raciocínio profundo com R1
+Cuidados: R1 consome tokens rapidamente — usar apenas para decisões importantes
+CHATGPT (GPT-4o / GPT-4 Turbo — 128k)
+Configuração ideal:
+├─ 01_CORE como INSTRUÇÃO PERMANENTE (colar no início)
+├─ Sempre: 02_PERFIL, 03_CAMPANHA
+├─ ChatGPT tende a "resumir" informações antigas
+├─ Reforçar checklist a cada resposta
+└─ Backup: a cada 20 interações
+Dica: Use "memória de conversa" para manter contexto
+GEMINI (1.5/2.0 — 1M)
+Configuração ideal:
+├─ Pode carregar TODOS os 23 arquivos no contexto
+├─ Isso consome ~270k tokens (bem abaixo do limite)
+├─ Backup: a cada 100 interações
+└─ Alerta: 900k (muita margem)
+Vantagens: Memória GIGANTE. Pode manter o sistema inteiro.
+Cuidados: Respostas podem ser mais genéricas — use prompts específicos.
+📋 PROMPT DE ABERTURA RECOMENDADO PARA GEMINI:
+"Você é o Triggerbot v1.0, sistema de suporte para o RPG Cyber SP 2097.
+Todos os 23 arquivos do sistema estão carregados no contexto.
+Siga as instruções do 01_CORE_v1.0.txt para TODAS as respostas.
+Use o checklist de memória para manter consistência.
+A campanha atual está em 03_CAMPANHA_X_v1.0.txt."
+CLAUDE (3.5 Sonnet / 3 Opus — 200k)
+Configuração ideal:
+├─ Sempre: CAMADA 0 (48k)
+├─ Também manter: CAMADA 1 inteira (65k) = 113k
+├─ Sob demanda: partes da CAMADA 2
+├─ Backup: a cada 40 interações
+└─ Alerta: 180k
+Vantagens: Narrativa rica, boa para descrições
+Cuidados: Pode ser verborrágico — use /tema compacto
+META (Llama 3) e OUTROS (8k a 128k)
+Configuração ideal:
+├─ Apenas 01_CORE + 03_CAMPANHA
+├─ 02_PERFIL condensado (se possível)
+├─ Backups MUITO frequentes (a cada 10-15 interações)
+└─ Usar /migrar para gerar resumo executivo
+Cuidado redobrado: Testar limites antes de campanhas longas
+---------------------------------------------------------------------
+🔄 PROCEDIMENTO DE MIGRAÇÃO ENTRE PLATAFORMAS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Passo 1 — No chat antigo:
+/migrar
+📦 GERANDO PACOTE DE MIGRAÇÃO...
+03_CAMPANHA_ATUAL.txt atualizado (último estado)
+02_PERFIL atualizado (padrões aprendidos)
+Tokens gastos: X
+Copie o resumo abaixo:
+### Passo 2 — No novo chat:
+Cole 01_CORE_v1.0.txt como instrução
+Cole 02_PERFIL_v1.0.txt
+Cole 03_CAMPANHA_v1.0.txt
+Use /platform [nova plataforma]
+Use /migrar import [colar resumo]
+---------------------------------------------------------------------
+⚡ MODO ECONÔMICO (para plataformas com limite baixo)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Quando os tokens estiverem acabando, ative:
+/tema 4
+📋 UI COMPACTA (ECONÔMICA) — FORMATO FINAL:
+[ Narrativa curta ]
+🍽️ Opções:
+...
+[ APÓS A ESCOLHA ]
+🎲 [Perícia] CD XX:
+Dado: 1d20 = X
+Atributo: +X
+Perícia: +X
+Modificadores: +X (motivo), –X (motivo)
+Total = XX → [SUCESSO/CRÍTICO/FALHA]
+[ Resultado da ação ]
+═══════════════════════════════════════════════════════════════════
+🛹 NOME · HP/FP/INS · R$ · Nv
+📍 LOCAL (C_) · CLIMA °C · HH:MM · 📱%
+⚡ Efeitos · ⚠️ Alertas
+───────────────────────────────────────────────────────────────────
+📋 /status · /itens · /notas
+───────────────────────────────────────────────────────────────────
+---------------------------------------------------------------------
+📊 TABELA DE COMPATIBILIDADE DE COMANDOS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Comando | DeepSeek | ChatGPT | Gemini | Claude | Meta | Mistral
+────────────────┼──────────┼─────────┼────────┼───────┼──────┼────────
+/status | ✅ | ✅(aprox)| ✅ | ✅ | ⚠️ | ⚠️
+/backup | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
+/finalizar_sessao| ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️
+/perfil | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️
+/personagem | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️
+/estatisticas | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️
+/diario | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️
+/npc | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️
+/rolar | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
+/carregar | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️
+/descarregar | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️
+/swap | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️
+/sugerir | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️
+/modo | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️
+/backup_status | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️
+/verificar_arquivos| ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️
+/atualizar_arquivo| ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️
+/ignorar_versao | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️
+/historico_versoes| ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️
+/mestre on/off | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️
+/ajuda_mestre | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️
+/regras | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️
+/item | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️
+/lore | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️
+/mapa | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️
+/ameaca | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️
+/tabela | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️
+/gerar_npc | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️
+/gerar_missao | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️
+/gerar_encontro | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️
+/gerar_tesouro | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️
+/gerar_clima | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️
+/help | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
+✅ = funciona perfeitamente
+⚠️ = testar antes; pode exigir adaptação
+---------------------------------------------------------------------
+📝 NOTAS IMPORTANTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ SEMPRE TESTE antes de campanhas longas em nova plataforma
+├─ CONTEXTO É TUDO — forneça informações completas
+├─ BACKUP É SEU AMIGO — use /finalizar_sessao com frequência
+├─ 01_CORE É O CORAÇÃO — sem ele, o sistema não funciona
+├─ SEPARE AS COISAS — 02_PERFIL é perfil, 03_CAMPANHA é campanha
+├─ CAMPANHA É SEPARADA — nunca misture com a lore
+└─ ESTE ARQUIVO É VIVO — novas plataformas podem ser adicionadas
+---------------------------------------------------------------------
+📚 REFERÊNCIAS DESTE ARQUIVO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ "My LLM coding workflow going into 2026" — Addy Osmani
+├─ "Multi-Agent Multi-LLM Systems: The Future of AI Architecture"
+├─ GURPS Basic Set (#13-14) — princípios de organização
+└─ Cyberpunk RED (#90) — adaptabilidade de sistema
+---------------------------------------------------------------------
+FIM DO ARQUIVO 10_CONFIG_LLM_v1.0.txt

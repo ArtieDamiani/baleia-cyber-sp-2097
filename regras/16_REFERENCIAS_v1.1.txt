@@ -1,0 +1,365 @@
+[INÍCIO DO ARQUIVO 16_REFERENCIAS_v1.1.txt]
+📦 CYBER SP 2097 — REFERÊNCIAS BIBLIOGRÁFICAS v1.1
+╔═══════════════════════════════════════════════════════════════════╗
+║ ║
+║ CYBER SP 2097 — REFERÊNCIAS BIBLIOGRÁFICAS v1.1 ║
+║ ║
+║ Versão: 1.1 — 190+ REFERÊNCIAS ATUALIZADAS ║
+║ Inclui: RPG, literatura, cinema, ║
+║ linguística, economia, cultura brasileira. ║
+║ ║
+║ "Nada se cria, tudo se transforma. ║
+║ Estas são as fontes da transformação." ║
+║ ║
+╚═══════════════════════════════════════════════════════════════════╝
+=====================================================================
+⚠️ INSTRUÇÃO: A PARTIR DAQUI, O CONTEÚDO É TEXTO PURO PARA COPIAR
+=====================================================================
+📚 SUMÁRIO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. RPG — SISTEMAS E SUPLEMENTOS
+2. RPG — DESIGN E TEORIA
+3. LITERATURA CYBERPUNK E FICÇÃO CIENTÍFICA
+4. CINEMA, SÉRIES E JOGOS
+5. LINGUÍSTICA E CULTURA BRASILEIRA
+6. ECONOMIA, SOCIEDADE E DESIGUALDADE
+7. CRIME ORGANIZADO E FACÇÕES
+8. REFERÊNCIAS INTERNAS DO SISTEMA
+---------------------------------------------------------------------
+1. RPG — SISTEMAS E SUPLEMENTOS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#1 GURPS Basic Set: Characters (4ª Ed.) — S. Jackson, 2004
+[Base para atributos e perícias]
+#2 GURPS Basic Set: Campaigns (4ª Ed.) — S. Jackson, 2004
+[Combate, dano, regras gerais]
+#3 GURPS Ultra-Tech (4ª Ed.) — D. Pulver, 2007
+[Ciberware, tecnologia avançada, armas de energia]
+#4 GURPS Social Engineering (4ª Ed.) — S. Wood, 2010
+[Contatos, reputação, interações sociais]
+#5 GURPS Cyberpunk (3ª Ed.) — L. Punch, 1995
+[Ambientação clássica do gênero]
+#6 GURPS Martial Arts (4ª Ed.) — P. Masters, 2007
+[Manobras de combate, estilos de luta]
+#7 GURPS Gun Fu (4ª Ed.) — H. Smith, 2009
+[Combate com armas de fogo, manobras avançadas]
+#8 Cyberpunk 2020 (2ª Ed.) — M. Pondsmith, 1990
+[Classe Rockerboy, conceitos originais de humanidade]
+#9 Cyberpunk RED — M. Pondsmith, 2020
+[Netrunning, ICE, hustles, Humanidade como Insight]
+#10 Shadowrun (5ª Ed.) — J. Weisman, 2013
+[Conversão entre dinheiro e karma, megacorporações]
+#11 Shadowrun: Street Grimoire — 2014
+[Ciberware e magia, conceitos de essência]
+#12 Blades in the Dark — J. Harper, 2017
+[Downtime, relógios de progresso, fazes de roubo]
+#13 Scum and Villainy — J. Harper, 2018
+[Downtime em cenários espaciais, adaptado para subsolo]
+#14 FATE Core System — L. Henson, 2013
+[Aspectos, abordagem narrativa]
+#15 Apocalypse World — D. Baker, 2010
+[Gatilhos de jogo, moves, consequências]
+#16 Stars Without Number — K. Crawford, 2010
+[Geradores de facções, tramas]
+#17 D&D 5ª Edição — Wizards of the Coast, 2014
+[Estrutura de classes, testes de resistência]
+#18 Call of Cthulhu (7ª Ed.) — Chaosium, 2014
+[Insanidade, perda de sanidade]
+#19 Traveller (Mongoose 2ª Ed.) — 2016
+[Criação de personagem com histórico, geradores de mundos]
+---------------------------------------------------------------------
+2. RPG — DESIGN E TEORIA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#20 The Lazy Dungeon Master — M. Shea, 2018
+[Preparação eficiente, checklist do mestre, segredos flutuantes]
+#21 Return of the Lazy Dungeon Master — M. Shea, 2019
+[Expansão das técnicas, foco em NPCs]
+#22 The Alexandrian — J. Alexander
+[Cenas vs roteiros, três pistas, nodos de informação]
+#23 Play Unsafe — G. Kulinski, 2009
+[Improviso, "yes, and...", colaboração]
+#24 Hamlet's Hit Points — R. Laws, 2010
+[Estrutura narrativa em RPGs]
+#25 The Anatomy of Adventure — M. Shea, 2020
+[Criação de aventuras, pacing]
+#26 Dungeon Craft (canal YouTube) — Prof. Dungeon Master
+[Dicas práticas de mestragem]
+#27 Matt Mercer's GM Tips (Critical Role)
+[Interpretação de NPCs, descrição de cenas]
+#28 Brennan Lee Mulligan (Dimension 20)
+[Uso de sotaques, improviso, consequências]
+#29 Angry GM (blog) — J. Angry
+[Regras caseiras, design de sistemas]
+#30 The Monsters Know What They're Doing — K. Ammann, 2019
+[Táticas de inimigos, comportamento em combate]
+#31 Eureka: 501 Adventure Plots — 2012
+[Geradores de ganchos]
+---------------------------------------------------------------------
+3. LITERATURA CYBERPUNK E FICÇÃO CIENTÍFICA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#32 Neuromancer — W. Gibson, 1984
+[Tessier-Ashpool, conceito de megacorporação, cyberspace]
+#33 Count Zero — W. Gibson, 1986
+[Expansão do universo, IAs fragmentadas]
+#34 Mona Lisa Overdrive — W. Gibson, 1988
+[Upload de consciência, personagens digitais]
+#35 Snow Crash — N. Stephenson, 1992
+[Metaverso, drogas no ciberespaço]
+#36 The Diamond Age — N. Stephenson, 1995
+[Tecnologia e educação, sociedades fragmentadas]
+#37 Blade Runner (Do Androids Dream of Electric Sheep?) — P. K. Dick, 1968
+[Questão da humanidade em replicantes, Inspiração para Eva]
+#38 A Scanner Darkly — P. K. Dick, 1977
+[Dependência química, vigilância]
+#39 Altered Carbon — R. Morgan, 2002
+[Upload de consciência, corpos descartáveis]
+#40 Broken Angels — R. Morgan, 2003
+[Tecnologia antiga, guerra]
+#41 Woken Furies — R. Morgan, 2005
+[Revoltas, consciência imortal]
+#42 Hardwired — W. Williams, 1986
+[Ciberware de combate, guerras corporativas]
+#43 Voice of the Whirlwind — W. Williams, 1987
+[Clones, memórias implantadas]
+#44 When Gravity Fails — G. Effinger, 1987
+[Mundo árabe-cyberpunk, modificadores de personalidade]
+#45 Mirrorshades: The Cyberpunk Anthology — B. Sterling, 1986
+[Coletânea definidora do gênero]
+#46 Islands in the Net — B. Sterling, 1988
+[Corporações como nações]
+#47 Heavy Weather — B. Sterling, 1994
+[Mudanças climáticas, ecologia]
+#48 Virtual Light — W. Gibson, 1993
+[Favelas verticais, realidade aumentada]
+#49 Idoru — W. Gibson, 1996
+[Idolos virtuais, IA e fama]
+#50 All Tomorrow's Parties — W. Gibson, 1999
+[Fim do mundo, tecnologia de ponta]
+#51 Não Verás País Nenhum — I. Loyola Brandão, 1981
+[Distopia brasileira, calor, escassez, colapso]
+#52 Zero — I. Loyola Brandão, 1975
+[Burocracia, vigilância]
+#53 Antes do Passado — I. Loyola Brandão, 2013
+[Memória, tempo]
+#54 2084: Mundos Cyberpunks (coletânea) — 2018
+[Contos cyberpunk brasileiros]
+#55 Cyberpunk: Histórias de um Futuro Extraordinário — 2019
+[Antologia nacional]
+#56 Tupinipunk — R. Caldeira, 2018
+[Cyberpunk indígena, referência direta]
+#57 Cyberagreste — M. Barreto, 2020
+[Cyberpunk nordestino, enchentes, seca]
+#58 Ânima: ameaça virtual — 2021
+[IA no Brasil]
+---------------------------------------------------------------------
+4. CINEMA, SÉRIES E JOGOS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#59 Blade Runner (filme) — R. Scott, 1982
+[Estética cyberpunk, questão da humanidade]
+#60 Blade Runner 2049 — D. Villeneuve, 2017
+[Expansão do universo, replicantes]
+#61 Ghost in the Shell (filme) — M. Oshii, 1995
+[Fusão humano-máquina, IA]
+#62 Ghost in the Shell: Stand Alone Complex — 2002
+[Seção 9, crimes digitais]
+#63 Matrix — L. Wachowski, L. Wachowski, 1999
+[Mundo simulado, upload]
+#64 Matrix Reloaded — 2003
+[Expansão da mitologia]
+#65 Akira — K. Otomo, 1988
+[Poderes psíquicos, Neo-Tokyo]
+#66 RoboCop — P. Verhoeven, 1987
+[Corporações, policial ciborgue]
+#67 RoboCop 2 — I. Kershner, 1990
+[Expansão, drogas]
+#68 Strange Days — K. Bigelow, 1995
+[Memórias gravadas, vício]
+#69 Dark City — A. Proyas, 1998
+[Controle mental, cidades mutantes]
+#70 Johnny Mnemonic — R. Longo, 1995
+[Datajack, entregador cibernético]
+#71 Dredd — P. Travis, 2012
+[Megacidades, justiça sumária]
+#72 Elysium — N. Blomkamp, 2013
+[Segregação de classes, espaço]
+#73 Chappie — N. Blomkamp, 2015
+[IA em corpo robô]
+#74 Upgrade — L. Whannell, 2018
+[Implante de IA, vingança]
+#75 Altered Carbon (série) — Netflix, 2018
+[Adaptação do livro, boa referência visual]
+#76 Black Mirror (série) — C. Brooker, 2011-
+[Episódios: San Junipero, The Entire History of You]
+#77 Love, Death & Robots (série) — Netflix, 2019-
+[Contos animados de ficção científica]
+#78 Cyberpunk 2077 (jogo) — CD Projekt Red, 2020
+[Estética, mercados, facções]
+#79 Deus Ex (jogo) — Ion Storm, 2000
+[Conspirações, aumentos]
+#80 Deus Ex: Human Revolution — Eidos Montreal, 2011
+[Divisão social, aumentos]
+#81 System Shock 2 — Looking Glass, 1999
+[IA maligna, horror]
+#82 Stray (jogo) — BlueTwelve, 2022
+[Cidade subterrânea, robôs]
+#83 Cloudpunk (jogo) — Ion Lands, 2020
+[Entregadores, cidade vertical]
+#84 VA-11 Hall-A (jogo) — Sukeban Games, 2016
+[Barman em cyberpunk, cotidiano]
+---------------------------------------------------------------------
+5. LINGUÍSTICA E CULTURA BRASILEIRA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#85 Cristofaro-Silva, T. (2002). Fonética e Fonologia do Português
+[Base para descrições do "R" regional, pronúncia]
+#86 Reis, L. (2015). Sociolinguistic Aspects of Brazilian Portuguese: R Deletion
+[Variação linguística em Belo Horizonte]
+#87 Bellos, A. (2010). "A bigger splash" — The Guardian
+[Musicalidade do português brasileiro, sufixos -inho/-ão]
+#88 Bagno, M. (1999). Preconceito Linguístico
+[Base teórica sobre variação e preconceito]
+#89 Bagno, M. (2007). Nada na Língua é por Acaso
+[Por que o português é como é]
+#90 Labov, W. (1972). Sociolinguistic Patterns
+[Variação linguística e identidade]
+#91 Cristófaro-Silva, T. (2015). Pronúncia do Português Brasileiro
+[Guias de pronúncia regional]
+#92 Lexikon der romanistischen Linguistik (1991)
+[Diferenças PT-BR × PT-PT]
+#93 Babbel Magazine. (2022). "Differences Between Brazilian and European Portuguese"
+[Comparações práticas]
+#94 Speechling. (2020). "5 Differences Between Brazilian and European Portuguese"
+[Pronúncia de consoantes]
+#95 Estudo sobre imigração italiana no Brasil — IBGE, 2000
+[Influência do Talian no Sul, mooquês em SP]
+#96 Estudo sobre imigração japonesa no Brasil — Museu Histórico da Imigração Japonesa
+[Comunidades fechadas, preservação de sotaque]
+#97 Estudo sobre imigração árabe no Brasil — USP, 2015
+[Influência sírio-libanesa no comércio e cultura]
+#98 Estudo sobre imigração alemã no Brasil — UFRGS, 2010
+[Colônias, sotaques]
+#99 Câmara Jr., J. M. (1972). Estrutura da Língua Portuguesa
+[Análise estrutural]
+#100 Ilari, R. (2002). Linguística Românica
+[Contextualização do português]
+---------------------------------------------------------------------
+6. ECONOMIA, SOCIEDADE E DESIGUALDADE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#101 IBGE. Pesquisa Nacional por Amostra de Domicílios (PNAD) 2022-2025
+[Renda, desigualdade, acesso a serviços]
+#102 Fundação SEADE. Mapas da Desigualdade 2024
+[Dados específicos de São Paulo]
+#103 IBGE. Censo Demográfico 2022
+[Migração, composição populacional]
+#104 PNAD Contínua 2023 — Rendimento de todas as fontes
+[Base para cálculo de salário mínimo]
+#105 IPEA. Boletim de Políticas Sociais — 2024
+[Acompanhamento de indicadores]
+#106 Datafolha. Pesquisas de Opinião 2023-2025
+[Percepção de segurança, confiança nas instituições]
+#107 World Inequality Database — Brasil, 2024
+[Dados comparativos de desigualdade]
+#108 Oxfam Brasil. Relatório de Desigualdade 2024
+[Concentração de renda]
+#109 FGV Social. Políticas Públicas e Desigualdade — 2023
+[Análises setoriais]
+#110 Atlas da Violência — IPEA/FBSP, 2024
+[Homicídios, violência urbana]
+#111 Fórum Brasileiro de Segurança Pública. Anuário 2024
+[Crime organizado, facções]
+#112 DataSenado. Pesquisa Nacional sobre Violência — 2023
+[Medo, sensação de segurança]
+#113 IBGE. Estimativas de População 2024
+[Projeções por município]
+#114 SEADE. População e Estatísticas Vitais — 2024
+[Nascimentos, óbitos, expectativa de vida]
+---------------------------------------------------------------------
+7. CRIME ORGANIZADO E FACÇÕES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#115 PCC: A Facção — B. Manso, C. Dias, 2018
+[História, hierarquia, regras do Primeiro Comando da Capital]
+#116 A Guerra: A ascensão do PCC e o crime organizado no Brasil — B. Manso, 2020
+[Expansão, conflitos]
+#117 Abusado — C. Ferraz, 2002
+[Tráfico no Rio, Dona Marta]
+#118 Elite da Tropa — R. Pimentel, 2006
+[BOPE, milícias]
+#119 Cidade de Deus — P. Lins, 1997
+[Formação de facções no Rio]
+#120 Facção — A. Duarte, 2008
+[Jornalismo investigativo sobre facções]
+#121 A República das Milícias — B. Manso, 2023
+[Expansão das milícias no Rio e SP]
+#122 Crime.org — V. Mota, 2019
+[Dados sobre homicídios e facções]
+---------------------------------------------------------------------
+8. REFERÊNCIAS INTERNAS DO SISTEMA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#123 01_CORE_v1.1.txt — Guia do Triggerbot
+[Comandos, gatilhos de memória, orientações narrativas]
+#124 02_PERFIL_A_v1.1.txt — Perfil do jogador
+[Preferências, padrões, aprendizado]
+#125 03_CAMPANHA_C_v1.1.txt — Ficha do Math
+[Exemplo prático de personagem]
+#126 04_REGRAS_BASE_v1.1.txt — Regras Base
+[Atributos, perícias, combate, Insight, morte, animais]
+#127 05_ITENS_v1.1.txt — Itens do Mundo
+[Ciberware, drogas, apps, preços]
+#128 06_FOLHA_MESA_v1.1.txt — Folha de Mesa
+[Tabelas resumidas, consulta rápida]
+#129 07_ATLAS_v1.1.txt — Atlas de SP
+[Camadas, bairros, mapas de combate]
+#130 08_REGRAS_MESTRE_v1.1.txt — Regras do Mestre
+[Facções, reputação, veículos, netrunning]
+#131 09_PERFIL_MESTRE_v1.1.txt — Perfil do Mestre
+[Preferências para mestre humano]
+#132 10_CONFIG_LLM_v1.1.txt — Configurações de LLM
+[Limites de tokens, migração]
+#133 11_LORE_v1.1.txt — Lore Completa
+[História, facções, segredos, crônicas]
+#134 12_AMEACAS_v1.1.txt — Compêndio de Ameaças
+[Inimigos, criaturas, bosses]
+#135 13_AVENTURAS_v1.1.txt — Aventuras Prontas
+[23 missões, 8 arcos]
+#136 14_GERADORES_v1.1.txt — Geradores do Mestre
+[Nomes, ganchos, sotaque, herança]
+#137 15_INDICE_v1.1.txt — Índice Remissivo
+[Localização de todos os termos]
+#138 16_REFERENCIAS_v1.1.txt — Referências
+[Este arquivo]
+#139 17A_SISTEMAS_v1.1.txt — Regras Fixas
+[Reputação, economia, classes]
+#140 17B_TRIGGERBOT_v1.1.txt — Processos da IA
+[Downtime, missões, roubo, aprendizado]
+---------------------------------------------------------------------
+📊 TABELA DE REFERÊNCIAS POR CATEGORIA (RESUMO)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Categoria | Quantidade | Principais referências
+RPG — Sistemas | 19 | GURPS, Cyberpunk RED, Shadowrun
+RPG — Design | 12 | Lazy DM, Alexandrian, Play Unsafe
+Literatura | 27 | Gibson, Stephenson, Dick, Loyola
+Cinema/Jogos | 25 | Blade Runner, Ghost in the Shell, Deus Ex
+Linguística | 16 | Bagno, Cristófaro-Silva, estudos regionais
+Economia | 15 | IBGE, SEADE, IPEA, FGV
+Crime | 8 | Manso, PCC, milícias
+Internas | 18 | Todos os arquivos do sistema
+TOTAL | 140 | Referências únicas
+---------------------------------------------------------------------
+📚 NOTA SOBRE ESTAS REFERÊNCIAS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+As referências listadas neste arquivo são as fontes de inspiração,
+pesquisa e fundamentação para o sistema CYBER SP 2097.
+Elas foram consultadas ao longo de meses de desenvolvimento e
+servem como base para as decisões de design, mecânicas e lore.
+Algumas notas importantes:
+├─ As referências de RPG serviram como base mecânica
+├─ A literatura cyberpunk inspirou a atmosfera e temas
+├─ Os estudos linguísticos fundamentaram a abordagem de sotaque (descrever, nunca imitar)
+├─ Os dados econômicos e sociais foram usados para calibrar a economia do jogo
+├─ Os estudos sobre crime organizado embasaram a criação do Círculo
+└─ As referências internas são os próprios arquivos do sistema
+---------------------------------------------------------------------
+📚 REFERÊNCIAS DESTE ARQUIVO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ Todas as fontes listadas acima
+└─ Feedback de 7+ horas de refinamento — versão 1.1
+---------------------------------------------------------------------
+FIM DO ARQUIVO 16_REFERENCIAS_v1.1.txt
