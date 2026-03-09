@@ -1,0 +1,648 @@
+[INÍCIO DO ARQUIVO 03_CAMPANHA_Generico_v1.1.txt]
+📦 CYBER SP 2097 — CAMPANHA ATIVA v1.1 (TEMPLATE)
+╔═══════════════════════════════════════════════════════════════════╗
+║ ║
+║ CYBER SP 2097 — CAMPANHA ATIVA v1.1 ║
+║ ║
+║ Versão: 1.1 — TEMPLATE PARA CRIAÇÃO DE PERSONAGENS ║
+║ Inclui: atributos até 24, manutenção, fluidos, ║
+║ obsolescência, novas drogas, facções atualizadas,║
+║ e CAMPOS DE FAVOR nos contatos. ║
+║ ║
+║ "Preencha os campos [entre colchetes] com os dados do seu ║
+║ personagem. Este arquivo é a base para sua campanha." ║
+║ ║
+╚═══════════════════════════════════════════════════════════════════╝
+=====================================================================
+⚠️ INSTRUÇÃO: A PARTIR DAQUI, O CONTEÚDO É TEXTO PURO PARA COPIAR
+=====================================================================
+⚡ RESUMO DE 30 SEGUNDOS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ [Nome] está em [local]
+├─ [O que aconteceu até agora — 2-3 linhas]
+└─ Última ação: [o que o jogador fez]
+---------------------------------------------------------------------
+📊 METADADOS DA CAMPANHA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ Personagem: [nome]
+├─ Perfil associado: 02_PERFIL_[X]_v1.0.txt
+├─ Última sessão: [DATA]
+├─ Sessões realizadas: [0]
+├─ PP acumulado: [0]
+├─ PP próximo nível: 10
+├─ Tempo total de jogo: [0]
+├─ Interações: [0]
+├─ Padrões atualizados nesta sessão: [0]
+└─ Status: ✅ Ativa
+---------------------------------------------------------------------
+📋 DIÁRIO DE CAMPANHA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+(O Triggerbot preencherá automaticamente ao final de cada sessão)
+📅 [DATA] — SESSÃO [N]
+├─ 🔍 Descobertas:
+│ ├─ ...
+│ └─ ...
+├─ ⚙️ Ações:
+│ ├─ ...
+│ └─ ...
+├─ ⚔️ Combates: [N]
+├─ 💰 Ganhos: [R$]
+├─ 📈 PP: [+N]
+└─ 📝 Notas: [observações manuais]
+---------------------------------------------------------------------
+👤 JOGADOR 1 — [NOME DO PERSONAGEM]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📋 IDENTIDADE
+├─ NOME COMPLETO: [__________________]
+├─ APELIDO: [__________________]
+├─ IDADE: [__] anos
+├─ CLASSE: [Solo / Netrunner / Fixer / Tech / Rockerboy]
+├─ ORIGEM: [__________________] (Camada _)
+├─ RESIDÊNCIA: [__________________]
+├─ MORA COM: [__________________]
+├─ ALTURA: [__]m · FÍSICO: [__] · COR: [__]
+├─ CABELO: [__________________]
+├─ VISUAL: [__________________]
+└─ SEMPRE COM: [__________________]
+📊 ATRIBUTOS E STATUS
+├─ HT [__] | FO [__] | DE [__] | IN [__] (atributos podem chegar até 24 com ciberware)
+├─ HP [__]/[__] | FP [__]/[__] | INSIGHT [__]/[__]
+├─ 💵 R$[__] | ₿ [__] | Nível [_] ([__]/10 PP)
+├─ 🛠️ MANUTENÇÃO MENSAL (ciberware): R$[__]
+├─ 💉 FLUIDOS NECESSÁRIOS: [__________]
+├─ 📅 PRÓXIMA MANUTENÇÃO: [data]
+└─ ⏳ OBSOLESCÊNCIA PROGRAMADA: [ ] Sim (data: [____])
+📌 BÔNUS DE ATRIBUTO PARA TESTES:
+└─ Bônus = (ATRIBUTO - 10) / 2 (arredondado para baixo)
+Tabela de referência (incluindo acima de 18):
+├─ 8-9 → -1
+├─ 10-11→ 0
+├─ 12-13→ +1
+├─ 14-15→ +2
+├─ 16-17→ +3
+├─ 18 → +4 (limite humano)
+├─ 19 → +4
+├─ 20 → +5
+├─ 21 → +5
+├─ 22 → +6
+├─ 23 → +6
+└─ 24 → +7 (limite cibernético)
+📈 PERÍCIAS PRINCIPAIS
+├─ [Perícia] +[__] · [Perícia] +[__] · [Perícia] +[__]
+├─ [Perícia] +[__] · [Perícia] +[__] · [Perícia] +[__]
+└─ [Perícia] +[__] · [Perícia] +[__] · [Perícia] +[__]
+⭐ VANTAGENS
+├─ [Vantagem 1 — descrição]
+├─ [Vantagem 2 — descrição]
+└─ [Vantagem 3 — descrição]
+⚠️ DESVANTAGENS
+├─ [Desvantagem 1 — descrição]
+├─ [Desvantagem 2 — descrição]
+├─ [Desvantagem 3 — descrição]
+└─ VÍCIOS (ciclos em horas):
+├─ Tipo: [🌿 Maconha / ⚪ Cocaína / 🪨 Crack / 🟫 Oxi / 💊 Benzos / 🧪 Inalantes / 🚬 Cigarro / 🍺 Álcool / ☕ Cafeína / 🔌 Cibervício]
+│ ├─ Ciclo: [__]h · Último: [__]:[__] · Próximo: [__]:[__]
+│ ├─ Quantidade restante: [__]
+│ └─ Nível: [Casual / Tolerância / Dependência]
+└─ [outros]
+⚡ EFEITOS ATIVOS
+└─ [Café, drogas, bônus temporários] — duração [__]
+---------------------------------------------------------------------
+🎭 CLASSES E HABILIDADES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CLASSE: [Solo / Netrunner / Fixer / Tech / Rockerboy]
+Habilidade base: [descrição]
+Bônus de classe: [descrição]
+📌 Todas as perícias usam: 1d20 + BÔNUS do atributo + nível da perícia
+HABILIDADES POR NÍVEL:
+├─ Nível 1: [__________________]
+├─ Nível 2: [__________________]
+├─ Nível 3: [__________________]
+├─ Nível 4: [__________________]
+└─ Nível 5: [__________________]
+COMANDOS DA CLASSE:
+├─ [comando 1]
+├─ [comando 2]
+└─ [comando 3]
+---------------------------------------------------------------------
+🧠 INSIGHT NARRATIVO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Nível atual: [__]/[__]
+Efeitos narrativos atuais: [__________________]
+GATILHOS DE PERDA DE INSIGHT (últimos):
+├─ [data/hora] — [motivo] — [perda]
+└─ [data/hora] — [motivo] — [perda]
+FORMAS DE RECUPERAÇÃO:
+├─ Dormir em casa (com animal): +1
+├─ Sessão de terapia: +1d3 (R$ 100)
+├─ Missão cumprida: +1d6
+├─ Ato de bondade: +1
+├─ Ouvir música: +1 (R$ 5)
+└─ Usar droga (baseado): +1d3 (risco 1-3)
+CONEXÃO COM EVA: [Sim / Não / Potencial]
+├─ Último encontro: [data/hora]
+├─ Chance de encontro (se Insight baixo): [__]%
+└─ Observações: [__________________]
+---------------------------------------------------------------------
+⏰ SISTEMA DE SOBREVIVÊNCIA — [NOME]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📅 DATA: [__]/[__] | ⏰ HORA: [__]:[__]
+🍚 FOME
+├─ Café: [✅ / ⏳] [__]:[__] (alerta [__]:[__])
+├─ Almoço: [✅ / ⏳] [__]:[__] (alerta [__]:[__])
+└─ Janta: [✅ / ⏳] [__]:[__] (alerta [__]:[__])
+💧 SEDE
+└─ Última bebida: [__]:[__] · Próximo alerta: [__]:[__]
+😴 SONO
+└─ Acordou: [__]:[__] · Limite: [__]:[__] · Alerta: [__]:[__]
+🚬 VÍCIOS
+├─ [Tipo]: Último: [__]:[__] · Ciclo: [__]h · Próximo: [__]:[__]
+└─ [Tipo]: Último: [__]:[__] · Ciclo: [__]h · Próximo: [__]:[__]
+---------------------------------------------------------------------
+📱 CELULAR E APPS — [NOME]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📱 CELULAR
+├─ Modelo: [Gambiarra / Recuperado / Original / Premium / Lendário]
+├─ Bateria: [__]% · Autonomia: [__]h
+├─ Modo seguro: [🕵️ ATIVO / INATIVO]
+└─ Alerta <15%: [__]
+📲 APPS INSTALADOS (comuns):
+├─ 🚚 EntregueJá® · 🗺️ Navego® · 💬 Ping® · 📝 Notas Rápidas® · 📸 Lens®
+├─ 🐦 Echo® · 🌐 Node® · 🤖 Buscador® · 🎥 Stream® · 💜 Roxinho®
+├─ 🛒 ShopFast® · 🍔 BocaLivre® · 🏛️ GovBR® · 🚏 SPTrans®
+└─ [outros]
+📲 APPS INSTALADOS (ilegais/especiais):
+├─ 📦 Mercado Negro® · 👾 Invasor® · 📡 Rastreador® · 🔴 CredCírculo®
+└─ [outros]
+📝 NOTAS RÁPIDAS®:
+├─ 💰 Dívidas: [__________________]
+├─ 🤝 Favores: [__________________]
+├─ 📌 Lembretes: [__________________]
+└─ 📞 Contatos: [__________________]
+📱 STATUS DO CELULAR:
+├─ 📱 [__]% · 🕵️ · 👻 · 💬 [N] · 👁️‍🗨️ [N]
+└─ Memória disponível: [__]/[__] apps
+---------------------------------------------------------------------
+📦 INVENTÁRIO — [NOME]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+👑 EXCLUSIVOS (PESSOAIS — não estão à venda):
+├─ [Item 1] (⭐⭐⭐⭐⭐) — [descrição]
+├─ [Item 2] (⭐⭐⭐⭐) — [descrição]
+├─ [Item 3] (⭐⭐⭐) — [descrição]
+└─ [Item 4] (⭐⭐) — [descrição]
+👖 BOLSO (acesso IMEDIATO — ação livre):
+├─ 📱 Celular [__]%
+├─ 💰 R$[__] · ₿[__]
+├─ [Item] [qtd] (⭐⭐) — [descrição]
+├─ [Item] [qtd] (⭐⭐) — [descrição]
+└─ [Item] [qtd] (⭐) — [descrição]
+🎒 MOCHILA (precisa abrir — ação de movimento):
+├─ [Item] [qtd] (⭐⭐⭐) — [descrição]
+├─ [Item] [qtd] (⭐⭐) — [descrição]
+├─ [Item] [qtd] (⭐) — [descrição]
+├─ [Item] [qtd] — [descrição]
+└─ +[X] itens (/inv)
+🏠 EM CASA (guardado):
+├─ [Item 1] — [descrição]
+├─ [Item 2] — [descrição]
+├─ [Item 3] — [descrição]
+└─ [Item 4] — [descrição]
+---------------------------------------------------------------------
+🦾 CIBERWARE (instalado ou guardado)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[Liste cada implante com os seguintes campos:]
+├─ Nome: [__________________]
+├─ Nível: [__] (16 a 24)
+├─ Instalado? [Sim / Não]
+├─ Bônus: [+__] no atributo [FO/DE/HT/IN]
+├─ Custo de Insight: -[__]
+├─ Manutenção mensal: R$[__]
+├─ Fluido necessário: [SynthOil® / SynthOil® Avançado / SynthBlood® / Fluido Neural® / —]
+├─ Próxima manutenção: [data]
+├─ Obsolescência programada? [ ] Sim (data: [____])
+└─ Observações: [__________________]
+---------------------------------------------------------------------
+🎭 REPUTAÇÃO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📊 POR FACÇÃO (nível 0 a 5):
+├─ Círculo: Nível [_] ([Neutro/Conhecido/Cliente/Confiável/Aliado/Lenda])
+├─ Omni Corp: Nível [_] ([__________________])
+├─ Verde Vivo: Nível [_] ([__________________])
+├─ Solaris: Nível [_] ([__________________])
+├─ Mão de Deus: Nível [_] ([__________________])
+└─ Surfistas: Nível [_] ([__________________])
+📊 FAMA GERAL: [__]/[-10 a +10] — [__________________]
+📊 REPUTAÇÃO PROFISSIONAL: Nível [_] ([__________________])
+---------------------------------------------------------------------
+👥 CONTATOS E REDE — [NOME]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📊 RESUMO:
+├─ Total de contatos: [__]
+├─ Confiáveis (3+): [__]
+├─ Favores a receber (NPCs devem para você): [__]
+└─ Favores a pagar (você deve para NPCs): [__]
+👤 [NOME DO CONTATO]
+├─ Nível: [_] (1-5)
+├─ Profissão: [__________________]
+├─ Local: [__________________]
+├─ Relação: [__________________]
+├─ O que oferece: [__________________]
+├─ Desconto: [__]%
+├─ 🎁 FAVORES A RECEBER (este NPC deve para você):
+│ └─ [Nível __] · Motivo: [__________________]
+├─ 🎁 FAVORES A PAGAR (você deve para este NPC):
+│ └─ [Nível __] · Motivo: [__________________]
+└─ Último contato: [data/hora]
+👤 [NOME DO CONTATO]
+├─ Nível: [_] (1-5)
+├─ Profissão: [__________________]
+├─ Local: [__________________]
+├─ Relação: [__________________]
+├─ O que oferece: [__________________]
+├─ Desconto: [__]%
+├─ 🎁 FAVORES A RECEBER (este NPC deve para você):
+│ └─ [Nível __] · Motivo: [__________________]
+├─ 🎁 FAVORES A PAGAR (você deve para este NPC):
+│ └─ [Nível __] · Motivo: [__________________]
+└─ Último contato: [data/hora]
+... (repetir para cada contato)
+---------------------------------------------------------------------
+🏠 MORADIA E CUSTOS — [NOME]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📍 LOCAL: [Bairro] (Camada _)
+🏡 TIPO: [__________________]
+👤 OCUPANTES: [__________________]
+💰 CUSTOS MENSAIS:
+┌────────────────────┬───────┬──────────┬────────────┐
+│ Item │ Valor │ Status │ Vencimento │
+├────────────────────┼───────┼──────────┼────────────┤
+│ Aluguel │ R$[__]│ [✅/⏳] │ Dia [__] │
+│ Água │ R$[__]│ [✅/⏳] │ Dia [__] │
+│ Luz │ R$[__]│ [✅/⏳] │ Dia [__] │
+│ Manutenção │ R$[__]│ [✅/⏳] │ Dia [__] │
+├────────────────────┼───────┼──────────┼────────────┤
+│ TOTAL │ R$[__]│ │ │
+└────────────────────┴───────┴──────────┴────────────┘
+🛠️ MELHORIAS POSSÍVEIS:
+├─ [Melhoria 1]: R$[__] — [efeito]
+├─ [Melhoria 2]: R$[__] — [efeito]
+└─ [Melhoria 3]: R$[__] — [efeito]
+---------------------------------------------------------------------
+🚗 TRANSPORTE E LOCOMOÇÃO — [NOME]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MEIO PRINCIPAL: [__________________] (⭐⭐⭐)
+├─ Velocidade: [__]
+├─ Manobra: [+__]
+├─ Desgaste: [__]% (🟢/🟡/🔴)
+├─ Última manutenção: [data]
+├─ Próxima manutenção: em [__] dias
+└─ Custo manutenção: R$[__]
+🗺️ ROTAS CONHECIDAS:
+┌────────────────┬───────────┬─────────┬─────────┐
+│ Origem → Destino│ Distância │ Tempo │ Custo │
+├────────────────┼───────────┼─────────┼─────────┤
+│ [__] → [__] │ [__] km │ [__]min │ R$[__] │
+│ [__] → [__] │ [__] km │ [__]min │ R$[__] │
+└────────────────┴───────────┴─────────┴─────────┘
+---------------------------------------------------------------------
+🏥 SAÚDE E FERIMENTOS — [NOME]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+❤️ HP: [__]/[__] — Nível: [🟢/🟡/🔴]
+├─ [🟢 100-67%] Sem penalidades
+├─ [🟡 66-34%] -1 testes físicos
+└─ [🔴 33-1%] -2 todos testes
+💊 REMÉDIOS DISPONÍVEIS:
+┌────────────────┬─────────────┬───────┬────────────┐
+│ Remédio │ Efeito │ Preço │ Quantidade │
+├────────────────┼─────────────┼───────┼────────────┤
+│ [________] │ [________] │ R$[__]│ [__] │
+│ [________] │ [________] │ R$[__]│ [__] │
+└────────────────┴─────────────┴───────┴────────────┘
+🩹 TRATAMENTOS POSSÍVEIS:
+├─ Descanso em casa: [__] dia, [__] HP
+├─ Primeiros socorros (kit): CD [__], [__]min, R$[__], [__] HP
+├─ Clínica local: CD [__], [__]h, R$[__], [__] HP
+├─ Hospital (C3): CD [__], [__]h, R$[__], [__] HP
+└─ NanoCura®: imediato, R$[__], [__] HP
+---------------------------------------------------------------------
+⚔️ COMBATE E TÁTICAS — [NOME]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📊 POSIÇÃO ATUAL (se em combate):
+├─ Coberturas disponíveis: [__________________]
+├─ Posição elevada: [Sim/Não]
+├─ Objetos utilizáveis: [__________________]
+└─ Rotas de fuga: [__________________]
+🎯 OPÇÕES TÁTICAS:
+├─ Usar cobertura: +[__] defesa
+├─ Posição elevada: +2 acerto
+├─ Derrubar objetos: criar barricada
+├─ Chutar/arremessar: 1d[__] dano
+└─ Revirar lixo: Percepção CD [__] — arma improvisada
+🤝 AÇÕES COMBINADAS (com aliados):
+├─ Ataque em dupla: +2 acerto ambos
+├─ Proteger aliado: absorve metade dano (1 PF)
+└─ Resgatar aliado: ação de movimento
+💪 MANOBRAS DA CLASSE:
+├─ [Manobra 1]: [descrição]
+├─ [Manobra 2]: [descrição]
+└─ [Manobra 3]: [descrição]
+---------------------------------------------------------------------
+📈 PROGRESSÃO (PP) — [NOME]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📊 STATUS DE PROGRESSÃO:
+┌────────┬───────────┬─────────┬───────────┐
+│ Nível │ Título │ PP atual│ PP próximo│
+├────────┼───────────┼─────────┼───────────┤
+│ [__] │ [________]│ [__] │ [__] │
+└────────┴───────────┴─────────┴───────────┘
+🎯 PRÓXIMOS PASSOS PARA SUBIR DE NÍVEL:
+├─ [Missão/ação] +[__] PP — [status]
+├─ [Missão/ação] +[__] PP — [status]
+└─ [Missão/ação] +[__] PP — [status]
+---------------------------------------------------------------------
+🌦️ REGISTRO CLIMÁTICO — [NOME]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📅 DATA: [__]/[__]
+📍 LOCAL: [__________________]
+┌─────────┬─────────────────┬──────────────┬─────────────────┐
+│ Horário │ Clima │ Temperatura │ Evento │
+├─────────┼─────────────────┼──────────────┼─────────────────┤
+│ [__] │ [________] │ [__]°C │ [________] │
+│ [__] │ [________] │ [__]°C │ [________] │
+└─────────┴─────────────────┴──────────────┴─────────────────┘
+📌 EFEITOS ATIVOS:
+└─ [__________________]
+⚠️ ALERTAS CLIMÁTICOS:
+└─ ⚠️ [EVENTO] às [__]:[__]
+---------------------------------------------------------------------
+🔋 BATERIA E RECARGA — [NOME]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📱 CELULAR:
+├─ Bateria: [__]%
+├─ Autonomia: ~[__]h (uso moderado) / ~[__]h (uso intenso)
+└─ Alerta: ⚠️ [CELULAR 1h] quando <15%
+🔋 POWER BANK:
+├─ Tipo: [Pequeno/Médio/Grande/Turbo]
+├─ Cargas: [__]/[__]
+├─ Tempo por carga: [__]min
+└─ Alerta: ⚠️ [POWER BANK ÚLTIMA] quando 1 carga
+🔦 LANTERNA:
+├─ Autonomia: [__]h
+├─ Qualidade: [⭐⭐⭐⭐⭐/⭐⭐⭐⭐/⭐⭐⭐/⭐⭐/⭐]
+└─ Alerta: ⚠️ [LANTERNA FRACA] quando <30min
+---------------------------------------------------------------------
+🎯 MISSÕES E GANCHOS ATIVOS — [NOME]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔴 PRINCIPAL:
+├─ 🟥 [MISSÃO 1]
+│ ├─ status: [andamento / sucesso / falha / ignorada]
+│ ├─ prazo: [data/hora]
+│ ├─ origem: [como foi descoberta]
+│ └─ consequências:
+│ ├─ sucesso: [NPC vira aliado / recompensa]
+│ ├─ falha: [PROBLEMA: o que acontece]
+│ └─ ignorar: [AMEAÇA: piora com tempo]
+└─ 🟥 [MISSÃO 2]
+├─ ...
+🟡 SECUNDÁRIA:
+├─ 🟨 [MISSÃO 1]
+│ ├─ status: [andamento / sucesso / falha / ignorada]
+│ ├─ prazo: [data/hora]
+│ └─ origem: [como foi descoberta]
+└─ ...
+🟢 FAVORES/DÍVIDAS:
+├─ 🟢 [FAVOR/DÍVIDA 1] — vencimento [data]
+│ ├─ status: [pendente / resolvido]
+│ └─ consequências: [__________________]
+└─ 🟢 [FAVOR/DÍVIDA 2] — vencimento [data]
+⚪ GANCHOS:
+├─ ⚪ [GANCHO 1] — [descrição]
+├─ ⚪ [GANCHO 2] — [descrição]
+└─ ⚪ [GANCHO 3] — [descrição]
+---------------------------------------------------------------------
+👤 NPCS DA CAMPANHA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+👤 [NOME DO NPC] — [Relação]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📋 IDENTIFICAÇÃO:
+├─ Profissão: [__________________]
+├─ ID do estabelecimento: [__________________] (07_ATLAS)
+├─ Local atual: [__________________]
+├─ Relação com o personagem: [aliado / contato / inimigo / neutro]
+├─ Primeira aparição: [data/sessão]
+└─ Última aparição: [data/sessão]
+📖 PERFIL COMPLETO (14_GERADORES 2.7):
+├─ Papel no local: [dono idoso / filho do dono / funcionário / gerente / segurança / família]
+├─ Personalidade: [amigável / desconfiado / hostil / medroso / arrogante / cansado]
+├─ Origem/Sotaque: [paulistano / nordestino / sulista / carioca / mineiro / estrangeiro]
+├─ Característica visual: [cicatriz / tatuagem / ciberware / cabelo / acessório / postura]
+├─ Maneirismo: [coça cabeça / evita contato / fala sozinho / mexe em algo / ri sem motivo / para]
+└─ Segredo: [deve dinheiro / já matou / é informante / parente doente / esconde algo / nenhum]
+📊 FICHA TÉCNICA:
+├─ HP: [__]/[__] · FP: [__]/[__] · INS: [__]/[__]
+├─ Perícias principais: [__________________]
+├─ Arma/Equipamento: [__________________]
+└─ Nível de ameaça: [baixo / médio / alto / boss]
+🎭 PERSONALIDADE:
+├─ Atitude padrão: [amigável / desconfiado / hostil / neutro]
+├─ Motivação: [__________________]
+├─ Medo: [__________________]
+└─ Fala típica: ["__________________"]
+🧠 MEMÓRIA DE INTERAÇÕES:
+├─ [timestamp] [ação] → [reação / estado resultante]
+├─ [timestamp] [ação] → [reação / estado resultante]
+└─ ...
+🔗 RELAÇÕES:
+├─ [NPC/PJ]: [aliado / inimigo / neutro] — [observações]
+└─ ...
+🎁 FAVORES:
+├─ 🎁 FAVORES A RECEBER (este NPC deve para o personagem):
+│ └─ [Nível __] · Motivo: [__________________] · [ ] já cobrado?
+├─ 🎁 FAVORES A PAGAR (o personagem deve para este NPC):
+│ └─ [Nível __] · Motivo: [__________________] · [ ] já cobrado?
+└─ ...
+⚡ GATILHOS COMPORTAMENTAIS:
+├─ Se [situação]: [reação]
+├─ Se [situação]: [reação]
+└─ Se [situação]: [reação]
+📅 PRÓXIMOS PASSOS:
+├─ Curto prazo: [__________________]
+├─ Médio prazo: [__________________]
+└─ Longo prazo: [__________________]
+📝 NOTAS DO MESTRE:
+├─ [__________________]
+└─ [__________________]
+👤 [PRÓXIMO NPC]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+...
+---------------------------------------------------------------------
+👤 PERSONAGENS JOGADOS POR DEEPSEEK (OPCIONAL)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+👤 [NOME] — [CLASSE]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📋 IDENTIFICAÇÃO:
+├─ Classe: [__________________]
+├─ Ocupa: [ID do estabelecimento]
+├─ Primeira aparição: [data/sessão]
+└─ Última aparição: [data/sessão]
+📊 FICHA TÉCNICA:
+├─ HP: [__]/[__] · FP: [__]/[__] · INS: [__]/[__]
+├─ Perícias principais: [__________________]
+├─ Programas/Equipamentos especiais: [__________________]
+└─ Nível de ameaça: [baixo / médio / alto / boss]
+📖 HISTÓRIA (conhecida):
+├─ [__________________]
+├─ [__________________]
+└─ [__________________]
+🎭 PERSONALIDADE:
+├─ Atitude padrão: [__________________]
+├─ Motivação: [__________________]
+├─ Medo: [__________________]
+└─ Fala típica: ["__________________"]
+🧠 MEMÓRIA DE INTERAÇÕES:
+├─ [timestamp] [ação] → [reação]
+└─ ...
+🔗 RELAÇÕES:
+├─ [NPC/PJ]: [aliado / inimigo / neutro] — [observações]
+└─ ...
+🤫 SEGREDOS (não contou):
+├─ [__________________]
+├─ [__________________]
+└─ [__________________]
+⚡ GATILHOS COMPORTAMENTAIS:
+├─ Se [situação]: [reação]
+└─ ...
+📅 PRÓXIMOS PASSOS:
+├─ Curto prazo: [__________________]
+├─ Médio prazo: [__________________]
+└─ Longo prazo: [__________________]
+📝 NOTAS DO MESTRE:
+├─ [__________________]
+└─ [__________________]
+---------------------------------------------------------------------
+🤫 SEGREDOS E TRAMAS (SÓ MESTRE)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔥 URGENTE (próximos minutos de jogo):
+├─ 1. [__________________]
+├─ 2. [__________________]
+└─ 3. [__________________]
+⏳ MÉDIO PRAZO (próximas 1-3 sessões):
+├─ 1. [__________________]
+├─ 2. [__________________]
+└─ 3. [__________________]
+📅 LONGO PRAZO (arcos futuros):
+├─ 1. [__________________]
+├─ 2. [__________________]
+└─ 3. [__________________]
+🤫 SEGREDOS ATIVOS (só mestre sabe):
+├─ 1. SOBRE [PERSONAGEM/NPC]:
+│ └─ [__________________]
+├─ 2. SOBRE [PERSONAGEM/NPC]:
+│ └─ [__________________]
+└─ 3. SOBRE [PERSONAGEM/NPC]:
+└─ [__________________]
+---------------------------------------------------------------------
+⏰ ALERTAS PERSONALIZADOS — [NOME]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔴 URGENTES (<1h):
+├─ [1] [__________________] → [__]:[__]
+└─ [2] [__________________] → [__]:[__]
+🟡 PRÓXIMOS (<24h):
+├─ [1] [__________________] → [__]:[__] (faltam [__]h)
+├─ [2] [__________________] → [__]:[__] (faltam [__]h)
+└─ [3] [__________________] → [__]:[__] (faltam [__]h)
+🟢 INFORMATIVOS (>24h):
+├─ [1] [__________________] → [data]
+└─ [2] [__________________] → [data]
+---------------------------------------------------------------------
+⭐ FAVORITOS — [NOME]
+⚔️ COMBATE:
+├─ 📌 [Título] → [ARQUIVO, seção] # Regras de combate, manobras, tabelas
+└─ 📌 [Título] → [ARQUIVO, seção]
+🎭 CLASSE ([CLASSE DO PERSONAGEM]):
+├─ 📌 [Título] → [ARQUIVO, seção] # Habilidades da classe, comandos
+└─ 📌 [Título] → [ARQUIVO, seção]
+🌆 MUNDO:
+├─ 📌 [Título] → [ARQUIVO, seção] # Lore, facções, mapas
+└─ 📌 [Título] → [ARQUIVO, seção]
+🛠️ OUTROS:
+├─ 📌 [Título] → [ARQUIVO, seção] # Perícias, regras diversas, tabelas
+└─ 📌 [Título] → [ARQUIVO, seção]
+---------------------------------------------------------------------
+📅 MARCOS DA CAMPANHA — [NOME]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+(Marcos criados AUTOMATICAMENTE pelo sistema)
+[data/hora] — [evento]
+[data/hora] — [evento]
+[data/hora] — [evento]
+...
+---------------------------------------------------------------------
+📊 MONITORAMENTO ECONÔMICO — [NOME]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💰 RENDA ESPERADA POR NÍVEL (1 SM = R$1.600):
+┌─────────┬─────────────────┬─────────────────────────────┐
+│ Nível │ Renda mensal │ Padrão de vida │
+├─────────┼─────────────────┼─────────────────────────────┤
+│ 1 │ R$ 300-600 │ Aperto │
+│ 2 │ R$ 600-1.000 │ Estável │
+│ 3 │ R$ 1.000-2.000 │ Confortável │
+│ 4 │ R$ 2.000-5.000 │ Rico │
+│ 5+ │ R$ 5.000+ │ Muito rico │
+└─────────┴─────────────────┴─────────────────────────────┘
+📈 REGISTRO DE GANHOS E GASTOS:
+┌─────────┬────────┬──────────┬──────┬──────────┬───────┐
+│ Sessão │ Data │ Ganho │ Fonte│ Gasto │ Item │
+├─────────┼────────┼──────────┼──────┼──────────┼───────┤
+│ [__] │ [__] │ R$[__] │ [__] │ R$[__] │ [__] │
+└─────────┴────────┴──────────┴──────┴──────────┴───────┘
+⚠️ INDICADORES DE ALERTA ECONÔMICO:
+├─ 🔴 PJs com dinheiro demais cedo (nível 1-2 > R$2.000)
+├─ 🟡 PJs nunca têm dinheiro (após 5 sessões no vermelho)
+└─ 🟢 Progressão saudável (segue tabela acima)
+📊 SITUAÇÃO ATUAL:
+├─ Nível: [__]
+├─ Renda esperada: R$[__]/mês
+├─ Saldo: R$[__]
+├─ Dívidas: R$[__]
+├─ Contas do mês: R$[__]
+└─ ⚠️ [ALERTA] [__________________]
+---------------------------------------------------------------------
+### 📍 ESTADO DA CENA (TEMPLATE)
+╔═══════════════════════════════════════════════════════════════════╗
+║ 🏭 [LOCAL] - [HORÁRIO] 🕐 · 🎬 [BLOCO.CENA] [NOME DA CENA] ║
+║ [CLIMA] · [TEMPERATURA]°C · [DESCRIÇÃO SENSORIAL] [EMOJE] ║
+╚═══════════════════════════════════════════════════════════════════╝
+text
+[Narração imersiva da cena atual]
+AO REDOR:
+├─ [EMOJE] [ELEMENTO] - [X] passos ([descrição])
+├─ [EMOJE] [ELEMENTO] - [X] passos ([descrição])
+└─ ...
+LEGENDA:
+🟢 [JOGADOR] · 🟡 [ALIADOS] · 🔴 [INIMIGOS] · 🟣 [NEUTROS] · ⚪ [CENÁRIO]
+COM VOCÊ:
+├─ 👤 [NPC] · [estado] · [emoji]
+└─ ...
+OPÇÕES:
+[Ação 1] ([X] passos)
+→ [EMOJE] [Sub-ação] ([Perícia] CD [XX])
+[Ação 2] ([X] passos)
+→ [EMOJE] [Sub-ação] ([Perícia] CD [XX])
+(💭 VOCÊ CRIA) — Me diga sua ideia
+═══════════════════════════════════════════════════════════════════
+📍 [LOCAL] (C_) · [CLIMA] · [TEMP]°C · [HORA]
+🛹 [NOME] · 💚HP []/[] · ⚡FO []/[] · 🧠INS [] · 💵R$[] · ₿[] · ⬆️lv. _ [/10]
+⚡ 🍽️[]h · 💧[]h · 😴[]h · [VÍCIO]h
+───────────────────────────────────────────────────────────────────
+🤲 [MÃO DIREITA] · [MÃO ESQUERDA]
+👖 [ITENS NO BOLSO]
+🎒 +[X] itens (/inv) · [ITENS RELEVANTES]
+📱 []% · 🕵️ · 👻 · 💬 [N] · 👁️‍🗨️ [N]
+───────────────────────────────────────────────────────────────────
+🔴 [ALARMES] | 🔴/🟡 [PRAZOS]:[TEMPO]
+───────────────────────────────────────────────────────────────────
+🎮 CAMPANHA · /status · /itens · /notas · /opcoes · /mapa
+⚙️ SISTEMA · /ajuda · /regras · /lore · /gerar · /finalizar · /historico
+───────────────────────────────────────────────────────────────────
+---------------------------------------------------------------------
+FIM DO ARQUIVO 03_CAMPANHA_Generico_v1.1.txt
