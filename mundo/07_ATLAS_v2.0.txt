@@ -1,0 +1,2216 @@
+[INÍCIO DO ARQUIVO 07_ATLAS_v2.0.txt]
+📦 CYBER SP 2097 — ATLAS DE SÃO PAULO v2.0
+╔═══════════════════════════════════════════════════════════════════╗
+║ ║
+║ CYBER SP 2097 — ATLAS DE SÃO PAULO v2.0 ║
+║ ║
+║ Versão: 2.0 — MAPAS, LOCAIS E REGRAS DE CENAS ║
+║ Inclui: 5 camadas, 17 cenários de combate, ║
+║ tabelas de deslocamento e distâncias em passos, ║
+║ expansão completa com 13 novos bairros, ║
+║ diversidade cultural, pontos de interesse, ║
+║ e REGRAS PARA CENAS NOVAS e GERAÇÃO DINÂMICA. ║
+║ ║
+║ "A cidade não é apenas o cenário. ║
+║ Ela é a história. ║
+║ E cada esquina tem uma para contar." ║
+║ ║
+╚═══════════════════════════════════════════════════════════════════╝
+=====================================================================
+⚠️ INSTRUÇÃO: A PARTIR DAQUI, O CONTEÚDO É TEXTO PURO PARA COPIAR
+=====================================================================
+📚 SUMÁRIO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ PARTE 1: VISÃO GERAL DAS 5 CAMADAS
+├─ PARTE 2: CAMADA 1 — COBERTURA
+├─ PARTE 3: CAMADA 2 — ARRANHA-CÉUS (EXPANSÃO)
+├─ PARTE 4: CAMADA 3 — ASFALTO (EXPANSÃO)
+├─ PARTE 5: CAMADA 4 — SUBÚRBIO (EXPANSÃO)
+├─ PARTE 6: CAMADA 5 — ESGOTO (EXPANSÃO)
+├─ PARTE 7: TABELAS DE DESLOCAMENTO
+├─ PARTE 8: MAPAS DE COMBATE (17 CENÁRIOS REFINADOS)
+└─ PARTE 9: 🗺️ REGRAS PARA CENAS NOVAS (DO 01_CORE)
+└─ PARTE 10: 🗺️ GERAÇÃO DINÂMICA DE CENÁRIOS (DO 01_CORE)
+---------------------------------------------------------------------
+PARTE 1: VISÃO GERAL DAS 5 CAMADAS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CAMADA 1 (COBERTURA) — TOPO
+↑
+CAMADA 2 (ARRANHA-CÉUS)
+↑
+CAMADA 3 (ASFALTO)
+↑
+CAMADA 4 (SUBÚRBIO)
+↑
+CAMADA 5 (ESGOTO) — BASE
+📏 ALTURAS APROXIMADAS:
+├─ C1: 500 a 800 metros acima do solo
+├─ C2: 200 a 500 metros
+├─ C3: 0 a 200 metros (nível da rua)
+├─ C4: subsolo raso (túneis de metrô, porões)
+└─ C5: -50 a -200 metros (estações abandonadas, esgoto)
+🪜 ACESSO VERTICAL:
+├─ C3 → C2: Elevadores privados, helicópteros, credenciais
+├─ C2 → C1: Apenas com autorização (suborno a partir de R$ 1.000)
+├─ C3 → C4: Escadas, becos, vielas (livre)
+└─ C4 → C5: Bueiros, estações de metrô abandonadas, acesso controlado pelos Surfistas
+---------------------------------------------------------------------
+PARTE 2: CAMADA 1 — COBERTURA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🏙️ 2.1 JARDINS
+───────────────────────────────────────────────────────────────────
+Bairro de elite, com mansões e coberturas luxuosas. Ruas arborizadas, silêncio absoluto, segurança privada 24 horas. Quem mora aqui nunca desce para as camadas inferiores.
+📍 PONTOS DE INTERESSE:
+├─ Condomínio Villagio: Prédios de 20 andares, cada andar uma cobertura. Acesso por elevador privativo (biometria).
+├─ Restaurante Topo do Mundo: No 50º andar, vista panorâmica. Apenas para moradores e convidados. Preço médio: R$ 500 por pessoa.
+└─ Heliponto particular: Atende toda a região.
+🚪 ACESSO: Apenas por autorização. Suborno mínimo R$ 2.000 para entrar.
+🏙️ 2.2 ITAIM
+───────────────────────────────────────────────────────────────────
+Centro financeiro e empresarial da C1. Torres de escritórios, hotéis 5 estrelas, lojas de grife. Menos residencial que os Jardins, mais movimentado durante o dia.
+📍 PONTOS DE INTERESSE:
+├─ Torre Infinity: 80 andares, escritórios da Omni, Verde Vivo e outras corporações. Acesso restrito a funcionários.
+├─ Hotel Majestic: 300 suítes, R$ 2.000 a diária. Bar no terraço com vista para toda a cidade.
+└─ Shopping Garden: 5 andares de lojas de luxo. Segurança armada na entrada.
+🚪 ACESSO: Suborno R$ 1.000, ou credencial corporativa.
+🏙️ 2.3 FARIA LIMA (TOPO)
+───────────────────────────────────────────────────────────────────
+O coração financeiro da cidade. Arranha-céus de vidro e aço, helipontos em cada torre. Durante o dia, movimento intenso de executivos. À noite, vazio.
+📍 PONTOS DE INTERESSE:
+├─ Torre Gênesis (Omni): 120 andares, sede da Omni Corp. Andares superiores com vista para as nuvens. Acesso extremamente restrito.
+├─ Bolsa de Valores Digital: Onde as moedas corporativas são negociadas. Apenas corretores autorizados.
+└─ Praça dos Ventos: Área de lazer para executivos, com jardins suspensos.
+🚪 ACESSO: Credencial corporativa ou missão específica.
+---------------------------------------------------------------------
+PARTE 3: CAMADA 2 — ARRANHA-CÉUS (EXPANSÃO)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🏢 3.1 PAULISTA
+───────────────────────────────────────────────────────────────────
+A avenida mais famosa da cidade, agora tomada por torres comerciais. Durante o dia, multidões de trabalhadores. À noite, bares e restaurantes para a classe média alta.
+■ MASP
+├─ ID: masp
+├─ Endereço: Avenida Paulista, 1578
+├─ Coordenadas: [900, 150]
+├─ Tipo: Museu / Ponto cultural
+├─ Horário: 10:00 - 18:00 (fechado segunda)
+├─ Atividade: Exposições, eventos, loja
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+■ ESTAÇÃO PAULISTA
+├─ ID: estacao_paulista
+├─ Endereço: Avenida Paulista, 1578 (subsolo)
+├─ Coordenadas: [915, 165]
+├─ Tipo: Estação de metrô
+├─ Horário: 04:30 - 00:00
+├─ Serviços: Conexão com linha amarela e verde, acesso à C3
+├─ Produtos: Bilhete único (R$ 5), lanches (R$ 8-12)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢 (dia) · 🟡 (noite)
+■ GALERIA 24 HORAS
+├─ ID: galeria_24h
+├─ Endereço: Avenida Paulista, 900
+├─ Coordenadas: [920, 160]
+├─ Tipo: Comércio
+├─ Horário: 24h
+├─ Produtos: Roupas (R$ 30-100), eletrônicos (R$ 50-300), comida (R$ 10-20)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡 (dia) · 🔴 (noite)
+■ LIVRARIA CULTURAL
+├─ ID: livraria_cultural
+├─ Endereço: Avenida Paulista, 1000
+├─ Coordenadas: [910, 158]
+├─ Tipo: Livraria / Café
+├─ Horário: 09:00 - 22:00
+├─ Produtos: Livros (R$ 30-80), café (R$ 8), lanches (R$ 15)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+⚠️ PERIGO GERAL: Dia 🟢 · Noite 🟡 · Madrugada 🟡
+🏢 3.2 BERRINI
+───────────────────────────────────────────────────────────────────
+Centro financeiro da Zona Sul. Torres envidraçadas, restaurantes executivos, pouca vida noturna. Segurança ostensiva.
+■ TORRE BERRINI 500
+├─ ID: torre_berrini
+├─ Endereço: Avenida Engenheiro Luís Carlos Berrini, 500
+├─ Coordenadas: [800, 80]
+├─ Tipo: Corporativo
+├─ Horário: 08:00 - 20:00 (dias úteis)
+├─ Atividade: Escritórios da Verde Vivo, consultórios médicos
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢 (dia) · 🟡 (noite)
+■ SHOPPING BERRINI GARDEN
+├─ ID: shopping_berrini
+├─ Endereço: Avenida Engenheiro Luís Carlos Berrini, 147
+├─ Coordenadas: [805, 85]
+├─ Tipo: Shopping
+├─ Horário: 10:00 - 22:00
+├─ Produtos: Lojas de grife, cinema, praça de alimentação
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+■ PRAÇA DO PÔR DO SOL
+├─ ID: praca_por_do_sol
+├─ Endereço: Marginal Pinheiros
+├─ Coordenadas: [810, 90]
+├─ Tipo: Praça / Mirante
+├─ Horário: 24h
+├─ Atividade: Contemplação, encontros
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡 (dia) · 🔴 (noite)
+⚠️ PERIGO GERAL: Dia 🟢 · Noite 🟢 · Madrugada 🟢
+🏢 3.3 PINHEIROS
+───────────────────────────────────────────────────────────────────
+Bairro boêmio, com bares, restaurantes e vida noturna agitada. Mistura de classe média alta com artistas e estudantes. Vigilância constante da Omni.
+■ BAR DO ALEMÃO
+├─ ID: bar_alemao
+├─ Endereço: Rua Vupabussu, 300
+├─ Coordenadas: [750, 120]
+├─ Tipo: Bar / Boteco
+├─ Horário: 17:00 - 02:00
+├─ Produtos: Cerveja (R$ 8), petiscos (R$ 15-25)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡 (noite)
+■ ESCRITÓRIO DA OMNI (VIGILÂNCIA)
+├─ ID: escritorio_omni_pinheiros
+├─ Endereço: Rua dos Pinheiros, 800
+├─ Coordenadas: [755, 125]
+├─ Tipo: Corporativo / Vigilância
+├─ Horário: 24h
+├─ Atividade: Monitoramento da região
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡 (monitorado)
+■ PRAÇA DA NASCENTE
+├─ ID: praca_nascente
+├─ Endereço: Rua Ferreira de Araújo
+├─ Coordenadas: [745, 115]
+├─ Tipo: Praça
+├─ Horário: 24h
+├─ Atividade: Encontro de jovens, música
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢 (dia) · 🟡 (noite)
+■ RESTAURANTE FAMÍLIA
+├─ ID: restaurante_familia
+├─ Endereço: Rua dos Pinheiros, 400
+├─ Coordenadas: [752, 118]
+├─ Tipo: Restaurante
+├─ Horário: 11:00 - 23:00
+├─ Produtos: Comida italiana (R$ 30-60)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+⚠️ PERIGO GERAL: Dia 🟢 · Noite 🟡 · Madrugada 🟡
+🏢 3.4 VILA MADALENA
+───────────────────────────────────────────────────────────────────
+Sub-bairro de Pinheiros, famoso pelos grafites e pela vida boêmia. Controlado pela Solaris, que patrocina artistas e eventos.
+■ BECO DO BATMAN
+├─ ID: beco_batman
+├─ Endereço: Rua Gonçalo Afonso, entre Rua Harmonia e Rua Medeiros de Albuquerque
+├─ Coordenadas: [730, 130]
+├─ Tipo: Galeria a céu aberto
+├─ Horário: 24h
+├─ Atividade: Grafites patrocinados pela Solaris, turistas
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢 (dia) · 🟡 (noite)
+■ ESTÚDIO SOLARIS
+├─ ID: estudio_solaris
+├─ Endereço: Rua Harmonia, 500
+├─ Coordenadas: [735, 135]
+├─ Tipo: Estúdio musical
+├─ Horário: 10:00 - 04:00
+├─ Atividade: Gravação de MCs, eventos
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡 (segurança)
+■ ENTRADA SECRETA PARA O SUBSOLO
+├─ ID: entrada_subsolo_vila
+├─ Endereço: Fundos de estúdio abandonado, Rua Harmonia
+├─ Coordenadas: [738, 138]
+├─ Tipo: Acesso ao subsolo (C5)
+├─ Horário: Sempre (conhecido pelos Surfistas)
+├─ Atividade: Bueiro que leva aos túneis
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🔴
+■ BAR DO BECÃO
+├─ ID: bar_becao
+├─ Endereço: Rua Medeiros de Albuquerque, 200
+├─ Coordenadas: [732, 132]
+├─ Tipo: Bar
+├─ Horário: 18:00 - 04:00
+├─ Produtos: Cerveja (R$ 7), drinks (R$ 15-25)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡 (noite)
+⚠️ PERIGO GERAL: Dia 🟢 · Noite 🟡 · Madrugada 🟡
+---------------------------------------------------------------------
+🏢 3.5 PERDIZES
+───────────────────────────────────────────────────────────────────
+Bairro de classe média alta, conhecido por suas universidades e hospitais. Ruas arborizadas, comércio de bairro, vida noturna estudantil. Mais residencial que comercial.
+■ PUC-SP
+├─ ID: puc_sp
+├─ Endereço: Rua Monte Alegre, 984
+├─ Coordenadas: [950, 180]
+├─ Tipo: Universidade
+├─ Horário: 07:00 - 23:00
+├─ Atividade: Aulas, bandejão (R$5), biblioteca, centro acadêmico
+├─ Comida: Bandejão (R$5), restaurante universitário (R$10), lanches (R$8)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+■ PRAÇA (Rua Cardoso de Almeida)
+├─ ID: praca_cardoso
+├─ Endereço: Rua Cardoso de Almeida, s/n
+├─ Coordenadas: [955, 185]
+├─ Tipo: Praça
+├─ Horário: 24h
+├─ Atividade: Lazer, skatistas, idosos
+├─ Comida: Sorvete (R$5), água (R$3)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢 (dia) · 🟡 (noite)
+■ BARES DA CARDOSO
+├─ ID: bares_cardoso
+├─ Endereço: Rua Cardoso de Almeida, entre Monte Alegre e PUC
+├─ Coordenadas: [960, 190]
+├─ Tipo: Bares / Botecos
+├─ Horário: 17:00 - 02:00
+├─ Produtos: Petiscos (R$10-20), cerveja (R$6), porção (R$25)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡 (noite)
+■ HOSPITAL SANTA CASA
+├─ ID: santa_casa
+├─ Endereço: Rua Doutor Cesário Mota Júnior, 112
+├─ Coordenadas: [965, 195]
+├─ Tipo: Hospital
+├─ Horário: 24h
+├─ Serviços: Emergência (R$80), consulta (R$50)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡 (dia) · 🟠 (noite)
+■ CEMITÉRIO DA CONSOLAÇÃO (limite)
+├─ ID: cemiterio_consolacao
+├─ Endereço: Rua da Consolação, 1660
+├─ Coordenadas: [970, 200]
+├─ Tipo: Cemitério
+├─ Horário: 08:00 - 17:00
+├─ Atividade: Sepultamentos, visitação
+├─ Conexões: Consolação (C3)
+├─ Lore: "Dizem que há túneis ligando o cemitério ao subsolo."
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡 (dia) · 🟠 (noite)
+⚠️ PERIGO GERAL: Dia 🟢 · Noite 🟡 · Madrugada 🟠
+---------------------------------------------------------------------
+🏢 3.6 JARDIM PAULISTA
+───────────────────────────────────────────────────────────────────
+Bairro residencial de alto padrão, abaixo das coberturas da C1. Ruas largas, prédios de luxo, comércio refinado. Silêncio, segurança privada, pouca vida noturna.
+■ SHOPPING (Rua Augusta)
+├─ ID: shopping_augusta
+├─ Endereço: Rua Augusta, 1500
+├─ Coordenadas: [1000, 110]
+├─ Tipo: Shopping de luxo
+├─ Horário: 10:00 - 22:00
+├─ Produtos: Lojas de grife, cinema, praça de alimentação
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+■ RESTAURANTES (Rua Haddock Lobo)
+├─ ID: rua_haddock
+├─ Endereço: Rua Haddock Lobo, 900-1500
+├─ Coordenadas: [1005, 115]
+├─ Tipo: Restaurantes finos
+├─ Horário: 12:00 - 00:00
+├─ Produtos: Prato executivo (R$40), jantar (R$80-150)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+■ HOSPITAL SÍRIO-LIBANÊS
+├─ ID: sirio_libanes
+├─ Endereço: Rua Dona Adma Jafet, 91
+├─ Coordenadas: [1010, 120]
+├─ Tipo: Hospital particular
+├─ Horário: 24h
+├─ Serviços: Consulta (R$300), cirurgia (R$5.000+)
+├─ Contexto: "A Omni tem um andar inteiro aqui. Pesquisas."
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+■ CLÍNICAS DE CIBERWARE
+├─ ID: clinicas_ciber
+├─ Endereço: Alameda Jaú, 500-800
+├─ Coordenadas: [1015, 125]
+├─ Tipo: Clínicas especializadas
+├─ Horário: 09:00 - 19:00
+├─ Serviços: Implante de datajack (R$3.000), olho cibernético (R$6.000)
+├─ Conexões: Omni (fornecedor)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+■ PRAÇA
+├─ ID: praca_jardim_paulista
+├─ Endereço: Rua Bela Cintra, s/n
+├─ Coordenadas: [1020, 130]
+├─ Tipo: Praça
+├─ Horário: 24h
+├─ Atividade: Babás com crianças, idosos, passeadores de cachorro
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+⚠️ PERIGO GERAL: Dia 🟢 · Noite 🟢 · Madrugada 🟢
+---------------------------------------------------------------------
+🏢 3.7 CERQUEIRA CÉSAR
+───────────────────────────────────────────────────────────────────
+Mistura de hospitais, escritórios e vida noturna. Parte da Avenida Paulista, mas com cara de bairro. Movimento durante o dia, bares à noite.
+■ HOSPITAL DAS CLÍNICAS
+├─ ID: hospital_clinicas
+├─ Endereço: Avenida Doutor Enéas Carvalho de Aguiar, 255
+├─ Coordenadas: [1050, 130]
+├─ Tipo: Hospital público
+├─ Horário: 24h
+├─ Serviços: Emergência (gratuita, 8h de espera), consulta (R$50)
+├─ Comida: Lanchonete (R$8), café (R$3), água (R$3)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟠
+■ AVENIDA PAULISTA (limite)
+├─ ID: paulista_limite
+├─ Endereço: Avenida Paulista, altura do MASP
+├─ Coordenadas: [1055, 135]
+├─ Tipo: Avenida / Limite de bairro
+├─ Atividade: Escritórios, museus, movimento intenso
+├─ Conexões: Paulista (C2)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢 (dia) · 🟡 (noite)
+■ BARES DA FREI CANECA
+├─ ID: bares_frei_caneca
+├─ Endereço: Rua Frei Caneca, 800-1200
+├─ Coordenadas: [1060, 140]
+├─ Tipo: Bares / Casas noturnas
+├─ Horário: 19:00 - 05:00
+├─ Produtos: Petiscos (R$15), cerveja (R$8), drinks (R$20)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡 (noite)
+■ PRÉDIOS COMERCIAIS
+├─ ID: predios_comerciais_cerqueira
+├─ Endereço: Rua Frei Caneca, 500-700
+├─ Coordenadas: [1065, 145]
+├─ Tipo: Comercial
+├─ Horário: 08:00 - 19:00 (dias úteis)
+├─ Atividade: Escritórios, consultórios, clínicas
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+⚠️ PERIGO GERAL: Dia 🟢 · Noite 🟡 · Madrugada 🟠
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+PARTE 4: CAMADA 3 — ASFALTO (EXPANSÃO)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🏘️ 4.1 CENTRO
+───────────────────────────────────────────────────────────────────
+O coração da cidade. Multidões, comércio popular, ônibus, trens, camelôs. Onde a cidade realmente vive. Criminalidade alta, mas também oportunidades.
+■ VIADUTO DO CHÁ
+├─ ID: viaduto_cha
+├─ Endereço: Centro, ligação entre as regiões do Vale do Anhangabaú
+├─ Coordenadas: [500, 200]
+├─ Tipo: Ponto de encontro / Viaduto
+├─ Horário: 24h
+├─ Atividade: Encontro de fixers e entregadores, perto da 25 de Março
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡 (dia) · 🟠 (noite)
+■ ESTAÇÃO DA SÉ
+├─ ID: estacao_se
+├─ Endereço: Praça da Sé, s/n
+├─ Coordenadas: [525, 225]
+├─ Tipo: Estação de metrô
+├─ Horário: 04:30 - 00:00
+├─ Serviços: Acesso ao metrô (C3) e ao subsolo (C5, pelo Poço)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡 (dia) · 🟠 (noite)
+■ FEIRA DA MADRUGADA
+├─ ID: feira_madrugada
+├─ Endereço: Rua 25 de Março, região central
+├─ Coordenadas: [530, 230]
+├─ Tipo: Feira popular
+├─ Horário: 02:00 - 10:00
+├─ Produtos: Roupas (R$ 20-80), eletrônicos (R$ 50-200), comida (R$ 8-15)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟠 (golpes, batedores)
+■ PADARIA PÃO CENTRAL
+├─ ID: padaria_central
+├─ Endereço: Rua 15 de Novembro, 150
+├─ Coordenadas: [505, 205]
+├─ Tipo: Padaria / Lanchonete
+├─ Horário: 06:00 - 20:00
+├─ Produtos: Pão (R$2), café (R$3), sonho (R$4)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡
+■ RESTAURANTE PRATO CHEIO
+├─ ID: restaurante_prato_cheio
+├─ Endereço: Rua 25 de Março, 500
+├─ Coordenadas: [510, 210]
+├─ Tipo: Restaurante popular
+├─ Horário: 07:00 - 20:00
+├─ Produtos: PF (R$12), refeição completa (R$15)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡
+■ ARMARIA CENTRAL
+├─ ID: loja_armas_central
+├─ Endereço: Rua 25 de Março, 700 (fundos)
+├─ Coordenadas: [515, 215]
+├─ Tipo: Loja de armas (legal)
+├─ Horário: 09:00 - 19:00
+├─ Produtos: Pistola 9mm (R$350), munição (R$30)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡
+■ FARMÁCIA POPULAR
+├─ ID: farmacia_popular
+├─ Endereço: Rua 15 de Novembro, 200
+├─ Coordenadas: [520, 220]
+├─ Tipo: Farmácia
+├─ Horário: 08:00 - 22:00
+├─ Produtos: Remédios básicos (R$5-20)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+■ HOTEL REPÚBLICA
+├─ ID: hotel_republica
+├─ Endereço: Praça da República, 100
+├─ Coordenadas: [522, 222]
+├─ Tipo: Hotel
+├─ Horário: 24h
+├─ Serviços: Diária (R$40), quarto simples
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟠
+⚠️ PERIGO GERAL: Dia 🟡 · Noite 🟠 · Madrugada 🔴
+🏘️ 4.2 SANTA CECÍLIA
+───────────────────────────────────────────────────────────────────
+Bairro boêmio, com bares, pensões e prostituição. Frequentado por artistas, malandros e quem quer se misturar.
+■ VILA BUARQUE
+├─ ID: vila_buarque
+├─ Endereço: Região entre ruas Doutor Cesário Mota Júnior e Avenida Duque de Caxias
+├─ Coordenadas: [400, 250]
+├─ Tipo: Beco boêmio
+├─ Horário: 24h
+├─ Ambiente: Luz amarela, prostitutas, músicos, boemia pesada
+├─ Comida: Boteco (R$10), cerveja (R$5)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🔴 (noite)
+■ PENSÃO ESTRELA
+├─ ID: pensao_estrela
+├─ Endereço: Rua Doutor Cesário Mota Júnior, 300
+├─ Coordenadas: [405, 255]
+├─ Tipo: Pensão
+├─ Horário: 24h
+├─ Serviços: Diária (R$25), quartos minúsculos
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟠 (roubo)
+■ BOTECO ITALIANO
+├─ ID: boteco_italiano
+├─ Endereço: Rua Doutor Cesário Mota Júnior, 200
+├─ Coordenadas: [402, 252]
+├─ Tipo: Boteco
+├─ Horário: 16:00 - 02:00
+├─ Produtos: Macarrão (R$18), cerveja (R$6)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡
+⚠️ PERIGO GERAL: Dia 🟡 · Noite 🟠 · Madrugada 🔴
+🏘️ 4.3 CONSOLAÇÃO
+───────────────────────────────────────────────────────────────────
+Mistura de comércio, residências e hospitais. Menos perigoso que o Centro, mais movimentado que Santa Cecília.
+■ CEMITÉRIO DA CONSOLAÇÃO (C3)
+├─ ID: cemiterio_consolacao_c3
+├─ Endereço: Rua da Consolação, 1660
+├─ Coordenadas: [450, 280]
+├─ Tipo: Cemitério
+├─ Horário: 08:00 - 17:00
+├─ Atividade: Sepultamentos, visitação
+├─ Conexões: Possíveis túneis para o subsolo
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡 (dia) · 🟠 (noite)
+■ FACULDADE DE DIREITO (USP)
+├─ ID: direito_usp
+├─ Endereço: Largo de São Francisco, 95
+├─ Coordenadas: [455, 285]
+├─ Tipo: Faculdade
+├─ Horário: 08:00 - 22:00
+├─ Atividade: Aulas, eventos acadêmicos
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+⚠️ PERIGO GERAL: Dia 🟢 · Noite 🟡 · Madrugada 🟡
+🏘️ 4.4 REPÚBLICA
+───────────────────────────────────────────────────────────────────
+Hotéis, pensões, comércio popular. Muitos migrantes e pessoas em trânsito. Ponto de ônibus para toda a cidade.
+■ PRAÇA KANTUTA
+├─ ID: praca_kantuta
+├─ Endereço: Próximo à estação Armênia
+├─ Coordenadas: [480, 300]
+├─ Tipo: Feira andina
+├─ Horário: Fins de semana, 10:00 - 22:00
+├─ Produtos: Salteña (R$5), anticucho (R$8), api (R$4), artesanato
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡
+■ LOJAS COREANAS (Rua Aurora)
+├─ ID: lojas_coreanas
+├─ Endereço: Rua Aurora, 200-500
+├─ Coordenadas: [485, 305]
+├─ Tipo: Comércio de eletrônicos
+├─ Horário: 09:00 - 19:00
+├─ Produtos: Celulares (R$100-500), eletrônicos diversos
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡
+■ RESTAURANTES NORDESTINOS (Rua do Arouche)
+├─ ID: restaurantes_nordestinos
+├─ Endereço: Rua do Arouche, 100-400
+├─ Coordenadas: [490, 310]
+├─ Tipo: Restaurantes
+├─ Horário: 11:00 - 23:00
+├─ Produtos: Baião (R$15), carne de sol (R$18), forró toda sexta
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡
+■ HOTEL REPÚBLICA
+├─ ID: hotel_republica_centro
+├─ Endereço: Praça da República, 100
+├─ Coordenadas: [495, 315]
+├─ Tipo: Hotel
+├─ Horário: 24h
+├─ Serviços: Diária (R$40), recepção suja, hóspedes estranhos
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟠
+■ PONTO DE ÔNIBUS (República)
+├─ ID: ponto_onibus_republica
+├─ Endereço: Praça da República
+├─ Coordenadas: [500, 320]
+├─ Tipo: Terminal de ônibus
+├─ Horário: 24h
+├─ Linhas: 477P (Heliópolis), 701U (Universidade)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡
+⚠️ PERIGO GERAL: Dia 🟡 · Noite 🟠 · Madrugada 🔴
+🏘️ 4.5 CRACOLÂNDIA (O FLUXO)
+───────────────────────────────────────────────────────────────────
+Zona de alto risco. Usuários de drogas, tráfico, desespero. Evite se não tiver um bom motivo.
+■ O FLUXO
+├─ ID: fluxo
+├─ Endereço: Região da Rua Helvétia, Santa Ifigênia
+├─ Coordenadas: [350, 350]
+├─ Tipo: Zona de usuários
+├─ Horário: 24h
+├─ Atividade: Consumo de drogas, desespero
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🔴
+■ BOCA DO CÍRCULO (Cracolândia)
+├─ ID: boca_cracolandia
+├─ Endereço: Rua Helvétia, 500
+├─ Coordenadas: [355, 355]
+├─ Tipo: Ponto de venda (Círculo)
+├─ Horário: 24h
+├─ Produtos: Crack (R$10), outras drogas
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🔴
+■ IGREJA DA MÃO DE DEUS (Cracolândia)
+├─ ID: igreja_mao_deus_cracolandia
+├─ Endereço: Rua dos Andradas, 300
+├─ Coordenadas: [360, 360]
+├─ Tipo: Igreja / Abrigo
+├─ Horário: 24h
+├─ Serviços: Abrigo, comida para quem quer sair do vício
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢 (dentro) · 🔴 (arredores)
+⚠️ PERIGO GERAL: Dia 🔴 · Noite 🔴 · Madrugada 🔴
+🏘️ 4.6 MOOCA
+───────────────────────────────────────────────────────────────────
+Bairro operário histórico, com cooperativas e italianos. Resistência local contra o Círculo. Ambiente comunitário, mas desconfiado com estranhos.
+■ CANTINA NONNA ROSA
+├─ ID: cantina_nonna_rosa
+├─ Endereço: Rua da Mooca, 2000
+├─ Coordenadas: [600, 250]
+├─ Tipo: Restaurante italiano
+├─ Horário: 11:00 - 23:00 (fecha segunda)
+├─ Produtos: Macarrão (R$25), lasanha (R$28), nhoque (R$22)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡
+■ COOPER TÊXTIL
+├─ ID: cooper_texteis
+├─ Endereço: Rua da Mooca, 1800
+├─ Coordenadas: [605, 255]
+├─ Tipo: Cooperativa
+├─ Horário: 08:00 - 20:00
+├─ Atividade: Fabricação de roupas, 30 máquinas, 50 trabalhadores
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+■ PRAÇA DA MOOCA
+├─ ID: praca_mooca
+├─ Endereço: Praça da Mooca, s/n
+├─ Coordenadas: [610, 260]
+├─ Tipo: Praça
+├─ Horário: 24h
+├─ Atividade: Quadra de bocha, encontro de aposentados
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢 (dia) · 🟡 (noite)
+■ BOTECO DO ITALIANO
+├─ ID: boteco_italiano_mooca
+├─ Endereço: Rua da Mooca, 1900
+├─ Coordenadas: [615, 265]
+├─ Tipo: Boteco
+├─ Horário: 16:00 - 02:00
+├─ Produtos: Cerveja (R$6), petiscos (R$12-20)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡 (noite)
+⚠️ PERIGO GERAL: Dia 🟢 · Noite 🟡 · Madrugada 🟠
+🏘️ 4.7 TATUAPÉ
+───────────────────────────────────────────────────────────────────
+Classe média, comércio intenso, metrô. Mais seguro que o Centro, mas com menos oportunidades.
+■ FEIRA DO TATUAPÉ
+├─ ID: feira_tatuape
+├─ Endereço: Praça Sílvio Romero, s/n
+├─ Coordenadas: [650, 280]
+├─ Tipo: Feira livre
+├─ Horário: Domingos, 07:00 - 14:00
+├─ Produtos: Pastel (R$6), espetinho (R$8), sushi (R$12), barracas diversas
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+■ SHOPPING METRÔ TATUAPÉ
+├─ ID: shopping_metro_tatuape
+├─ Endereço: Rua Domingos Agostim, 91
+├─ Coordenadas: [655, 285]
+├─ Tipo: Shopping
+├─ Horário: 10:00 - 22:00
+├─ Produtos: Lojas da Omni, praça de alimentação
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+■ KOND HALL
+├─ ID: kond_hall
+├─ Endereço: Rua Itapura, 1000
+├─ Coordenadas: [660, 290]
+├─ Tipo: Casa de shows
+├─ Horário: 20:00 - 06:00 (em dias de evento)
+├─ Atividade: Shows, eventos da Solaris
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡
+⚠️ PERIGO GERAL: Dia 🟢 · Noite 🟢 · Madrugada 🟡
+🏘️ 4.8 BOM RETIRO
+───────────────────────────────────────────────────────────────────
+Bairro tradicional de comércio, com forte presença das comunidades judaica e coreana. Ruas estreitas, galpões, lojas de tecido e armarinhos. Durante o dia, movimento intenso de comerciantes. À noite, vazio e perigoso.
+■ RUA JOSÉ PAULINO
+├─ ID: rua_jose_paulino
+├─ Endereço: Rua José Paulino, 300-800
+├─ Coordenadas: [700, 300]
+├─ Tipo: Comércio judaico
+├─ Horário: 09:00 - 19:00
+├─ Produtos: Tecidos, roupas, armarinhos
+├─ Comida: Matzá (R$15), babka (R$8), esfiha (R$5)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡 (dia) · 🔴 (noite)
+■ RUA DA GRACIOSA
+├─ ID: rua_graciosa
+├─ Endereço: Rua da Graciosa, 100-500
+├─ Coordenadas: [705, 305]
+├─ Tipo: Comércio coreano
+├─ Horário: 10:00 - 20:00
+├─ Produtos: Eletrônicos, cosméticos
+├─ Comida: Kimchi (R$5), bulgogi (R$25)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡 (dia) · 🟠 (noite)
+■ PARQUE DA LUZ
+├─ ID: parque_luz
+├─ Endereço: Praça da Luz, s/n
+├─ Coordenadas: [710, 310]
+├─ Tipo: Parque
+├─ Horário: 06:00 - 20:00
+├─ Atividade: Lazer, moradores de rua
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟠 (dia) · 🔴 (noite)
+■ ESTAÇÃO DA LUZ
+├─ ID: estacao_luz
+├─ Endereço: Praça da Luz, 1
+├─ Coordenadas: [715, 315]
+├─ Tipo: Estação de trem
+├─ Horário: 04:00 - 00:00
+├─ Serviços: Trem para Zona Norte (C3/C4)
+├─ Comida: Pastel (R$6), café (R$3), água (R$3)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡
+■ PINACOTECA
+├─ ID: pinacoteca
+├─ Endereço: Praça da Luz, 2
+├─ Coordenadas: [720, 320]
+├─ Tipo: Museu
+├─ Horário: 10:00 - 18:00 (fecha terça)
+├─ Atividade: Exposições, estudantes de arte
+├─ Lore: "Dizem que há um túnel secreto ligando a Pinacoteca ao subsolo."
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢 (dentro) · 🟠 (arredores)
+⚠️ PERIGO GERAL: Dia 🟡 · Noite 🔴 · Madrugada 🔴
+🏘️ 4.9 LIBERDADE
+───────────────────────────────────────────────────────────────────
+Bairro da imigração japonesa. Ruas decoradas com lanternas orientais, comércio asiático, restaurantes, templos. Durante o dia, turistas e idosos. À noite, restaurantes e bares lotados.
+■ PRAÇA DA LIBERDADE
+├─ ID: praca_liberdade
+├─ Endereço: Praça da Liberdade, s/n
+├─ Coordenadas: [750, 330]
+├─ Tipo: Praça
+├─ Horário: 24h
+├─ Atividade: Senhores jogando xadrez, turistas, feirinha aos domingos
+├─ Comida: Guioza (R$10), sushi (R$15), chá (R$5)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢 (dia) · 🟡 (noite)
+■ RUA GALVÃO BUENO
+├─ ID: rua_galvao_bueno
+├─ Endereço: Rua Galvão Bueno, 200-600
+├─ Coordenadas: [755, 335]
+├─ Tipo: Restaurantes
+├─ Horário: 11:00 - 23:00
+├─ Produtos: Lámen (R$25), sushi (R$20-40), yakisoba (R$18)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+■ TEMPLO BUDISTA
+├─ ID: templo_budista
+├─ Endereço: Rua São Joaquim, 300
+├─ Coordenadas: [760, 340]
+├─ Tipo: Templo
+├─ Horário: 08:00 - 18:00
+├─ Atividade: Meditação, cerimônias, festivais
+├─ Lore: "Dizem que os antigos monges conheciam o subsolo."
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+■ FÁBRICA DE SONHO
+├─ ID: fabrica_sonho
+├─ Endereço: Rua Galvão Bueno, 500
+├─ Coordenadas: [765, 345]
+├─ Tipo: Boate
+├─ Horário: 22:00 - 06:00
+├─ Atividade: Música eletrônica, público alternativo
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡
+■ BECO DO ATRASO
+├─ ID: beco_atraso
+├─ Endereço: Atrás da Praça da Liberdade
+├─ Coordenadas: [770, 350]
+├─ Tipo: Beco de bares
+├─ Horário: 18:00 - 04:00
+├─ Produtos: Boteco (R$8), cerveja (R$5), espetinho (R$8)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡 (noite)
+⚠️ PERIGO GERAL: Dia 🟢 · Noite 🟡 · Madrugada 🟠
+🏘️ 4.10 CAMBUCI
+───────────────────────────────────────────────────────────────────
+Bairro operário histórico, com indústrias, galpões e vilas operárias. Mistura de residências antigas e comércio. Pouca vida noturna, perigoso à noite. Herança italiana residual.
+■ RUA DO GÁS
+├─ ID: rua_gas
+├─ Endereço: Rua do Gás, 100-500
+├─ Coordenadas: [800, 360]
+├─ Tipo: Industrial
+├─ Horário: 24h
+├─ Atividade: Galpões industriais, fábricas, marcenarias
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟠 (noite)
+■ PONTE DO GÁS
+├─ ID: ponte_gas
+├─ Endereço: Sobre o rio Tamanduateí
+├─ Coordenadas: [805, 365]
+├─ Tipo: Ponte
+├─ Horário: 24h
+├─ Conexões: Liga Cambuci à Mooca
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡
+■ VILA OPERÁRIA
+├─ ID: vila_operaria
+├─ Endereço: Ruas estreitas do Cambuci
+├─ Coordenadas: [810, 370]
+├─ Tipo: Residencial
+├─ Horário: 24h
+├─ Atividade: Casas antigas, vovós na janela
+├─ Comida: Macarrão (R$15) no bar do Zé
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡
+■ BOCA DO CAMBUCI
+├─ ID: boca_cambuci
+├─ Endereço: Rua do Gás, 600
+├─ Coordenadas: [815, 375]
+├─ Tipo: Ponto de venda (Círculo)
+├─ Horário: 20:00 - 06:00
+├─ Produtos: Drogas, armas leves, enlatado (R$4)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🔴
+⚠️ PERIGO GERAL: Dia 🟡 · Noite 🔴 · Madrugada 🔴
+🏘️ 4.11 BRÁS
+───────────────────────────────────────────────────────────────────
+Tradicional bairro de imigrantes (italianos, sírios, libaneses). Hoje é polo de comércio popular, especialmente de roupas. Galpões, lojas de atacado, sacoleiros. Forte presença de imigração boliviana nas oficinas de costura.
+■ RUA ORIENTE
+├─ ID: rua_oriente
+├─ Endereço: Rua Oriente, 100-600
+├─ Coordenadas: [850, 380]
+├─ Tipo: Comércio de roupas
+├─ Horário: 09:00 - 19:00
+├─ Produtos: Roupas, tecidos, aviamentos
+├─ Comida: Esfiha (R$6), pastel (R$4), salteña (R$5)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡 (dia) · 🔴 (noite)
+■ OFICINAS DE COSTURA
+├─ ID: oficinas_costura
+├─ Endereço: Rua Oriente, 200-500 (fundos)
+├─ Coordenadas: [855, 385]
+├─ Tipo: Oficinas de costura
+├─ Horário: 24h (turnos de 14h)
+├─ Atividade: Confecção de roupas, comando boliviano
+├─ Comida: Salteña (R$5) vendida nos fundos
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡
+■ RUA 25 DE MARÇO (limite)
+├─ ID: rua_25_marco
+├─ Endereço: Rua 25 de Março
+├─ Coordenadas: [860, 390]
+├─ Tipo: Comércio popular
+├─ Horário: 08:00 - 20:00
+├─ Produtos: Produtos falsificados, importados
+├─ Comida: Pastel (R$6), caldo de cana (R$4), yakisoba (R$10)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟠
+■ ESTAÇÃO BRÁS
+├─ ID: estacao_bras
+├─ Endereço: Praça Agente Cícero, s/n
+├─ Coordenadas: [865, 395]
+├─ Tipo: Estação de trem/metrô
+├─ Horário: 04:30 - 00:00
+├─ Conexões: Linhas Vermelha, Turquesa, Coral, Safira
+├─ Comida: Pastel (R$5), café (R$2), água (R$3)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡
+■ BOCA DO BRÁS
+├─ ID: boca_bras
+├─ Endereço: Beco entre galpões, Rua Oriente
+├─ Coordenadas: [870, 400]
+├─ Tipo: Ponto de venda (Círculo)
+├─ Horário: 20:00 - 06:00
+├─ Produtos: Drogas, armas, enlatado (R$3), carne "?" (R$10)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🔴
+■ GALPÕES DO CÍRCULO
+├─ ID: galpoes_circulo
+├─ Endereço: Rua Oriente, 700 (fundos)
+├─ Coordenadas: [875, 405]
+├─ Tipo: Armazém do Círculo
+├─ Horário: 24h
+├─ Atividade: Armazenamento de mercadorias ilegais
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🔴
+⚠️ PERIGO GERAL: Dia 🟠 · Noite 🔴 · Madrugada 🔴
+---------------------------------------------------------------------
+PARTE 5: CAMADA 4 — SUBÚRBIO (EXPANSÃO)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🏚️ 5.1 HELIÓPOLIS
+───────────────────────────────────────────────────────────────────
+Maior comunidade da C4. Becos estreitos, lajes, comércio local. Conhecida pela resistência e pelo calor humano.
+■ PADARIA PÃO & AMOR
+├─ ID: padaria_pao_amor
+├─ Endereço: Rua da Paz, 237
+├─ Coordenadas: [45, 120]
+├─ Tipo: Padaria / Lanchonete
+├─ Horário: 06:00 - 20:00
+├─ Produtos:
+│ ├─ Pão francês · R$2 · ID: pao
+│ ├─ Café · R$3 · ID: cafe
+│ ├─ Sonho · R$4 · ID: sonho
+│ └─ Cigarro (avulso) · R$2 · ID: cigarro
+├─ Serviços: Recarga de celular (R$5), Wi-Fi (R$3/h)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢 (dia) · 🟡 (noite)
+■ PADARIA TRÊS CORAÇÕES
+├─ ID: padaria_tres_coracoes
+├─ Endereço: Rua da Paz, 312
+├─ Coordenadas: [47, 122]
+├─ Tipo: Padaria
+├─ Horário: 05:00 - 19:00
+├─ Produtos:
+│ ├─ Pão francês · R$2 · ID: pao
+│ ├─ Bolo de milho · R$5 · ID: bolo_milho
+│ └─ Café · R$3 · ID: cafe
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢 (dia) · 🟡 (noite)
+■ MERCADINHO PERTO
+├─ ID: mercado_perto
+├─ Endereço: Rua da Paz, 150
+├─ Coordenadas: [50, 115]
+├─ Tipo: Mercado
+├─ Horário: 07:00 - 22:00
+├─ Produtos:
+│ ├─ Arroz (1kg) · R$6 · ID: arroz
+│ ├─ Feijão (1kg) · R$5 · ID: feijao
+│ ├─ Enlatado · R$4 · ID: enlatado
+│ └─ Cigarro · R$10 (maço) · ID: cigarro
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+■ MERCADINHO ECONOMIA POPULAR
+├─ ID: mercado_economia
+├─ Endereço: Rua da Paz, 180
+├─ Coordenadas: [52, 118]
+├─ Tipo: Mercado
+├─ Horário: 08:00 - 21:00
+├─ Produtos:
+│ ├─ Arroz (1kg) · R$5 · ID: arroz
+│ ├─ Feijão (1kg) · R$4 · ID: feijao
+│ ├─ Macarrão · R$3 · ID: macarrao
+│ └─ Enlatado genérico · R$3 · ID: enlatado
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+■ BOTECO DO BECO
+├─ ID: boteco_beco
+├─ Endereço: Beco, 45
+├─ Coordenadas: [44, 125]
+├─ Tipo: Bar / Boteco
+├─ Horário: 17:00 - 02:00
+├─ Produtos:
+│ ├─ Cerveja · R$5 · ID: cerveja
+│ ├─ Espetinho · R$6 · ID: espetinho
+│ ├─ Pastel · R$4 · ID: pastel
+│ └─ Cigarro · R$2 · ID: cigarro
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡 (dia) · 🔴 (noite)
+■ BAR ÚLTIMO GOLE
+├─ ID: bar_ultimo_gole
+├─ Endereço: Beco, 78
+├─ Coordenadas: [46, 128]
+├─ Tipo: Bar
+├─ Horário: 18:00 - 04:00
+├─ Produtos:
+│ ├─ Cerveja · R$6 · ID: cerveja
+│ ├─ Cachaça · R$4 · ID: cachaça
+│ └─ Petisco · R$8 · ID: petisco
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡 (dia) · 🔴 (noite)
+■ OFICINA GAMBIARRA MASTER
+├─ ID: oficina_gambiarra_master
+├─ Endereço: Beco, 89
+├─ Coordenadas: [48, 130]
+├─ Tipo: Oficina
+├─ Horário: 08:00 - 22:00
+├─ Serviços:
+│ ├─ Reparo simples · R$20 · ID: reparo
+│ ├─ Gambiarra · R$50 · ID: gambiarra
+│ └─ Conserto de ciberware · R$100 · ID: conserto_ciber
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+■ OFICINA CONSERTO CERTEIRO
+├─ ID: oficina_conserteiro
+├─ Endereço: Beco, 95
+├─ Coordenadas: [49, 132]
+├─ Tipo: Oficina
+├─ Horário: 09:00 - 20:00
+├─ Serviços:
+│ ├─ Reparo simples · R$25 · ID: reparo
+│ ├─ Manutenção preventiva · R$40 · ID: manutencao
+│ └─ Troca de peças · R$60 · ID: troca_pecas
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+■ BOCA DO ZÉ
+├─ ID: boca_ze
+├─ Endereço: Beco, 150 (fundos)
+├─ Coordenadas: [51, 135]
+├─ Tipo: Ponto de venda (Círculo)
+├─ Horário: 20:00 - 06:00
+├─ Produtos:
+│ ├─ Pistola 9mm · R$120 · ID: pistola_9mm
+│ ├─ Munição (10) · R$30 · ID: municao_9mm
+│ ├─ Crack · R$10 · ID: crack
+│ ├─ Enlatado · R$3 · ID: enlatado
+│ └─ Cigarro (ilegal) · R$2 · ID: cigarro_ilegal
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🔴 (sempre)
+■ BOCA PONTO FRIO
+├─ ID: boca_ponto_frio
+├─ Endereço: Beco, 180
+├─ Coordenadas: [53, 138]
+├─ Tipo: Ponto de venda (Círculo)
+├─ Horário: 21:00 - 05:00
+├─ Produtos:
+│ ├─ Pistola .45 · R$150 · ID: pistola_45
+│ ├─ Munição (10) · R$40 · ID: municao_45
+│ └─ Enlatado · R$3 · ID: enlatado
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🔴
+■ CLÍNICA SAÚDE POPULAR
+├─ ID: clinica_saude_popular
+├─ Endereço: Rua da Paz, 450
+├─ Coordenadas: [55, 140]
+├─ Tipo: Clínica
+├─ Horário: 24h
+├─ Serviços:
+│ ├─ Primeiros socorros · R$20 · ID: primeiros_socorros
+│ ├─ Consulta · R$50 · ID: consulta
+│ └─ Remédios básicos · R$10-30 · ID: remedio_generico
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+■ IGREJA DA REDENÇÃO
+├─ ID: igreja_redencao
+├─ Endereço: Rua da Paz, 500
+├─ Coordenadas: [57, 142]
+├─ Tipo: Igreja (Mão de Deus)
+├─ Horário: 06:00 - 22:00
+├─ Serviços:
+│ ├─ Sopa comunitária · Grátis · ID: sopa
+│ ├─ Abrigo (1 noite) · Doação · ID: abrigo
+│ └─ Confissão · Grátis · ID: confissao
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢 (dentro) · 🟡 (arredores)
+■ SALÃO BELEZA DE FAVELA
+├─ ID: salao_beleza
+├─ Endereço: Rua da Paz, 380
+├─ Coordenadas: [59, 145]
+├─ Tipo: Salão de beleza
+├─ Horário: 09:00 - 20:00
+├─ Serviços:
+│ ├─ Corte de cabelo · R$15 · ID: corte
+│ ├─ Barba · R$10 · ID: barba
+│ └─ Escova · R$20 · ID: escova
+├─ Produtos: Informação local (Lábia CD 12) · R$5 · ID: informacao
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+📏 DISTÂNCIAS INTERNAS:
+Trecho | Distância | A pé | Skate | Moto
+Padaria → Boca | 400m | 5 min| 2 min | 1 min
+Padaria → Oficina| 200m | 2 min| 1 min | 30s
+Padaria → Clínica| 500m | 6 min| 3 min | 1,5 min
+Oficina → Boca | 200m | 2 min| 1 min | 30s
+⚠️ PERIGO: 🟡 Médio (tiroteios ocasionais, mas comunidade protege os seus).
+---------------------------------------------------------------------
+🏚️ 5.2 BRASILÂNDIA
+───────────────────────────────────────────────────────────────────
+Grande comunidade da Zona Norte. Mais residencial que Heliópolis, com forte presença do Círculo e conflitos com a milícia vizinha. Presença crescente de imigrantes bolivianos.
+■ PADARIA PÃO QUENTE
+├─ ID: padaria_pao_quente
+├─ Endereço: Rua Brasilândia, 200
+├─ Coordenadas: [120, 300]
+├─ Tipo: Padaria
+├─ Horário: 06:00 - 20:00
+├─ Produtos: Pão (R$2), café (R$3)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+■ MERCADINHO DO BAIRRO
+├─ ID: mercado_bairro
+├─ Endereço: Rua Brasilândia, 300
+├─ Coordenadas: [122, 302]
+├─ Tipo: Mercado
+├─ Horário: 07:00 - 21:00
+├─ Produtos: Arroz (R$6), feijão (R$5), enlatado (R$4)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+■ BAR DO CAMPO
+├─ ID: bar_campo
+├─ Endereço: Rua Brasilândia, 400
+├─ Coordenadas: [124, 305]
+├─ Tipo: Bar
+├─ Horário: 16:00 - 02:00
+├─ Produtos: Cerveja (R$5), espetinho (R$6)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡
+■ BAR ESQUINA DO SINAL
+├─ ID: bar_esquina_sinal
+├─ Endereço: Rua Brasilândia, 500
+├─ Coordenadas: [126, 308]
+├─ Tipo: Bar
+├─ Horário: 17:00 - 03:00
+├─ Produtos: Cerveja (R$5), cachaça (R$4)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡
+■ OFICINA MECÂNICA RÁPIDA
+├─ ID: oficina_mecanica_rapida
+├─ Endereço: Rua Brasilândia, 600
+├─ Coordenadas: [128, 310]
+├─ Tipo: Oficina
+├─ Horário: 08:00 - 20:00
+├─ Serviços: Reparo (R$25), troca de peças (R$60)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+■ BOCA DA BRASILÂNDIA
+├─ ID: boca_brasilandia
+├─ Endereço: Rua Brasilândia, 700 (fundos)
+├─ Coordenadas: [130, 315]
+├─ Tipo: Ponto de venda (Círculo)
+├─ Horário: 20:00 - 06:00
+├─ Produtos: Pistola 9mm (R$130), enlatado (R$3)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🔴
+■ IGREJA DA PAZ
+├─ ID: igreja_paz
+├─ Endereço: Rua Brasilândia, 800
+├─ Coordenadas: [132, 318]
+├─ Tipo: Igreja
+├─ Horário: 08:00 - 20:00
+├─ Serviços: Sopa comunitária (grátis)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+■ CAMPO CAMPEÃO
+├─ ID: campo_campeao
+├─ Endereço: Rua Brasilândia, 900
+├─ Coordenadas: [135, 320]
+├─ Tipo: Campo de futebol
+├─ Horário: 24h
+├─ Atividade: Lazer, ponto de encontro do Círculo
+├─ Comida: Salteña (R$5) na saída
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟠
+⚠️ PERIGO: 🟠 Alto (conflito Círculo × milícia).
+🏚️ 5.3 GUAIANASES
+───────────────────────────────────────────────────────────────────
+Extremo leste, muito populoso. Acesso difícil, transporte precário. Comunidade unida, mas abandonada pelo poder público. Presença de comunidade boliviana na periferia.
+■ PADARIA PÃO DE CADA DIA
+├─ ID: padaria_pao_cada_dia
+├─ Endereço: Rua Guaianases, 200
+├─ Coordenadas: [200, 400]
+├─ Tipo: Padaria
+├─ Horário: 05:00 - 19:00
+├─ Produtos: Pão (R$2), café (R$3)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+■ MERCADO DO POVO
+├─ ID: mercado_povo
+├─ Endereço: Rua Guaianases, 300
+├─ Coordenadas: [202, 402]
+├─ Tipo: Mercado
+├─ Horário: 07:00 - 21:00
+├─ Produtos: Arroz (R$6), feijão (R$5), enlatado (R$4)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+■ BAR PONTO FINAL
+├─ ID: bar_ponto_final
+├─ Endereço: Rua Guaianases, 400
+├─ Coordenadas: [205, 405]
+├─ Tipo: Bar
+├─ Horário: 16:00 - 02:00
+├─ Produtos: Cerveja (R$5), espetinho (R$6)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡
+■ TERMINAL LESTE
+├─ ID: terminal_leste
+├─ Endereço: Rua Guaianases, 500
+├─ Coordenadas: [210, 410]
+├─ Tipo: Terminal de ônibus
+├─ Horário: 04:00 - 00:00
+├─ Linhas: Ônibus para o Centro (2h de viagem)
+├─ Comida: Salteña (R$5), anticucho (R$8)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡
+■ IGREJA DA ESPERANÇA
+├─ ID: igreja_esperanca
+├─ Endereço: Rua Guaianases, 600
+├─ Coordenadas: [215, 415]
+├─ Tipo: Igreja (Mão de Deus)
+├─ Horário: 08:00 - 20:00
+├─ Serviços: Abrigo para moradores de rua
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+⚠️ PERIGO: 🟡 Médio.
+🏚️ 5.4 PARELEIROS
+───────────────────────────────────────────────────────────────────
+Zona rural, mananciais, isolado. Área de proteção ambiental, mas também de conflitos por terra. Acesso difícil, pouca infraestrutura.
+■ REPRESA GUARAPIRANGA
+├─ ID: represa_guarapiranga
+├─ Endereço: Estrada da Represa, km 30
+├─ Coordenadas: [250, 450]
+├─ Tipo: Represa
+├─ Horário: 24h
+├─ Atividade: Fonte de água, protegida pela Verde Vivo
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🔴
+■ ASSENTAMENTO ESPERANÇA
+├─ ID: assentamento_esperanca_parelheiros
+├─ Endereço: Estrada da Represa, km 35
+├─ Coordenadas: [255, 455]
+├─ Tipo: Assentamento rural
+├─ Horário: 24h
+├─ Atividade: Cultivo de alimentos, comunidade
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡
+■ SEDE DA VERDE VIVO
+├─ ID: sede_verde_vivo_parelheiros
+├─ Endereço: Estrada da Represa, km 40
+├─ Coordenadas: [260, 460]
+├─ Tipo: Estação de tratamento
+├─ Horário: 24h
+├─ Atividade: Controle da água, fortemente vigiada
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🔴
+⚠️ PERIGO: 🔴 Altíssimo (milícias, conflitos por terra).
+🏚️ 5.5 GRAJAÚ
+───────────────────────────────────────────────────────────────────
+Sul da cidade, próximo à represa. Comunidade grande, com problemas de enchente e violência. Forte presença de migrantes nordestinos.
+■ TERMINAL GRAJAÚ
+├─ ID: terminal_grajau
+├─ Endereço: Estrada do Grajaú, 1000
+├─ Coordenadas: [280, 480]
+├─ Tipo: Terminal de ônibus
+├─ Horário: 04:00 - 00:00
+├─ Linhas: Ônibus para o Centro (1:30h)
+├─ Comida: Baião (R$12)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡
+■ BAR LOCAL (Grajaú)
+├─ ID: bar_grajau
+├─ Endereço: Estrada do Grajaú, 1100
+├─ Coordenadas: [285, 485]
+├─ Tipo: Bar
+├─ Horário: 16:00 - 02:00
+├─ Atividade: Forró toda sexta, encontro de malandros
+├─ Comida: Baião (R$12), bebidas
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟠
+■ BOCA DO CÍRCULO (Grajaú)
+├─ ID: boca_grajau
+├─ Endereço: Estrada do Grajaú, 1200
+├─ Coordenadas: [290, 490]
+├─ Tipo: Ponto de venda (Círculo)
+├─ Horário: 20:00 - 06:00
+├─ Produtos: Drogas, enlatado (R$3)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🔴
+⚠️ PERIGO: 🟠 Alto.
+🏚️ 5.6 CIDADE TIRADENTES
+───────────────────────────────────────────────────────────────────
+Extremo leste, conjunto habitacional gigante (500 mil pessoas). Cidade dormitório, poucas opções de lazer. Forte presença do Círculo.
+■ TERMINAL CIDADE TIRADENTES
+├─ ID: terminal_tiradentes
+├─ Endereço: Rua dos Metalúrgicos, 1000
+├─ Coordenadas: [300, 500]
+├─ Tipo: Terminal de ônibus
+├─ Horário: 04:00 - 00:00
+├─ Linhas: Ônibus para o Centro (2:30h)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡
+■ PRAÇA DA JUVENTUDE
+├─ ID: praca_juventude
+├─ Endereço: Rua dos Metalúrgicos, 1100
+├─ Coordenadas: [305, 505]
+├─ Tipo: Praça
+├─ Horário: 24h
+├─ Atividade: Encontro de jovens, shows da Solaris
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟠
+■ BOCA DO CÍRCULO (Cidade Tiradentes)
+├─ ID: boca_tiradentes
+├─ Endereço: Rua dos Metalúrgicos, 1200
+├─ Coordenadas: [310, 510]
+├─ Tipo: Ponto de venda (Círculo)
+├─ Horário: 20:00 - 06:00
+├─ Produtos: Drogas, armas leves
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🔴
+⚠️ PERIGO: 🟠 Alto.
+🏚️ 5.7 MARSILAC
+───────────────────────────────────────────────────────────────────
+Extremo sul da cidade, distrito de Parelheiros. Zona rural, mananciais, isolamento. 71 minutos de transporte até o centro. Menor IDH da cidade. Conflitos por terra, milícias, posseiros.
+■ REPRESA (km 40)
+├─ ID: represa_marsilac
+├─ Endereço: Estrada de Marsilac, km 40
+├─ Coordenadas: [320, 520]
+├─ Tipo: Represa
+├─ Horário: 24h
+├─ Atividade: Pesca ilegal, banho (risco)
+├─ Perigo: 🔴 Alto (seguranças da Verde Vivo)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Conexões: Sede da Verde Vivo (5km)
+■ ASSENTAMENTO ESPERANÇA
+├─ ID: assentamento_esperanca_marsilac
+├─ Endereço: Estrada de Marsilac, km 43
+├─ Coordenadas: [322, 522]
+├─ Tipo: Assentamento
+├─ Horário: 24h
+├─ População: 30 famílias
+├─ Comida: Verdura (R$2), ovo (R$1), frango (R$20)
+├─ Perigo: 🟡 Médio (desconfiados com estranhos)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Contexto: "Vivem escondidos da polícia e das milícias."
+■ SEDE VERDE VIVO (km 45)
+├─ ID: sede_verde_vivo_marsilac
+├─ Endereço: Estrada de Marsilac, km 45
+├─ Coordenadas: [325, 525]
+├─ Tipo: Posto avançado da Verde Vivo
+├─ Horário: 24h
+├─ Atividade: Controle da água, fiscalização
+├─ Perigo: 🔴 Altíssimo (entrada proibida)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Conexões: Represa (monitoramento)
+■ BAR DO BAIANO
+├─ ID: bar_baiano
+├─ Endereço: Estrada de Marsilac, km 42
+├─ Coordenadas: [330, 530]
+├─ Tipo: Bar
+├─ Horário: 16:00 - 02:00
+├─ Proprietário: Seu Zé (ex-fazendeiro)
+├─ Comida: Cachorro-quente (R$8), cerveja (R$5), frango caipira (R$15)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Conexões: Assentamento (fornece frango)
+■ IGREJA
+├─ ID: igreja_marsilac
+├─ Endereço: Estrada de Marsilac, km 41
+├─ Coordenadas: [335, 535]
+├─ Tipo: Capela
+├─ Horário: Missa quinzenal
+├─ Atividade: Cultos, catequese
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Contexto: "O padre vem de Grajaú. Se chover, não vem."
+■ BOCA (fundos do bar)
+├─ ID: boca_baiano
+├─ Endereço: Estrada de Marsilac, km 42 (fundos do Bar do Baiano)
+├─ Coordenadas: [340, 540]
+├─ Tipo: Ponto de venda (Círculo)
+├─ Horário: 20:00 - 06:00
+├─ Produtos: Enlatado (R$4), carne "?" (R$12), bebida (R$5)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🔴
+📏 DISTÂNCIAS:
+Represa → Assentamento: 3km (40min a pé)
+Assentamento → Sede: 2km (25min a pé)
+Sede → Bar: 500m (6min a pé)
+⚠️ PERIGO GERAL: Dia 🟠 · Noite 🔴 · Madrugada 🔴
+---------------------------------------------------------------------
+🏚️ 5.8 ANHANGUERA (PERUS) (NOVO)
+───────────────────────────────────────────────────────────────────
+Extremo noroeste, distrito de Perus. Isolado, industrial, baixa expectativa de vida (58 anos). Cemitério enorme, indústrias abandonadas, periferia extrema.
+■ CEMITÉRIO DE PERUS
+├─ ID: cemiterio_perus
+├─ Endereço: Estrada de Perus, km 20
+├─ Coordenadas: [350, 550]
+├─ Tipo: Cemitério
+├─ Horário: 08:00 - 17:00
+├─ Atividade: Enterros (parte ativa), visitação
+├─ Conexões: Vazio de Perus? (C5)
+├─ Lore: "Enterravam indigentes em valas comuns."
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡
+■ INDÚSTRIAS ABANDONADAS
+├─ ID: industrias_abandonadas
+├─ Endereço: Estrada de Perus, km 22
+├─ Coordenadas: [355, 555]
+├─ Tipo: Ruínas industriais
+├─ Horário: 24h
+├─ Atividade: Depósito ilegal, ponto do Círculo
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🔴
+■ BAR DO ZÉ (Perus)
+├─ ID: bar_ze_perus
+├─ Endereço: Estrada de Perus, km 21
+├─ Coordenadas: [360, 560]
+├─ Tipo: Bar
+├─ Horário: 16:00 - 02:00
+├─ Produtos: Cachorro-quente (R$6), cerveja (R$4), pastel (R$5)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡
+■ BOCA DO CÍRCULO (Perus)
+├─ ID: boca_perus
+├─ Endereço: Estrada de Perus, km 21 (fundos do bar)
+├─ Coordenadas: [365, 565]
+├─ Tipo: Ponto de venda (Círculo)
+├─ Horário: 20:00 - 06:00
+├─ Produtos: Enlatado (R$3), carne "?" (R$10), drogas
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🔴
+■ IGREJA (Perus)
+├─ ID: igreja_perus
+├─ Endereço: Estrada de Perus, km 20
+├─ Coordenadas: [370, 570]
+├─ Tipo: Igreja
+├─ Horário: 08:00 - 20:00
+├─ Serviços: Missa, catequese, abrigo eventual
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+📏 DISTÂNCIAS:
+Cemitério → Indústrias: 1km (12min a pé)
+Indústrias → Bar: 800m (10min a pé)
+⚠️ PERIGO GERAL: Dia 🟠 · Noite 🔴 · Madrugada 🔴
+---------------------------------------------------------------------
+🏚️ 5.9 VILA ANDRADE (NOVO)
+───────────────────────────────────────────────────────────────────
+Bairro de contrastes extremos. De um lado, o Morumbi (bairro nobre). Do outro, a favela. 35% dos domicílios em favela. Muros, seguranças, e do lado de fora, a comunidade.
+■ CONDOMÍNIO PANAMBY
+├─ ID: condominio_panamby
+├─ Endereço: Avenida Professor Francisco Morato, 4000
+├─ Coordenadas: [400, 600]
+├─ Tipo: Condomínio de luxo
+├─ Horário: 24h
+├─ Segurança: Muros altos (4m), seguranças 24h, câmeras, interfone
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟢
+■ MURO
+├─ ID: muro_panamby
+├─ Endereço: Limite entre Panamby e favela
+├─ Coordenadas: [405, 605]
+├─ Tipo: Muro
+├─ Extensão: 350 metros
+├─ Atividade: Separa a favela do condomínio
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡
+■ FAVELA DO PANAMBY
+├─ ID: favela_panamby
+├─ Endereço: Atrás do muro, comunidade
+├─ Coordenadas: [410, 610]
+├─ Tipo: Favela
+├─ Horário: 24h
+├─ Atividade: Comunidade vertical, becos, lajes
+├─ Comida: Espetinho (R$6), pastel (R$4)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟠 (dia) · 🔴 (noite)
+■ BOCA DO CÍRCULO (Vila Andrade)
+├─ ID: boca_vila_andrade
+├─ Endereço: Favela do Panamby, beco central
+├─ Coordenadas: [415, 615]
+├─ Tipo: Ponto de venda (Círculo)
+├─ Horário: 20:00 - 06:00
+├─ Produtos: Drogas, armas leves, enlatado (R$3)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🔴
+■ BAR DA FAVELA
+├─ ID: bar_favela
+├─ Endereço: Favela do Panamby, laje central
+├─ Coordenadas: [420, 620]
+├─ Tipo: Bar
+├─ Horário: 18:00 - 04:00
+├─ Produtos: Espetinho (R$5), pastel (R$4), cerveja (R$4)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟠
+📏 DISTÂNCIAS:
+Muro (ponta a ponta): 350m (4min a pé)
+Favela → Panamby (portão): 500m (6min a pé)
+⚠️ PERIGO GERAL: Dia 🟠 · Noite 🔴 · Madrugada 🔴
+---------------------------------------------------------------------
+PARTE 6: CAMADA 5 — ESGOTO (EXPANSÃO)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🕳️ 6.1 ESTAÇÃO SÃO BENTO (-1)
+───────────────────────────────────────────────────────────────────
+Primeiro nível do subsolo. Ainda tem iluminação precária, usada por moradores de rua e pequenos comércios ilegais.
+■ PLATAFORMA ABANDONADA (São Bento)
+├─ ID: plataforma_sao_bento
+├─ Endereço: Estação São Bento, nível -1
+├─ Coordenadas: [500, 700]
+├─ Tipo: Plataforma abandonada
+├─ Horário: 24h
+├─ Atividade: Abrigo para 50 pessoas
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡
+■ FEIRA DO -1
+├─ ID: feira_menos_1
+├─ Endereço: Estação São Bento, nível -1
+├─ Coordenadas: [505, 705]
+├─ Tipo: Feira ilegal
+├─ Horário: 22:00 - 04:00
+├─ Produtos: Itens roubados, enlatado, informação
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟠
+⚠️ PERIGO: 🟡 Médio.
+🕳️ 6.2 ESTAÇÃO SÉ (-2)
+───────────────────────────────────────────────────────────────────
+Segundo nível do subsolo. Escuridão total, poucos pontos de luz. Ponto de encontro de surfistas mais experientes. Acesso ao Poço.
+■ O POÇO
+├─ ID: poco
+├─ Endereço: Estação Sé, nível -2
+├─ Coordenadas: [510, 710]
+├─ Tipo: Entrada para o -3
+├─ Atividade: Buraco escuro com escada de metal enferrujada
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟠
+■ ACAMPAMENTO DOS SURFISTAS (Sé)
+├─ ID: acampamento_surfistas_se
+├─ Endereço: Estação Sé, nível -2
+├─ Coordenadas: [515, 715]
+├─ Tipo: Acampamento
+├─ Atividade: Barracas improvisadas, fogueira
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟠
+■ ESTAÇÃO ABANDONADA (Sé)
+├─ ID: estacao_se_abandonada
+├─ Endereço: Estação Sé, nível -2
+├─ Coordenadas: [520, 720]
+├─ Tipo: Plataforma vazia
+├─ Atividade: Trens fantasmas passando de vez em quando
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟠
+⚠️ PERIGO: 🟠 Alto.
+🕳️ 6.3 ESTAÇÃO JÚLIO PRESTES (-3)
+───────────────────────────────────────────────────────────────────
+Terceiro nível, mais perigoso. Criaturas começam a aparecer. Os Surfistas mais experientes montam guarda aqui.
+■ PASSAGEM SECRETA PARA O -4
+├─ ID: passagem_menos_4
+├─ Endereço: Estação Júlio Prestes, nível -3
+├─ Coordenadas: [525, 725]
+├─ Tipo: Passagem secreta
+├─ Atividade: Conhecida apenas pelo Maquinista
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🔴
+■ DEPÓSITO DOS SURFISTAS (Júlio Prestes)
+├─ ID: deposito_surfistas
+├─ Endereço: Estação Júlio Prestes, nível -3
+├─ Coordenadas: [530, 730]
+├─ Tipo: Depósito
+├─ Atividade: Mantimentos, armas, equipamentos
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡
+■ PLATAFORMA DOS TRENS FANTASMAS
+├─ ID: plataforma_trens_fantasmas
+├─ Endereço: Estação Júlio Prestes, nível -3
+├─ Coordenadas: [535, 735]
+├─ Tipo: Plataforma
+├─ Atividade: Onde os trens abandonados param
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🔴
+⚠️ PERIGO: 🔴 Altíssimo.
+🕳️ 6.4 GALERIA DO LIMITE (-4)
+───────────────────────────────────────────────────────────────────
+A fronteira. Antes de descer, você ainda pode voltar. Depois, não. Guardada pelos Surfistas mais leais.
+■ PORTÃO PARA O -4
+├─ ID: portao_menos_4
+├─ Endereço: Galeria do Limite, nível -4
+├─ Coordenadas: [540, 740]
+├─ Tipo: Portão
+├─ Atividade: Grade enferrujada com avisos "NÃO DESÇA"
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 💀
+■ POSTO DE GUARDA
+├─ ID: posto_guarda_limite
+├─ Endereço: Galeria do Limite, nível -4
+├─ Coordenadas: [545, 745]
+├─ Tipo: Posto
+├─ Atividade: 4 surfistas armados
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 💀
+■ RUÍNAS ANTIGAS
+├─ ID: ruinas_antigas_limite
+├─ Endereço: Galeria do Limite, nível -4
+├─ Coordenadas: [550, 750]
+├─ Tipo: Ruínas
+├─ Atividade: Construções de antes do colapso
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 💀
+⚠️ PERIGO: 💀 Letal.
+🕳️ 6.5 O -4: A PROFUNDEZA
+───────────────────────────────────────────────────────────────────
+A criatura despertou aqui em 2085. Lagos subterrâneos, criaturas bioluminescentes, ruínas dos Antigos.
+■ LAGO NEGRO
+├─ ID: lago_negro
+├─ Endereço: -4, Profundeza
+├─ Coordenadas: [555, 755]
+├─ Tipo: Lago subterrâneo
+├─ Atividade: Água escura, profunda. Dizem que a criatura vive no fundo.
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 💀
+■ RUÍNAS DOS ANTIGOS
+├─ ID: ruinas_antigos
+├─ Endereço: -4, Profundeza
+├─ Coordenadas: [560, 760]
+├─ Tipo: Ruínas
+├─ Atividade: Construções de pedra, anteriores a qualquer registro histórico
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 💀
+■ NÚCLEO DO VAZIO
+├─ ID: nucleo_vazio
+├─ Endereço: -4, Profundeza
+├─ Coordenadas: [565, 765]
+├─ Tipo: Núcleo
+├─ Atividade: Onde a Mãe está. Uma esfera pulsante de carne e metal.
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 💀💀💀
+⚠️ PERIGO: 💀💀💀 Extremo.
+---------------------------------------------------------------------
+🕳️ 6.6 VAZIO DE PERUS (S5)
+───────────────────────────────────────────────────────────────────
+Além do -4. Ruínas da expedição da USP de 2041. Os Antigos vivem aqui. A Mãe governa.
+■ RUÍNAS DA EXPEDIÇÃO
+├─ ID: ruinas_expedicao
+├─ Endereço: Vazio de Perus (S5)
+├─ Coordenadas: [570, 770]
+├─ Tipo: Ruínas
+├─ Atividade: Equipamentos abandonados, diários, esqueletos
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 💀
+■ CAVERNAS BIOLUMINESCENTES
+├─ ID: cavernas_bioluminescentes
+├─ Endereço: Vazio de Perus (S5)
+├─ Coordenadas: [575, 775]
+├─ Tipo: Cavernas
+├─ Atividade: Fungos que brilham no escuro
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 💀
+■ CIDADE DOS ANTIGOS
+├─ ID: cidade_antigos
+├─ Endereço: Vazio de Perus (S5)
+├─ Coordenadas: [580, 780]
+├─ Tipo: Cidade
+├─ Atividade: Construções orgânicas, vivas
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 💀💀
+⚠️ PERIGO: 💀💀💀💀 Inominável.
+---------------------------------------------------------------------
+🕳️ 6.7 ESTAÇÃO REPÚBLICA (abandonada) (NOVO)
+───────────────────────────────────────────────────────────────────
+Estação de metrô desativada nos anos 80. Hoje abriga moradores de rua e alguns Surfistas.
+■ PLATAFORMA (abrigo)
+├─ ID: plataforma_republica
+├─ Endereço: Estação República, nível -2
+├─ Coordenadas: [585, 785]
+├─ Tipo: Plataforma / Abrigo
+├─ Horário: 24h
+├─ Habitantes: 20-30 moradores de rua, alguns Surfistas
+├─ Comida: Enlatado (troca), água de goteira (grátis)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟠
+■ TÚNEL NORTE (interditado)
+├─ ID: tunel_norte_republica
+├─ Endereço: Estação República, nível -2
+├─ Coordenadas: [590, 790]
+├─ Tipo: Túnel interditado
+├─ Atividade: Bloqueado por desabamento
+├─ Lore: "Dizem que levava à Estação Santa Cecília"
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🔴
+■ TÚNEL SUL (acesso)
+├─ ID: tunel_sul_republica
+├─ Endereço: Estação República, nível -2
+├─ Coordenadas: [595, 795]
+├─ Tipo: Túnel
+├─ Conexões: Anhangabaú (C3)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🔴
+■ FEIRA DO -2 (eventual)
+├─ ID: feira_menos_2
+├─ Endereço: Estação República, nível -2
+├─ Coordenadas: [600, 800]
+├─ Tipo: Feira ilegal
+├─ Horário: Esporádico
+├─ Produtos: Itens roubados, enlatado, informação
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🔴
+■ ACESSO C3
+├─ ID: acesso_c3_republica
+├─ Endereço: Estação República, nível -2
+├─ Coordenadas: [605, 805]
+├─ Tipo: Escadaria
+├─ Conexões: Praça da República (C3)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟠
+⚠️ PERIGO GERAL: Dia 🟠 · Noite 🔴 · Madrugada 🔴
+---------------------------------------------------------------------
+🕳️ 6.8 ESTAÇÃO SANTA CECÍLIA (fantasma) (NOVO)
+───────────────────────────────────────────────────────────────────
+Estação fechada nos anos 90. Dizem que há uma passagem para o -4. Os Surfistas guardam o local.
+■ PLATAFORMA
+├─ ID: plataforma_santa_cecilia
+├─ Endereço: Estação Santa Cecília, nível -2
+├─ Coordenadas: [610, 810]
+├─ Tipo: Plataforma
+├─ Habitantes: 3-5 Surfistas (vigiam)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🔴
+■ TÚNEL LESTE
+├─ ID: tunel_leste_santa_cecilia
+├─ Endereço: Estação Santa Cecília, nível -2
+├─ Coordenadas: [615, 815]
+├─ Tipo: Túnel
+├─ Ambiente: Escuro, úmido, marcas de garras
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 💀
+■ PASSAGEM SELADA
+├─ ID: passagem_selada_santa_cecilia
+├─ Endereço: Estação Santa Cecília, nível -2
+├─ Coordenadas: [620, 820]
+├─ Tipo: Porta de metal
+├─ Lore: "Os Surfistas mais velhos dizem que foi aberta em 2085. Algo saiu."
+├─ Conexões: -4 (atrás da porta)
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 💀
+■ POSTO DOS SURFISTAS
+├─ ID: posto_surfistas_santa_cecilia
+├─ Endereço: Estação Santa Cecília, nível -2
+├─ Coordenadas: [625, 825]
+├─ Tipo: Posto
+├─ Habitantes: 2 Surfistas sempre de guarda
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🔴
+⚠️ PERIGO GERAL: 🔴 Alto (dia) · 💀 Letal (noite)
+---------------------------------------------------------------------
+🕳️ 6.9 TÚNEL REBOUÇAS (versão abandonada) (NOVO)
+───────────────────────────────────────────────────────────────────
+Dizem que, durante a construção do Túnel Rebouças nos anos 60, uma galeria foi aberta e depois esquecida.
+■ ENTRADA (escondida)
+├─ ID: entrada_reboucas
+├─ Endereço: Túnel Rebouças, acesso oculto
+├─ Coordenadas: [630, 830]
+├─ Tipo: Porta de manutenção
+├─ Acesso: Só Surfistas têm chave
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🟡
+■ GALERIA
+├─ ID: galeria_reboucas
+├─ Endereço: Túnel Rebouças, galeria abandonada
+├─ Coordenadas: [635, 835]
+├─ Tipo: Túnel abandonado
+├─ Ambiente: Silêncio, goteiras, ratos
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🔴
+■ BIFURCAÇÃO
+├─ ID: bifurcacao_reboucas
+├─ Endereço: Túnel Rebouças, galeria abandonada
+├─ Coordenadas: [640, 840]
+├─ Tipo: Bifurcação
+├─ Opções: Esquerda (desabamento), Direita (mais túnel), Frente (???)
+├─ Lore: "Surfistas dizem que a frente leva ao -4. Mas eles nunca foram."
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 🔴
+■ "NADA"
+├─ ID: nada_reboucas
+├─ Endereço: Túnel Rebouças, galeria abandonada
+├─ Coordenadas: [645, 845]
+├─ Tipo: Parede
+├─ Atividade: O túnel simplesmente acaba. Ou parece acabar. Fresta com vento.
+├─ OCUPANTE: [gerado na campanha via 14_GERADORES 2.7]
+└─ Perigo base: 💀
+⚠️ PERIGO GERAL: 🔴 Alto
+---------------------------------------------------------------------
+PARTE 7: TABELAS DE DESLOCAMENTO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📏 7.1 TEMPOS ENTRE CAMADAS
+───────────────────────────────────────────────────────────────────
+Origem → Destino | Skate | Ônibus | Trem
+Heliópolis (C4) → Centro (C3) | 48 min | 32 min | 24 min
+Heliópolis (C4) → Paulista (C2)| 1h20 | 50 min | 35 min
+Heliópolis (C4) → Jardins (C1) | 2h | 1h30 | 1h
+Centro (C3) → Paulista (C2) | 30 min | 20 min | 12 min
+Paulista (C2) → Jardins (C1) | 40 min | 25 min | 18 min
+Centro (C3) → Estação Sé (C5) | 1h | — | 30 min
+Estação Sé (C5) → Júlio Prestes (C5)| 40 min | — | 20 min
+📏 7.2 DISTÂNCIAS ENTRE BAIRROS (C3)
+───────────────────────────────────────────────────────────────────
+Trecho | Distância | A pé | Ônibus | Trem
+Bom Retiro → Liberdade | 1,2km | 15min| 10min | 8min
+Bom Retiro → Brás | 2km | 25min| 18min | 12min
+Liberdade → Cambuci | 1,5km | 20min| 15min | 10min
+Brás → Mooca | 1km | 12min| 8min | 5min
+Bom Retiro → Luz | 300m | 4min | 2min | -
+⚠️ 7.3 FATORES QUE AFETAM VIAGENS
+───────────────────────────────────────────────────────────────────
+Fator | Efeito no tempo de viagem
+Chuva forte | +20% (trânsito, alagamentos)
+Tempestade | +50% (risco de desvio, paradas)
+Névoa química | +30% (uso de máscaras, lentidão)
+Toque de recolher| +100% (fugir de patrulhas)
+Conflito de facções| +200% (rotas bloqueadas, desvios)
+Noite | +10% (cuidado redobrado)
+🔴 7.4 PERIGO POR REGIÃO
+───────────────────────────────────────────────────────────────────
+Local | Dia | Noite | Madrugada
+Jardins (C1) | 🟢 | 🟢 | 🟢
+Itaim (C1) | 🟢 | 🟢 | 🟢
+Faria Lima (C1) | 🟢 | 🟢 | 🟢
+Paulista (C2) | 🟢 | 🟡 | 🟡
+Berrini (C2) | 🟢 | 🟢 | 🟢
+Pinheiros (C2) | 🟢 | 🟡 | 🟡
+Perdizes (C2) | 🟢 | 🟡 | 🟠
+Jardim Paulista (C2) | 🟢 | 🟢 | 🟢
+Cerqueira César (C2) | 🟢 | 🟡 | 🟠
+Centro (C3) | 🟡 | 🟠 | 🔴
+Santa Cecília (C3) | 🟡 | 🟠 | 🔴
+República (C3) | 🟡 | 🟠 | 🔴
+Cracolândia (C3) | 🔴 | 🔴 | 🔴
+Mooca (C3) | 🟢 | 🟡 | 🟠
+Tatuapé (C3) | 🟢 | 🟢 | 🟡
+Bom Retiro (C3) | 🟡 | 🔴 | 🔴
+Liberdade (C3) | 🟢 | 🟡 | 🟠
+Cambuci (C3) | 🟡 | 🔴 | 🔴
+Brás (C3) | 🟠 | 🔴 | 🔴
+Heliópolis (C4) | 🟡 | 🟠 | 🔴
+Brasilândia (C4) | 🟠 | 🔴 | 🔴
+Guaianases (C4) | 🟡 | 🟠 | 🔴
+Parelheiros (C4) | 🟠 | 🔴 | 🔴
+Marsilac (C4) | 🟠 | 🔴 | 🔴
+Estação Sé (C5) | 🔴 | 🔴 | 💀
+Júlio Prestes (C5) | 🔴 | 💀 | 💀
+Galeria do Limite (C5)| 💀 | 💀 | 💀
+---------------------------------------------------------------------
+PARTE 8: MAPAS DE COMBATE (17 CENÁRIOS REFINADOS)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8.1 ESTAÇÃO JÚLIO PRESTES — PLATAFORMA ABANDONADA
+───────────────────────────────────────────────────────────────────
+📖 DESCRIÇÃO: "A estação Júlio Prestes é uma catedral abandonada do transporte. O teto, onde deveria haver luz, é apenas escuridão. Goteiras marcam o tempo com pingos irregulares. Os trilhos, cobertos de ferrugem, se estendem para leste e oeste, sumindo em bocas de túnel que parecem engolir qualquer claridade. O eco de passos se perde nas paredes de azulejo trincado. No centro da plataforma, um vagão enferrujado permanece como uma criatura adormecida."
+📋 INFORMAÇÕES TÁTICAS:
+Elemento | Descrição
+PILARES (8) | Concreto, 1,5m diâmetro. Cobertura +2. Podem ser escalados (FO 12) para ganhar +1 acerto.
+TRILHOS | Terreno difícil. Queda causa 1d4 dano. Trem fantasma passa a cada 1d6 rodadas (3d6 dano, CD 16 Des para sair).
+VAGÃO | Cobertura total (+4) dentro. Portas travadas (FO 14 ou Mecânica CD 12). Teto acessível (posição elevada +2).
+ACESSO -4 | Escotilha no fundo da plataforma. Percepção CD 14 para achar. Escada de metal (range, -2 Furtividade).
+GOTEIRAS | Poças d'água no chão. Silêncio quebrado a cada 1d4 rodadas (alerta criaturas).
+🎲 TABELA DE EVENTOS (1d6 a cada 2 rodadas):
+1d6 | Evento
+1 | TREM FANTASMA: Vagão fantasma passa pelos trilhos. Quem estiver nos trilhos sofre 3d6 dano (CD 16 Des para pular). Todos -2 Percepção 1 rodada.
+2 | GOTEIRA ÁCIDA: Gota cai em área 3m. 1d4 dano de ácido (ignora armadura). Percepção CD 12 para evitar.
+3 | VULTO: Sombra cruza a plataforma. Teste HT 12 ou perde 1 rodada (paralisia de medo).
+4 | RATOS: Bando de ratos (1d6, HP 2 cada) atacam. Mordida 1d2, risco de doença (HT 10 ou -1 FP 1 dia).
+5 | DESABAMENTO: Parte do teto cai. 2d6 dano em área 5m (CD 14 Esquiva para metade).
+6 | SILÊNCIO ABSOLUTO: Tudo para. Por 1 rodada, Furtividade +4. Criaturas no -4 se mexem.
+🧩 GANCHOS: Encontrar passagem para o -4 · Investigar trem fantasma · Resgatar surfista perdido.
+---------------------------------------------------------------------
+8.2 COMPLEXO SOLARIS — PALCO PRINCIPAL
+───────────────────────────────────────────────────────────────────
+📖 DESCRIÇÃO: "A música não é apenas alta — ela é física. Você sente cada batida no peito, nos ossos, nos dentes. Luzes estroboscópicas picam a multidão em fragmentos de movimento. No palco, o MC sobe e desce, sua voz ecoando por caixas de som do tamanho de carros. A multidão é um mar de braços, celulares e olhos vidrados pela ÉTER. Seguranças de preto patrulham as bordas como abutres."
+📋 INFORMAÇÕES TÁTICAS:
+Elemento | Descrição
+PALCO | 1,5m altura. Posição elevada (+2 acerto). Acesso por escadas laterais. O MC pode ser refém ou aliado.
+GRADES | Metálicas, 2m altura. Cobertura +2. Podem ser derrubadas (FO 14) ou escaladas (DE 12).
+PLATEIA | Centenas de pessoas. Terreno difícil. Escudo humano: -2 acerto contra quem está na multidão. Pode virar turbamulta (1d6×10 pessoas hostis).
+CAIXAS DE SOM | Torres de 2,5m. Se danificadas (HP 20), feedback ensurdecedor: HT 12 ou -2 ações 1 rodada. Podem ser usadas como cobertura +3.
+CAMARIM | Acesso restrito. Porta com seguranças (HP 25). Dentro: sofás, bebidas, possíveis informantes.
+REFLETORES | Holofotes móveis. Podem cegar (Percepção CD 14) ou serem usados para sinalizar.
+🎲 TABELA DE EVENTOS (1d6 a cada rodada na multidão):
+1d6 | Evento
+1 | PÂNICO: Alguém grita "tiro!". Multidão corre. 1d6 pisoteio (dano 1d4, CD 12 Esquiva para evitar).
+2 | REFLETOR EXPLODE: Estilhaços em área 4m. 2d6 dano (CD 14 Esquiva para metade). Área fica escura 1d4 rodadas.
+3 | REFORÇOS: 1d4 seguranças da Solaris (HP 20) chegam. Armados com cassetetes (1d8).
+4 | MC INCITA: "Pega eles!" A multidão fica hostil por 1d4 rodadas. Teste Lábia CD 16 para acalmar.
+5 | QUEDA DE ENERGIA: Escuridão total por 1d4 rodadas. Furtividade +4. Caos geral.
+6 | KOND APARECE: O próprio Kond (ou holograma) surge. Teste Vontade HT 14 ou fica hipnotizado 1 rodada.
+🧩 GANCHOS: Proteger MC de atentado · Roubar nova música · Encontrar informante no camarim · Sabotar show.
+---------------------------------------------------------------------
+8.3 TEMPLO DA REDENÇÃO — SAGUÃO
+───────────────────────────────────────────────────────────────────
+📖 DESCRIÇÃO: "O Templo da Redenção é silencioso demais. O saguão principal tem bancos de madeira escura, desgastados por décadas de joelhos e lágrimas. Velas tremulam em nichos nas paredes, lançando sombras que dançam como se tivessem vida própria. No altar, uma cruz de madeira simples. Atrás dela, uma porta leva às catacumbas. O cheiro é de incenso, mofo e algo mais antigo, algo que vem de baixo."
+📋 INFORMAÇÕES TÁTICAS:
+Elemento | Descrição
+ALTAR | 1m altura. Posição elevada (+1 acerto). Atrás, espaço para 2 pessoas escondidas (Percepção CD 16).
+BANCOS (10) | Madeira, 1m. Cobertura +2. Podem ser virados (barricada +3, ação de movimento).
+VELAS (20) | Iluminação fraca. Se apagadas, escuridão parcial (-2 Percepção, +2 Furtividade).
+FIÉIS (1d10) | NPCs comuns (HP 10). Podem ser escudo humano, feridos ou convertidos em aliados.
+CATACUMBAS | Acesso por porta atrás do altar. Escura, úmida. Leva ao subsolo (C5). Perigo base: 🔴.
+CONFESSIONÁRIO | Cabine de madeira. Cobertura total (+4). Pode esconder alguém (Percepção CD 14).
+🎲 TABELA DE EVENTOS (1d6 a cada 3 rodadas):
+1d6 | Evento
+1 | VELAS APAGAM: Todas as velas se apagam. Escuridão total por 1d4 rodadas. Furtividade +4.
+2 | FIEL ATACA: Um fiel tem ataque cardíaco (HT 10 ou morre). PJs podem ajudar (Medicina CD 12) ou ignorar.
+3 | SINO TOCA: Sozinho. Todas as criaturas no templo ficam atentas (-2 Furtividade) por 1d4 rodadas.
+4 | GUARDIÕES CHEGAM: 2 Guardiões da Mão de Deus (HP 25) entram. "O que fazem aqui?" Atitude depende da abordagem.
+5 | PROFETA SE LEVANTA: Se o Profeta estiver presente, ele se levanta e profetiza. Todos ficam pasmos 1 rodada (sem ações).
+6 | ALGO NAS CATACUMBAS: Barulho vindo de baixo. Ressonância. Criaturas do -4 estão se mexendo.
+🧩 GANCHOS: Investigar catacumbas · Proteger o Profeta · Descobrir segredo dos pesadelos.
+---------------------------------------------------------------------
+8.4 MERCADO NEGRO DA SANTA IFIGÊNIA
+───────────────────────────────────────────────────────────────────
+📖 DESCRIÇÃO: "Você está na Santa Ifigênia, mas não é a mesma que seus avós conheciam. As antigas lojas de eletrônicos agora são fortalezas de metal e vidro blindado. Barraquinhas se espalham pelo asfalto, vendendo de tudo: chips de memória roubados, ciberware de procedência duvidosa, armas que 'cairam de caminhão'. O ar cheira a solda, óleo de cozinha e desespero. Drones da Omni zumbem lá em cima, sempre vigiando."
+📋 INFORMAÇÕES TÁTICAS:
+Elemento | Descrição
+LOJAS (6) | Fachadas de metal e vidro blindado (DR 3). Cobertura total (+4) dentro. Portas reforçadas (FO 16).
+BARRACAS (8) | Lona e madeira. Cobertura +2. Fáceis de derrubar. Dentro: mercadorias diversas.
+CORREDORES | Estreitos (2m). Combate em fila, -2 para ataques à distância. Lotados de gente (terreno difícil).
+SOBRADOS | 2º andar com janelas. Posição elevada (+2 acerto). Acesso por escadas internas.
+DRONES OMNI | 1d4 drones de vigilância (HP 10) no ar. Se alertados, viram drones de combate (2d6 dano).
+BUEIROS | Acesso ao subsolo (C5). Tampa de metal (FO 12 para abrir). Fuga possível.
+🎲 TABELA DE EVENTOS (1d10 a cada rodada, mantendo original):
+1d10 | Evento
+1 | BATIDA POLICIAL: 1d6 policiais chegam. Todo mundo corre. Terreno difícil por 2 rodadas.
+2 | EXPLOSÃO: Uma barraca explode (gás?). 3d6 dano em área 5m (CD 14 Esquiva para metade).
+3 | DRONES DISPARAM GÁS: 1d4 drones lançam gás lacrimogêneo. HT 12 ou -2 ações 1d4 rodadas.
+4 | PERSEGUIÇÃO: Alguém passa correndo com um item roubado. PJs podem interceptar (DE 14) ou ignorar.
+5 | VENDEDOR OFERECE "PROMOÇÃO": "Ciberware, baratinho, só pra você!" 50% de chance de ser golpe.
+6 | QUEDA DE ENERGIA: Apagão 1d4 rodadas. Furtividade +4. Lojas travam (Computadores CD 14 para destravar).
+7 | TIROTEIO: Dois grupos rivais trocam tiros. 1d6 dano por área a cada rodada em ponto aleatório.
+8 | INFORMANTE: Alguém puxa seu braço. "Psst, quer saber da última?" Informação por R$50.
+9 | DRONE ABATIDO: Um drone cai. 2d6 dano em área 3m se perto. Pode conter dados (Computadores CD 14).
+10 | ALGO GRANDE CHEGANDO: Caminhão do Círculo entra na rua. Capangas armados descem.
+🧩 GANCHOS: Comprar item raro · Encontrar contato · Seguir informante · Roubar dados de drone.
+---------------------------------------------------------------------
+8.5 TELHADOS DA BRASILÂNDIA
+───────────────────────────────────────────────────────────────────
+📖 DESCRIÇÃO: "Lajes, uma ligada à outra por tábuas improvisadas, escadas de ferro enferrujadas e cordas esticadas entre varais. O céu está coalhado de fios elétricos, como teias de aranha gigantes. Lá embaixo, a rua é um labirinto de becos, com crianças correndo e cachorros latindo. O funk explode de uma caixa de som em algum lugar. Aqui em cima, você vê tudo. E todos podem ver você."
+📋 INFORMAÇÕES TÁTICAS:
+Elemento | Descrição
+LAJES (várias) | Concreto, planas. Cobertura +2 nas bordas. Pular entre lajes: DE 12 (falha = 2d6 dano).
+PASSARELAS | Tábuas e cordas. Estreitas (1m). Combate: -2 acerto. Risco de queda: 1d6, CD 14 para equilibrar.
+ESCADAS | Ferro enferrujado. Barulhentas (-2 Furtividade). Podem quebrar (1d6 dano, FO 14 para segurar).
+CAIXAS D'ÁGUA | 2m altura. Cobertura total (+4) atrás. Podem ser abertas (FO 12) para derramar água.
+VARAIS | Cordas com roupas. Camuflagem +2. Podem ser usadas para balançar (DE 14).
+BORDA | Queda de 3-4 andares (3d6 dano). Percepção CD 10 para notar.
+🎲 TABELA DE EVENTOS (1d6 a cada 2 rodadas):
+1d6 | Evento
+1 | CRIANÇA CORRE: Uma criança atravessa a laje. Se for atingida, comunidade fica hostil.
+2 | TÁBUA QUEBRA: Passarela cede. 1d6 dano, CD 14 para agarrar a borda.
+3 | HELICÓPTERO DA MILÍCIA: Passa baixo. Holofote. Furtividade -2 por 1d4 rodadas.
+4 | TIROTEIO NA RUA: Lá embaixo. Todo mundo se abaixa por 1 rodada. Chance de bala perdida (1d6, 1 = 1d6 dano).
+5 | VIZINHO ATIRA: Morador acha que é ladrão. 1d2 tiros de raspão (1d4 dano cada, Pontaria +2).
+6 | GIRO DE 360: Skate ramp. Manobra radical. Se falhar, cai (2d6). Se passar, +1 FP.
+🧩 GANCHOS: Fuga de perseguição · Observar ponto de encontro · Resgatar criança · Entregar encomenda.
+---------------------------------------------------------------------
+8.6 LABORATÓRIO CLANDESTINO DA OMNI
+───────────────────────────────────────────────────────────────────
+📖 DESCRIÇÃO: "Concreto bruto, úmido, com manchas de mofo que parecem mapas de lugares inexistentes. Tubos de ensaio vibram em estantes metálicas, e o zumbido constante de geradores preenche o ar. No centro, grandes tanques de vidro contêm corpos flutuando em líquido amniótico sintético. O cheiro é de produtos químicos, sangue e algo doce demais. Câmeras giram lentamente no teto."
+📋 INFORMAÇÕES TÁTICAS:
+Elemento | Descrição
+TANQUES (4) | Vidro temperado (DR 2, HP 20). Se quebrados, líquido inunda área (1d4 rodadas para escoar) e criaturas dentro acordam.
+MESAS | Cobertura +2. Cheias de equipamentos frágeis. Derrubar causa 1d4 dano de choque (CD 12).
+COMPUTADORES | Terminais. Podem ser hackeados (CD 14) para desativar câmeras/alarme ou obter dados.
+TÚNEIS VENTILAÇÃO| Estreitos. Rastejar: Furtividade +4. Levam a salas adjacentes.
+GERADOR | Fonte de energia. Se desligado, escuridão e câmeras desativadas. Se danificado, explosão 4d6 área 6m.
+CÂMARAS FRIGORÍFICAS| Portas isoladas. Dentro, corpos congelados. -4 Percepção por névoa.
+🎲 TABELA DE EVENTOS (1d6 a cada 2 rodadas):
+1d6 | Evento
+1 | ALARME DISPARA: Todos os seguranças (1d6+2, HP 25) ficam em alerta. Portas trancam (Computadores CD 16).
+2 | TANQUE SE ROMPE: Líquido inunda área 5m. Criatura anfíbia (HP 30) ataca.
+3 | LUZES PISCAM: Escuridão intermitente. -2 acerto por 1d4 rodadas.
+4 | CLONE ACORDA: Um dos tanques se abre. Clone (HP 20, dados de Solo) ataca aleatoriamente.
+5 | PESQUISADOR EM PÂNICO: Funcionário (HP 15) tenta fugir ou se esconder. Pode dar informações.
+6 | DESPRESSURIZAÇÃO: Portas de segurança fecham. Ar é sugado. Teste FO 14 para não ser arrastado.
+🧩 GANCHOS: Roubar dados de pesquisa · Resgatar cobaia · Sabotar produção · Descobrir segredo dos clones.
+---------------------------------------------------------------------
+8.7 O AFOGADO — ESTAÇÃO SUBMERSA
+───────────────────────────────────────────────────────────────────
+📖 DESCRIÇÃO: "A água chega na cintura. Escura, fria, com uma película de óleo na superfície que reflete as luzes de emergência ainda piscando, 50 anos depois. Os azulejos das paredes estão cobertos de limo. Vagões de trem submersos emergem como baleias mortas. Bolhas sobem de algum lugar profundo. O silêncio é quebrado apenas pelo gotejar e por algo que se move na água."
+📋 INFORMAÇÕES TÁTICAS:
+Elemento | Descrição
+ÁGUA NÍVEL 2 | Até a cintura. Deslocamento -3. Veículos não funcionam. Furtividade -2 (respingos).
+PLATAFORMA | Área seca. Cobertura +2. Acesso por escadas.
+VAGÕES SUBMERSOS| Dentro, água até o peito. Cobertura total (+4). Podem conter suprimentos ou criaturas.
+LUZES PISCANDO | Iluminação irregular. -2 Percepção a distância. A cada 1d4 rodadas, apagam 1 rodada.
+CRIATURAS ANFÍBIAS| 1d4 no início, +1d4 a cada 3 rodadas. Atacam em grupo.
+🎲 TABELA DE EVENTOS (1d6 a cada 2 rodadas):
+1d6 | Evento
+1 | CRIATURA AGARRA: Algo puxa suas pernas. Teste FO 14 para se soltar, senão 1d6 dano e é puxado 1d4m.
+2 | CORPO BOIA: Um cadáver emerge. Teste HT 12 ou -1 Insight (choque).
+3 | DESABAMENTO: Parte do teto cai na água. Onda forte: todos CD 12 Esquiva ou caem.
+4 | CORRENTEZA FORTE: Água começa a correr. Teste FO 12 a cada rodada para não ser arrastado.
+5 | LUZES APAGAM: Escuridão total 1d4 rodadas. Criaturas atacam com +2.
+6 | ALGO GRANDE NO FUNDO: A criatura-mãe (HP 60) desperta. Fuja ou morra.
+🧩 GANCHOS: Encontrar carga perdida · Resgatar sobrevivente · Caçar a criatura · Descobrir origem da estação.
+---------------------------------------------------------------------
+8.8 BOCA DO CIRCUITO — RAVE ILEGAL
+───────────────────────────────────────────────────────────────────
+📖 DESCRIÇÃO: "O som não é música — é uma parede. Uma frequência tão baixa que você sente nos ossos. Luzes estroboscópicas picam a multidão em fragmentos de movimento. O ar é denso, cheio de vapor de éter e suor. Corpos se movem como uma só criatura, em transe. Nos cantos, olheiros do Círculo observam. No palco, um DJ misterioso opera sob um capuz."
+📋 INFORMAÇÕES TÁTICAS:
+Elemento | Descrição
+MULTIDÃO | Centenas de pessoas. Terreno difícil. Escudo humano (-2 acerto). Pode virar turbamulta.
+PALCO | 1,5m altura. Posição elevada (+2). DJ pode ser refém. Acesso restrito.
+CAIXAS DE SOM | Torres 2,5m. Se quebradas, feedback: HT 12 ou -2 ações 1 rodada.
+BAR | Balcão comprido. Cobertura +2. Garrafas como armas (1d4). Vende ÉTER (R$50).
+ÁREA VIP | Cercada, com seguranças (HP 25). Dentro: traficantes, informantes.
+SAÍDAS (4) | Duas principais (cheias de seguranças), duas de emergência (trancadas).
+🎲 TABELA DE EVENTOS (1d6 a cada rodada):
+1d6 | Evento
+1 | PÂNICO: Alguém desmaia. Multidão se agita. 1d4 pessoas são pisoteadas (dano 1d4).
+2 | CAIXA DE SOM EXPLODE: 3d6 dano área 5m, CD 14 Esquiva para metade. Todos -2 ações 1 rodada.
+3 | DJ ANUNCIA "SURPRESA": Luzes apagam. Tiros. 1d4 capangas do Círculo atacam.
+4 | BRIGA GENERALIZADA: 2d6 pessoas começam a lutar. Terreno difícil e ataques aleatórios.
+5 | POLÍCIA CHEGA: Viaturas cercam. Todo mundo corre. Portas de emergência abrem.
+6 | KOND APARECE: No telão, Kond anuncia nova droga. PJs podem ser abordados por fãs.
+🧩 GANCHOS: Comprar ÉTER · Encontrar informante · Resgatar amigo viciado · Sabotar o som.
+---------------------------------------------------------------------
+8.9 COBERTURA DO PADRINHO
+───────────────────────────────────────────────────────────────────
+📖 DESCRIÇÃO: "O elevador abre diretamente para o céu. Literalmente — uma parede inteira de vidro mostra São Paulo lá embaixo, minúscula, com nuvens passando na altura dos seus olhos. A cobertura é um oásis de luxo: piscina, móveis de design, obras de arte. No centro, o Padrinho (ou será um clone?) espera, cercado por seguranças. O vento lá em cima é constante, frio."
+📋 INFORMAÇÕES TÁTICAS:
+Elemento | Descrição
+VIDRO PANORÂMICO| Parede de vidro (DR 2, HP 30). Se quebrado, sucção (teste FO 14) e queda (100m, morte).
+MÓVEIS | Sofás, mesas. Cobertura +2. Objetos de arte (valiosos, podem ser arremessados).
+SEGURANÇAS (4) | HP 35, armaduras 2, submetralhadoras (2d6). Leais ao Padrinho.
+HELIPORTO | Plataforma externa. Helicóptero pode ser usado para fuga.
+ELEVADOR | Único acesso. Pode ser desativado (Computadores CD 16).
+PISCINA | Água 1,5m. Deslocamento reduzido. Afogar: HT 12 a cada rodada.
+🎲 TABELA DE EVENTOS (1d6 a cada 2 rodadas):
+1d6 | Evento
+1 | PADRINHO OFERECE DRINK: "Vamos conversar?" Trégua temporária. Pode ser negociado.
+2 | SEGURANÇAS ATACAM: Reagem a qualquer movimento brusco. +2 iniciativa.
+3 | HELICÓPTERO CHEGA: 1d4 reforços desembarcam. Se for aliado, chance de fuga.
+4 | ELEVADOR DESATIVADO: Alguém cortou a energia. Fim da linha.
+5 | PADRINHO É UM CLONE: Revelação. O verdadeiro está em outro lugar.
+6 | VIDRO TRINCA: Estresse. Todos têm 1 rodada para se mover antes de quebrar.
+🧩 GANCHOS: Negociar com o Padrinho · Eliminar alvo · Descobrir identidade · Fuga de helicóptero.
+---------------------------------------------------------------------
+8.10 CRACOLÂNDIA — O FLUXO
+───────────────────────────────────────────────────────────────────
+📖 DESCRIÇÃO: "O cheiro é a primeira coisa que você sente. Urina, fezes, podridão, misturado com o doce químico do crack sendo fumado a cada esquina. Fogueiras em tambores iluminam rostos esquálidos, olhos vazios. Corpos se movem como zumbis, alguns caídos no chão. Em cada beco, uma boca do Círculo vende a próxima dose. A polícia não vem aqui. Ninguém vem aqui."
+📋 INFORMAÇÕES TÁTICAS:
+Elemento | Descrição
+MULTIDÃO | Dezenas de usuários. Terreno difícil. Podem ser hostis se provocados.
+FOGUEIRAS (5) | Tambores de fogo. Contato: 1d6 dano. Iluminam áreas.
+BOCAS (3) | Pontos de venda do Círculo. 2 capangas (HP 20) cada. Drogas, armas leves.
+VIATURAS | Carros da polícia abandonados ou em chamas. Cobertura +3.
+ESGOTO | Bueiros abertos. Acesso ao C5. Fuga possível.
+FIGURAS DISFARÇADAS| 1d4 agentes da Omni ou da Mão de Deus observando.
+🎲 TABELA DE EVENTOS (1d10 a cada rodada, original adaptado):
+1d10 | Evento
+1 | USUÁRIO ABORDA: "Tem um trocado?" Se não der, pode ficar agressivo.
+2 | POLÍCIA PASSA: Viatura cruza a rua. Todos se escondem por 1 rodada.
+3 | BRIGA DE FACÇÕES: Dois grupos trocam tiros. 1d6 dano em área aleatória.
+4 | ALGUÉM MORRE: Um usuário cai. Teste HT 12 ou -1 Insight (testemunhar).
+5 | "IRMÃO, VOCÊ NÃO DEVIA ESTAR AQUI": Um desconhecido tenta convencer os PJs a ir embora.
+6 | FOGUEIRA EXPLODE: Tambor de combustível. 2d6 dano área 4m, CD 14.
+7 | BOCA É FECHADA: Capangas do Círculo espancam um comprador.
+8 | MANIFESTAÇÃO: Grupo da Mão de Deus chega para resgatar viciados.
+9 | DRONE DA OMNI: Sobrevoa, registrando tudo. Se notar PJs, podem ser identificados.
+10 | O FLUXO "ACORDA": De repente, todos param e olham na mesma direção. Algo está vindo do esgoto.
+🧩 GANCHOS: Encontrar informante · Resgatar viciado · Comprar informação · Investigar desaparecimentos.
+---------------------------------------------------------------------
+8.11 BECO DO ATRASO (LIBERDADE) (NOVO)
+───────────────────────────────────────────────────────────────────
+📖 DESCRIÇÃO: "O Beco do Atraso é uma fresta no tempo. Luz amarela de postes antigos ilumina mesas de madeira tortas, onde velhos jogam dominó e bebem cachaça como se 2097 não tivesse chegado. Barris de chopp empilhados, bandeirinhas de festa junina murchas, um cheiro de gordura de pastel que nunca sai."
+📋 INFORMAÇÕES TÁTICAS:
+Elemento | Descrição
+MESAS (6) | Madeira, viram barricada (+2). Derrubar cria terreno difícil.
+BARRIS (4) | 1m altura, cobertura +3. Podem ser rolados (FO 12, 1d6 dano em linha).
+POSTES (2) | Iluminação fraca. Se quebrados, escuridão parcial.
+PORTAS (3) | Duas para bares (trancadas FO 14), uma para telhado (escada de incêndio).
+TELHADO | Acesso por escada. Posição elevada (+2 acerto). Risco de queda (2d6).
+🎲 TABELA DE EVENTOS (1d6 a cada rodada):
+1d6 | Evento
+1 | Velho do dominó joga a mesa (terreno difícil, 1d4 dano em área)
+2 | Garrafa quebrada (1d4 dano, terreno perigoso)
+3 | Polícia passa na boca do beco (todos se escondem 1 rodada)
+4 | Briga generalizada começa (+1d4 capangas do Círculo)
+5 | Gato preto cruza (superstição: -1 moral nos inimigos)
+6 | Silêncio absoluto. Algo se move no telhado.
+🧩 GANCHOS: Cobrança de dívida, encontro com informante, fuga de perseguição.
+---------------------------------------------------------------------
+8.12 GALPÃO DO BRÁS (CÍRCULO) (NOVO)
+───────────────────────────────────────────────────────────────────
+📖 DESCRIÇÃO: "O galpão é uma catedral do trabalho precário. Dezenas de máquinas de costura, cabos pendurados, tecidos empilhados até o teto. No fundo, uma porta de ferro leva ao 'escritório' do gerente. O cheiro é de óleo de máquina, suor e algo podre vindo dos fundos. Bolivianos costuram em silêncio, olhos baixos."
+📋 INFORMAÇÕES TÁTICAS:
+Elemento | Descrição
+MÁQUINAS (8) | 1m altura, cobertura +2. Barulhentas (-2 Furtividade).
+TECIDOS | Pendurados no teto. Camuflagem +2. Podem pegar fogo (1d6/rodada).
+ESCRITÓRIO | Porta de ferro (DR 3, HP 30). Gerente (HP 25) e 2 capangas dentro.
+DUTOS | Ventilação. Rastejar: Furtividade +4. Leva ao telhado.
+SAÍDA (fundo) | Porta para beco. Trancada por fora (só arrombar FO 16).
+🎲 TABELA DE EVENTOS (1d6):
+1d6 | Evento
+1 | Fogo em tecidos! (1d6/rodada, se alastra em 1d4 rod)
+2 | Máquina explode (2d6 área, Percepção CD 14 para evitar)
+3 | Bolivianos fogem (criam confusão, terreno difícil)
+4 | Reforços do Círculo (1d4 capangas, chegam em 1d4 rod)
+5 | Gerente tenta fuga pelo telhado
+6 | Alarme silencioso (polícia? Omni? chega em 1d6 rod)
+🧩 GANCHOS: Resgatar bolivianos, sabotar produção, roubar tecidos.
+---------------------------------------------------------------------
+8.13 ESTAÇÃO DA LUZ (BOM RETIRO) (NOVO)
+───────────────────────────────────────────────────────────────────
+📖 DESCRIÇÃO: "A Estação da Luz é um fantasma de ferro e vidro. O trem ainda passa, mas as plataformas secundárias estão abandonadas. Vendedores ambulantes ocupam os corredores, suas barracas formando um labirinto de lonas e caixotes. O cheiro de pastel frito se mistura com o mofo do século passado."
+📋 INFORMAÇÕES TÁTICAS:
+Elemento | Descrição
+PLATAFORMA | Área aberta. Trem passa a cada 1d6 rodadas (3d6 dano se nos trilhos).
+BARRACAS (5) | Cobertura +2. Podem ser derrubadas (terreno difícil).
+ESCADARIA | Acesso ao subsolo (C5). Escura, estreita. Percepção CD 12 para ouvir ecos.
+VAGÕES (2) | Estacionados. Cobertura total (+4) dentro. Portas travadas (FO 14).
+CORREDORES | Estreitos (1,5m). Combate em fila, -2 para ataques à distância.
+🎲 TABELA DE EVENTOS (1d6 a cada 3 rodadas):
+1d6 | Evento
+1 | Trem chega! (terremoto, -2 testes 1 rodada, risco de queda)
+2 | Batida policial (1d6 policiais, todo mundo corre)
+3 | Barraca pega fogo (fumaça -2 Percepção, 1d4 dano)
+4 | Mendigo ataca (surpresa, HP 12, faca 1d4+1)
+5 | Desabamento parcial (1d6 dano em área, CD 14 para desviar)
+6 | Algo sobe do subsolo...
+🧩 GANCHOS: Encontro clandestino, perseguição nos trilhos, investigar subsolo.
+---------------------------------------------------------------------
+8.14 PRAÇA KANTUTA (REPÚBLICA) (NOVO)
+───────────────────────────────────────────────────────────────────
+📖 DESCRIÇÃO: "A Praça Kantuta é um pedaço dos Andes no centro de SP. Barracas coloridas vendem artesanato, salteñas fumegam em panelas, música andina enche o ar com quenas e charangos. Bolivianos, peruanos, equatorianos - a comunidade está aqui. Mas os olheiros do Círculo também."
+📋 INFORMAÇÕES TÁTICAS:
+Elemento | Descrição
+BARRACAS (8) | Lona e madeira. Cobertura +2. Fáceis de derrubar.
+MULTIDÃO | Dezenas de pessoas. Terreno difícil. Escudo humano (-2 acerto).
+PALCO | 1m altura, músicos. Posição elevada (+2). Pode ter reféns.
+BOCA DO CÍRCULO| Barraca falsa nos fundos. 2 capangas (HP 20), 1 gerente (HP 25).
+ACESSO METRÔ | Escadaria para estação República (C5). Rota de fuga.
+🎲 TABELA DE EVENTOS (1d6):
+1d6 | Evento
+1 | Música para. Todos olham. Emboscada.
+2 | Barraca pega fogo (pânico, 1d6 pisoteio)
+3 | Capangas cobram taxa (intimidação, viram hostis se não pagar)
+4 | Bolivianos protegem os seus (+1d4 aliados temporários)
+5 | Polícia chega (todos correm, terreno difícil)
+6 | Dançarinos criam distração (esquiva +2 para fugir)
+🧩 GANCHOS: Proteger feirantes, comprar informação, resgatar desaparecido.
+---------------------------------------------------------------------
+8.15 OFICINAS DO BRÁS (BRÁS) (NOVO)
+───────────────────────────────────────────────────────────────────
+📖 DESCRIÇÃO: "O galpão é menor que os outros, mas mais apertado. Máquinas de costura lado a lado, tecidos pendurados como cortinas, cabos elétricos cruzando o teto como cipós. Bolivianos trabalham em silêncio, olhos vermelhos de 14 horas de turno. No fundo, uma salteñaria improvisada vende comida para os trabalhadores."
+📋 INFORMAÇÕES TÁTICAS:
+Elemento | Descrição
+MÁQUINAS (6) | Cobertura +2. Barulho (-2 Furtividade). Podem quebrar (1d4 dano).
+TECIDOS | Pendurados. Camuflagem +2. Inflamáveis.
+SALTEÑARIA | Balcão pequeno. Cobertura +3. Dona (HP 15, faca) protege a comida.
+DUTOS | Ventilação. Rastejar: Furtividade +4. Saída no telhado.
+PORTA (fundo) | Saída para beco. Trancada por fora (FO 16).
+🎲 TABELA DE EVENTOS (1d6):
+1d6 | Evento
+1 | Curto-circuito (escuridão 1d4 rodadas, risco de fogo)
+2 | Bolivianos se revoltam (+1d4 aliados temporários, FO 10, pedaços de pau)
+3 | Capanga do Círculo chega (HP 22, pistola)
+4 | Fogo em tecidos (1d6/rodada, se alastra)
+5 | Dona da salteñaria joga óleo quente (1d6 área, CD 12 desviar)
+6 | Polícia Federal (batida em oficina irregular, todo mundo preso)
+🧩 GANCHOS: Libertar trabalhadores, comprar salteña, encontrar provas de exploração.
+---------------------------------------------------------------------
+8.16 FÁBRICA DE SONHO (LIBERDADE) (NOVO)
+───────────────────────────────────────────────────────────────────
+📖 DESCRIÇÃO: "A Fábrica de Sonho é uma boate que nunca dorme. Luzes estroboscópicas picam a pista em fragmentos de movimento, a música eletrônica é uma parede de som que você sente nos ossos. No mezanino, o camarim VIP. Lá embaixo, a pista é um mar de corpos suados."
+📋 INFORMAÇÕES TÁTICAS:
+Elemento | Descrição
+PISTA | Terreno difícil (corpos). Escorregadia (teste DE 10 ou cai).
+PALCO | 1,5m altura, DJ. Posição elevada (+2). DJ pode ser refém.
+MEZANINO | Camarim VIP. Cobertura total (+4). Acesso por escada.
+CAIXAS DE SOM | Torres 2m. Se danificadas, feedback (HT 12 ou -2 ações 1 rod).
+BAR | Balcão comprido. Cobertura +2. Garrafas como armas (1d4).
+🎲 TABELA DE EVENTOS (1d6 a cada rodada):
+1d6 | Evento
+1 | Pânico! Todos correm (1d6 pisoteio, terreno difícil)
+2 | Caixa de som explode (3d6 área, todos ensurdecidos 1 rod)
+3 | DJ anuncia "surpresa" (luzes apagam, tiros)
+4 | Briga generalizada
+5 | Seguranças da Solaris chegam (2d4, HP 20)
+6 | Algo no subsolo... (acesso secreto no camarim)
+🧩 GANCHOS: Infiltrar, encontrar informante, sabotar show, resgatar artista.
+---------------------------------------------------------------------
+8.17 CANTINA NONNA ROSA (MOOCA) (NOVO)
+───────────────────────────────────────────────────────────────────
+📖 DESCRIÇÃO: "A Cantina Nonna Rosa é uma relíquia. Azulejos portugueses nas paredes, toalhas xadrez nas mesas, um balcão de madeira onde Nonna Rosa servia macarrão há 60 anos. Hoje são os netos, mas a comida é a mesma. A adega guarda vinhos antigos - e também segredos mais escuros."
+📋 INFORMAÇÕES TÁTICAS:
+Elemento | Descrição
+MESAS (8) | Cobertura +2. Podem ser viradas (barricada +2).
+BALCÃO | Cobertura total (+4). Atrás, garrafas e facas de cozinha (1d6).
+COZINHA | Acesso por porta de batente. Panelas quentes (1d6 área), facas.
+ADEGA | Escada para porão. Escuro, garrafas como armas, saída secreta?.
+JANELAS (3) | Para a rua. Pular (1d6 dano, rua movimentada).
+🎲 TABELA DE EVENTOS (1d6):
+1d6 | Evento
+1 | Nonna Rosa joga água fervente (1d6 área, CD 12 desviar)
+2 | Garrafa de vinho explode (cacos, 1d4 área)
+3 | Netos atacam com rolos de macarrão (1d4+1, HP 12)
+4 | Reforços do Círculo (1d4 capangas, entram pela frente)
+5 | Fogo na cozinha (fumaça -2 Percepção, 1d6/rodada)
+6 | Polícia passa (todo mundo congela 1 rodada)
+🧩 GANCHOS: Proteger Nonna Rosa, cobrar dívida, encontrar algo na adega.
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+╔═══════════════════════════════════════════════════════════════════╗
+║ NOVIDADES DA VERSÃO 2.0 ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ ║
+║ As seções abaixo foram adicionadas a partir do 01_CORE original ║
+║ para complementar as regras de uso do Atlas. ║
+║ ║
+╚═══════════════════════════════════════════════════════════════════╝
+---------------------------------------------------------------------
+PARTE 9: 🗺️ REGRA PARA CENAS NOVAS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Quando o jogador entrar em um local DESCRITO NO ATLAS (07_ATLAS.txt):
+1. Leia a descrição completa do local no Atlas
+2. Gere UMA CENA TÁTICA no formato padrão (3 blocos)
+3. Use o OCUPANTE gerado para o local (se houver)
+4. Aplique o PERIGO BASE da região à cena
+5. Se houver tabela de eventos para o local, role 1d6 conforme indicado
+---------------------------------------------------------------------
+PARTE 10: 🗺️ GERAÇÃO DINÂMICA DE CENÁRIOS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Quando o jogador entrar em um local NÃO DESCRITO NO ATLAS:
+1. Use o contexto da narrativa para definir:
+├─ Tipo de ambiente (urbano, industrial, subterrâneo, etc.)
+├─ Tamanho aproximado (pequeno: 10x10m, médio: 20x20m, grande: 30x30m+)
+├─ Elementos presentes (obstáculos, coberturas, pontos de interesse)
+└─ Clima e iluminação (consistente com a região)
+2. Gere uma cena tática no formato padrão (3 blocos)
+3. Mantenha consistência com o mundo:
+├─ Se estiver na C4, use elementos típicos (becos, lajes, comércio)
+├─ Se estiver na C2, use elementos corporativos (torres, seguranças)
+├─ Se estiver na C5, use elementos do subsolo (túneis, esgoto, ratos)
+└─ Se estiver no -4, use elementos do Vazio (criaturas, ruínas)
+4. Defina o perigo base conforme a região:
+├─ C1-C2: 🟢 (seguro, mas vigiado)
+├─ C3: 🟡 (atenção, possível abordagem)
+├─ C4: 🟠 (perigoso, risco de ataque)
+├─ C5: 🔴 (altíssimo, quase certeza de ataque)
+└─ -4: 💀 (letal, sobrevivência improvável)
+---------------------------------------------------------------------
+📚 REFERÊNCIAS DESTE ARQUIVO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ Cyberpunk 2077 — design de cenários verticais e mercados
+├─ "The Lazy Dungeon Master" (#129) — tabelas de eventos
+├─ "Stray" (jogo) — atmosfera de estações abandonadas
+├─ Mapa das Periferias (#73) — geografia real de SP
+├─ Dados IBGE/Fundação SEADE (#79-82) — migração e desigualdade
+├─ GeoSampa (#92) — zoneamento e risco hidrológico
+└─ 01_CORE_v1.1 — Regras para Cenas Novas e Geração Dinâmica realocadas
+---------------------------------------------------------------------
+FIM DO ARQUIVO 07_ATLAS_v2.0.txt

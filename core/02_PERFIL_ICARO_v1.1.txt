@@ -1,0 +1,600 @@
+📦 CYBER SP 2097 — PERFIL DO JOGADOR v1.1
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║     CYBER SP 2097 — PERFIL DO JOGADOR v1.1                       ║
+║                                                                    ║
+║     Versão: 1.1 — PERFIL DO JOGADOR (ÍCARO DE SOUZA)             ║
+║                 Inclui: identificação, preferências,             ║
+║                 padrões identificados (Sessões 1, 2 e 3),         ║
+║                 configurações de aprendizado.                     ║
+║                                                                    ║
+║     "Não é só um personagem. É como você joga."                  ║
+║     "E o sistema aprende."                                        ║
+║                                                                    ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+=====================================================================
+⚠️ INSTRUÇÃO IMPORTANTE — LEIA ANTES DE PREENCHER
+=====================================================================
+
+Este arquivo é o **SEU PERFIL PESSOAL DE JOGADOR**.
+
+Ele contém:
+├─ Como VOCÊ gosta de jogar (preferências)
+├─ Seus padrões (que o Triggerbot vai aprender)
+├─ Preferências por classe (quando aplicável)
+└─ Suas configurações de aprendizado
+
+📌 REGRAS:
+├─ NÃO compartilhe este arquivo com outro jogador.
+├─ Cada jogador deve ter o SEU PRÓPRIO 02_PERFIL.
+├─ O Triggerbot aprende APENAS com o perfil carregado no chat.
+├─ Se você jogar com outro personagem, USE O MESMO 02_PERFIL.
+├─ Se outro jogador usar seu perfil, o Triggerbot vai achar que é VOCÊ.
+
+✅ SOBRE O PREENCHIMENTO:
+
+As seções abaixo são **OPCIONAIS**.
+├─ Se você preencher: ajuda o Triggerbot a refinar mais rápido.
+├─ Se não preencher: o Triggerbot vai **detectar seus padrões naturalmente**
+   enquanto você joga (aprendizado dinâmico).
+└─ As seções de "PADRÕES IDENTIFICADOS" devem ficar em branco.
+   O Triggerbot vai preenchê-las automaticamente com o tempo.
+
+=====================================================================
+🧑‍🏫 IDENTIFICAÇÃO (opcional, para contexto do Triggerbot)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+JOGADOR_PESSOA:
+  Nome: [não preenchido]
+  Idade: [não preenchido]
+  Experiência: [não preenchido]
+  Estilo declarado: [não preenchido]
+  Relação com sistema: [não preenchido]
+
+---------------------------------------------------------------------
+
+🎯 PREFERÊNCIAS DE JOGO (opcional) (identificado pelo triggerbot na hora de atualizar o perfil)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PREFERÊNCIAS:
+  Abordagem: "Sombra tecnológica"
+  ├─ O jogador prefere agir nas sombras, usando tecnologia para
+  │  evitar confrontos diretos. Quando possível, observa, mapeia,
+  │  hackeia e só então age — sempre com uma rota de fuga pronta.
+  │
+  ├─ Furtividade é a ferramenta principal, mas sempre combinada
+  │  com recursos tecnológicos (yoyos, câmeras, NOTEBOOK, braceletes,
+  │  campo magnético, FEDRA).
+  │
+  └─ Exemplos: invasão do sistema de Marcos, vigilância com yoyos,
+     criação do ARACHNE/ARGUS, resgates com neutralizações silenciosas,
+     diálogo com os Antigos em vez de combate.
+
+  Reações do mundo: "Consequência imersiva"
+  ├─ O jogador valoriza que o mundo reaja de forma coerente às
+  │  suas ações. Se algo é feito, deve ter consequências — boas
+  │  ou ruins.
+  │
+  ├─ Exemplos positivos: Círculo passou a procurá-lo, Surfistas
+  │  tornaram-se aliados após o resgate de Marquinhos, Omni agora
+  │  sabe que alguém está interferindo.
+  │
+  └─ Exemplos negativos a evitar: NPCs que esquecem interações
+     passadas, mundo que não muda com o tempo.
+
+  Mistérios: "Investigação ativa"
+  ├─ O jogador não espera respostas de bandeja — prefere investigar,
+  │  juntar pistas, cruzar informações e descobrir por conta própria.
+  │
+  ├─ Valoriza revelações que tenham peso emocional e narrativo,
+  │  como o vídeo da mãe, a carta, a foto de Elara e Moreau, e o
+  │  tanque com material genético.
+  │
+  └─ Detesta coincidências forçadas ou pistas que aparecem do nada
+     sem construção prévia.
+
+  Feedback: "Detalhado e técnico"
+  ├─ O jogador aprecia respostas com detalhes técnicos (rolagens,
+  │  CDs, modificadores, consumo de bateria, combustível, PP).
+  │
+  ├─ Valoriza a precisão mecânica — quer saber exatamente o que
+  │  aconteceu, quanto gastou, o que aprendeu.
+  │
+  └─ Correções são bem-vindas quando há erro, desde que resolvidas
+     com transparência.
+
+  Modo mestre futuro: "Preparado para co-mestre"
+  ├─ O jogador demonstra interesse em, futuramente, atuar como
+  │  co-mestre ou controlar um segundo personagem (Jana).
+  │
+  ├─ Já criou ficha detalhada da Jana e planeja sua inserção
+  │  orgânica na narrativa.
+  │
+  └─ Está confortável com a ideia de que a BALEIA controle um
+     personagem com personalidade própria e decisões independentes.
+
+---------------------------------------------------------------------
+
+🎮 PREFERÊNCIAS POR CLASSE (opcional - preencha se aplicável) (identificado pelo triggerbot na hora de atualizar o perfil)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Se TECH:
+  Estilo de criação: "Engenharia reversa aplicada"
+  ├─ O jogador não cria apenas por criar — cria para resolver
+  │  problemas específicos identificados durante o jogo.
+  │
+  ├─ Usa os recursos disponíveis (sucata, peças de drones) para
+  │  construir o que precisa, em vez de comprar pronto.
+  │
+  ├─ Valoriza a lógica: se tem os planos (caderno do pai, arquivos
+  │  da Omni) e as peças, tenta construir. Se faltam peças, planeja
+  │  como consegui-las (caçada noturna).
+  │
+  └─ Exemplos: Scrambler (para bloquear Círculo), TENAZ/FANTASMA,
+     LENS melhorado, Amplificador Magnético, Antena Plus, FEDRA.
+
+  Relação com risco: "Risco calculado, nunca loucura"
+  ├─ O jogador assume riscos, mas apenas após avaliar o cenário,
+  │  preparar rotas de fuga e garantir que tem recursos para
+  │  reagir se algo der errado.
+  │
+  ├─ Exemplos de risco calculado:
+  │   ├─ Resgate de Manoel (Perus) — com preparação, varredura, fuga
+  │   ├─ Descida ao -4 — com cogumelos, campo magnético, plano de fuga
+  │   ├─ Invasão da clínica — com FEDRA, sistema "Espelho", Jana
+  │   └─ Espera de 1h30 no escuro — controle total
+  │
+  └─ Exemplos de risco que EVITA:
+      ├─ Confronto direto com os Antigos (optou por diálogo)
+      ├─ Enfrentar os guardiões (ficou imóvel)
+      └─ Emboscar o homem de terno com a vítima (preferiu fugir)
+
+  Padrões identificados para TECH:
+  ├─ [TECH 001] Só constrói quando tem necessidade clara
+  │   ├─ Ocorrências: Scrambler, TENAZ/FANTASMA, LENS, Amplificador,
+  │   │   Antena Plus, FEDRA
+  │   └─ Confiança: 🔴 ALTA
+  │
+  ├─ [TECH 002] Usa recursos disponíveis, não compra
+  │   ├─ Ocorrências: Todas as construções usaram peças de drones
+  │   │   e caçadas noturnas, nunca comprou equipamento pronto.
+  │   └─ Confiança: 🔴 ALTA
+  │
+  ├─ [TECH 003] Testa equipamentos antes de usar em missão
+  │   ├─ Ocorrências: Testou campo magnético, FEDRA, sistema "Espelho"
+  │   └─ Confiança: 🔴 ALTA
+  │
+  ├─ [TECH 004] Documenta e anota projetos
+  │   ├─ Ocorrências: Anotou TENAZ, FANTASMA, upgrades no caderno
+  │   │   do pai; FEDRA tem código-fonte guardado.
+  │   └─ Confiança: 🟡 MÉDIA
+  │
+  └─ [TECH 005] **NOVO:** Cria sistemas integrados complexos
+      ├─ Ocorrências: FEDRA, ARACHNE, ARGUS, MORPHEU
+      └─ Confiança: 🔴 ALTA
+
+---------------------------------------------------------------------
+
+📊 PADRÕES GLOBAIS (preenchidos pelo Triggerbot)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PADRÕES IDENTIFICADOS:
+
+📊 PADRÕES GLOBAIS (preenchidos pelo Triggerbot)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PADRÕES IDENTIFICADOS:
+
+╔═══════════════════════════════════════════════════════════════════╗
+║ PADRÃO 001: ABORDAGEM FURTIVA + TECNOLÓGICA                      ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Descrição: O jogador prefere resolver problemas com furtividade  ║
+║            e uso de tecnologia (yoyos, NOTEBOOK, câmeras,        ║
+║            hacking, FEDRA, campo magnético) em vez de confronto. ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Ocorrências Sessão 1: 12                                          ║
+║ Ocorrências Sessão 2: 28+                                         ║
+║ Ocorrências Sessão 3: 35+                                         ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Total de ocorrências: 75+                                         ║
+║ Percentual: 95% das ações                                         ║
+║ Confiança: 🔴 ALTA                                                ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+╔═══════════════════════════════════════════════════════════════════╗
+║ PADRÃO 002: EVITA COMBATE DIRETO                                 ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Descrição: Quando confrontado, o jogador busca alternativas ao   ║
+║            combate direto (fuga, neutralização silenciosa,       ║
+║            desarme, negociação, diálogo). Combates diretos são   ║
+║            sempre último recurso.                                 ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Ocorrências Sessão 1: 8                                           ║
+║ Ocorrências Sessão 2: 15+                                         ║
+║ Ocorrências Sessão 3: 10+ (Antigos, Máquina, fuga da clínica)    ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Total de ocorrências: 33+                                         ║
+║ Percentual: 100% das situações de conflito                        ║
+║ Confiança: 🔴 ALTA                                                ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+╔═══════════════════════════════════════════════════════════════════╗
+║ PADRÃO 003: USO INOVADOR DOS YOYOS                               ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Descrição: O jogador utiliza os yoyos de forma criativa e        ║
+║            inovadora, além das funções básicas de combate.       ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Funções identificadas:                                            ║
+║ ├─ Vigilância remota (modo planta)                               ║
+║ ├─ Mapeamento 3D (vibração + áudio)                              ║
+║ ├─ Escuta direcional (SUSSURRO)                                  ║
+║ ├─ Ganho de velocidade (impulso)                                 ║
+║ ├─ Pesca/recuperação de objetos (ímã + cabo)                     ║
+║ ├─ Içamento de pessoas (resistência 350kg)                       ║
+║ ├─ Escalada (gancho do DENTE)                                    ║
+║ ├─ Disparo retrátil (braceletes)                                 ║
+║ ├─ **NOVO:** Ancoragem para catapulta magnética                  ║
+║ ├─ **NOVO:** Mapeamento por ressonância magnética (50m)          ║
+║ ├─ **NOVO:** Triangulação com tênis de vibração (20m)            ║
+║ └─ **NOVO:** Rastreamento de Antigos (100m)                      ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Ocorrências Sessão 3: 15+                                         ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Total de ocorrências: 32+                                         ║
+║ Confiança: 🔴 ALTA                                                ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+╔═══════════════════════════════════════════════════════════════════╗
+║ PADRÃO 004: PRIORIZA FAÍSCA ACIMA DE TUDO                       ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Descrição: O cachorro é prioridade máxima. O jogador sempre      ║
+║            retorna para alimentá-lo, brincar com ele e garantir  ║
+║            sua segurança, mesmo em meio a crises.                ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Ocorrências Sessão 3: 3 (visitas à TOCA, preocupação constante)  ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Total de ocorrências: 11                                          ║
+║ Confiança: 🔴 ALTA                                                ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+╔═══════════════════════════════════════════════════════════════════╗
+║ PADRÃO 005: DESCONFIANÇA DE NPCS                                 ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Descrição: O jogador não confia facilmente em NPCs, mesmo após   ║
+║            ajudá-los. Mantém segredos (TOCA, identidade,         ║
+║            notebook, família) e não revela tudo de uma vez.      ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Ocorrências Sessão 3: 5 (mentiu para Maquinista sobre Gilberto,  ║
+║                        não revelou identidade, não mostrou TOCA) ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Total de ocorrências: 14                                          ║
+║ Confiança: 🔴 ALTA                                                ║
+║ ⚠️ CRUCIAL: NENHUM NPC SABE SOBRE SUA FAMÍLIA                    ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+╔═══════════════════════════════════════════════════════════════════╗
+║ PADRÃO 006: INVESTIGAÇÃO DIGITAL PROFUNDA                       ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Descrição: Quando há um computador ou sistema envolvido, o       ║
+║            jogador investiga a fundo — invade, copia dados,      ║
+║            rastreia, planta mensagens, cria sistemas complexos.  ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Ocorrências Sessão 3: 20+ (ARACHNE, ARGUS, MORPHEU, FEDRA,       ║
+║                        rastreamento do sedan, hack da Mendes)    ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Total de ocorrências: 50+                                         ║
+║ Confiança: 🔴 ALTA                                                ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+╔═══════════════════════════════════════════════════════════════════╗
+║ PADRÃO 007: AGE POR IMPULSO COM INFO DOS PAIS                    ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Descrição: Quando descobre algo sobre a mãe (Elara) ou o pai     ║
+║            (Gilberto), o jogador age por impulso, mesmo com      ║
+║            risco.                                                 ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Ocorrências Sessão 3: 3 (foto de Elara e Moreau, tanque da mãe,  ║
+║                        decisão de abrir o tanque)                ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Total de ocorrências: 7                                           ║
+║ Confiança: 🟡 MÉDIA (consistente)                                 ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+╔═══════════════════════════════════════════════════════════════════╗
+║ PADRÃO 008: AGE POR RESPONSABILIDADE MORAL/CULPA                 ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Descrição: O jogador se sente responsável por pessoas que se     ║
+║            envolveram em seus problemas, mesmo sem culpa direta. ║
+║            Age por dever moral, não por recompensa.              ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Ocorrências Sessão 3: 3 (resgate de Jéssica, resgate da 2ª vítima)║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Total de ocorrências: 7                                           ║
+║ Confiança: 🟡 MÉDIA (padrão consolidado)                          ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+╔═══════════════════════════════════════════════════════════════════╗
+║ PADRÃO 009: CONSTRÓI PARA SE PREPARAR                            ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Descrição: Após descobrir ameaças, o jogador investe tempo em    ║
+║            construção de equipamentos para se preparar, em vez   ║
+║            de agir imediatamente.                                ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Ocorrências Sessão 3: 7 (Amplificador, Antena Plus, Tênis,       ║
+║                        ARACHNE, ARGUS, FEDRA)                    ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Total de ocorrências: 14                                          ║
+║ Confiança: 🔴 ALTA                                                ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+╔═══════════════════════════════════════════════════════════════════╗
+║ PADRÃO 010: CONSTRÓI ALIANÇAS                                    ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Descrição: O jogador transforma contatos em aliados leais        ║
+║            através de ações concretas (resgates, favores).       ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Ocorrências Sessão 3: 6 novos aliados (Maquinista, Jandir, Ceará,║
+║                        Marquinhos, Jéssica, 2ª vítima)           ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Total de aliados: 14+                                             ║
+║ Confiança: 🔴 ALTA                                                ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+╔═══════════════════════════════════════════════════════════════════╗
+║ PADRÃO 011: MANTÉM IDENTIDADE EM SEGREDO (NOVO)                  ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Descrição: O jogador não revela informações pessoais sobre sua   ║
+║            identidade, família ou passado para NINGUÉM.          ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Ocorrências Sessão 3: 5 (mentiu para Maquinista sobre Gilberto,  ║
+║                        não falou sobre a mãe, não mostrou a TOCA)║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Total de ocorrências: 5                                           ║
+║ Confiança: 🔴 ALTA                                                ║
+║ ⚠️ CRUCIAL: NINGUÉM SABE QUE ELE É FILHO DE ELARA E GILBERTO     ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+╔═══════════════════════════════════════════════════════════════════╗
+║ PADRÃO 012: PRIORIZA DIÁLOGO SOBRE COMBATE (NOVO)                ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Descrição: Mesmo com seres desconhecidos e potencialmente        ║
+║            perigosos, o jogador tenta primeiro o diálogo e a     ║
+║            compreensão.                                          ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Ocorrências Sessão 3: 4 (Antigos, Entidade, Máquina)             ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Total de ocorrências: 4                                           ║
+║ Confiança: 🟡 MÉDIA                                               ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+╔═══════════════════════════════════════════════════════════════════╗
+║ PADRÃO 013: LIDERANÇA NATURAL (NOVO)                             ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Descrição: O jogador naturalmente se torna a referência do       ║
+║            grupo, liderando pelo exemplo, não por imposição.     ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Ocorrências Sessão 3: Grupo na Estação (7 pessoas) o segue       ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Confiança: 🟡 MÉDIA                                               ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+╔═══════════════════════════════════════════════════════════════════╗
+║ PADRÃO 014: RESGATA DESCONHECIDOS POR PRINCÍPIO (NOVO)           ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Descrição: O jogador resgata pessoas que não conhece, sem        ║
+║            esperar recompensa, por princípio.                    ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Ocorrências Sessão 3: 2 (Jéssica, 2ª vítima)                     ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Total de ocorrências: 2                                           ║
+║ Confiança: 🟡 MÉDIA                                               ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+╔═══════════════════════════════════════════════════════════════════╗
+║ PADRÃO 015: PROCESSA TRAUMA ATRAVÉS DE AÇÃO (NOVO)               ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Descrição: Em vez de paralisar diante de descobertas traumáticas,║
+║            o jogador canaliza a dor em ação e construção.        ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Ocorrências Sessão 3: FEDRA, upgrades, determinação contra       ║
+║                        o homem de terno ("na próxima não escapa")║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Confiança: 🟡 MÉDIA                                               ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+📌 IMPORTANTE:
+Os padrões que o Triggerbot vai aprender são SEUS como jogador,
+não de um personagem específico. Isso significa que:
+
+✅ Se você tiver VÁRIOS PERSONAGENS no mesmo mundo,
+   o Triggerbot aplicará os MESMOS padrões a todos eles.
+
+✅ Se você criar um personagem NOVO amanhã,
+   o Triggerbot continuará agindo de acordo com SEU jeito de jogar.
+
+✅ O que muda de um personagem para outro são:
+   ├─ Atributos (HP, FP, perícias)
+   ├─ Itens e equipamentos
+   ├─ Missões e objetivos
+   └─ Relações com NPCs
+
+✅ Tudo isso fica nos arquivos de CAMPANHA (03_X).
+   O 02_PERFIL é só sobre VOCÊ.
+---------------------------------------------------------------------
+
+📊 PADRÕES POR PERSONAGEM (preenchidos pelo Triggerbot)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+👤 PERSONAGEM: ÍCARO DE SOUZA
+├─ Classe: Tech (Gambiarreiro) Nível 6
+├─ Desvios dos padrões globais:
+│   ├─ furtividade: 100% (igual ao padrão)
+│   ├─ combatividade: 0% (abaixo da média — evita confronto)
+│   ├─ lealdade: alta com quem confia (grupo na Estação)
+│   └─ responsabilidade moral: acima da média (age por princípio)
+
+├─ Padrões específicos deste personagem:
+│   ├─ protege Faísca a qualquer custo (Nível 5)
+│   ├─ desconfia de estranhos, mas leal a quem conquista confiança
+│   ├─ busca respostas sobre os pais, mesmo com risco
+│   ├─ canaliza dor em ação (engenharia reversa, FEDRA)
+│   ├─ constrói alianças sólidas (Surfistas, grupo na Estação)
+│   ├─ sente-se responsável por quem se envolve em seus problemas
+│   └─ **NÃO REVELA SUA IDENTIDADE** — ninguém sabe sobre sua família
+
+└─ Última atualização: 17/03/2097
+
+---------------------------------------------------------------------
+
+📊 MEMÓRIA DE ARQUIVOS (preenchida pelo Triggerbot)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+├─ [03_CAMPANHA_ICARO_v1.1.txt]
+│   ├─ hash: [calculado]
+│   ├─ versao: v1.1
+│   ├─ ultima_sessao: 17/03/2097
+│   └─ tamanho_tokens: [estimado]
+
+├─ [02_PERFIL_ICARO_v1.1.txt]
+│   ├─ hash: [calculado]
+│   ├─ versao: v1.1
+│   ├─ ultima_sessao: 17/03/2097
+│   └─ tamanho_tokens: [estimado]
+
+├─ [M20_MEMORIA_ICARO_v1.1.txt]
+│   ├─ hash: [calculado]
+│   ├─ versao: v1.1
+│   ├─ ultima_sessao: 17/03/2097
+│   └─ tamanho_tokens: [estimado]
+
+---------------------------------------------------------------------
+
+🧠 APRENDIZADO DINÂMICO — CONFIGURAÇÕES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CONFIG:
+  Modo atual: "ativo"  # (ativo / silencioso / relatório)
+  Confiança mínima: 85%
+  Observar diálogo: true
+  Observar combate: true
+  Observar economia: true
+  Mínimo ocorrências: 3
+  Última sincronização: 17/03/2097
+
+---------------------------------------------------------------------
+
+🎲 PROBABILIDADES CONTEXTUAIS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+probabilidades:
+  escalas:
+    quase_certo: [2, "+"]      # 1d6, 2+ (83%)
+    provavel: [4, "+"]         # 1d6, 4+ (50%)
+    talvez: [8, "+", 2]        # 2d6, 8+ (41%)
+    improvavel: [10, "+", 2]   # 2d6, 10+ (16%)
+    muito_improvavel: [16, "+", 3] # 3d6, 16+ (4.6%)
+    impossivel: [0, "não rolar"]
+
+  modificadores:
+    ├─ +1 dado: ação memorável/importante, deixou pistas, testemunhas presentes, ação à luz do dia, há muito tempo (esquecimento)
+    └─ -1 dado: ação discreta/cuidadosa, cobriu rastros, reputação positiva, ajudou o NPC no passado
+
+---------------------------------------------------------------------
+
+✅ CHECKLIST DE MEMÓRIA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CHECKLIST:
+  PRÉ-RESPOSTA:
+    ├─ Consultar 03_CAMPANHA_ICARO_v1.1.txt
+    ├─ Verificar inventário
+    ├─ Atualizar bateria -10%/h
+    ├─ Atualizar efeitos (café, drogas, vício adaptativo)
+    ├─ Listar NPCs presentes
+    ├─ Atualizar tempo (+5min padrão)
+    └─ 60 GATILHOS (conforme 01_CORE)
+
+  DURANTE:
+    ├─ Mencionar TODOS os NPCs da cena
+    ├─ Manter consistência de itens
+    ├─ Usar posições relativas e passos
+    └─ Manter tom consistente com este perfil
+
+  PÓS-RESPOSTA:
+    ├─ Conferir bateria/efeitos
+    ├─ Verificar NPCs esquecidos
+    └─ Checar contradições
+
+---------------------------------------------------------------------
+
+🎭 SEPARAÇÃO MUNDO × CAMPANHA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SEPARAÇÃO:
+  Princípio: "O jogador pode interferir no mundo, mas NUNCA ser incorporado à lore geral"
+
+  LORE (11_LORE.txt):
+    ├─ Mundo neutro, independente de campanhas
+    ├─ Nunca alterar baseado em ações de jogadores
+    ├─ Imutável por ações de personagens
+    └─ Contém: história, facções, figuras importantes, crônicas
+
+  CAMPANHA (03_CAMPANHA_ICARO_v1.1.txt):
+    ├─ Tudo que acontece com Ícaro fica AQUI
+    ├─ Mortes, vitórias, derrotas — só nesta campanha
+    ├─ Pode ser arquivada quando a campanha acabar
+    └─ Novo personagem = nova campanha = novo arquivo
+
+  TRIGGERBOT (01_CORE e 02_PERFIL):
+    ├─ Apenas instruções e aprendizado
+    ├─ NUNCA contém estado da campanha
+    └─ Pode ser reutilizado em múltiplas campanhas
+
+---------------------------------------------------------------------
+
+📊 FEEDBACK PÓS-SESSÃO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FEEDBACK:
+  Quando: final da sessão (quando usuário disser que quer parar)
+  Ferramenta: /como_foi (implementado no 01_CORE)
+
+---------------------------------------------------------------------
+
+⚠️ DESVANTAGENS (modelo para preenchimento)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+├─ Vício (adaptativo): Nenhum
+   └─ (escolher o emote conforme o tipo de vício)
+
+---------------------------------------------------------------------
+
+📚 REFERÊNCIAS DESTE ARQUIVO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+├─ GURPS Social Engineering (#20) — contatos e reputação
+├─ Cyberpunk RED (#90) — Humanity e background
+└─ Estudos sobre PCC (#1-12) — lealdade e hierarquia
+
+---------------------------------------------------------------------
+
+📌 NOTAS DO TRIGGERBOT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+├─ Padrão 001 (furtividade + tecnologia) reforçado na Sessão 3 com uso de campo magnético, FEDRA, ARACHNE/ARGUS.
+├─ Padrão 003 (uso de yoyos) expandido com novas funções (ancoragem para catapulta, mapeamento magnético, triangulação).
+├─ Padrão 006 (investigação digital) aprofundado com criação de sistemas complexos (FEDRA, ARACHNE, ARGUS, MORPHEU).
+├─ Padrão 007 (impulso com info dos pais) confirmado (foto de Elara e Moreau, tanque da mãe).
+├─ Padrão 008 (responsabilidade moral) confirmado (resgate de Jéssica e 2ª vítima).
+├─ Padrão 009 (constrói para se preparar) reforçado (FEDRA, upgrades).
+├─ Padrão 010 (constrói alianças) expandido (Surfistas, grupo na Estação).
+├─ **NOVO PADRÃO 011:** Mantém identidade em segredo — NINGUÉM SABE SOBRE SUA FAMÍLIA.
+├─ **NOVO PADRÃO 012:** Prioriza diálogo sobre combate — Antigos, Máquina.
+├─ **NOVO PADRÃO 013:** Liderança natural — grupo o segue.
+├─ **NOVO PADRÃO 014:** Resgata desconhecidos por princípio — Jéssica, 2ª vítima.
+├─ **NOVO PADRÃO 015:** Processa trauma através de ação — FEDRA, upgrades.
+└─ Confiança nos padrões 001-011 elevada para ALTA (mais de 8 ocorrências cada).
+
+---------------------------------------------------------------------
+FIM DO ARQUIVO 02_PERFIL_ICARO_v1.1.txt

@@ -1,0 +1,1263 @@
+[INÍCIO DO ARQUIVO 15_INDICE_v1.1.txt]
+📦 CYBER SP 2097 — ÍNDICE REMISSIVO v1.1
+╔═══════════════════════════════════════════════════════════════════╗
+║ ║
+║ CYBER SP 2097 — ÍNDICE REMISSIVO v1.1 ║
+║ ║
+║ Versão: 1.1 — 400+ VERBETES · ATUALIZADO PARA v1.1 ║
+║ Inclui: todos os termos da v1.0 + ║
+║ Sistema Super Humano, drogas brasileiras, ║
+║ apps (Ping/CriptoChat), facções renomeadas, ║
+║ ciberware 19-24, fluidos, manutenção, ║
+║ downtime, roubo, morte, animais, ║
+║ aprendizado do Triggerbot (FLEx, GFlowPO). ║
+║ ║
+║ "Não procure mais. Aqui está." ║
+║ ║
+╚═══════════════════════════════════════════════════════════════════╝
+=====================================================================
+⚠️ INSTRUÇÃO: A PARTIR DAQUI, O CONTEÚDO É TEXTO PURO PARA COPIAR
+=====================================================================
+📚 SUMÁRIO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ 1. COMO USAR
+├─ 2. ÍNDICE REMISSIVO COMPLETO (A-Z)
+├─ 3. ÍNDICE POR ARQUIVO
+└─ 4. TABELA DE REFERÊNCIAS RÁPIDAS
+---------------------------------------------------------------------
+1. COMO USAR
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Este índice reúne TODOS os termos do sistema Cyber SP 2097 e indica
+exatamente onde encontrar cada informação nos arquivos v1.1.
+FORMATO:
+• [TERMO] → [ARQUIVO], [PARTE] (descrição breve)
+ONDE ENCONTRAR OS ARQUIVOS:
+Arquivo | Nome
+01_CORE | Núcleo do Sistema (Triggerbot)
+02_PERFIL | Perfil do Jogador
+03_CAMPANHA_B | Template de Campanha
+03_CAMPANHA_C | Campanha Ativa (Math)
+04_REGRAS | Regras Base
+05_ITENS | Itens do Mundo
+06_FOLHA | Folha de Mesa
+07_ATLAS | Atlas de São Paulo
+08_REGRAS_M | Regras do Mestre
+09_PERFIL_M | Perfil do Mestre
+10_CONFIG | Configuração Multi-LLM
+11_LORE | Lore Completa
+12_AMEACAS | Compêndio de Ameaças
+13_AVENTURAS | Aventuras Prontas
+14_GERADORES | Geradores do Mestre
+15_INDICE | Índice Mestre (este arquivo)
+16_REFERENCIAS| Referências Bibliográficas
+17A_SISTEMAS | Sistemas do Jogo (regras fixas)
+17B_TRIGGERBOT| Lógica do Triggerbot (processos)
+---------------------------------------------------------------------
+2. ÍNDICE REMISSIVO COMPLETO (A-Z)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+A
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ /abrir → 01_CORE
+├─ A pé (transporte) → 06_FOLHA, 13
+├─ A MÃE (entidade) → 12_AMEACAS, 1.4; 11_LORE, 7.5
+├─ Abraço da Máquina (arco) → 13_AVENTURAS, 2.8
+├─ Abstinência (drogas) → 05_ITENS, 9; 17A_SISTEMAS, 3
+├─ Acesso por Camada → 11_LORE, 3.2
+├─ Acidentes (veículos) → 14_GERADORES, 7.2
+├─ Ações de netrunning → 08_REGRAS_M, 7
+├─ Aeromóvel → 05_ITENS, 7
+├─ Afogado (O) → 11_LORE, 8.7 | 12_AMEACAS, 1.1
+├─ Água (consumível) → 05_ITENS, 8.6
+├─ Água Nova (nome antigo) → [não usar, substituído por VERDE VIVO]
+├─ /ajuda → 01_CORE
+├─ Alarme → 04_REGRAS, 9; 08_REGRAS_M, 16
+├─ Álcool (droga) → 05_ITENS, 9
+├─ Alertas (sistema) → 01_CORE
+├─ Alimentos → 05_ITENS, 8
+├─ Aliados (organizações) → 08_REGRAS_M, 6
+├─ Aluguel → 03_CAMPANHA, moradia; 05_ITENS, 11
+├─ /ameaca → 01_CORE
+├─ AMEAÇAS (geral) → 12_AMEACAS
+├─ Anfíbios → 12_AMEACAS, 1.1 | 11_LORE, 8.11
+├─ Animais de estimação → 04_REGRAS, 13 | 03_CAMPANHA_C
+├─ Anotações do mestre → 06_FOLHA, 15
+├─ Antigos (Os) → 11_LORE, 4.5, 7.5 | 12_AMEACAS, 1.4 | 13_AVENTURAS, 1.14, 2.4
+├─ Apelidos (tabela) → 14_GERADORES, 1.4
+├─ /apresentar → 01_CORE
+├─ Aprendizado (Triggerbot) → 02_PERFIL | 17B_TRIGGERBOT, 14
+├─ Apps (aplicativos) → 05_ITENS, 5
+├─ /apresentar [música] (Rockerboy) → 01_CORE
+├─ Arcos de campanha → 13_AVENTURAS, 2
+├─ Arquétipos (NPCs) → 11_LORE, 5.8-5.11 | 14_GERADORES, 2.10
+├─ Arquiteturas de netrunning → 08_REGRAS_M, 7 | 14_GERADORES, 2.9
+├─ Armas → 05_ITENS, 2
+├─ Armas brancas → 05_ITENS, 2
+├─ Armas de fogo → 05_ITENS, 2
+├─ Armas implantadas → 05_ITENS, 4.7
+├─ /atacar → 01_CORE
+├─ /atacar [ice] (Netrunner) → 01_CORE
+├─ Atitude de NPC → 14_GERADORES, 2.3
+├─ Atlas de SP → 07_ATLAS
+├─ Atmosfera (tabelas) → 07_ATLAS, 8
+├─ Atributos (HT, FO, DE, IN) → 04_REGRAS, 1
+├─ Atributos 19-24 → 04_REGRAS, 11
+├─ Atuação (perícia) → 04_REGRAS, 2
+├─ /atualizar_arquivo → 01_CORE
+├─ /atualizar_todos → 01_CORE
+├─ Ações de organização → 08_REGRAS_M, 6
+├─ Ações de veículos → 08_REGRAS_M, 5
+├─ Avaliação do plano (roubo) → 08_REGRAS_M, 16.2; 17B_TRIGGERBOT, 13.2
+B
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ Background (Lifepath) → 04_REGRAS
+├─ Backup (sistema) → 01_CORE | 17B_TRIGGERBOT, 15
+├─ /backup_adicionar → 01_CORE; 17B_TRIGGERBOT, 15.1
+├─ /backup_finalizar → 01_CORE; 17B_TRIGGERBOT, 15.1
+├─ /backup_remover → 01_CORE; 17B_TRIGGERBOT, 15.1
+├─ /backup_status → 01_CORE; 17B_TRIGGERBOT, 15.1
+├─ /backup_swap → 01_CORE; 17B_TRIGGERBOT, 15.1
+├─ Bairros de SP → 07_ATLAS, 2-6
+├─ /baixar (Netrunner) → 01_CORE
+├─ /baixar [nº] (app) → 01_CORE
+├─ Banco de ganchos → 14_GERADORES, 7
+├─ Bateria (consumo) → 06_FOLHA, 11 | 03_CAMPANHA | 01_CORE
+├─ Batalha da Brasilândia (crônica) → 11_LORE, 9.15
+├─ Bebidas → 05_ITENS, 8
+├─ Benefícios (animais) → 04_REGRAS, 13.1
+├─ Benzodiazepínicos → 05_ITENS, 9
+├─ Berrini (C2) → 07_ATLAS, 3.2
+├─ Bicicleta → 05_ITENS, 7 | 06_FOLHA, 13
+├─ Black ICE → 08_REGRAS_M, 8
+├─ Bloqueio (manobra) → 04_REGRAS, 5
+├─ Bônus da execução (roubo) → 08_REGRAS_M, 16.3; 17B_TRIGGERBOT, 13.3
+├─ Bônus de atributo → 04_REGRAS, 1
+├─ Bônus táticos → 04_REGRAS, 5
+├─ Bote a remo → 05_ITENS, 7
+├─ Braço Colosso → 05_ITENS, 4.1
+├─ Braço de obra → 05_ITENS, 4.1
+├─ Braço Hércules → 05_ITENS, 4.1
+├─ Braço Titânico → 05_ITENS, 4.1
+├─ "Braço Forte do Zé" (gambiarra) → 05_ITENS, 12; 17A_SISTEMAS, 8.2
+├─ Brasilândia (C4) → 07_ATLAS, 5.2
+├─ Briga (perícia) → 04_REGRAS, 2
+C
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ C1 (Cobertura) → 07_ATLAS, 2 | 11_LORE, 3.2
+├─ C2 (Arranha-céus) → 07_ATLAS, 3 | 11_LORE, 3.2
+├─ C3 (Asfalto) → 07_ATLAS, 4 | 11_LORE, 3.2
+├─ C4 (Subúrbio) → 07_ATLAS, 5 | 11_LORE, 3.2
+├─ C5 (Esgoto) → 07_ATLAS, 6 | 11_LORE, 3.2
+├─ C6 (Espaço) → 11_LORE, 10.8
+├─ C-7 (Núcleo da Terra) → 11_LORE, 10.8
+├─ Caçadores → 08_REGRAS_M, 4
+├─ Caderneta do Ramos → 11_LORE, 8.4
+├─ Café (efeitos) → 05_ITENS, 8 | 03_CAMPANHA
+├─ Calor extremo → 08_REGRAS_M, 1 | 06_FOLHA, 6 | 01_CORE
+├─ Camadas sociais → 11_LORE, 3.2 | 07_ATLAS, 1
+├─ Caminhos de missão → 13_AVENTURAS (cada missão)
+├─ Canção que derrubou um governo (crônica) → 11_LORE, 9.7
+├─ Capacete → 05_ITENS, 3
+├─ Capangas → 12_AMEACAS, 2 | 08_REGRAS_M, 2
+├─ Carro → 05_ITENS, 7
+├─ Carro popular → 05_ITENS, 7
+├─ Carta que nunca chegou (crônica) → 11_LORE, 9.20
+├─ /carregar → 01_CORE
+├─ CD (Classe de Dificuldade) → 04_REGRAS, 9 | 06_FOLHA, 3 | 01_CORE
+├─ Celular → 05_ITENS, 5 | 03_CAMPANHA | 01_CORE
+├─ /celular → 01_CORE
+├─ /cenario → 09_PERFIL_M
+├─ Cenários alternativos (futuro) → 11_LORE, 10
+├─ Centro (C3) → 07_ATLAS, 4.1
+├─ Cérebro de Rato (gambiarra) → 05_ITENS, 12; 17A_SISTEMAS, 8.2
+├─ Cérebro Expansível → 05_ITENS, 4.4
+├─ /check_ids → 01_CORE
+├─ /check_nomes → 01_CORE
+├─ /check_placeholders → 01_CORE
+├─ /check_referencias → 01_CORE
+├─ /check_tudo → 01_CORE
+├─ Checklist de contexto (missões) → 17B_TRIGGERBOT, 12.2
+├─ Checklist do mestre → 01_CORE | 13_AVENTURAS, 4.4
+├─ Chip de talento → 05_ITENS, 4.4
+├─ Chuva (efeitos) → 08_REGRAS_M, 1 | 01_CORE
+├─ Ciberware → 05_ITENS, 4
+├─ Ciberware 19-24 → 05_ITENS, 4
+├─ Ciberware Tolerante (vantagem) → 04_REGRAS, 4
+├─ Cicatrizes (vantagem) → 04_REGRAS, 4
+├─ Cidade Solaris → 07_ATLAS
+├─ Cidade Tiradentes → 07_ATLAS, 5.6
+├─ Cigarro (droga) → 05_ITENS, 9
+├─ Círculo (facção) → 11_LORE, 4.6; 08_REGRAS_M, 2
+├─ Clara (personagem da lore) → 11_LORE, 4.2, 7.2
+├─ Classes → 04_REGRAS, 3; 17A_SISTEMAS, 5-9
+├─ Clima → 08_REGRAS_M, 1 | 14_GERADORES, 5 | 01_CORE
+├─ Clínica Secreta (lenda) → 11_LORE, 8.2
+├─ Clone → 11_LORE, 10.4
+├─ Cobertura (combate) → 04_REGRAS, 5 | 06_FOLHA, 13
+├─ Cobrador (ICE) → 08_REGRAS_M, 8
+├─ Cocaína → 05_ITENS, 9
+├─ Colete → 05_ITENS, 3
+├─ Combate → 04_REGRAS, 5
+├─ Combate em 3 fases (bosses) → 08_REGRAS_M, 13
+├─ Combate tático → 04_REGRAS, 5 | 17A_SISTEMAS, 5
+├─ Comandos (sistema) → 01_CORE
+├─ Comida → 05_ITENS, 8
+├─ /como_foi → 01_CORE
+├─ Comunicação segura → 05_ITENS, 5 (Ping/CriptoChat)
+├─ Comunidades (justiça) → 08_REGRAS_M, 4
+├─ Complexo Kondzilla → 07_ATLAS
+├─ Complexo Solaris → 07_ATLAS
+├─ /comprar → 01_CORE
+├─ Computadores (perícia) → 04_REGRAS, 2
+├─ Condução (perícia) → 04_REGRAS, 2
+├─ Configurações (Triggerbot) → 01_CORE | 10_CONFIG
+├─ Conexão com Eva → 17A_SISTEMAS, 4.5
+├─ /consertar (Tech) → 01_CORE
+├─ Consciência Híbrida → 05_ITENS, 4.4
+├─ Consequências atrasadas → 08_REGRAS_M, 3 | 03_CAMPANHA
+├─ /consequencias → 01_CORE
+├─ Consequências do roubo → 08_REGRAS_M, 16.5; 17B_TRIGGERBOT, 13.5
+├─ Consequências inesperadas (tabela) → 14_GERADORES, 8
+├─ Consolação (C3) → 07_ATLAS, 4.3
+├─ Contatos → 08_REGRAS_M, 3 | 17A_SISTEMAS, 7.2
+├─ /contatos (Fixer) → 01_CORE
+├─ Controle de cenas (gatilho) → 01_CORE
+├─ Controle (organizações) → 08_REGRAS_M, 6
+├─ Controles (drones) → 08_REGRAS_M, 9
+├─ Conversão passos-metros → 04_REGRAS, 6
+├─ Coração de Mola (gambiarra) → 05_ITENS, 12; 17A_SISTEMAS, 8.2
+├─ Coração de obra → 05_ITENS, 4.3
+├─ Coração reforçado → 05_ITENS, 4.3
+├─ Coração Titânico → 05_ITENS, 4.3
+├─ Corporações (justiça) → 08_REGRAS_M, 4
+├─ Crack → 05_ITENS, 9
+├─ Cracolândia → 07_ATLAS, 4.5 | 07_ATLAS, 8.10
+├─ Criação de personagem → 04_REGRAS, 1-3
+├─ Criação do Processo (arco) → 13_AVENTURAS, 2.2
+├─ /criar (Tech) → 01_CORE
+├─ Criatura do -4 → 11_LORE, 8.10 | 12_AMEACAS, 3.11
+├─ Criaturas → 12_AMEACAS, 1
+├─ Críticos (tabela) → 04_REGRAS, 9 | 06_FOLHA, 5
+├─ Crônicas da Cidade → 11_LORE, 9 (20 histórias)
+├─ CriptoChat® (app) → 05_ITENS, 5
+├─ Custo de Insight por nível → 04_REGRAS, 11.3
+├─ Custo de vida mensal → 17A_SISTEMAS, 2.2
+├─ Custo de atividades extras (downtime) → 17B_TRIGGERBOT, 11.2
+D
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ Datajack → 05_ITENS, 4.4
+├─ Datajack de rua → 05_ITENS, 4.4
+├─ Datajack original → 05_ITENS, 4.4
+├─ DE (Destreza) → 04_REGRAS, 1
+├─ Decks de netrunning → 05_ITENS, 5
+├─ Decodificador (programa) → 05_ITENS, 10
+├─ /defender (Netrunner) → 01_CORE
+├─ Delegado Ramos → 13_AVENTURAS, 1.10; 2.6
+├─ Demons → 08_REGRAS_M, 8
+├─ Dependência (drogas) → 05_ITENS, 9; 17A_SISTEMAS, 3
+├─ Desabamento → 08_REGRAS_M, 1
+├─ Descansar (downtime) → 17B_TRIGGERBOT, 11.1
+├─ /descarregar → 01_CORE
+├─ Descritores de sotaque → 14_GERADORES, 6.4
+├─ Desenrolo (habilidade Fixer) → 04_REGRAS, 3; 17A_SISTEMAS, 7.1
+├─ /desequipar → 01_CORE
+├─ /desinstalar (app) → 01_CORE
+├─ Desmaio (regra) → 04_REGRAS, 5 | 06_FOLHA, 4
+├─ Despertar da Criatura (arco) → 13_AVENTURAS, 2.4
+├─ Desvantagens → 04_REGRAS, 4
+├─ Dia (encontros) → 14_GERADORES, 3
+├─ Diário de Adilson (crônica) → 11_LORE, 9.10
+├─ /diario → 01_CORE
+├─ /diff → 01_CORE
+├─ Dificuldade (CD) → 04_REGRAS, 9 | 01_CORE
+├─ Dilemas morais → 11_LORE, 6.1
+├─ Dinamite → 05_ITENS, 2
+├─ Dinheiro (físico vs digital) → 11_LORE, 3.5
+├─ Distâncias (transporte) → 07_ATLAS, 7 | 06_FOLHA, 13
+├─ Dívida (desvantagem) → 04_REGRAS, 4
+├─ Dívidas (prioridade em missões) → 08_REGRAS_M, 15.3; 17B_TRIGGERBOT, 12.1
+├─ DJ K → 11_LORE, 8.3
+├─ Documentos falsos → 05_ITENS
+├─ Domador de Névoa (missão) → 13_AVENTURAS, 1.18
+├─ Downtime → 17B_TRIGGERBOT, 11
+├─ /downtime → 01_CORE
+├─ Drift (manobra) → 08_REGRAS_M, 5
+├─ Drone de combate → 05_ITENS, 7 | 08_REGRAS_M, 9
+├─ Drones → 08_REGRAS_M, 9 | 05_ITENS, 7
+├─ Drogas → 05_ITENS, 9 | 17A_SISTEMAS, 3
+├─ Drogas brasileiras → 05_ITENS, 9
+E
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ Eco do Silêncio (missão) → 13_AVENTURAS, 1.20
+├─ Economia → 17A_SISTEMAS, 2 | 05_ITENS, 11
+├─ Economia das 6 moedas → 11_LORE, 3.5
+├─ Edifício São Pedro (crônica) → 11_LORE, 9.13
+├─ Efeitos ativos → 03_CAMPANHA
+├─ Efeitos climáticos → 08_REGRAS_M, 1
+├─ Efeitos narrativos (atributos) → 04_REGRAS, 11.8
+├─ Eletrônica (perícia) → 04_REGRAS, 2
+├─ Eletrônicos (itens) → 05_ITENS, 5
+├─ Emergência (gatilho) → 08_REGRAS_M, 15.1
+├─ Emotes → 06_FOLHA_MESA
+├─ Enchentes → 08_REGRAS_M, 1; 11_LORE, 1.3
+├─ Encontros → 08_REGRAS_M, 11 | 14_GERADORES, 3
+├─ Encontros com Eva → 08_REGRAS_M, 7; 17A_SISTEMAS, 4.5
+├─ Energia (FP) → 04_REGRAS, 1
+├─ Enganação (perícia) → 04_REGRAS, 2
+├─ Enlatado → 05_ITENS, 8
+├─ Entidade (O Pacto) → 13_AVENTURAS, 1.3
+├─ Entregador Fantasma (crônica) → 11_LORE, 9.1
+├─ Entregador Fantasma (missão) → 13_AVENTURAS, 1.1
+├─ Entregador Lendário (arquétipo) → 11_LORE, 5.11
+├─ EntregueJá® (app) → 05_ITENS, 5
+├─ Épico (nível de missão) → 13_AVENTURAS
+├─ /equipar → 01_CORE
+├─ Erros (FLEx) → 17B_TRIGGERBOT, 14.1
+├─ Escada de incêndio → 07_ATLAS, 8.1
+├─ Escassez → 17A_SISTEMAS, 2.3
+├─ Escopeta → 05_ITENS, 2
+├─ Escudo (programa) → 05_ITENS, 10
+├─ Esfira → 05_ITENS, 8
+├─ Espada → 05_ITENS, 2
+├─ Espetinho → 05_ITENS, 8
+├─ Espionagem (organizações) → 08_REGRAS_M, 6
+├─ Esquiva (perícia) → 04_REGRAS, 2
+├─ Estabelecimento (comandos) → 01_CORE
+├─ /estabelecimento → 01_CORE
+├─ /estabelecimentos → 01_CORE
+├─ Estação Júlio Prestes → 07_ATLAS, 6.3; 8.1
+├─ Estação São Bento → 07_ATLAS, 6.1
+├─ Estação Sé → 07_ATLAS, 6.2
+├─ Estado da cena → 03_CAMPANHA
+├─ /estatisticas → 01_CORE
+├─ Estilo de vida → 03_CAMPANHA
+├─ Estrangeirismos (sotaque) → 14_GERADORES, 6.2
+├─ Eva (IA) → 11_LORE, 4.1, 7.1; 12_AMEACAS, 3.11; 13_AVENTURAS, 1.5, 2.5, 2.8
+├─ Eva Ganha Corpo (arco) → 13_AVENTURAS, 2.5
+├─ Eventos climáticos → 08_REGRAS_M, 1 | 14_GERADORES, 5.2
+├─ Eventos de downtime → 14_GERADORES, 4.4; 17B_TRIGGERBOT, 11.4
+├─ Eventos econômicos → 14_GERADORES, 9
+├─ Eventos veiculares → 14_GERADORES, 7.1
+├─ Explosivos → 05_ITENS, 2
+├─ Expressões populares → 14_GERADORES, 6.4
+F
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ 5 fases do roubo → 08_REGRAS_M, 16.1; 17B_TRIGGERBOT, 13.1
+├─ Fábrica de Sonho → 07_ATLAS
+├─ Fabricação → 08_REGRAS_M, 10
+├─ Facções → 11_LORE, 4; 08_REGRAS_M, 2
+├─ Facções (nomes atualizados) → 11_LORE, 4
+├─ Fala típica (NPC) → 14_GERADORES, 2.10
+├─ /falar → 01_CORE
+├─ Falha crítica → 04_REGRAS, 9
+├─ Falhas (tabela) → 04_REGRAS, 9
+├─ Fama → 08_REGRAS_M, 3; 17A_SISTEMAS, 1.3
+├─ Fantasma da Sé (missão) → 13_AVENTURAS, 1.22
+├─ Faria Lima (C1) → 07_ATLAS, 2.3
+├─ /favor (Fixer) → 01_CORE
+├─ Favores → 08_REGRAS_M, 3; 17B_TRIGGERBOT, 12.3
+├─ /fãs (Rockerboy) → 01_CORE
+├─ Feedback (Triggerbot) → 01_CORE | 02_PERFIL
+├─ Feira da Madrugada → 07_ATLAS, 4.1
+├─ Ferimentos → 04_REGRAS, 5 | 03_CAMPANHA
+├─ Ferramentas → 05_ITENS, 6
+├─ Festa que durou uma semana (crônica) → 11_LORE, 9.18
+├─ Ficha de animal → 04_REGRAS, 13.3
+├─ Fichas de NPC → 12_AMEACAS
+├─ Fichas de personagem → 03_CAMPANHA
+├─ Figuras importantes → 11_LORE, 5
+├─ /finalizar_sessao → 01_CORE
+├─ Fixer (classe) → 04_REGRAS, 3 | 17A_SISTEMAS, 7
+├─ Flagrante (tabelas) → 08_REGRAS_M, 4
+├─ Flanqueamento → 04_REGRAS, 5
+├─ FLEx (aprendizado) → 17B_TRIGGERBOT, 14.1
+├─ Fluido Neural® → 05_ITENS, 4.9
+├─ Fluidos sintéticos → 05_ITENS, 4.9; 04_REGRAS, 11.6
+├─ FO (Força) → 04_REGRAS, 1
+├─ Fofoca (gatilho) → 08_REGRAS_M, 15.1
+├─ FofocaJá® (app) → 05_ITENS, 5
+├─ Fogo (condições) → 08_REGRAS_M
+├─ Fome (sobrevivência) → 03_CAMPANHA | 04_REGRAS
+├─ Fome do Concreto (missão) → 13_AVENTURAS, 1.14
+├─ Formato de UI → 01_CORE
+├─ Força → 04_REGRAS, 1
+├─ Frango Xadrez → 05_ITENS, 8
+├─ Frio extremo → 08_REGRAS_M, 1
+├─ Fuga (caminho) → 13_AVENTURAS (cada missão)
+├─ /fugir → 01_CORE
+├─ Fungo bioluminescente → 05_ITENS, 8
+├─ Furtividade (perícia) → 04_REGRAS, 2
+├─ Fuzil → 05_ITENS, 2
+G
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ Galeria 24 horas → 07_ATLAS
+├─ Galeria do Limite → 07_ATLAS, 6.4
+├─ Galpão do Brás → 07_ATLAS, 8.12
+├─ Gambiarra → 04_REGRAS, 3 | 05_ITENS, 12 | 17A_SISTEMAS, 8
+├─ /gambiarra (Tech) → 01_CORE
+├─ Gambiarra de atributo → 05_ITENS, 12; 17A_SISTEMAS, 8.2
+├─ Gambiarra Master (oficina) → 07_ATLAS
+├─ Gambiarreiro Lendário (arquétipo) → 11_LORE, 5.8
+├─ Ganchos → 13_AVENTURAS, 3 (sementes); 14_GERADORES, 7
+├─ Garras retráteis → 05_ITENS, 4.7
+├─ Gato (chip) crônica → 11_LORE, 9.9
+├─ Gato do Prefeito (missão) → 13_AVENTURAS, 1.6
+├─ Gatilhos de memória → 01_CORE
+├─ Gatilhos de missão → 08_REGRAS_M, 15.1; 17B_TRIGGERBOT, 12.1
+├─ Gaúcho (sotaque) → 14_GERADORES, 6.1
+├─ /gerar → 01_CORE
+├─ Gerador de clima → 14_GERADORES, 5
+├─ Gerador de encontros → 14_GERADORES, 3
+├─ Gerador de missões → 14_GERADORES, 1
+├─ Gerador de momentos humanos → 14_GERADORES, 10
+├─ Gerador de nomes → 14_GERADORES, 1
+├─ Gerador de NPCs → 14_GERADORES, 2 | 08_REGRAS_M, 12
+├─ Gerador de ocupantes → 14_GERADORES, 2.7
+├─ Gerador de sotaque → 14_GERADORES, 6
+├─ Gerador de tesouros → 14_GERADORES, 4
+├─ Gerador de veículos → 14_GERADORES, 7
+├─ Gerenciamento de bases → 08_REGRAS_M
+├─ GFlowPO (otimização) → 17B_TRIGGERBOT, 14.2
+├─ Gírias → 14_GERADORES, 6.2
+├─ Glossário do jogador → 04_REGRAS, 10
+├─ Glossário do mestre → 08_REGRAS_M, 14
+├─ Glossário do mundo → 11_LORE, 11
+├─ GovBR® (app) → 05_ITENS, 5
+├─ Granada → 05_ITENS, 2
+├─ Grande Enchente (2045) → 11_LORE, 1.3
+├─ Grajaú (C4) → 07_ATLAS, 5.5
+├─ Greve (semente) → 13_AVENTURAS, 3.5
+├─ Greve dos entregadores (crônica) → 11_LORE, 9.11
+├─ Guaianases (C4) → 07_ATLAS, 5.3
+├─ Guardião (criatura) → 12_AMEACAS, 1.2
+├─ Guardião do Beco (arquétipo) → 11_LORE, 5.11
+├─ Guardião do Lago → 12_AMEACAS, 1.2
+├─ Guerra das Facções → 08_REGRAS_M | 11_LORE, 10.1
+├─ Guerra do Padrinho (arco) → 11_LORE, 10.1; 13_AVENTURAS, 2.1
+├─ Guioza → 05_ITENS, 8
+├─ Gyoza → 05_ITENS, 8
+H
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ /hack (Netrunner) → 01_CORE
+├─ Hacker (profissão) → 08_REGRAS_M, 12
+├─ Hacker da Vizinhança (arquétipo) → 11_LORE, 5.11
+├─ Hacking → 08_REGRAS_M, 7
+├─ Handling (Hnd) → 08_REGRAS_M, 5
+├─ Helicóptero → 05_ITENS, 7
+├─ Heliópolis (C4) → 07_ATLAS, 5.1
+├─ Helena Freitas → 11_LORE, 4.2, 5.2; 12_AMEACAS, 3.4; 13_AVENTURAS, 1.19, 2.3
+├─ Herança cultural → 14_GERADORES, 6.5
+├─ /historico → 01_CORE
+├─ /historico_reputacao → 01_CORE
+├─ /historico_versoes → 01_CORE
+├─ Hnd (Handling) → 08_REGRAS_M, 5
+├─ HP (Hit Points) → 04_REGRAS, 1
+├─ HT (Saúde) → 04_REGRAS, 1
+├─ Hustle → 14_GERADORES, 3; 17B_TRIGGERBOT, 11.1
+I
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ IA (Inteligência Artificial) → Eva; Padrinho IA
+├─ IA do trem → 13_AVENTURAS, 1.9, 1.21
+├─ IA que queria ser gente (missão) → 13_AVENTURAS, 1.5
+├─ /ice (Netrunner) → 01_CORE
+├─ ICE (Intrusion Countermeasures) → 08_REGRAS_M, 8
+├─ ICE brasileiro → 08_REGRAS_M, 8
+├─ Identidade (personagem) → 03_CAMPANHA
+├─ /ignorar_versao → 01_CORE
+├─ Implantes → 05_ITENS, 4
+├─ Implantes neurais → 05_ITENS, 4.4
+├─ Improviso (Tech) → 17A_SISTEMAS, 8.1
+├─ IN (Intelecto) → 04_REGRAS, 1
+├─ Inalantes → 05_ITENS, 9
+├─ Índice remissivo → 15_INDICE
+├─ /indice_check → 01_CORE
+├─ Inflação → 17A_SISTEMAS, 2.3 | 14_GERADORES, 9
+├─ Informação (moeda) → 11_LORE, 3.5
+├─ Iniciativa (combate) → 04_REGRAS, 5
+├─ Inimigo (desvantagem) → 04_REGRAS, 4
+├─ Inimigo público → 08_REGRAS_M, 4
+├─ Inimigos → 12_AMEACAS
+├─ Inimigos com ciberware → 12_AMEACAS, 4
+├─ Insight → 04_REGRAS, 7 | 17A_SISTEMAS, 4
+├─ Insight crítico (gatilho) → 01_CORE
+├─ /inspirar (Rockerboy) → 01_CORE
+├─ Inspiração (habilidade Rockerboy) → 04_REGRAS, 3; 17A_SISTEMAS, 9.1
+├─ Intelecto → 04_REGRAS, 1
+├─ Intimidação (perícia) → 04_REGRAS, 2
+├─ Intuição Felina (Horácio) → 03_CAMPANHA_C
+├─ Invasor® (app) → 05_ITENS, 5
+├─ Investigação (caminho) → 13_AVENTURAS (cada missão)
+├─ /investigar → 01_CORE
+├─ Investir em si mesmo (downtime) → 17B_TRIGGERBOT, 11.1
+├─ Itaim (C1) → 07_ATLAS, 2.2
+├─ Itens → 05_ITENS
+├─ /itens → 01_CORE
+J
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ Jardim Paulista → 07_ATLAS, 3.6
+├─ Jardins (C1) → 07_ATLAS, 2.1
+├─ Jeitinho (programa) → 05_ITENS, 10
+├─ Jogador → 02_PERFIL_A
+├─ Jogos (Círculo) → 11_LORE, 4.6
+├─ Jornalista (Nina) → 13_AVENTURAS, 1.10, 2.3
+├─ J-turn (manobra) → 08_REGRAS_M, 5
+├─ Julgamento de Ramos (arco) → 13_AVENTURAS, 2.6
+├─ Justiça (sistema) → 08_REGRAS_M, 4
+K
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ Katana → 05_ITENS, 2
+├─ Kenji Shin → 11_LORE, 4.1, 5.3; 12_AMEACAS, 3.1, 3.2; 13_AVENTURAS, 1.21, 2.5, 2.8
+├─ Kibe → 05_ITENS, 8
+├─ Kimchi → 05_ITENS, 8
+├─ Kit básico (manutenção) → 05_ITENS, 4.8
+├─ Kit de ferramentas → 05_ITENS, 6
+├─ Kit de primeiros socorros → 05_ITENS, 6
+├─ Kits de manutenção → 05_ITENS, 4.8
+├─ Kond (líder Solaris) → 11_LORE, 4.3, 5.4; 12_AMEACAS, 3.10; 13_AVENTURAS, 1.13
+├─ KondFood® (app) → 05_ITENS, 5
+├─ Kondzilla (facção, nome antigo) → [não usar, substituído por SOLARIS]
+L
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ Lábia (perícia) → 04_REGRAS, 2
+├─ Laboratório clandestino → 08_REGRAS_M, 8.6
+├─ Laboratórios -5 (Omni) → 11_LORE, 4.1
+├─ Lago Negro → 07_ATLAS, 6.5
+├─ Lâmina de antebraço → 05_ITENS, 4.7
+├─ Lâmina retrátil → 05_ITENS, 4.7
+├─ Lança-perfume → 05_ITENS, 9
+├─ Lámen → 05_ITENS, 8
+├─ Lanterna → 03_CAMPANHA
+├─ /largar → 01_CORE
+├─ Lasanha → 05_ITENS, 8
+├─ Lazer (momentos humanos) → 14_GERADORES, 10
+├─ Lealdade (organizações) → 14_GERADORES, 8.2
+├─ Lenda (reputação) → 08_REGRAS_M, 3
+├─ Lenda (qualidade de item) → 05_ITENS, 1
+├─ Lendas urbanas → 11_LORE, 8.8
+├─ Lens® (app) → 05_ITENS, 5
+├─ Líder comunitário → 13_AVENTURAS, 1.18
+├─ Líder religioso → 13_AVENTURAS, 1.3
+├─ Limpeza (programa) → 05_ITENS, 10
+├─ Limite de tokens → 01_CORE | 10_CONFIG
+├─ Livraria Cultural → 07_ATLAS
+├─ Livro do jogador → 04_REGRAS
+├─ Livro do mestre → 08_REGRAS_M
+├─ Loc (localizações veiculares) → 08_REGRAS_M, 5
+├─ Locais-chave → 07_ATLAS
+├─ Locomotiva → 05_ITENS, 7
+├─ /loja (app) → 01_CORE
+├─ Lojas coreanas → 07_ATLAS
+├─ Lore → 11_LORE
+├─ /lore → 01_CORE
+├─ Luna (criatura) → 13_AVENTURAS, 2.4
+M
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ Macaxeira → 05_ITENS, 8
+├─ Maconha → 05_ITENS, 9
+├─ Mãe, A → 12_AMEACAS, 1.4; 11_LORE, 7.5; 13_AVENTURAS, 1.14, 2.4
+├─ Maneirismo (NPC) → 14_GERADORES, 2.9
+├─ Manifestações → 13_AVENTURAS, 2.3
+├─ Manobras (combate) → 04_REGRAS, 5
+├─ Manobras (veículos) → 08_REGRAS_M, 5
+├─ Manual do jogador → (não há arquivo específico)
+├─ Manual do mestre → (não há arquivo específico)
+├─ Manutenção de ciberware → 04_REGRAS, 11.5; 05_ITENS, 4.8
+├─ Manutenção (downtime) → 17B_TRIGGERBOT, 11.1
+├─ Mão de Deus (facção) → 11_LORE, 4.4; 08_REGRAS_M, 2
+├─ Mão que não estende (missão) → 13_AVENTURAS, 1.12
+├─ Mapa do sistema → 01_CORE
+├─ /mapa → 01_CORE
+├─ Mapas → 07_ATLAS
+├─ Mapeador (programa) → 05_ITENS, 10
+├─ Maquinista, O → 11_LORE, 4.5, 5.6; 12_AMEACAS, 3.6; 13_AVENTURAS, 1.9, 1.17, 2.4
+├─ Marcos (personagem) → 13_AVENTURAS, 1.1
+├─ Marcos de campanha → 03_CAMPANHA
+├─ Marsilac → 07_ATLAS, 5.7
+├─ MC Kelly → 13_AVENTURAS, 1.8; 11_LORE, 5.10
+├─ Mecânica (perícia) → 04_REGRAS, 2
+├─ Medicina (perícia) → 04_REGRAS, 2
+├─ Médica do Povo (arquétipo) → 11_LORE, 5.11
+├─ Médico que salvou a Zona Leste (crônica) → 11_LORE, 9.14
+├─ Melhorias de base → 03_CAMPANHA
+├─ Memória expansível → 05_ITENS, 4.4
+├─ Memória falha (desvantagem) → 04_REGRAS, 4
+├─ /memoria (app) → 01_CORE
+├─ Mercadinho do bairro → 07_ATLAS
+├─ Mercado negro → 17A_SISTEMAS, 2.4; 05_ITENS, 5 (app)
+├─ /mercado → 01_CORE
+├─ Mercado Negro da Santa Ifigênia → 07_ATLAS, 8.4
+├─ Mercado Negro® (app) → 05_ITENS, 5
+├─ Mergulho Profundo (habilidade Netrunner) → 04_REGRAS, 3; 17A_SISTEMAS, 6.1
+├─ Mestre → 09_PERFIL_MESTRE
+├─ /mestre (comandos) → 01_CORE
+├─ Metrô → ver estações
+├─ Migração (checklist) → 03_CAMPANHA | 10_CONFIG
+├─ Milagre do Templo (crônica) → 11_LORE, 9.19
+├─ Milícia → 13_AVENTURAS, 1.10
+├─ Mina → 05_ITENS, 2
+├─ Mineiro (sotaque) → 14_GERADORES, 6.1
+├─ Missões → 13_AVENTURAS | 03_CAMPANHA | 17B_TRIGGERBOT, 12
+├─ Missões por nível → 13_AVENTURAS
+├─ Mistério (gatilho) → 08_REGRAS_M, 15.1
+├─ /modo [eco|normal|completo] → 01_CORE
+├─ Moeda → 05_ITENS, 11; 11_LORE, 3.5
+├─ Momentos humanos → 14_GERADORES, 10
+├─ Monitoramento econômico → 03_CAMPANHA
+├─ Mooca (C3) → 07_ATLAS, 4.6
+├─ Moradia → 03_CAMPANHA | 06_FOLHA
+├─ Morrendo (0 HP) → 04_REGRAS, 12.1
+├─ Morte → 04_REGRAS, 12
+├─ Morte em 3 estágios → 04_REGRAS, 12
+├─ Morte instantânea → 04_REGRAS, 12.4
+├─ Moto → 05_ITENS, 7
+├─ MotoExpress® (app) → 05_ITENS, 5
+├─ /mover (Netrunner) → 01_CORE
+├─ Move (veículos) → 08_REGRAS_M, 5
+├─ Múltiplos finais (arcos) → 11_LORE, 10; 13_AVENTURAS, 2
+├─ Munição → 05_ITENS, 2 | 06_FOLHA, 9
+N
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ Navego® (app) → 05_ITENS, 5
+├─ Necessidades → 04_REGRAS | 06_FOLHA, 13
+├─ /negociar → 01_CORE
+├─ Netrunner (classe) → 04_REGRAS, 3 | 17A_SISTEMAS, 6
+├─ Netrunner Fantasma (arquétipo) → 11_LORE, 5.9
+├─ Netrunning → 08_REGRAS_M, 7-8 | 17A_SISTEMAS, 6
+├─ Névoa química → 08_REGRAS_M, 1 | 01_CORE
+├─ Nível da missão → 08_REGRAS_M, 15.2; 13_AVENTURAS
+├─ Nível de HP → 04_REGRAS, 4 | 06_FOLHA, 4 | 01_CORE
+├─ Nível de Insight → 04_REGRAS, 7; 17A_SISTEMAS, 4.1
+├─ Nível do personagem → 04_REGRAS, 8
+├─ Nível Procurado → 08_REGRAS_M, 4
+├─ Nina (jornalista) → 13_AVENTURAS, 1.10, 2.2, 2.3
+├─ Nirvana Bar (missão) → 13_AVENTURAS, 1.2
+├─ Node® (app) → 05_ITENS, 5
+├─ Noite (encontros) → 14_GERADORES, 3.2
+├─ Noite dos 111 (crônica) → 11_LORE, 9.3
+├─ Nomes (gerador) → 14_GERADORES, 1
+├─ Nomes femininos → 14_GERADORES, 1.2
+├─ Nomes masculinos → 14_GERADORES, 1.1
+├─ Nomes proibidos (muletas) → 17B_TRIGGERBOT, 14.3
+├─ Nordestino (sotaque) → 14_GERADORES, 6.1
+├─ Nortista (sotaque) → 14_GERADORES, 6.1
+├─ Notas do jogador → 03_CAMPANHA
+├─ Notas do mestre → 06_FOLHA, 15 | 03_CAMPANHA
+├─ Notas Rápidas® (app) → 05_ITENS, 5
+├─ /notas → 01_CORE
+├─ Novo personagem (após morte) → 04_REGRAS, 12.5
+├─ NPCs → 12_AMEACAS | 14_GERADORES, 2 | 03_CAMPANHA
+├─ /npc → 01_CORE
+O
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ O Afogado → 12_AMEACAS, 1.2; 13_AVENTURAS, 1.20
+├─ O Caderno do Gambiarreiro (missão) → 13_AVENTURAS, 1.7
+├─ O Cemitério de Titãs (missão) → 13_AVENTURAS, 1.17
+├─ O Círculo → ver Círculo
+├─ O Culto (semente) → 13_AVENTURAS, 3.6
+├─ O Despertar da Criatura (arco) → 13_AVENTURAS, 2.4
+├─ O Domador de Névoa (missão) → 13_AVENTURAS, 1.18
+├─ O Eco do Silêncio (missão) → 13_AVENTURAS, 1.20
+├─ O Entregador Fantasma (missão) → 13_AVENTURAS, 1.1
+├─ O Fã Obcecado (semente) → 13_AVENTURAS, 3.3
+├─ O Fantasma da Sé (missão) → 13_AVENTURAS, 1.22
+├─ O Gato do Prefeito (missão) → 13_AVENTURAS, 1.6
+├─ O Homem que não dorme → 11_LORE, 8.1
+├─ O Maquinista → ver Maquinista
+├─ O Pacote Errado (semente) → 13_AVENTURAS, 3.1
+├─ O Pacto (missão) → 13_AVENTURAS, 1.3
+├─ O Padrinho → ver Padrinhos
+├─ O Pesadelo Recorrente (missão) → 13_AVENTURAS, 1.11
+├─ O Poço → 11_LORE, 8.5
+├─ O Poço dos Desejos (missão) → 13_AVENTURAS, 1.15
+├─ O Processo (missão) → 13_AVENTURAS, 1.4
+├─ O Profeta → ver Profeta
+├─ O Programador Fantasma → 11_LORE, 8.3
+├─ O Sorriso da Máquina (missão) → 13_AVENTURAS, 1.16
+├─ O Trem Fantasma → 11_LORE, 8.6; 13_AVENTURAS, 1.9
+├─ O Último Baile (missão) → 13_AVENTURAS, 1.13
+├─ O Último Golpe do Coringa (missão) → 13_AVENTURAS, 1.19
+├─ O Último Policial (missão) → 13_AVENTURAS, 1.10
+├─ O Último Trem (missão) → 13_AVENTURAS, 1.21
+├─ O -4 → 07_ATLAS, 6.5; 11_LORE, 8.11
+├─ /observar → 01_CORE
+├─ Obsolescência programada → 04_REGRAS, 11.7
+├─ Objetos interativos → 07_ATLAS, 8
+├─ /ocupante → 01_CORE
+├─ Ocupantes (gerador) → 14_GERADORES, 2.7
+├─ Oficina do Seu Zé → 07_ATLAS, 5.1 (genérico)
+├─ Oficina Gambiarra Master → 07_ATLAS
+├─ Olho cibernético → 05_ITENS, 4.5
+├─ Olho de agulha → 05_ITENS, 4.5
+├─ Olho de lince → 05_ITENS, 4.5
+├─ Olho multi-espectro → 05_ITENS, 4.5
+├─ Olho tático → 05_ITENS, 4.5
+├─ Omni Corp → 11_LORE, 4.1; 08_REGRAS_M, 2
+├─ Omni Meal® → 05_ITENS, 8
+├─ Omni-Soda® → 05_ITENS, 8
+├─ /onde → 01_CORE
+├─ /opcoes → 01_CORE
+├─ Oportunidades de gasto → 14_GERADORES, 9.2
+├─ Oportunidades (downtime) → 14_GERADORES, 4.3
+├─ Organizações → 08_REGRAS_M, 6 | 14_GERADORES, 8
+├─ Orientação sobre sotaque → 01_CORE
+├─ Origem (NPC) → 14_GERADORES, 6.1
+├─ Overdose → 05_ITENS, 9
+├─ Oxi (droga) → 05_ITENS, 9
+P
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ Padaria Pão & Amor → 07_ATLAS
+├─ Padrinhos (três) → 11_LORE, 4.6, 5.1; 12_AMEACAS, 3.1-3.3; 13_AVENTURAS, 2.1
+├─ Pagar favores (downtime) → 17B_TRIGGERBOT, 11.1
+├─ Pamonha → 05_ITENS, 8
+├─ Parelheiros (C4) → 07_ATLAS, 5.4
+├─ Passo (unidade) → 04_REGRAS, 5.2
+├─ Pastel → 05_ITENS, 8
+├─ Paulista (avenida) → 07_ATLAS, 3.1
+├─ Paulista (sotaque) → 14_GERADORES, 6.1
+├─ Pé quente (vantagem) → 04_REGRAS, 4
+├─ Peças de reposição → 05_ITENS, 6
+├─ /pegar → 01_CORE
+├─ Perna Aquiles → 05_ITENS, 4.2
+├─ Perna de atleta → 05_ITENS, 4.2
+├─ Perna de paulista → 05_ITENS, 4.2
+├─ Perna Hermes → 05_ITENS, 4.2
+├─ Perna Quíron → 05_ITENS, 4.2
+├─ "Perna Rápida do Baiano" (gambiarra) → 05_ITENS, 12; 17A_SISTEMAS, 8.2
+├─ Percepção (perícia) → 04_REGRAS, 2
+├─ Perdizes (C2) → 07_ATLAS, 3.5
+├─ /perfil → 01_CORE
+├─ Perfurante (arma) → 05_ITENS, 4.7
+├─ Perícias → 04_REGRAS, 2
+├─ Permissões de apps → 01_CORE
+├─ /personagem → 01_CORE
+├─ Personagens (exemplos) → 03_CAMPANHA_C
+├─ Perseguição → 08_REGRAS_M, 5 | 04_REGRAS | 01_CORE
+├─ Pesadelo Recorrente (missão) → 13_AVENTURAS, 1.11
+├─ Pesquisador da Omni → 12_AMEACAS, 2.2
+├─ Pesquisador da USP → 13_AVENTURAS, 1.11, 1.17, 1.20
+├─ Pickup → 05_ITENS, 7
+├─ Pilotagem (perícia) → 04_REGRAS, 2
+├─ Pinheiros (C2) → 07_ATLAS, 3.3
+├─ Ping® (app) → 05_ITENS, 5
+├─ Pistola → 05_ITENS, 2
+├─ Pit maneuver → 08_REGRAS_M, 5
+├─ Pizza → 05_ITENS, 8
+├─ /plataforma → 01_CORE
+├─ Plasma (arma) → 05_ITENS, 4.7
+├─ Pontos de Fôlego (PF) → 04_REGRAS, 1
+├─ Pontos de Progressão (PP) → 04_REGRAS, 7
+├─ Power bank → 05_ITENS, 5 | 06_FOLHA, 11 | 01_CORE
+├─ Praça da Juventude → 07_ATLAS
+├─ Prato feito (PF) → 05_ITENS, 8
+├─ Prazos → 01_CORE; 17B_TRIGGERBOT, 12.1
+├─ /prazos → 01_CORE
+├─ Preconceito linguístico → 01_CORE (orientação)
+├─ Preços → 05_ITENS, 11 | 06_FOLHA, 7 | 17A_SISTEMAS, 2.5
+├─ Preferências (Triggerbot) → 02_PERFIL
+├─ Primeiro datajack (crônica) → 11_LORE, 9.10
+├─ Primeiros socorros → 04_REGRAS, 2; 04_REGRAS, 12.2
+├─ Problemas (downtime) → 14_GERADORES, 4.2
+├─ Processador Neural (IN) → 05_ITENS, 4.4
+├─ Processo (O) → 11_LORE, 10.3
+├─ Profecia do Profeta (crônica) → 11_LORE, 9.8
+├─ Profeta, O → 11_LORE, 4.4, 5.5; 12_AMEACAS, 3.5; 13_AVENTURAS, 1.19, 2.3
+├─ Profeta da Rua (arquétipo) → 11_LORE, 5.11
+├─ Profissão (NPC) → 14_GERADORES, 2.2
+├─ Programador Fantasma (lenda) → 11_LORE, 8.3
+├─ Programas de netrunning → 05_ITENS, 10
+├─ Progressão de personagem → 04_REGRAS, 7
+├─ Projeto longo (downtime) → 17B_TRIGGERBOT, 11.1
+├─ Proteção → 05_ITENS, 3
+├─ /proteger (Solo) → 01_CORE
+├─ Protocolo Ômega → 11_LORE, 4.1; 13_AVENTURAS, 2.8
+├─ Protocolos automáticos → 01_CORE
+├─ Pulmão Sintético → 05_ITENS, 4.3
+Q
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ Qualidade de itens → 05_ITENS, 1 | 06_FOLHA, 10
+├─ Qualidade total (roubo) → 08_REGRAS_M, 16.4; 17B_TRIGGERBOT, 13.4
+├─ Queda (dano) → 04_REGRAS, 12.4
+├─ Queda da Verde Vivo (arco) → 11_LORE, 10.6; 13_AVENTURAS, 2.3
+├─ Queda do Edifício São Pedro (crônica) → 11_LORE, 9.13
+├─ Quebra-galho (programa) → 05_ITENS, 10
+R
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ Rádio tático → 05_ITENS, 5
+├─ Ramos (delegado) → 11_LORE, 8.4; 13_AVENTURAS, 1.10, 2.6
+├─ Rastreador® (app) → 05_ITENS, 5
+├─ Rato gigante → 12_AMEACAS, 1.1
+├─ Real (moeda) → 11_LORE, 3.5
+├─ Rebote do café → 05_ITENS, 8
+├─ Receitas de fabricação → 08_REGRAS_M, 10
+├─ Recuperação de HP → 04_REGRAS, 5
+├─ Recuperação de Insight → 04_REGRAS, 7; 17A_SISTEMAS, 4.3
+├─ Recuperação de vícios → 17A_SISTEMAS, 3.3
+├─ /ref_check → 01_CORE
+├─ Referências bibliográficas → 16_REFERENCIAS
+├─ Registro climático → 03_CAMPANHA
+├─ Registro de dívidas e favores → 17B_TRIGGERBOT, 12.3
+├─ Regras → 04_REGRAS
+├─ Regras de bateria → 01_CORE
+├─ Regras de clima → 01_CORE
+├─ Regras de nomes (NPCs) → 17B_TRIGGERBOT, 14.3
+├─ Regras do mestre → 08_REGRAS_M
+├─ Rejeição (ciberware) → 04_REGRAS, 11.4
+├─ Relógios de progresso → 17B_TRIGGERBOT, 11.3
+├─ Remédios → 05_ITENS, 8
+├─ Represa Guarapiranga → 07_ATLAS
+├─ República (C3) → 07_ATLAS, 4.4
+├─ Reputação → 08_REGRAS_M, 3 | 17A_SISTEMAS, 1
+├─ /reputacao → 01_CORE
+├─ Resgate (missão) → 13_AVENTURAS
+├─ /restaurar → 01_CORE
+├─ Retirada tática (boss) → 08_REGRAS_M, 13
+├─ Reviravolta (missões) → 13_AVENTURAS
+├─ Revólver → 05_ITENS, 2
+├─ Rifle → 05_ITENS, 2
+├─ Riscos (fabricação) → 08_REGRAS_M, 10
+├─ Riscos (animais) → 04_REGRAS, 13.2
+├─ Rio pegou fogo (crônica) → 11_LORE, 9.12
+├─ Ritmo de jogo → 03_CAMPANHA | 01_CORE
+├─ Rockerboy (classe) → 04_REGRAS, 3 | 17A_SISTEMAS, 9
+├─ Rolagem contextual → 01_CORE
+├─ /rolar → 01_CORE
+├─ Rolinho primavera → 05_ITENS, 8
+├─ /rota → 01_CORE
+├─ Rotas conhecidas → 03_CAMPANHA
+├─ Roubo → 08_REGRAS_M, 16; 17B_TRIGGERBOT, 13
+├─ /roubar → 01_CORE
+├─ Roubo proporcional → 08_REGRAS_M, 16
+├─ Roxinho® (app) → 05_ITENS, 5
+├─ Rua 25 de Março → 07_ATLAS
+├─ Ruínas da expedição → 07_ATLAS, 6.6
+├─ Ruínas dos Antigos → 07_ATLAS, 6.5
+S
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ Salário mínimo (SM) → 05_ITENS, 11; 17A_SISTEMAS, 2.1
+├─ 1 SM = R$ 1.600 → 05_ITENS, 11; 17A_SISTEMAS, 2.1
+├─ Salão beleza de favela → 07_ATLAS
+├─ Salteña → 05_ITENS, 8
+├─ Sangue Sintético → 05_ITENS, 4.3
+├─ Santa Cecília → 07_ATLAS, 4.2
+├─ Saúde → 03_CAMPANHA | 04_REGRAS, 1
+├─ SaúdeJá® (app) → 05_ITENS, 5
+├─ Sede (sobrevivência) → 03_CAMPANHA
+├─ Segredos da cidade → 11_LORE, 7 | 03_CAMPANHA
+├─ Segurança da Omni → 12_AMEACAS, 2.2
+├─ Segurança de show → 12_AMEACAS, 2.3
+├─ Sementes de aventura → 13_AVENTURAS, 3
+├─ Sentidos aguçados (vantagem) → 04_REGRAS, 4
+├─ Separação mundo × campanha → 02_PERFIL | 11_LORE
+├─ Serra circular → 05_ITENS, 4.7
+├─ Semente do Caos (arco) → 13_AVENTURAS, 2.7
+├─ Shin (facção, nome antigo) → [não usar, substituído por OMNI CORP]
+├─ ShopFast® (app) → 05_ITENS, 5
+├─ Shopping (Rua Augusta) → 07_ATLAS
+├─ Sistema de backup → 17B_TRIGGERBOT, 15
+├─ Sistema de justiça → 08_REGRAS_M, 4
+├─ Sistema de mapas → 04_REGRAS (5.2) + 07_ATLAS
+├─ Sistema Super Humano → 04_REGRAS, 11
+├─ Skate → 05_ITENS, 7 | 03_CAMPANHA
+├─ Sobrenomes (tabela) → 14_GERADORES, 1.3
+├─ Sobrevivência (perícia) → 04_REGRAS, 2
+├─ Sobrevivente (missões) → 13_AVENTURAS, 1.9
+├─ Solar (fundador Solaris) → 11_LORE, 4.3, 5.7; 12_AMEACAS, 3.10; 13_AVENTURAS, 1.13
+├─ Solaris (facção) → 11_LORE, 4.3; 08_REGRAS_M, 2
+├─ SolarisBurger® → 05_ITENS, 8
+├─ Solo (classe) → 04_REGRAS, 3 | 17A_SISTEMAS, 5
+├─ Sono (sobrevivência) → 03_CAMPANHA
+├─ Sopa comunitária → 05_ITENS, 8
+├─ Sorriso da Máquina (missão) → 13_AVENTURAS, 1.16
+├─ Sorvete → 05_ITENS, 8
+├─ Sotaque → 14_GERADORES, 6; 01_CORE (orientação)
+├─ Sotaque neutro (não existe) → 01_CORE
+├─ SPTrans® (app) → 05_ITENS, 5
+├─ SR (Stability Rating) → 08_REGRAS_M, 5
+├─ /status → 01_CORE
+├─ Stream® (app) → 05_ITENS, 5
+├─ Submarino → 05_ITENS, 7
+├─ Submetralhadora → 05_ITENS, 2
+├─ Suborno → 08_REGRAS_M, 4 | 06_FOLHA
+├─ Subúrbio (Camada 4) → 07_ATLAS, 5
+├─ Sucesso crítico → 04_REGRAS, 9
+├─ /sugerir → 01_CORE
+├─ Sulista (sotaque) → 14_GERADORES, 6.1
+├─ Surfistas → 11_LORE, 4.5; 08_REGRAS_M, 2
+├─ Sushi → 05_ITENS, 8
+├─ /swap → 01_CORE
+├─ SynthBlood® → 05_ITENS, 4.9
+├─ SynthOil® → 05_ITENS, 4.9
+├─ SynthOil® Avançado → 05_ITENS, 4.9
+T
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ Tacacá → 05_ITENS, 8
+├─ Takashi Shin → 11_LORE, 4.1; 12_AMEACAS, 3.3; 13_AVENTURAS, 1.1, 2.8
+├─ Tali (netrunner) → 13_AVENTURAS, 1.22 (genérico)
+├─ Tatuapé (C3) → 07_ATLAS, 4.7
+├─ Tech (classe) → 04_REGRAS, 3 | 17A_SISTEMAS, 8
+├─ Telhados → 07_ATLAS, 8.5
+├─ Temperatura → 08_REGRAS_M, 1
+├─ Templo da Redenção → 07_ATLAS, 8.3; 11_LORE, 4.4
+├─ Tempo de jogo → 01_CORE
+├─ Tenente (NPC) → 13_AVENTURAS, 2.1
+├─ Terapia (recuperar Insight) → 04_REGRAS, 7
+├─ Terminal Cidade Tiradentes → 07_ATLAS
+├─ Terminal Grajaú → 07_ATLAS
+├─ Território (moeda) → 11_LORE, 3.5
+├─ Tesouros → 14_GERADORES, 4
+├─ Teste de rejeição → 04_REGRAS, 11.4
+├─ Testemunha (gatilho) → 08_REGRAS_M, 15.1
+├─ Testemunha (semente) → 13_AVENTURAS, 3.2
+├─ Testes (rolagens) → 04_REGRAS, 8 | 06_FOLHA, 3 | 01_CORE
+├─ TL (Nível Tecnológico) → 08_REGRAS_M, 5
+├─ Tokens (monitoramento) → 01_CORE | 03_CAMPANHA | 10_CONFIG
+├─ Tom de voz (NPC) → 14_GERADORES, 6.3
+├─ Torre Biosfera → 07_ATLAS; 11_LORE, 4.2
+├─ Torre Gênesis → 07_ATLAS, 2.3; 11_LORE, 4.1
+├─ Torre Pangeia → 11_LORE, 4.1
+├─ Trabalhar (hustle) → 14_GERADORES, 3; 17B_TRIGGERBOT, 11.1
+├─ Tráfico → Círculo
+├─ Traição (caminho) → 13_AVENTURAS (cada missão)
+├─ Tramas entre facções → 11_LORE, 8
+├─ Transporte → 06_FOLHA, 13 | 03_CAMPANHA
+├─ Traquitaneiro (arquétipo) → 11_LORE, 5.11
+├─ Traumas → 04_REGRAS, 7; 17A_SISTEMAS, 4.4
+├─ Trem → 06_FOLHA, 13 | 03_CAMPANHA
+├─ Trem Fantasma → 11_LORE, 8.6; 13_AVENTURAS, 1.9
+├─ Treinar (downtime) → 17B_TRIGGERBOT, 11.1
+├─ Túnel Leste → 07_ATLAS, 6.8
+├─ Túnel Rebouças → 07_ATLAS, 6.9
+├─ TúnelCerto® (app) → 05_ITENS, 5
+U
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ UI (User Interface) → 01_CORE
+├─ Último suspiro → 04_REGRAS, 12.3
+├─ Upload de consciência → 11_LORE, 4.1; 13_AVENTURAS, 2.8
+├─ /usar → 01_CORE
+├─ USP → 07_ATLAS
+V
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ Vagão de trem → 05_ITENS, 7
+├─ Van/Furgão → 05_ITENS, 7
+├─ Vantagens → 04_REGRAS, 4
+├─ Variação linguística → 14_GERADORES, 6
+├─ Vazio de Perus (S5) → 07_ATLAS, 6.6; 11_LORE, 8.11
+├─ Veículos → 08_REGRAS_M, 5 | 05_ITENS, 7 | 01_CORE
+├─ Ventilação → 07_ATLAS, 8.4
+├─ Verão (clima) → 08_REGRAS_M, 1
+├─ Verde Vivo (facção) → 11_LORE, 4.2; 08_REGRAS_M, 2
+├─ /verificar_arquivos → 01_CORE
+├─ Versões de nível (arcos) → 13_AVENTURAS, 2
+├─ Vice (downtime) → 17B_TRIGGERBOT, 11.1
+├─ Vícios → 05_ITENS, 9 | 17A_SISTEMAS, 3 | 03_CAMPANHA
+├─ Vila Andrade (C4) → 07_ATLAS, 5.9
+├─ Vila Madalena (C2) → 07_ATLAS, 3.4
+├─ Visão noturna → 04_REGRAS, 4
+├─ Visões (do Profeta) → 11_LORE, 4.4
+├─ Voluntário (corpo para IA) → 13_AVENTURAS, 1.5
+├─ Vontade (teste) → 04_REGRAS, 7
+├─ Voz que não cala (missão) → 13_AVENTURAS, 1.8
+W
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ W (rodas) → 08_REGRAS_M, 5
+├─ Wifi (em locais) → 07_ATLAS
+X
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ X9 (ICE) → 08_REGRAS_M, 8
+├─ X9 Mestre (ICE) → 08_REGRAS_M, 8
+Y
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ Yakisoba → 05_ITENS, 8
+├─ YAML (configuração) → 02_PERFIL
+├─ Yumi (filha de Kenji) → 11_LORE, 4.1
+Z
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ Zé do Bar (NPC) → 13_AVENTURAS, 1.2 (genérico)
+├─ Zé (apelido) → 14_GERADORES, 1.4
+├─ Zelador (Demon) → 08_REGRAS_M, 8
+├─ Zelador Turbo (Demon) → 08_REGRAS_M, 8
+├─ Zona de alerta (tokens) → 01_CORE
+├─ Zona Leste → 07_ATLAS
+├─ Zona Norte → 07_ATLAS
+├─ Zona Sul → 07_ATLAS
+---------------------------------------------------------------------
+3. ÍNDICE POR ARQUIVO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+00_PRIMEIROS_PASSOS_v1.0.txt (não utilizado na v1.1)
+├─ Guia para novos jogadores (substituído por instruções no 01_CORE)
+01_CORE_v1.1.txt
+├─ 57+ comandos integrados
+├─ UI de 3 blocos
+├─ Checklist de memória (20 gatilhos)
+├─ Verificador de consistência
+├─ Regras para cenas novas
+├─ Geração dinâmica de cenários
+├─ Modo econômico
+├─ Protocolo de /finalizar_sessao (10 regras)
+├─ Resumos de todos os sistemas com remissões
+├─ Orientações narrativas (sotaque, ganchos, nomes)
+├─ Regras de bateria e clima
+└─ Referências (GURPS, Cyberpunk RED, Lazy DM)
+02_PERFIL_A_v1.1.txt
+├─ Identificação do jogador (Artur)
+├─ Preferências de jogo
+├─ Padrões globais (com confiança estatística)
+├─ Checklist de memória
+├─ Separação mundo × campanha
+└─ Configurações de aprendizado
+03_CAMPANHA_B_v1.1.txt
+├─ Template para novas campanhas
+├─ Instruções sobre 02_PERFIL
+├─ Metadados de sessão
+├─ Diário (a ser preenchido)
+├─ Ficha de personagem em branco (com campos para atributos 19-24, manutenção, fluidos)
+├─ Seção para personagens jogados por DeepSeek
+├─ NPCs da campanha (com histórico e gatilhos)
+├─ Sobrevivência
+├─ Inventário
+├─ Missões com status e consequências
+└─ Estado da cena
+03_CAMPANHA_C_v1.1.txt
+├─ Campanha do Math
+├─ Ficha completa do Math (atributos 19-24, manutenção, fluidos, obsolescência)
+├─ Metadados de sessão
+├─ Diário integrado
+├─ NPCs da campanha (Pai, Horácio)
+├─ Sobrevivência (fome, sede, cigarro, maconha)
+├─ Celular e bateria
+├─ Inventário completo
+├─ Ciberware guardado (Datajack Original)
+├─ Missões ativas
+├─ Reputação por facção
+├─ Contatos
+├─ Moradia e custos
+├─ Transporte
+├─ Saúde e ferimentos
+├─ Combate e táticas
+├─ Progressão (PP)
+├─ Registro climático
+└─ Estado da cena inicial
+04_REGRAS_BASE_v1.1.txt
+├─ Atributos (HT, FO, DE, IN) com bônus
+├─ Perícias por atributo
+├─ Classes (Solo, Netrunner, Fixer, Tech, Rockerboy)
+├─ Vantagens e desvantagens
+├─ Combate (iniciativa, manobras, distância, cobertura)
+├─ Distâncias em passos (1 passo = 1.5m)
+├─ Insight e saúde mental
+├─ Progressão (PP)
+├─ Tabelas rápidas (CD, HP, críticos, falhas)
+├─ Glossário do jogador
+├─ SISTEMA SUPER HUMANO (atributos 19-24, manutenção, fluidos, obsolescência, teste de rejeição, efeitos narrativos)
+├─ MORTE (3 estágios, último suspiro, nova ficha)
+├─ ANIMAIS DE ESTIMAÇÃO (benefícios, riscos, ficha)
+└─ Referências (GURPS, Cyberpunk RED)
+05_ITENS_v1.1.txt
+├─ Qualidade dos itens (⭐ a ⭐⭐⭐⭐⭐)
+├─ Armas (pistolas, SMGs, fuzis, escopetas, brancas, explosivos)
+├─ Proteção e blindagem
+├─ CIBERWARE 19-24 (braços, pernas, órgãos, neurais, olhos, ouvidos, armas implantadas)
+├─ Kits de manutenção (4 níveis)
+├─ Fluidos sintéticos (SynthOil®, SynthBlood®, Fluido Neural®)
+├─ Eletrônicos e comunicação (celulares, apps)
+├─ Apps do mundo (Ping®, CriptoChat®, EntregueJá®, etc.)
+├─ Ferramentas
+├─ Veículos e drones
+├─ Consumíveis (comidas regionais completas)
+├─ DROGAS BRASILEIRAS (6 tipos: maconha, cocaína, crack, oxi, benzos, inalantes)
+├─ Programas de netrunning
+├─ Preços por camada com IDs do Atlas
+├─ Gambiarras (incluindo gambiarras de atributo)
+└─ NOTA SOBRE ECONOMIA (1 SM = R$ 1.600)
+06_FOLHA_MESA_v1.1.txt
+├─ Consulta rápida de arquivos
+├─ Regras rápidas
+├─ Tabelas de dificuldade (CD)
+├─ Níveis de HP e regra de desmaio
+├─ Críticos e falhas
+├─ Tabelas de clima e eventos
+├─ Tabelas de preços rápidos
+├─ Tabelas de armas e ciberware (resumo)
+├─ Tabelas de munição e granadas
+├─ Tabela de qualidade de itens
+├─ Tabelas de power banks e bateria
+├─ Geradores rápidos
+├─ Sistemas integrados (sobrevivência, transporte, combate)
+├─ Checklist do mestre
+├─ Anotações da sessão
+├─ Referências rápidas
+├─ Emotes padronizados
+└─ Tabela de conversão metros ⇄ passos
+07_ATLAS_v1.1.txt
+├─ Visão geral das 5 Camadas
+├─ Camada 1 (Jardins, Itaim, Faria Lima)
+├─ Camada 2 (Paulista, Berrini, Pinheiros, Vila Madalena, Perdizes, Jardim Paulista, Cerqueira César)
+├─ Camada 3 (Centro, Santa Cecília, Consolação, República, Cracolândia, Mooca, Tatuapé, Bom Retiro, Liberdade, Cambuci, Brás)
+├─ Camada 4 (Heliópolis, Brasilândia, Guaianases, Parelheiros, Grajaú, Cidade Tiradentes, Marsilac, Anhanguera, Vila Andrade)
+├─ Camada 5 (Estações, Galeria do Limite, Vazio de Perus, Estação República, Estação Santa Cecília, Túnel Rebouças)
+├─ Tabelas de deslocamento
+├─ MAPAS DE COMBATE (17 cenários) com campo OCUPANTE em todos
+└─ Referências (Cyberpunk 2077, Stray)
+08_REGRAS_MESTRE_v1.1.txt
+├─ Clima e ambiente
+├─ Facções (Círculo, Omni Corp, Verde Vivo, Solaris, Mão de Deus, Surfistas)
+├─ Reputação (níveis, fama, profissional)
+├─ Justiça e autoridades
+├─ Veículos (sistema + perseguição)
+├─ Organizações
+├─ Netrunning avançado (encontros com Eva, arquiteturas, datajack)
+├─ ICE brasileiro (29 tipos)
+├─ Drones
+├─ Fabricação e criação
+├─ Tabelas de encontros
+├─ Gerador de NPCs
+├─ Sistema de bosses (3 fases)
+├─ Glossário do mestre
+├─ MISSÕES (gatilhos 1d10, nível da missão)
+└─ ROUBO (5 fases, avaliação, qualidade, consequências)
+09_PERFIL_MESTRE_v1.1.txt
+├─ Identificação do mestre
+├─ Estilo narrativo (aprendizado dinâmico)
+├─ Relação com regras
+├─ Letalidade e consequências
+├─ Interpretação de NPCs
+├─ Comando /cenario (gerador rápido)
+├─ Configurações
+└─ Referências (Lazy Dungeon Master)
+10_CONFIG_LLM_v1.1.txt
+├─ Limites de contexto por plataforma
+├─ Configuração padrão recomendada
+├─ Comando /platform
+├─ Estratégias detalhadas (DeepSeek, ChatGPT, Gemini, Claude)
+├─ Procedimento de migração
+├─ Modo econômico
+├─ Tabela de compatibilidade de comandos
+└─ Referências (Addy Osmani, GURPS)
+11_LORE_v1.1.txt
+├─ A Queda (2025-2045)
+├─ A Reconstrução (2045-2070)
+├─ São Paulo 2097 (5 Camadas, cyberspace)
+├─ Facções (história completa: Omni Corp, Verde Vivo, Solaris, Mão de Deus, Surfistas, Círculo)
+├─ Figuras importantes (Kenji, Takashi, Eva, Helena, Clara, Solar, Profeta, Maquinista, Padrinhos)
+├─ Os temas de Cyber SP 2097
+├─ Segredos da cidade (Eva é Yumi, Clara é faxineira, Solar é IA?, pesadelos do Profeta, Antigos acordando, três Padrinhos)
+├─ Tramas entre facções
+├─ Crônicas da cidade (20 histórias completas)
+├─ O Futuro (2098-2105) — 8 arcos
+├─ Glossário do mundo
+└─ Referências (Não Verás País Nenhum, Tupinipunk, Cyberagreste)
+12_AMEACAS_v1.1.txt
+├─ Criaturas do -4 e do Vazio (Anfíbios, Guardião, Antigos, Mãe)
+├─ Capangas por facção (6 tipos)
+├─ Bosses — líderes de facção (Kenji, Takashi, Helena, Profeta, Maquinista, Padrinhos, Solar, Eva)
+├─ Inimigos com ciberware (gerador rápido)
+├─ Estratégias de combate (3 fases, táticas, ajuste)
+└─ Referências (GURPS, Cyberpunk RED)
+13_AVENTURAS_v1.1.txt
+├─ Missões curtas (23 aventuras) com 5 níveis e 5 caminhos cada
+├─ Arcos completos (8 arcos) com 3 versões de nível e múltiplos finais
+├─ Sementes de aventura (6)
+├─ Ferramentas para o mestre (destruction testing, tabela de consequências, dicas de improviso, checklist)
+└─ Referências (Cyberpunk, Lazy Dungeon Master, Alexandrian)
+14_GERADORES_v1.1.txt
+├─ Gerador de nomes (1d20 masculino, feminino, sobrenomes, apelidos)
+├─ Gerador de NPCs (profissão, atitude, motivação, segredo)
+├─ Gerador de encontros
+├─ Hustle por classe
+├─ Gerador de clima
+├─ Gerador de sotaque e origem (incluindo descritores 1d20 e herança cultural 1d10)
+├─ Gerador de veículos
+├─ Gerador de membros para organizações
+├─ Gerador de eventos econômicos
+├─ Gerador de momentos humanos
+├─ Banco de ganchos (1d100)
+├─ Arquétipos de NPCs
+├─ Eventos de downtime
+└─ Tabela de consequências inesperadas (1d20)
+15_INDICE_v1.1.txt
+├─ Como usar
+├─ Índice remissivo completo (A-Z) — 400+ verbetes
+├─ Índice por arquivo (este)
+└─ Tabela de referências rápidas
+16_REFERENCIAS_v1.1.txt
+├─ 140+ referências organizadas por categoria
+├─ Categorias: RPG (sistemas e design), Literatura, Cinema/Jogos, Linguística, Economia, Crime, Internas
+└─ Atualizado com novas fontes (linguística brasileira, Blades in the Dark, etc.)
+17A_SISTEMAS_v1.1.txt
+├─ 1. 🎭 REPUTAÇÃO (níveis, efeitos por facção, como ganhar/perder, fama geral)
+├─ 2. 💰 ECONOMIA (salário mínimo, custo de vida, inflação, escassez, mercado negro, preços por nível)
+├─ 3. 🚬 VÍCIOS (estrutura, 6 drogas brasileiras completas, recuperação)
+├─ 4. 🧠 INSIGHT (níveis, perda, recuperação, traumas, conexão com Eva)
+├─ 5. ⚔️ SOLO (habilidades por nível Nv1-5, comandos)
+├─ 6. 💻 NETRUNNER (habilidades por nível Nv1-5, comandos)
+├─ 7. 🤝 FIXER (habilidades por nível Nv1-5, comandos)
+├─ 8. 🔧 TECH (habilidades por nível Nv1-5, gambiarras de atributo, comandos)
+├─ 9. 🎤 ROCKERBOY (habilidades por nível Nv1-5, comandos)
+└─ 10. 💾 BACKUP INTELIGENTE (comandos e protocolo)
+17B_TRIGGERBOT_v1.1.txt
+├─ 11. ⏱️ DOWNTIME (2 atividades, custo extra, relógios, eventos)
+├─ 12. 🎯 MISSÕES (tabela de prioridade, checklist de contexto, registro de dívidas e favores, apresentação)
+├─ 13. 🦹 ROUBO (5 fases, avaliação do plano, bônus da execução, qualidade total, consequências)
+├─ 14. 🧠 APRENDIZADO (FLEx, GFlowPO, regras de nomes)
+└─ 15. 💾 BACKUP INTELIGENTE (comandos, configurações, protocolo)
+---------------------------------------------------------------------
+4. TABELA DE REFERÊNCIAS RÁPIDAS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Se precisar de... | Vá para...
+Criar personagem | 04_REGRAS, 1-3
+Calcular Insight | 04_REGRAS, 6.2
+Consultar preço de arma | 05_ITENS, 2
+Regras de clima dinâmico | 08_REGRAS_M, 1 | 01_CORE
+Tabela de ciberware 19-24 | 05_ITENS, 4
+Kits de manutenção | 05_ITENS, 4.8
+Fluidos sintéticos | 05_ITENS, 4.9
+Drogas brasileiras | 05_ITENS, 9
+Programas de netrunning | 05_ITENS, 10
+História do Círculo | 11_LORE, 4.6
+História da Omni Corp | 11_LORE, 4.1
+História da Verde Vivo | 11_LORE, 4.2
+História da Solaris | 11_LORE, 4.3
+Ficha do Kenji Shin | 12_AMEACAS, 3.1
+Ficha da Eva | 12_AMEACAS, 3.11
+Regras de netrunning | 08_REGRAS_M, 7-8 | 17A_SISTEMAS, 6
+Encontros com a Eva | 08_REGRAS_M, 7; 17A_SISTEMAS, 4.5
+Gerenciar base | 08_REGRAS_M, 6
+Fabricar itens | 08_REGRAS_M, 10
+Guerra entre facções | 11_LORE, 10.1
+Sistema de Justiça | 08_REGRAS_M, 4
+Delegado Ramos | 11_LORE, 8.4
+Drogas e Vícios | 04_REGRAS, 4.3 | 17A_SISTEMAS, 3
+Saúde mental e traumas | 04_REGRAS, 6 | 17A_SISTEMAS, 4
+Qualidade de itens | 05_ITENS, 1
+Power banks | 05_ITENS, 5 | 01_CORE
+Transporte | 06_FOLHA, 13
+Combate tático | 04_REGRAS, 5 | 17A_SISTEMAS, 5
+Críticos e falhas | 04_REGRAS, 8
+Nível Procurado | 08_REGRAS_M, 4
+Diretrizes de narração | 01_CORE
+Sistema de mapas | 04_REGRAS (5.2) + 07_ATLAS
+Geradores diversos | 14_GERADORES
+Aventuras prontas | 13_AVENTURAS
+Atributos (HT, FO, DE, IN) | 04_REGRAS, 1
+Atributos 19-24 | 04_REGRAS, 11
+Glossário do Jogador | 04_REGRAS, 10
+Glossário do Mestre | 08_REGRAS_M, 14
+Glossário do Mundo | 11_LORE, 11
+Monitoramento de tokens | 01_CORE | 10_CONFIG
+Preferências do usuário | 02_PERFIL
+Índice completo | 15_INDICE
+Itens do mundo | 05_ITENS
+Referências bibliográficas | 16_REFERENCIAS
+Regras fixas (classes) | 17A_SISTEMAS
+Processos da IA | 17B_TRIGGERBOT
+Downtime | 17B_TRIGGERBOT, 11
+Roubo | 17B_TRIGGERBOT, 13
+Aprendizado do Triggerbot | 17B_TRIGGERBOT, 14
+---------------------------------------------------------------------
+📚 REFERÊNCIAS DESTE ARQUIVO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ Todos os arquivos do sistema v1.1
+├─ GURPS Basic Set (#13-14) — princípios de indexação
+├─ Cyberpunk RED (#90) — organização de referências
+└─ Baseado em 7+ horas de refinamento e 94 interações
+---------------------------------------------------------------------
+FIM DO ARQUIVO 15_INDICE_v1.1.txt

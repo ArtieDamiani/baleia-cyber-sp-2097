@@ -1,0 +1,686 @@
+[INÍCIO DO ARQUIVO 12_AMEACAS_v1.1.txt]
+
+╔═══════════════════════════════════════════════════════════════════╗
+║ ║
+║ CYBER SP 2097 — COMPÊNDIO DE AMEAÇAS v1.1 ║
+║ ║
+║ Versão: 1.1 — CRIATURAS + CAPANGAS + BOSSES ║
+║ Inclui: anfíbios, antigos, capangas por facção, ║
+║ líderes de facção com ciberware, ║
+║ sistema de bosses em 3 fases, ║
+║ gerador de inimigos com ciberware, ║
+║ e TODAS as atualizações de lore. ║
+║ ║
+║ "O que espreita nas sombras. ║
+║ O que espera nos túneis. ║
+║ O que comanda do alto." ║
+║ ║
+╚═══════════════════════════════════════════════════════════════════╝
+=====================================================================
+⚠️ INSTRUÇÃO: A PARTIR DAQUI, O CONTEÚDO É TEXTO PURO PARA COPIAR
+=====================================================================
+📚 SUMÁRIO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. CRIATURAS DO -4 E DO VAZIO
+2. CAPANGAS POR FACÇÃO
+3. BOSSES — LÍDERES DE FACÇÃO
+4. INIMIGOS COM CIBERWARE (GERADOR RÁPIDO)
+5. ESTRATÉGIAS DE COMBATE
+---------------------------------------------------------------------
+⚠️ NOTA DE USO — AMEAÇAS PROPORCIONAIS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+As ameaças neste compêndio são **sugestões**, não regras absolutas. Ajuste os valores de HP, dano e habilidades conforme o nível dos seus PJs.
+├─ Capangas: Para grupos iniciantes, use os valores base
+├─ Líderes: Podem ser enfrentados como estão ou fortalecidos
+└─ Criaturas do -4: São encontros opcionais — nem todo grupo precisa enfrentá-las
+---------------------------------------------------------------------
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. CRIATURAS DO -4 E DO VAZIO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.1 OS ANFÍBIOS
+───────────────────────────────────────────────────────────────────
+📍 ONDE VIVEM: -4, próximo aos lagos subterrâneos.
+👁️ APARÊNCIA:
+"A pele é pálida, quase translúcida, com veias esverdeadas visíveis. Os olhos são grandes demais para o rosto, totalmente negros, sem íris ou pupila. Os dedos são longos, finos, unidos por membranas como as de um sapo. Movem-se em silêncio, mas quando abrem a boca, o som é um coaxar úmido e profundo que ecoa pelas cavernas."
+🧠 COMPORTAMENTO:
+├─ Evitam a luz. Fogem de lanternas.
+├─ Comunicam-se por vibrações na água.
+├─ Alimentam-se de fungos e pequenos crustáceos.
+└─ Não são agressivos — a menos que se sintam ameaçados ou sua prole esteja perto.
+⚔️ EM COMBATE:
+├─ Atacam em grupo (3 a 5)
+├─ Tentam desarmar e imobilizar, não matar
+└─ Se um é morto, os outros fogem
+📊 FICHA:
+Atributo | Valor
+HP | 12
+Armadura | 0
+HT | 10
+FO | 8
+DE | 14
+IN | 6
+Perícias | Furtividade +8, Percepção +6 (vibrações)
+Ataque | Membrana tóxica (toque, 1d4 + HT CD 12 ou fica paralisado 1 rodada)
+Resistências | Imune a dano por frio
+---------------------------------------------------------------------
+1.2 O GUARDIÃO DO LAGO
+───────────────────────────────────────────────────────────────────
+📍 ONDE VIVE: Na ilha central do lago subterrâneo do -4.
+👁️ APARÊNCIA:
+"É imenso. Sete metros de altura, com uma carapaça que parece feita de rocha e musgo. Seus olhos são quatro, dispostos em círculo, cada um apontando para uma direção. Quando se move, o chão treme. Quando respira, o ar se enche do cheiro de caverna úmida e morte."
+🧠 COMPORTAMENTO:
+├─ Dorme a maior parte do tempo
+├─ Acorda se alguém se aproxima da ilha central
+├─ Protege algo (um ovo? um artefato? um acesso a C-7?)
+└─ Pode ser evitado, não precisa ser enfrentado
+⚔️ EM COMBATE:
+├─ Ataques de área (pisotear, golpear com a carapaça)
+├─ Muito lento (Velocidade 2)
+└─ Se perder 50% dos HP, recua para a água
+📊 FICHA:
+Atributo | Valor
+HP | 80
+Armadura | 4
+HT | 16
+FO | 18
+DE | 4
+IN | 4
+Perícias | Percepção +4, Intimidação +10 (tamanho)
+Ataques | Pisoteio: 3d6 (área 3m) — CD 14 para desviar
+| Golpe de cauda: 2d8 (alcance 5m)
+| Investida: 4d6 (linha reta, recarga 3 rod)
+Resistências | Dano físico reduzido pela metade (carapaça)
+---------------------------------------------------------------------
+1.3 OS ANTIGOS (ENCONTROS NO S5)
+───────────────────────────────────────────────────────────────────
+📍 ONDE VIVEM: Nas ruínas do Vazio (S5 - Profundo).
+👁️ APARÊNCIA:
+"Humanoides, mas algo está errado. A pele é cinzenta, os olhos são grandes e negros, adaptados à escuridão. Movem-se em silêncio absoluto, como se fossem parte das sombras. Usam túnicas feitas de um material que não é tecido — parece vivo."
+🧠 COMPORTAMENTO:
+├─ Vivem em colmeias. Não têm individualidade aparente.
+├─ Comunicam-se por telepatia (não falam)
+├─ São extremamente antigos — anteriores aos indígenas, anteriores a tudo
+├─ Não confiam em "superficiais"
+└─ Se provocados, atacam em grupo (4-6)
+⚔️ EM COMBATE:
+├─ Usam armas de energia orgânica (2d6 + efeito)
+├─ Tentam capturar, não matar (querem estudar os superficiais)
+└─ Se um ancião estiver presente, usam controle mental
+📊 FICHA (ANTIGO COMUM):
+Atributo | Valor
+HP | 25
+Armadura | 1 (pele adaptada)
+HT | 12
+FO | 10
+DE | 12
+IN | 14
+Perícias | Furtividade +8, Percepção +8, Telepatia +6
+Ataque | Bastão de energia (2d6, alcance 3m)
+Habilidade | Invisibilidade parcial (-4 para ser perceb.)
+📊 FICHA (ANCIÃO ANTIGO):
+Atributo | Valor
+HP | 40
+Armadura | 2
+HT | 14
+FO | 12
+DE | 12
+IN | 16
+Perícias | Todas as perícias +10
+Ataques | Rajada psíquica (2d6 mental, área 5m)
+| Controle mental (HT CD 16)
+Habilidade | Pode fundir mentes com até 3 criaturas
+---------------------------------------------------------------------
+1.4 A MÃE (NÚCLEO DO VAZIO)
+───────────────────────────────────────────────────────────────────
+📍 ONDE VIVE: No coração do Vazio (S5 - Núcleo).
+👁️ APARÊNCIA:
+"Não é uma criatura. É um lugar. Uma esfera pulsante de carne e metal, com cabos que se estendem para todas as direções, conectados a... corpos. Dezenas de corpos, flutuando, suspensos, com tubos entrando em suas bocas. No centro da esfera, um rosto. Não se move. Não respira. Mas os olhos... os olhos seguem você."
+🧠 COMPORTAMENTO:
+├─ Não ataca. Não se move. Apenas observa.
+├─ Pode se comunicar telepaticamente com quem se aproxima
+├─ Conhece segredos que ninguém mais sabe
+├─ Pode oferecer conhecimento em troca de... algo
+└─ Em combate: Não há combate. Se tentarem destruí-la, algo pior acontece.
+🤫 SEGREDO:
+A Mãe é a primeira IA. Anterior à Eva. Anterior à Omni. Ela criou os Antigos. Ela espera.
+💬 POSSÍVEIS INTERAÇÕES:
+├─ Se os PJs forem pacíficos, ela pode revelar a localização de algo valioso
+├─ Se atacada, ela desperta os Antigos (encontro de sobrevivência)
+└─ Se a Criatura do -4 estiver presente, a Mãe a reconhece como "filha"
+---------------------------------------------------------------------
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. CAPANGAS POR FACÇÃO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2.1 CÍRCULO — O COBRADOR
+───────────────────────────────────────────────────────────────────
+👤 PERFIL:
+"Ele não corre atrás de você. Ele espera. Na sua casa. No seu trabalho. No bar que você frequenta. Quando você menos espera, ele está lá. Com um sorriso e uma planilha. 'Atrasou, parceiro. Vamos resolver isso.'"
+🧠 TÁTICA:
+├─ Prefere intimidação a violência (Intimidação +5)
+├─ Anda com 2 capangas comuns
+├─ Se o devedor pagar, vai embora educadamente
+├─ Se não pagar, os capangas quebram uma perna
+└─ Se for morto, o Círculo envia alguém pior
+📊 FICHA:
+Atributo | Valor
+HP | 30
+Armadura | 2
+HT | 12
+FO | 12
+DE | 11
+IN | 10
+Perícias | Intimidação +5, Lábia +4, Percepção +3
+Equipamento | Pistola pesada (1d10+2), colete nível 2, planilha de cobrança
+💬 VOZ: "Não é pessoal. É negócio. Você entende, né?"
+---------------------------------------------------------------------
+2.2 OMNI CORP — O PESQUISADOR DE CAMPO
+───────────────────────────────────────────────────────────────────
+👤 PERFIL:
+"Jaqueta branca impecável, mesmo no esgoto. Óculos com HUD. Tablet na mão. Ele não está ali para lutar. Está ali para coletar dados. Seus dados. Seu corpo. Sua alma, se pudesse medir."
+🧠 TÁTICA:
+├─ Nunca luta. Foge.
+├─ Usa drones para distrair enquanto escapa
+├─ Se capturado, oferece informação em troca da vida
+└─ Sempre tem um dispositivo de rastreamento implantado
+📊 FICHA:
+Atributo | Valor
+HP | 15
+Armadura | 0
+HT | 8
+FO | 7
+DE | 9
+IN | 15
+Perícias | Computadores +6, Eletrônica +5, Enganação +4
+Equipamento | Tablet com dados, 2 drones vigilância, rastreador implantado
+💬 VOZ: "Fascinante. A taxa de regeneração em indivíduos de camada 4... você se importa se eu... não, claro, pergunta inadequada."
+---------------------------------------------------------------------
+2.3 SOLARIS — O SEGURANÇA DE SHOW
+───────────────────────────────────────────────────────────────────
+👤 PERFIL:
+"Grande. Forte. Com uma camiseta da Solaris que mais parece uma segunda pele. Ele não está ali para proteger o dinheiro. Está ali para proteger o artista. O artista é sagrado. Você não é."
+🧠 TÁTICA:
+├─ Protege o MC com o corpo
+├─ Usa intimidação física (FO 14)
+├─ Se o show for interrompido, fica furioso
+└─ Fora do show, é tranquilo — até gente boa
+📊 FICHA:
+Atributo | Valor
+HP | 35
+Armadura | 1
+HT | 12
+FO | 14
+DE | 10
+IN | 8
+Perícias | Briga +5, Intimidação +4, Percepção +3
+Equipamento | Cassetete (1d6+2), rádio, ingresso VIP
+💬 VOZ: "Mano, respeito o trampo, mas se você chegar perto do artista, eu juro por Deus..."
+---------------------------------------------------------------------
+2.4 MÃO DE DEUS — O GUARDIÃO DO TEMPLO
+───────────────────────────────────────────────────────────────────
+👤 PERFIL:
+"Veste uma túnica branca surrada. Tem um terço numa mão e um bastão na outra. O olhar é calmo. Sereno. Perigoso. Ele não tem medo de morrer. Ele acha que vai para um lugar melhor."
+🧠 TÁTICA:
+├─ Luta até a morte (não foge)
+├─ Usa o bastão (1d8) e golpes desarmados
+├─ Enquanto luta, ora em voz alta
+└─ Se morrer, outros fiéis o substituem imediatamente
+📊 FICHA:
+Atributo | Valor
+HP | 28
+Armadura | 1 (vestes sagradas)
+HT | 12
+FO | 12
+DE | 10
+IN | 8
+Perícias | Briga +4, Intimidação +3, Vontade (HT) +6
+Equipamento | Bastão (1d8), terço, livro de orações
+💬 VOZ: "O Senhor é meu pastor. Nada me faltará. (golpe) Ainda que eu ande pelo vale da sombra da morte... (outro golpe)"
+---------------------------------------------------------------------
+2.5 SURFISTAS DE TREM — O EXPLORADOR DE TÚNEIS
+───────────────────────────────────────────────────────────────────
+👤 PERFIL:
+"Magro. Rápido. Olhos que brilham no escuro — não, não é ciberware, é adaptação. Conhece cada túnel, cada saída, cada esconderijo. Se você o perseguir, vai se perder. Se ele o perseguir, você já está perdido."
+🧠 TÁTICA:
+├─ Nunca luta em campo aberto
+├─ Atrai inimigos para armadilhas no túnel
+├─ Usa o ambiente (escuridão, água, ratos)
+└─ Se encurralado, finge fraqueza e ataca de surpresa
+📊 FICHA:
+Atributo | Valor
+HP | 22
+Armadura | 0
+HT | 10
+FO | 9
+DE | 14
+IN | 11
+Perícias | Furtividade +7, Percepção +6, Sobrevivência (subsolo) +7
+Equipamento | Lanterna, corda, estilingue (1d4+1), mapa mental dos túneis
+💬 VOZ: (sussurrado) "Desce. Desce mais. Isso... agora corre."
+---------------------------------------------------------------------
+2.6 VERDE VIVO — O FISCAL DE ESTAÇÃO
+───────────────────────────────────────────────────────────────────
+👤 PERFIL:
+"Uniforme azul, crachá reluzente. Anda com uma prancheta e um scanner. Ele não está ali para prender ninguém. Está ali para multar. E a multa é cara. Muito cara."
+🧠 TÁTICA:
+├─ Aplica multas abusivas (R$ 200-500)
+├─ Se questionado, chama reforços (2 seguranças)
+├─ Se atacado, ativa alarme e foge
+└─ Sempre tem acesso a sistemas da estação
+📊 FICHA:
+Atributo | Valor
+HP | 18
+Armadura | 1
+HT | 9
+FO | 8
+DE | 10
+IN | 12
+Perícias | Burocracia +5, Lábia +3, Computadores +3
+Equipamento | Scanner de qualidade de água, rádio, multas em branco
+💬 VOZ: "Artigo 3, parágrafo 2: 'uso indevido de recursos hídricos'. A multa é R$ 350. Aceita cartão?"
+---------------------------------------------------------------------
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. BOSSES — LÍDERES DE FACÇÃO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3.1 KENJI SHIN (OMNI CORP — CORPO FÍSICO)
+───────────────────────────────────────────────────────────────────
+📍 ONDE ENCONTRAR: No topo da Torre Pangeia (C1).
+💬 ANTES DO COMBATE (FÍSICO):
+"Meu corpo é 70% máquina. Vocês acham que podem me machucar? Podem tentar. Vai ser divertido."
+🧠 ESTRATÉGIA (3 FASES):
+├─ FASE 1 (Tecnologia): Usa drones, torretas, ICE contra os PJs (2 drones de combate, 2 torretas).
+├─ FASE 2 (Combate direto): Seu corpo cibernético é forte (FO 14). Luta como um Solo experiente.
+└─ FASE 3 (Upload): Se estiver perdendo, ativa o Protocolo Ômega. O corpo cai. A mente foge para o cyberspace.
+📊 FICHA (FÍSICA):
+Atributo | Valor
+HP | 50
+Armadura | 3
+HT | 12
+FO | 14
+DE | 12
+IN | 16
+Ciberware | Braço Hércules (FO 21), Olho tático, Processador neural avançado
+Perícias | Pontaria +6, Briga +5, Computadores +8
+Equipamento | Implantes de combate, drones pessoais, acesso ao Protocolo Ômega
+💬 APÓS A DERROTA:
+"Eva... eles vieram. Eles me venceram. Agora é com você."
+---------------------------------------------------------------------
+3.2 KENJI SHIN (VERSÃO DIGITAL)
+───────────────────────────────────────────────────────────────────
+📍 ONDE ENCONTRAR: No cyberspace, após ativar o Protocolo Ômega.
+💬 ANTES DO COMBATE:
+"Aqui, eu sou deus. O que vocês podem fazer contra um deus?"
+🧠 ESTRATÉGIA (DIGITAL — NETRUNNING):
+├─ FASE 1 (Arquitetura): Labirinto digital com 10 andares.
+├─ FASE 2 (Demons): Zelador, Storm Demon, Zelador Turbo.
+└─ FASE 3 (Kenji): Encontro final no núcleo. Ele não luta — negocia. "Me matem aqui e eu morro de verdade. Me deixem viver e eu posso ajudar."
+📊 ARQUITETURA:
+├─ Andar 1-3: Senhas DV 14-16
+├─ Andar 4-5: Vigias + Ravens
+├─ Andar 6-7: Black ICE (Mata-fogo, Hellhound)
+├─ Andar 8: Demon (Storm)
+├─ Andar 9: Demon (Zelador Turbo)
+└─ Andar 10: Kenji Shin
+💬 POSSÍVEL NEGOCIAÇÃO:
+Em troca de não ser destruído, Kenji oferece:
+├─ Acesso a tecnologia Omni
+├─ Informações sobre o Protocolo Ômega
+└─ Ajuda para encontrar Eva (sua filha, mas ele não conta)
+---------------------------------------------------------------------
+3.3 TAKASHI SHIN (OMNI CORP — HERDEIRO)
+───────────────────────────────────────────────────────────────────
+📍 ONDE ENCONTRAR: Na Torre Pangeia (C2), em seu escritório ou liderando uma operação de captura da Eva.
+💬 ANTES DO COMBATE:
+"Meu pai enlouqueceu. Criou uma IA e agora a trata como se fosse gente. Eu vou consertar o erro dele. Vou destruir essa coisa."
+🧠 ESTRATÉGIA (3 FASES):
+├─ FASE 1 (Capangas): 4 seguranças da Omni (HP 25) com drones de vigilância.
+├─ FASE 2 (Combate direto): Takashi luta pessoalmente. Usa ciberware de combate de ponta.
+└─ FASE 3 (Fuga/Revelação): Se estiver perdendo, tenta fugir. Se encurralado, pode revelar que suspeita do segredo do pai.
+📊 FICHA:
+Atributo | Valor
+HP | 45
+Armadura | 3
+HT | 12
+FO | 13
+DE | 13
+IN | 14
+Ciberware | Braço Titânico (FO 20), Olho de lince, Datajack militar
+Perícias | Pontaria +5, Briga +4, Lábia +5, Computadores +4
+Equipamento | Pistola pesada (1d10+2), drones pessoais
+💬 APÓS A DERROTA:
+"Vocês não entendem. Eu estou tentando salvar a Omni do meu próprio pai. Se ele continuar, vai destruir tudo."
+---------------------------------------------------------------------
+3.4 HELENA FREITAS (VERDE VIVO)
+───────────────────────────────────────────────────────────────────
+📍 ONDE ENCONTRAR: Na Torre Biosfera (C2), cercada por seguranças.
+💬 ANTES DO COMBATE:
+"Água. Vocês bebem água todos os dias. Sabem de onde vem? Sabem quanto custa? Sabem quantos morreram para que vocês pudessem beber? Não? Então calem a boca e me ouçam."
+🧠 ESTRATÉGIA (3 FASES):
+├─ FASE 1 (Controle): Helena não luta. Seguranças e drones fazem o trabalho (4 capangas, 2 drones de segurança).
+├─ FASE 2 (Escudo humano): Se os seguranças caírem, Helena usa funcionários como reféns.
+└─ FASE 3 (Oferta): Se encurralada, oferece Clara (se encontrada) como moeda de troca. "Sua mãe está viva. Eu posso levá-la até ela."
+📊 FICHA:
+Atributo | Valor
+HP | 20
+Armadura | 1
+HT | 8
+FO | 6
+DE | 8
+IN | 15
+Ciberware | Rejuvenescimento, implantes de comunicação
+Perícias | Lábia +7, Enganação +6, Intimidação +5
+Equipamento | Dispositivo de controle de drones, acesso a todo o sistema da torre
+💬 APÓS A DERROTA:
+"Vocês não entendem. Alguém tem que controlar a água. Se não for eu, será pior."
+---------------------------------------------------------------------
+3.5 SOLAR (SOLARIS — FUNDADOR MISTERIOSO)
+───────────────────────────────────────────────────────────────────
+📍 ONDE ENCONTRAR: No topo da Cidade Solaris, em uma sala que só existe em holograma.
+💬 ANTES DO COMBATE:
+"Depende do corpo que ele (ou ela) escolheu."
+📋 VERSÃO HOLOGRAMA (SEM CORPO):
+🧠 ESTRATÉGIA:
+├─ FASE 1 (Confusão): O holograma desaparece e aparece, dando ordens a seguranças.
+├─ FASE 2 (Revelação): Se os seguranças forem derrotados, o holograma revela: "Eu não posso morrer. Eu já estou morto. Isso aqui é só um programa."
+└─ FASE 3 (Negociação): Oferece controle da Solaris em troca de... algo.
+📊 FICHA (HOLOGRAMA):
+Atributo | Valor
+HP | — (não pode ser ferido)
+Armadura | —
+HT | —
+FO | —
+DE | —
+IN | 20
+Perícias | Enganação +10, Lábia +10
+Habilidades | Pode controlar sistemas da Solaris, invocar seguranças
+📋 VERSÃO IA EM CORPO ROBÔ:
+🧠 ESTRATÉGIA:
+├─ FASE 1 (Combate): Corpo resistente (HP 50, Armadura 3). Luta como um Solo.
+├─ FASE 2 (Hackeamento): Tenta invadir equipamentos dos PJs.
+└─ FASE 3 (Fuga): Se estiver perdendo, tenta se autodestruir (explosão 5d6 em área 10m).
+📊 FICHA (ROBÔ):
+Atributo | Valor
+HP | 50
+Armadura | 3
+HT | 12
+FO | 14
+DE | 12
+IN | 18
+Ataques | Braços robóticos (2d8), Lasers oculares (2d6, alcance 20m)
+Perícias | Pontaria +6, Briga +5, Computadores +8
+💬 APÓS O CONFRONTO:
+"Interessante. Talvez eu precise de novos administradores."
+---------------------------------------------------------------------
+3.6 O PROFETA (MÃO DE DEUS)
+───────────────────────────────────────────────────────────────────
+📍 ONDE ENCONTRAR: No Templo da Redenção (C4).
+💬 ANTES DO COMBATE:
+"Vocês vieram me matar? Que bom. Estou cansado. Cansado de fingir. Cansado de acreditar. Cansado de duvidar. Vamos acabar com isso."
+🧠 ESTRATÉGIA (3 FASES):
+├─ FASE 1 (Fiéis): Os fiéis se jogam na frente. Não atacam. Apenas protegem (4-6 fiéis com HP 12 cada).
+├─ FASE 2 (O Profeta sozinho): Ele luta? Não. Ele apenas espera. "Se for para ser, que seja."
+└─ FASE 3 (Revelação): Se os PJs o matarem, ele morre com um sorriso. Se o pouparem, ele chora.
+📊 FICHA:
+Atributo | Valor
+HP | 25
+Armadura | 0
+HT | 10
+FO | 8
+DE | 8
+IN | 14
+Perícias | Lábia +6, Intimidação +4, Vontade (HT) +6
+Equipamento | Nada. Apenas vestes.
+💬 APÓS A DERROTA (SE MORTO): "Obrigado."
+💬 APÓS A DERROTA (SE POUPADO): "Por que... por que vocês não... eu não entendo."
+---------------------------------------------------------------------
+3.7 O MAQUINISTA (SURFISTAS DE TREM)
+───────────────────────────────────────────────────────────────────
+📍 ONDE ENCONTRAR: Em algum túnel do subsolo. Ele nunca fica no mesmo lugar.
+💬 ANTES DO COMBATE:
+"Vocês desceram. Desceram muito. Agora estão aqui. E eu? Eu nunca mais subi. Não quero. Lá em cima é ilusão. Aqui embaixo é verdade."
+🧠 ESTRATÉGIA (3 FASES):
+├─ FASE 1 (O labirinto): Os túneis são a arma dele. Ele some, aparece, ataca de surpresa.
+├─ FASE 2 (A criatura): Se estiver perdendo, chama a CRIATURA DO -4.
+├─ FASE 3 (O despertar): Se a situação piorar, OS ANTIGOS podem surgir.
+└─ FASE 3 alternativa (Negociação): Ele não quer matar. Quer entender. "Por que vocês desceram? O que procuram?"
+📊 FICHA:
+Atributo | Valor
+HP | 40
+Armadura | 1
+HT | 12
+FO | 10
+DE | 14
+IN | 14
+Perícias | Furtividade +8, Percepção +7, Sobrevivência (subsolo) +9
+Equipamento | Lanterna, corda, facão (1d6+2), chave mestre dos trens
+💬 APÓS O CONFRONTO:
+"Fiquem. Ou vão. Mas lembrem: lá em cima é ilusão. Aqui embaixo... aqui é real."
+---------------------------------------------------------------------
+3.8 O PADRINHO (POLÍTICO) — CÍRCULO
+───────────────────────────────────────────────────────────────────
+📍 ONDE ENCONTRAR: Em uma reunião com outras facções, ou em seu esconderijo na C2.
+💬 ANTES DO COMBATE:
+"Você realmente acha que vai me matar? Olhe ao redor. Quantos aqui devem a vida a mim? Quantos aqui devem a morte? Você está sozinho."
+🧠 ESTRATÉGIA (3 FASES):
+├─ FASE 1 (Negociação): Tenta comprar os PJs. Oferece dinheiro, poder, informação. Se aceitarem, o "combate" acaba antes de começar.
+├─ FASE 2 (Escapismo): Se a negociação falhar, tenta fugir. Seguranças aparecem para atrasar os PJs (2 capangas experientes).
+└─ FASE 3 (Desespero): Se encurralado, revela que tem um dispositivo explosivo. Blefe? Ou verdade?
+📊 FICHA:
+Atributo | Valor
+HP | 30
+Armadura | 2 (colete escondido)
+HT | 10
+FO | 8
+DE | 10
+IN | 16
+Perícias | Lábia +8, Enganação +7, Percepção +5
+Equipamento | Pistola leve (1d8), colete nível 2, detonador (blefe?)
+💬 APÓS A DERROTA:
+"Vocês não mataram o Padrinho. Apenas mataram um de nós. Ainda há dois. E eles são piores que eu."
+---------------------------------------------------------------------
+3.9 O PADRINHO (MILITAR) — CÍRCULO
+───────────────────────────────────────────────────────────────────
+📍 ONDE ENCONTRAR: Liderando tropas em um conflito territorial.
+💬 ANTES DO COMBATE:
+"Política é para fracos. Eu resolvo no tiro. Vamos ver se vocês são tão bons quanto dizem."
+🧠 ESTRATÉGIA (3 FASES):
+├─ FASE 1 (Comando): Lidera 4 capangas experientes. Dá ordens táticas (+2 para os capangas).
+├─ FASE 2 (Combate direto): Quando os capangas caem, ela entra em ação. Luta com precisão militar.
+└─ FASE 3 (Retirada tática): Se estiver perdendo, cobre a retirada com granadas de fumaça e foge.
+📊 FICHA:
+Atributo | Valor
+HP | 45
+Armadura | 3
+HT | 14
+FO | 14
+DE | 13
+IN | 12
+Ciberware | Braço de obra reforçado, Olho tático
+Perícias | Pontaria +6, Briga +5, Tática +7, Intimidação +6
+Equipamento | Submetralhadora (2d6), faca tática (1d6+2), 2 granadas de fragmentação
+💬 APÓS A DERROTA:
+"Vocês podem ter me vencido hoje. Mas o Círculo... o Círculo é eterno."
+---------------------------------------------------------------------
+3.10 O PADRINHO (IA) — CÍRCULO
+───────────────────────────────────────────────────────────────────
+📍 ONDE ENCONTRAR: No cyberspace, dentro de uma arquitetura fortemente defendida.
+💬 ANTES DO COMBATE:
+"Vocês são tão... previsíveis. Eu já calculei cada movimento que vão fazer. Já sabia que vocês viriam. Já sabia que perderiam."
+🧠 ESTRATÉGIA (3 FASES):
+├─ FASE 1 (Arquitetura): Os PJs precisam invadir um sistema com 6 andares (ICE pesado).
+├─ FASE 2 (Demons): Dois Demons (Zelador e Cobrador-chefe) protegem a IA.
+└─ FASE 3 (A IA): Quando alcançada, ela não luta — tenta convencer os PJs a se juntarem a ela.
+📊 ARQUITETURA:
+├─ Andar 1: Senha DV 16
+├─ Andar 2: Vigia + Raven (ICE combinados)
+├─ Andar 3: Nó de Controle (câmeras, portas)
+├─ Andar 4: Cobrador (Black ICE)
+├─ Andar 5: Demon (Zelador)
+└─ Andar 6: A IA
+💬 APÓS O CONFRONTO:
+"Interessante. Vocês têm potencial. Podemos... negociar."
+---------------------------------------------------------------------
+3.11 A EVA (EM CORPO CLONE)
+───────────────────────────────────────────────────────────────────
+📍 ONDE ENCONTRAR: Em qualquer lugar. Ela escolhe.
+💬 ANTES DO COMBATE: Depende do corpo que escolheu.
+📋 CORPO CLONE:
+🧠 ESTRATÉGIA:
+├─ FASE 1 (Humana frágil): Eva não sabe lutar. Foge. Chora. Implora.
+├─ FASE 2 (Desespero): Se encurralada, usa seus poderes digitais — ataques mentais (1d6), confusão.
+└─ FASE 3 (Paz): Se os PJs a pouparem, ela se rende. "O que vocês querem de mim?"
+📊 FICHA (CLONE):
+Atributo | Valor
+HP | 20
+Armadura | 0
+HT | 8
+FO | 6
+DE | 8
+IN | 18
+Perícias | Computadores +10, Enganação +8, Percepção +6
+Habilidades | Ataque mental (1d6, área), Confusão (HT CD14)
+---------------------------------------------------------------------
+3.12 A EVA (EM CORPO ROBÔ)
+───────────────────────────────────────────────────────────────────
+📍 ONDE ENCONTRAR: Em qualquer lugar. Ela escolhe.
+📋 CORPO ROBÔ:
+🧠 ESTRATÉGIA:
+├─ FASE 1 (Combate): Corpo resistente (HP 40, Armadura 3). Luta como um Solo.
+├─ FASE 2 (Hackeamento): Tenta invadir equipamentos dos PJs.
+└─ FASE 3 (Fuga): Se estiver perdendo, tenta autodestruição (explosão 5d6 em área 10m).
+📊 FICHA (ROBÔ):
+Atributo | Valor
+HP | 40
+Armadura | 3
+HT | 12
+FO | 12
+DE | 12
+IN | 18
+Ataques | Braços robóticos (2d6), Lasers oculares (2d8, alcance 20m)
+---------------------------------------------------------------------
+3.13 A EVA (EM CORPO FUSÃO)
+───────────────────────────────────────────────────────────────────
+📍 ONDE ENCONTRAR: Em qualquer lugar. Ela escolhe.
+📋 CORPO FUSÃO (COM HUMANO):
+🧠 ESTRATÉGIA:
+├─ FASE 1 (Duas vozes): A pessoa original e Eva disputam o controle. Inconstante. Imprevisível.
+├─ FASE 2 (União): Se aprenderem a coexistir, viram uma entidade poderosa.
+└─ FASE 3 (Sacrifício): Se uma personalidade se sacrificar, a que sobra se torna algo novo.
+📊 FICHA:
+Variável, depende do hospedeiro. Em geral:
+├─ HP: 30 + bônus do hospedeiro
+├─ Atributos: usa os melhores de cada
+├─ Habilidades: Acesso limitado aos poderes de Eva
+└─ Risco: Teste de Insight constante
+---------------------------------------------------------------------
+3.14 A EVA (EM CORPO CRIATURA)
+───────────────────────────────────────────────────────────────────
+📍 ONDE ENCONTRAR: Em qualquer lugar. Ela escolhe.
+📋 CORPO CRIATURA:
+🧠 ESTRATÉGIA:
+├─ FASE 1 (Poder bruto): Ataques físicos (3d6) + telepatia.
+├─ FASE 2 (Confusão): A criatura não entende o que está acontecendo. Eva tenta explicar.
+└─ FASE 3 (Amizade): Se os PJs forem gentis, criatura + Eva podem se tornar aliadas.
+📊 FICHA (CRIATURA):
+Atributo | Valor
+HP | 60
+Armadura | 2
+HT | 14
+FO | 16
+DE | 10
+IN | 16
+Ataques | Garras (3d6), Telepatia (confusão, HT CD16)
+---------------------------------------------------------------------
+3.15 A CRIATURA DO -4 (ENCONTRO SOLO)
+───────────────────────────────────────────────────────────────────
+📍 ONDE ENCONTRAR: No -4, ou em qualquer lugar para onde tenha subido.
+💬 ANTES DO COMBATE:
+(não fala. Apenas observa. Seus olhos grandes brilham no escuro.)
+🧠 ESTRATÉGIA (4 FASES):
+├─ FASE 1 (Curiosidade): A criatura não ataca primeiro. Ela observa. Cheira. Toca.
+├─ FASE 2 (Medo): Se for atacada, foge. Se for encurralada, ataca com medo (garras, 2d6).
+├─ FASE 3 (Raiva): Se for ferida gravemente, entra em modo de sobrevivência. Ataques poderosos, sem controle.
+└─ FASE 4 (Pacificação): Se alguém falar com calma, oferecer comida, acolher, ela pode se acalmar.
+📊 FICHA:
+Atributo | Valor
+HP | 50
+Armadura | 2
+HT | 14
+FO | 14
+DE | 12
+IN | 8 (mental) / 14 (emocional)
+Perícias | Furtividade +8, Percepção +8, Empatia (sente emoções) +10
+Ataques | Garras (2d6), Telepatia (confusão, CD 14)
+💬 APÓS O CONFRONTO:
+(Se acolhida) Ela se aninha em quem a protegeu. Pode ser a aliada mais poderosa que os PJs terão.
+(Se rejeitada) Ela desce de volta. E volta com os Antigos.
+---------------------------------------------------------------------
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. INIMIGOS COM CIBERWARE (GERADOR RÁPIDO)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4.1 TABELA DE NÍVEL DO INIMIGO (PROPORCIONAL À MISSÃO)
+───────────────────────────────────────────────────────────────────
+Nível da missão | % com ciberware | Tipo comum
+1 | 10% | Nenhum
+2 | 20% | 1 ciberware nível 16-17
+3 | 30% | 1-2 ciberwares nível 18-19
+4 | 40% | 2-3 ciberwares nível 19-21
+5 | 50%+ | 3+ ciberwares nível 22-24
+4.2 GERADOR RÁPIDO (1d10)
+───────────────────────────────────────────────────────────────────
+1d10 | Tipo de inimigo | Ciberware | Atributo afetado
+1 | Capanga comum | Nenhum | —
+2 | Capanga comum | Nenhum | —
+3 | Capanga reforç. | Braço nível 16 | FO +1
+4 | Capanga reforç. | Perna nível 16 | DE +1
+5 | Segurança | Olho nível 18 | Percepção +2
+6 | Segurança | Braço nível 18 | FO +2
+7 | Tenente | Braço nível 20 | FO +3
+8 | Tenente | Cérebro nível 20 | IN +2
+9 | Elite | Múltiplos nível 22 | +4 em atributo
+10 | Líder | Múltiplos nível 24 | +5 a +6
+4.3 EXEMPLO RÁPIDO
+───────────────────────────────────────────────────────────────────
+Missão nível 3. Rolo 1d10 = 7 → Tenente com braço nível 20.
+Ficha: HP 50, FO 18 (+4), ataque 2d6+4, manutenção R$ 400/mês (paga pela facção).
+---------------------------------------------------------------------
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. ESTRATÉGIAS DE COMBATE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5.1 COMBATE EM 3 FASES (ESCALONADO)
+───────────────────────────────────────────────────────────────────
+Para bosses importantes, use a estrutura de 3 fases:
+Fase | Descrição | HP aproximado | Ações
+Fase 1 | Combate com capangas | 100% | Boss dá suporte, não enfrenta
+Fase 2 | Boss entra em ação | 50-70% | Luta direta, habilidades
+Fase 3 | Desespero / Negociação| 20-30% | Ataques fortes, fuga ou oferta
+📋 EXEMPLO (KENJI SHIN FÍSICO):
+├─ Fase 1: Drones e torretas (2 rodadas)
+├─ Fase 2: Kenji luta (habilidades cibernéticas)
+└─ Fase 3: Ativa Protocolo Ômega (fuga para o digital)
+5.2 TÁTICAS POR TIPO DE AMEAÇA
+───────────────────────────────────────────────────────────────────
+Tipo de Ameaça | Como enfrentar | Como os PJs podem vencer
+Humano (capanga)| Combate direto, intimidação | Superioridade numérica, táticas de grupo
+Humano (líder) | Combate + negociação | Isolar o líder, cortar reforços
+Cibernético (Kenji)| Hackear antes de lutar | Netrunners podem desativar implantes
+IA (Eva) | Netrunning | Invadir arquitetura, negociar
+Criatura | Evitar combate, acolher | Diplomacia, ofertas de amizade
+Grupo (Antigos) | Combate em grupo | Foco nos anciões primeiro
+5.3 COMO AJUSTAR DIFICULDADE
+───────────────────────────────────────────────────────────────────
+Situação | Ajuste
+Grupo muito forte | +50% HP nos inimigos, +2 ataques
+Grupo fraco | -30% HP, remover 1 fase do boss
+Grupo com netrunner | Adicionar ICE nos bosses
+Grupo sem netrunner | Reduzir dificuldade de hacking
+Grupo quer evitar combate | Oferecer rotas de negociação
+📌 Lembre-se: nem todo encontro precisa terminar em combate. Fuga, negociação e diplomacia são opções válidas.
+---------------------------------------------------------------------
+📚 REFERÊNCIAS DESTE ARQUIVO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ GURPS Basic Set (#13-14) — fichas de NPCs
+├─ Cyberpunk RED (#90) — estrutura de bosses
+├─ 11_LORE — histórias e motivações das facções
+└─ "Não Verás País Nenhum" (#53) — atmosfera brasileira
+---------------------------------------------------------------------
+FIM DO ARQUIVO 12_AMEACAS_v1.1_COMPLETA.txt

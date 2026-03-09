@@ -1,0 +1,824 @@
+[INÍCIO DO ARQUIVO 05_ITENS_v1.1.txt]
+📦 CYBER SP 2097 — ITENS DO MUNDO v1.1
+╔═══════════════════════════════════════════════════════════════════╗
+║ ║
+║ CYBER SP 2097 — ITENS DO MUNDO v1.1 ║
+║ ║
+║ Versão: 1.1 — COMPLETO ║
+║ Inclui: armas, proteção, ciberware 19-24, ║
+║ kits de manutenção, fluidos sintéticos, ║
+║ eletrônicos, veículos, drones, ║
+║ CONSUMÍVEIS (COMIDAS COMPLETAS), ║
+║ drogas brasileiras, programas de netrunning, ║
+║ gambiarras, preços em SM e notas sobre economia. ║
+║ ║
+║ "O que você tem define quem você é." ║
+║ ║
+╚═══════════════════════════════════════════════════════════════════╝
+=====================================================================
+⚠️ INSTRUÇÃO: A PARTIR DAQUI, O CONTEÚDO É TEXTO PURO PARA COPIAR
+=====================================================================
+📚 SUMÁRIO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. QUALIDADE DOS ITENS
+2. ARMAS
+3. PROTEÇÃO E BLINDAGEM
+4. 🦾 CIBERWARE 19-24
+5. ELETRÔNICOS E COMUNICAÇÃO (APPS)
+6. FERRAMENTAS
+7. VEÍCULOS E DRONES
+8. 🍲 CONSUMÍVEIS (COMIDAS COMPLETAS)
+9. 💊 DROGAS BRASILEIRAS
+10. PROGRAMAS DE NETRUNNING
+11. 💰 PREÇOS POR CAMADA E NOTA SOBRE ECONOMIA
+12. GAMBIARRAS
+---------------------------------------------------------------------
+1. QUALIDADE DOS ITENS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📊 TABELA DE QUALIDADE:
+Qualidade | Preço | Efeito | Falha | Manutenção
+⭐ GAMBIARRA | 30% | Instável, efeitos colaterais | 1-3 | Quando quebra
+⭐⭐ RECUP. | 50% | Funciona, mas falha | 1-2 | Semanal
+⭐⭐⭐ ORIG. | 100% | Normal | — | 2 meses
+⭐⭐⭐⭐ PREM. | 150% | +1 bônus | — | 3 meses
+⭐⭐⭐⭐⭐ LENDA | 300% | +2 bônus, especial | — | 6 meses
+---------------------------------------------------------------------
+2. ARMAS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔫 PISTOLAS:
+Arma | Dano | Cadência | Alcance | Pente | Preço (R$) | Preço (SM)
+Pistola leve .22 | 1d6-1 | 2/rodada | 20m | 10 | R$ 320 | 0,2 SM
+Pistola média 9mm | 1d8 | 2/rodada | 30m | 15 | R$ 560 | 0,35 SM
+Pistola pesada .45| 1d10 | 2/rodada | 40m | 8 | R$ 960 | 0,6 SM
+Pistola automática| 1d8+1 | 4/rodada | 30m | 20 | R$ 1.280 | 0,8 SM
+Pistola silenciada| 1d8 | 2/rodada | 25m | 12 | R$ 1.600 | 1 SM
+Revólver .38 | 1d8 | 1/rodada | 30m | 6 | R$ 480 | 0,3 SM
+Revólver .44 | 1d12 | 1/rodada | 40m | 6 | R$ 800 | 0,5 SM
+🔫 SUBMETRALHADORAS:
+Arma | Dano | Cadência | Alcance | Pente | Preço (R$) | Preço (SM)
+SMG leve | 1d8 | 4/rodada | 50m | 20 | R$ 960 | 0,6 SM
+SMG pesada | 2d6 | 4/rodada | 60m | 30 | R$ 1.440 | 0,9 SM
+SMG de precisão | 2d6 | 2/rodada | 100m | 20 | R$ 1.920 | 1,2 SM
+SMG silenciada | 1d10 | 4/rodada | 40m | 25 | R$ 2.240 | 1,4 SM
+🔫 FUZIS E RIFLES:
+Arma | Dano | Cadência | Alcance | Pente | Preço (R$) | Preço (SM)
+Fuzil de assalto | 2d8 | 3/rodada | 150m | 30 | R$ 3.200 | 2 SM
+Fuzil de precisão | 2d12 | 1/2 rod. | 400m | 5 | R$ 6.400 | 4 SM
+Rifle de caça | 2d10 | 1/rodada | 200m | 5 | R$ 2.400 | 1,5 SM
+Carabina | 2d6 | 2/rodada | 100m | 20 | R$ 1.920 | 1,2 SM
+🔫 ESCOPETAS:
+Arma | Dano | Cadência | Alcance | Pente | Preço (R$) | Preço (SM)
+Escopeta pump | 3d6 | 1/rodada | 20/100m | 6 | R$ 1.120 | 0,7 SM
+Escopeta semi-auto| 3d6 | 2/rodada | 20/100m | 8 | R$ 1.600 | 1 SM
+Escopeta tática | 4d6 | 1/rodada | 30/120m | 6 | R$ 2.880 | 1,8 SM
+🔪 ARMAS BRANCAS:
+Arma | Dano | Característica | Preço (R$) | Preço (SM)
+Canivete | 1d3 | Escondido (+2) | R$ 24 | 0,015 SM
+Faca | 1d4+1 | — | R$ 48 | 0,03 SM
+Facão | 1d6+2 | — | R$ 96 | 0,06 SM
+Porrete | 1d6 | Improvisado | R$ 32 | 0,02 SM
+Taco de baseball | 1d8 | +1 Intimidação | R$ 64 | 0,04 SM
+Corrente | 1d6 | Alcance 2m | R$ 40 | 0,025 SM
+Soco inglês | 1d4+2 | +2 na briga | R$ 64 | 0,04 SM
+Espada | 1d8+1 | Rara | R$ 480 | 0,3 SM
+Katana | 1d10 | Lendária | R$ 1.600 | 1 SM
+💣 EXPLOSIVOS:
+Granada | Dano | Área | Preço (R$) | Preço (SM)
+Fragmentação | 4d6 | 6m | R$ 240 | 0,15 SM
+Explosiva | 5d6 | 4m | R$ 320 | 0,2 SM
+Atordoamento | 2d6* | 8m | R$ 128 | 0,08 SM
+Fumígena | — | 10m | R$ 80 | 0,05 SM
+Incendiária | 3d6+ | 5m | R$ 320 | 0,2 SM
+Mina antipessoal | 5d6 | 3m | R$ 480 | 0,3 SM
+Dinamite (barra) | 3d6 | 3m | R$ 96 | 0,06 SM
+C4 (1kg) | 6d6 | 5m | R$ 640 | 0,4 SM
+---------------------------------------------------------------------
+3. PROTEÇÃO E BLINDAGEM
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🧥 COLETES:
+Item | Proteção | Áreas | Preço (R$) | Preço (SM)
+Colete leve | 2 | Torso | R$ 800 | 0,5 SM
+Colete médio | 3 | Torso | R$ 1.600 | 1 SM
+Colete pesado | 4 | Torso | R$ 3.200 | 2 SM
+Colete tático | 3 | Torso + ombros | R$ 2.400 | 1,5 SM
+⛑️ CAPACETES:
+Item | Proteção | Bônus | Preço (R$) | Preço (SM)
+Capacete leve | 1 | — | R$ 240 | 0,15 SM
+Capacete balístico | 2 | +1 contra tiros | R$ 480 | 0,3 SM
+Capacete tático | 2 | +1 Percepção | R$ 800 | 0,5 SM
+🧤 ACESSÓRIOS DE PROTEÇÃO:
+Item | Proteção | Áreas | Preço (R$) | Preço (SM)
+Luvas táticas| 1 | Mãos | R$ 240 | 0,15 SM
+Joelheiras | 1 | Joelhos | R$ 160 | 0,1 SM
+Cotoveleiras | 1 | Cotovelos | R$ 160 | 0,1 SM
+Bota tática | 1 | Pés | R$ 320 | 0,2 SM
+---------------------------------------------------------------------
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. 🦾 CIBERWARE 19-24
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📌 NOTA: Todos os ciberware abaixo EXIGEM que o personagem tenha pelo menos o nível de atributo base para instalá-los. O custo de Insight é PERMANENTE. A manutenção é OBRIGATÓRIA (ver seção 11.5 em 04_REGRAS_BASE).
+📊 TABELA GERAL DE PREÇOS (EM R$ E SM):
+1 Salário Mínimo (SM) = R$ 1.600 (referência para 2026, mantida por proporção).
+Nv | Bônus | Preço compra (R$) | Preço compra (SM) | Preço missão (R$) | Preço missão (SM) | Insight | Manutenção (R$/mês) | Fluido
+19 | +4 | R$ 8.000 | 5 SM | R$ 4.000 | 2,5 SM | -1 | R$ 400 | —
+20 | +5 | R$ 16.000 | 10 SM | R$ 8.000 | 5 SM | -2 | R$ 800 | —
+21 | +5 | R$ 24.000 | 15 SM | R$ 12.000 | 7,5 SM | -3 | R$ 1.200 | SynthOil®
+22 | +6 | R$ 40.000 | 25 SM | R$ 20.000 | 12,5 SM | -4 | R$ 2.000 | SynthOil® Avançado
+23 | +6 | R$ 80.000 | 50 SM | R$ 30.000 | 18,75 SM | -5 | R$ 4.000 | SynthBlood®
+24 | +7 | R$ 160.000 | 100 SM | R$ 50.000 | 31,25 SM | -6 | R$ 8.000 | Fluido Neural®
+---
+4.1 BRAÇOS (FORÇA)
+Nome | Nível | Bônus FO | Preço compra | Insight | Manutenção | Fluido
+Braço de obra | 16-17 | +1 | R$ 2.000 | -1 | — | —
+Braço de obra (reforçado) | 18 | +2 | R$ 4.000 | -1 | — | —
+Braço Titânico | 19 | +2 | R$ 8.000 | -1 | R$ 400 | —
+Braço Titânico (plus) | 20 | +3 | R$ 16.000 | -2 | R$ 800 | —
+Braço Hércules | 21 | +3 | R$ 24.000 | -3 | R$ 1.200 | SynthOil®
+Braço Hércules (plus) | 22 | +4 | R$ 40.000 | -4 | R$ 2.000 | SynthOil® Avançado
+Braço Colosso | 23 | +4 | R$ 80.000 | -5 | R$ 4.000 | SynthBlood®
+Braço Colosso (plus) | 24 | +5 | R$ 160.000 | -6 | R$ 8.000 | Fluido Neural®
+4.2 PERNAS (DESTREZA)
+Nome | Nível | Bônus DE | Preço compra | Insight | Manutenção | Fluido
+Perna de paulista | 16-17 | +1 | R$ 2.000 | -1 | — | —
+Perna de atleta | 18 | +2 | R$ 4.000 | -2 | — | —
+Perna Quíron | 19 | +2 | R$ 8.000 | -1 | R$ 400 | —
+Perna Quíron (plus) | 20 | +3 | R$ 16.000 | -2 | R$ 800 | —
+Perna Hermes | 21 | +3 | R$ 24.000 | -3 | R$ 1.200 | SynthOil®
+Perna Hermes (plus) | 22 | +4 | R$ 40.000 | -4 | R$ 2.000 | SynthOil® Avançado
+Perna Aquiles | 23 | +4 | R$ 80.000 | -5 | R$ 4.000 | SynthBlood®
+Perna Aquiles (plus) | 24 | +5 | R$ 160.000 | -6 | R$ 8.000 | Fluido Neural®
+4.3 CORAÇÃO/PULMÕES (SAÚDE)
+Nome | Nível | Bônus HT | Preço compra | Insight | Manutenção | Fluido
+Coração de obra | 16-17 | +1 | R$ 2.500 | -1 | — | —
+Coração reforçado | 18 | +2 | R$ 5.000 | -2 | — | —
+Coração Titânico | 19 | +2 | R$ 8.000 | -1 | R$ 400 | —
+Coração Titânico (plus) | 20 | +3 | R$ 16.000 | -2 | R$ 800 | —
+Pulmão Sintético | 21 | +3 | R$ 24.000 | -3 | R$ 1.200 | SynthOil®
+Pulmão Sintético (plus) | 22 | +4 | R$ 40.000 | -4 | R$ 2.000 | SynthOil® Avançado
+Sangue Sintético | 23 | +4 | R$ 80.000 | -5 | R$ 4.000 | SynthBlood®
+Sangue Sintético (plus) | 24 | +5 | R$ 160.000 | -6 | R$ 8.000 | Fluido Neural®
+4.4 IMPLANTES NEURAIS (INTELECTO)
+Nome | Nível | Bônus IN | Preço compra | Insight | Manutenção | Fluido
+Datajack de rua | — | — | R$ 1.500 | -1 | — | —
+Datajack original | — | — | R$ 3.000 | -1 | — | —
+Processador neural | 16-17 | +1 Comp | R$ 3.000 | -1 | — | —
+Memória expansível | 18 | +1 perícia | R$ 4.000 | -1 | — | —
+Processador Neural (IN) | 19 | +1 IN | R$ 8.000 | -1 | R$ 400 | —
+Processador Neural (plus) | 20 | +2 IN | R$ 16.000 | -2 | R$ 800 | —
+Cérebro Expansível | 21 | +2 IN | R$ 24.000 | -3 | R$ 1.200 | SynthOil®
+Cérebro Expansível (plus) | 22 | +3 IN | R$ 40.000 | -4 | R$ 2.000 | SynthOil® Avançado
+Consciência Híbrida | 23 | +3 IN | R$ 80.000 | -5 | R$ 4.000 | SynthBlood®
+Consciência Híbrida (plus) | 24 | +4 IN | R$ 160.000 | -6 | R$ 8.000 | Fluido Neural®
+4.5 OLHOS (NÍVEIS 16-24)
+Nome | Nível | Efeito | Insight | Preço | Manutenção
+Olho de agulha | 16-17 | Visão noturna | -1 | R$ 1.500 | —
+Olho de lince | 18 | Zoom 10× | -2 | R$ 4.000 | —
+Olho de lince (plus) | 19 | Zoom 20×, térmico | -2 | R$ 6.000 | R$ 200
+Olho multi-espectro | 20 | Térmico, UV, infra | -2 | R$ 8.000 | R$ 400
+Olho gravador | 21 | Grava 48h, HUD | -2 | R$ 10.000 | R$ 800
+Olho tático | 22 | Mira automática (+1 Pontaria) | -3 | R$ 15.000 | R$ 1.500
+Olho de águia | 23 | Zoom 50×, rastreamento | -3 | R$ 25.000 | R$ 3.000
+Olho lendário | 24 | Tudo + IA embutida | -4 | R$ 40.000 | R$ 5.000
+4.6 OUVIDOS (NÍVEIS 16-24)
+Nome | Nível | Efeito | Insight | Preço | Manutenção
+Ouvido amplificado | 16-17 | +1 Percepção | -1 | R$ 1.000 | —
+Ouvido com rádio | 18 | Escuta frequências | -1 | R$ 1.500 | —
+Ouvido direcional | 19 | Foca em sons (+2 Percepção) | -1 | R$ 2.000 | R$ 200
+Ouvido com gravador | 20 | Grava 72h | -1 | R$ 3.000 | R$ 400
+Amortecedor sonoro | 21 | Imune a dano sonoro | -2 | R$ 4.000 | R$ 800
+Ouvido seletivo | 22 | Filtra ruídos, escuta conversas à distância | -2 | R$ 6.000 | R$ 1.500
+Ouvido ultrasom | 23 | Escuta frequências inaudíveis | -2 | R$ 8.000 | R$ 3.000
+Ouvido lendário | 24 | Tudo + análise em tempo real | -3 | R$ 15.000 | R$ 5.000
+4.7 ARMAS IMPLANTADAS
+Nome | Nível | Dano | Insight | Preço | Manutenção
+Garras retráteis | 16-17 | 1d6+2 | -1 | R$ 2.500 | —
+Lâmina de antebraço | 18 | 1d8+2 | -1 | R$ 4.000 | —
+Lâmina retrátil (plus) | 19 | 1d10+2 | -2 | R$ 6.000 | R$ 200
+Serra circular | 20 | 2d6+2 | -2 | R$ 8.000 | R$ 400
+Perfurante | 21 | 1d12+3, ignora armadura 1 | -2 | R$ 12.000 | R$ 800
+Elétrica | 22 | 2d8 + paralisia | -3 | R$ 18.000 | R$ 1.500
+Plasma (experimental) | 23 | 3d6, ignora armadura 2 | -4 | R$ 30.000 | R$ 3.000
+Lendária | 24 | 4d6, vários modos | -5 | R$ 50.000 | R$ 5.000
+---
+4.8 KITS DE MANUTENÇÃO
+Kit básico (nível 19-20)
+├─ Conteúdo: Lubrificante sintético, pano antiestático, escova de limpeza
+├─ Duração: 1 mês
+├─ Preço: R$ 400
+├─ Preço (SM): 0,25 SM
+└─ Onde: Clínica de bairro, Mercado popular (C3)
+Kit avançado (nível 21-22)
+├─ Conteúdo: Óleo hidráulico micronizado, kit de calibração, chaves de precisão
+├─ Duração: 1 mês
+├─ Preço: R$ 1.200
+├─ Preço (SM): 0,75 SM
+└─ Onde: Loja especializada (C2), contato na Omni
+Kit profissional (nível 23)
+├─ Conteúdo: Fluido de interface neural, scanner de desgaste, peças de reposição
+├─ Duração: 1 mês
+├─ Preço: R$ 4.000
+├─ Preço (SM): 2,5 SM
+└─ Onde: Apenas com credencial Omni ou mercado negro avançado
+Kit lendário (nível 24)
+├─ Conteúdo: SynthBlood® (1L), Fluido Neural®, kit de emergência para rejeição
+├─ Duração: 1 mês
+├─ Preço: R$ 8.000
+├─ Preço (SM): 5 SM
+└─ Onde: Só o Maquinista, ou a própria Eva (geralmente é FAVOR)
+---
+4.9 FLUIDOS SINTÉTICOS
+SynthOil® Básico (nível 21)
+├─ Efeito: Lubrifica juntas cibernéticas, previne rangidos
+├─ Dose: 1 aplicação/semana
+├─ Preço: R$ 300/mês
+├─ Preço (SM): 0,1875 SM/mês
+├─ Abstinência (1 semana sem): rangidos (-1 Furtividade), -1 FO/DE
+└─ Onde: Farmácias, mercados (C3), boca do Círculo
+SynthOil® Avançado (nível 22)
+├─ Efeito: Mantém precisão de movimentos, calibra servomotores
+├─ Dose: 2 aplicações/semana
+├─ Preço: R$ 600/mês
+├─ Preço (SM): 0,375 SM/mês
+├─ Abstinência (3 dias sem): movimentos erráticos (-2 DE), chance de falha 1-3
+└─ Onde: Clínicas especializadas (C2), contato na Omni
+SynthBlood® (nível 23)
+├─ Efeito: Substitui sangue real, transporta oxigênio para órgãos cibernéticos
+├─ Dose: Transfusão mensal (1h de procedimento)
+├─ Preço: R$ 1.000/mês
+├─ Preço (SM): 0,625 SM/mês
+├─ Abstinência (1 mês sem): necrose localizada, perde 1 ponto permanente
+└─ Onde: Apenas hospitais credenciados, Omni, favor de alguém muito importante
+Fluido Neural® (nível 24)
+├─ Efeito: Interface cérebro-máquina, processa sinapses artificiais
+├─ Dose: Aplicação contínua (bomba de infusão), troca mensal
+├─ Preço: R$ 2.000/mês
+├─ Preço (SM): 1,25 SM/mês
+├─ Abstinência (1 semana sem): alucinações, -4 IN, chance de morte cerebral
+└─ Onde: SÓ o Maquinista. Ou a Eva entrega pessoalmente.
+---------------------------------------------------------------------
+5. ELETRÔNICOS E COMUNICAÇÃO (APPS)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📱 CELULARES E SUAS CAPACIDADES:
+├─ ⭐ Gambiarra "Tijolão" · R$ 48
+│ Memória: 10 apps · -1 Computadores · +20% consumo bateria
+│ Internet: 2G (lenta) · Onde: Feira da Madrugada (C4), boca do Círculo
+├─ ⭐⭐ Recuperado · R$ 96
+│ Memória: 15 apps · Falha 1-2 · +10% consumo bateria
+│ Internet: 3G · Onde: Mercado negro (C3), lojas de usados
+├─ ⭐⭐⭐ Original · R$ 160
+│ Memória: 20 apps · Sem bônus/penalidades
+│ Internet: 4G · Onde: Loja de eletrônicos (C3), ShopFast
+├─ ⭐⭐⭐⭐ Premium "Hacker" · R$ 480
+│ Memória: 30 apps · +1 Computadores · -10% consumo bateria
+│ Internet: 5G · Apps abrem em ação livre · Onde: Loja especializada (C2), contatos da Omni
+├─ ⭐⭐⭐⭐⭐ Lendário "Omni X1" · R$ 1.600
+│ Memória: 40 apps · +2 Computadores · -20% consumo bateria
+│ Internet: 6G · Inviolável · Apps instantâneos · Onde: Omni (C1), missões especiais
+📱 APPS DO MUNDO — CYBER SP 2097
+【 APPS COMUNS (disponíveis na loja) 】
+├─ 🚚 EntregueJá® · ID: app_entregueja
+│ Função: Aceitar corridas, ganhar dinheiro (R$ 8-25 por entrega)
+├─ 🏍️ MotoExpress® · ID: app_motoexpress
+│ Função: Entregas mais rápidas, pagamento maior (R$ 12-35)
+├─ 🗺️ Navego® · ID: app_navego
+│ Função: Calcular rotas, ver trânsito, modo stealth (👻)
+├─ 🕳️ TúnelCerto® · ID: app_tunelcerto
+│ Função: Navegar pela Camada 5, evitar criaturas · Preço: R$ 80
+├─ 💬 Ping® · ID: app_ping
+│ Função: Chat básico, notificações na UI · Rastreável pela Omni
+├─ 👁️‍🗨️ CriptoChat® · ID: app_criptochat
+│ Função: Chat criptografado, modo autodestrutivo (🔥) · Preço: R$ 80
+├─ 💜 Roxinho® · ID: app_roxinho
+│ Função: Ver saldo, transferir, pagar contas (rastreável)
+├─ ₿ CriptoPay® · ID: app_criptopay
+│ Função: Transferir valores sem rastro, taxa 5%
+├─ 🛒 ShopFast® · ID: app_shopfast
+│ Função: Comprar itens comuns (eletrônicos, roupas)
+├─ 🍔 BocaLivre® · ID: app_bocalivre
+│ Função: Pedir comida, avaliar entregadores
+├─ 🎵 KondFood® · ID: app_kondfood
+│ Função: Pedir comida em shows da Solaris, promoções
+├─ 📸 Lens® · ID: app_lens
+│ Função: Tirar fotos, escanear QR codes, realidade aumentada
+├─ 🐦 Echo® · ID: app_echo
+│ Função: Postar, seguir, ver trends
+├─ 🌐 Node® · ID: app_node
+│ Função: Acessar internet, sites, fóruns
+├─ 🤖 Buscador® · ID: app_buscador
+│ Função: Pesquisar informações, pessoas, lugares
+├─ 🎥 Stream® · ID: app_stream
+│ Função: Assistir filmes, séries, tutoriais · Assinatura R$ 32/mês
+├─ 📝 Notas Rápidas® · ID: app_notas
+│ Função: Salvar lembretes, dívidas, ideias
+├─ 🏛️ GovBR® · ID: app_govbr
+│ Função: Documentos, multas, impostos
+├─ 🚏 SPTrans® · ID: app_sptrans
+│ Função: Recarga de bilhete único, horários de ônibus/trem
+【 APPS ILEGAIS/ESPECIAIS (NÃO estão na loja) 】
+├─ 📦 Mercado Negro® · ID: app_mercado_negro
+│ Função: Comprar itens proibidos, contatar vendedores · Requer convite
+├─ 👾 Invasor® · ID: app_invasor
+│ Função: Programas de netrunning, quebra de ICE · Preço: R$ 320-1.600
+├─ 📡 Rastreador® · ID: app_rastreador
+│ Função: Rastrear pessoas/veículos (ilegal) · Preço: R$ 240 · ⚠️ -5%/h em 2º plano
+├─ 🔴 CredCírculo® · ID: app_credcirculo
+│ Função: Empréstimo fácil, juros altos, dívidas com facção
+├─ 🏥 SaúdeJá® · ID: app_saudeja
+│ Função: Marcar consultas, comprar remédios (legal)
+└─ 🗣️ FofocaJá® · ID: app_fofocaja
+Função: Informações não oficiais, boatos, missões (legal)
+📱 OUTROS ELETRÔNICOS:
+Item | Efeito | Preço (R$)
+Celular básico | Liga, SMS | R$ 160
+Celular resistente | À prova d'água | R$ 480
+Celular hacker | +1 Computadores | R$ 1.280
+Comunicador criptografado | Seguro contra grampo | R$ 800
+Rádio tático | Alcance 5km | R$ 640
+💻 DECKS DE NETRUNNING:
+Item | Efeito | Preço (R$)
+Deck de feira | +1 Computadores, falha 1-2 | R$ 800
+Deck padrão | +2 Computadores | R$ 2.400
+Deck profissional | +3 Computadores | R$ 4.800
+Deck militar | +4 Computadores, +1 defesa | R$ 9.600
+🔋 POWER BANKS:
+Tipo | Cargas | Tempo | Preço (R$)
+Pequeno | 1 | 30 min | R$ 80
+Médio | 2 | 30 min | R$ 128
+Grande | 4 | 30 min | R$ 240
+Turbo | 2 | 15 min | R$ 320
+---------------------------------------------------------------------
+6. FERRAMENTAS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🧰 KITS DE FERRAMENTAS:
+Item | Uso | Preço (R$)
+Kit básico | Reparos simples | R$ 160
+Kit profissional | +2 Mecânica/Eletrônica | R$ 640
+Kit de fechaduras | +2 para arrombar | R$ 480
+Kit de primeiros socorros| +2 Medicina | R$ 160
+Kit cirúrgico | Para ciberware | R$ 1.280
+---------------------------------------------------------------------
+7. VEÍCULOS E DRONES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚁 DRONES COMERCIAIS:
+Modelo | Tipo | Vel | HP | Arm | Preço (R$) | Autonomia
+Olho de Águia| Vigilância| 4 | 10 | 0 | R$ 800 | 2h
+Carregador | Entrega | 3 | 15 | 1 | R$ 1.280 | 1h
+Scanner | Tático | 4 | 15 | 1 | R$ 2.400 | 1h
+Sentinel | Segurança | 4 | 20 | 2 | R$ 3.200 | 30min
+Predator | Combate | 5 | 30 | 3 | R$ 8.000 | 20min
+🛹 VEÍCULOS PESSOAIS:
+Veículo | HP | Hnd | SR | Move | Preço (R$)
+Skate comum | 5 | +2 | 1 | 2/8 | R$ 240
+Skate elétrico | 8 | +2 | 1 | 4/12 | R$ 800
+Patinete elétrico | 8 | +1 | 1 | 4/10 | R$ 640
+Bicicleta comum | 10 | +1 | 2 | 3/12 | R$ 480
+Bicicleta elétrica| 12 | +1 | 2 | 5/18 | R$ 1.280
+🛵 MOTOS:
+Veículo | HP | Hnd | SR | Move | Preço (R$)
+Moto 125cc | 25 | +2 | 2 | 8/40 | R$ 4.000
+Moto 500cc | 30 | +2 | 2 | 10/60 | R$ 8.000
+Scooter | 20 | +3 | 2 | 6/35 | R$ 3.200
+Moto trail | 35 | +2 | 3 | 8/50 | R$ 9.600
+🚗 CARROS:
+Veículo | HP | Hnd | SR | Move | Preço (R$)
+Carro popular | 45 | +1 | 3 | 8/50 | R$ 12.800
+Sedan médio | 50 | +1 | 3 | 9/60 | R$ 24.000
+Carro blindado | 60 | 0 | 4 | 7/45 | R$ 64.000
+SUV | 55 | 0 | 4 | 8/55 | R$ 40.000
+Pickup | 60 | 0 | 4 | 7/50 | R$ 32.000
+Van/Furgão | 65 | -1 | 4 | 6/45 | R$ 40.000
+Esportivo | 45 | +3 | 2 | 12/100 | R$ 96.000
+---------------------------------------------------------------------
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. 🍲 CONSUMÍVEIS (COMIDAS COMPLETAS)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【🇧🇷 BRASILEIRA (Norte/Nordeste integrados)】
+🍛 Prato feito (PF)
+├─ Fome: 100% · Preço: R$ 24-32
+├─ Efeito: +1 FO por 2h
+└─ "Arroz, feijão, bife, ovo, batata. O almoço do brasileiro."
+🍲 Feijoada
+├─ Fome: 120% (dura 2 refeições) · Preço: R$ 40-56
+├─ Efeito: +2 FP por 3h, -1 DE por 3h
+└─ "Feijão preto, carne de porco. Tradição de sábado. Pesada, mas dá energia."
+🥟 Coxinha
+├─ Fome: 60% · Preço: R$ 10-13
+├─ Efeito: —
+└─ "Frango com catupiry, empanada e frita. Ícone de boteco."
+🥟 Pastel
+├─ Fome: 60% · Preço: R$ 10-13
+├─ Efeito: —
+└─ "Massa frita recheada (carne, queijo, pizza). Feira é lugar certo."
+🍢 Espetinho
+├─ Fome: 70% · Preço: R$ 13-19
+├─ Efeito: —
+└─ "Carne na brasa. Vendedor de esquina, farofa e molho."
+🍛 Arroz com feijão
+├─ Fome: 80% · Preço: R$ 16-19
+├─ Efeito: recupera 1d4 HP
+└─ "A base. Comida caseira cura a alma."
+🥣 Baião de dois (nordestino)
+├─ Fome: 90% · Preço: R$ 24-32
+├─ Efeito: —
+└─ "Arroz, feijão de corda, queijo coalho, carne seca. Herança nordestina."
+🥩 Carne de sol (nordestino)
+├─ Fome: 70% · Preço: R$ 29-40
+├─ Efeito: —
+└─ "Carne salgada e seca ao sol. Acompanha mandioca."
+🦆 Pato no tucupi (norte)
+├─ Fome: 90% · Preço: R$ 40
+├─ Efeito: +1 HT por 2h
+└─ "Pato cozido no tucupi. Herança paraense. Forte."
+🥣 Tacacá (norte)
+├─ Fome: 60% · Preço: R$ 13
+├─ Efeito: +1 HT (frio) por 1h
+└─ "Sopa amazônica de tucupi, camarão, jambu. Aquece."
+🥟 Acarajé (baiano)
+├─ Fome: 70% · Preço: R$ 16
+├─ Efeito: —
+└─ "Bolinho de feijão-fradinho, dendê, vatapá, camarão. Herança baiana."
+🥣 Cuscuz
+├─ Fome: 60% · Preço: R$ 8
+├─ Efeito: —
+└─ "Flocos de milho cozidos. Nordestino pela manhã, paulista à tarde."
+🥔 Macaxeira
+├─ Fome: 50% · Preço: R$ 8
+├─ Efeito: —
+└─ "Mandioca, aipim, macaxeira. Mesma raiz, mesmo Brasil."
+🥣 Canjica
+├─ Fome: 40% · Preço: R$ 10
+├─ Efeito: —
+└─ "Milho branco cozido com leite, canela. Festa junina."
+🥟 Pamonha
+├─ Fome: 50% · Preço: R$ 8
+├─ Efeito: —
+└─ "Massa de milho, doce ou salgada. Do Norte ao Sudeste."
+🥟 Angu
+├─ Fome: 60% · Preço: R$ 8
+├─ Efeito: —
+└─ "Mingau de fubá. Comida de escravo, hoje de raiz."
+【🇨🇳 CHINESA】
+🥟 Guioza
+├─ Fome: 40% · Preço: R$ 16-19
+├─ Efeito: —
+└─ "Pastel chinês cozido no vapor. Rua da Glória, Liberdade."
+🍜 Lámen chinês
+├─ Fome: 80% · Preço: R$ 29
+├─ Efeito: —
+└─ "Macarrão em caldo, versão chinesa (mais encorpada que a japonesa)."
+🍚 Arroz chop suey
+├─ Fome: 70% · Preço: R$ 24
+├─ Efeito: —
+└─ "Arroz frito com legumes, ovo, carne. 'Chop suey' = 'pedaços misturados'."
+🥘 Frango xadrez
+├─ Fome: 80% · Preço: R$ 35
+├─ Efeito: +1 FP
+└─ "Frango, amendoim, pimentão, molho agridoce. Versão brasileira."
+🥠 Rolinho primavera
+├─ Fome: 50% · Preço: R$ 13
+├─ Efeito: —
+└─ "Massa frita recheada com legumes. Entrada clássica."
+🥡 Comida chinesa (caixa)
+├─ Fome: 100% · Preço: R$ 40
+├─ Efeito: —
+└─ "Yakisoba, arroz, legumes, carne. A famosa 'caixinha chinesa' de SP."
+【🇯🇵 JAPONESA】
+🍜 Lámen
+├─ Fome: 80% · Preço: R$ 40-56
+├─ Efeito: +1 HT por 2h
+└─ "Macarrão em caldo, porco, ovo. Conforto japonês."
+🍣 Sushi
+├─ Fome: 60% · Preço: R$ 32-64
+├─ Efeito: +1 Percepção por 1h
+└─ "Arroz com peixe cru. Leve, fresco, dá clareza mental."
+🥟 Gyoza
+├─ Fome: 40% · Preço: R$ 19-24
+├─ Efeito: —
+└─ "Pastel japonês frito, carne com legumes."
+🍛 Curry japonês (kare)
+├─ Fome: 80% · Preço: R$ 32-40
+├─ Efeito: —
+└─ "Arroz com curry, carne, legumes. Conforto."
+🍱 Yakisoba
+├─ Fome: 80% · Preço: R$ 29-35
+├─ Efeito: —
+└─ "Macarrão frito com legumes e carne. Versão brasileira já é clássico."
+🍚 Ochá (chá verde)
+├─ Sede: 20% · Preço: R$ 5
+├─ Efeito: —
+└─ "Chá quente ou gelado. Acompanha qualquer refeição oriental."
+【🇰🇷 COREANA】
+🥬 Kimchi
+├─ Fome: 20% · Preço: R$ 8
+├─ Efeito: +1 HT (imunidade) por 1h
+└─ "Acompanhamento fermentado. Bom pra saúde (dizem)."
+🍖 Bulgogi
+├─ Fome: 80% · Preço: R$ 40
+├─ Efeito: +1 FO por 2h
+└─ "Carne marinada grelhada. Coreano tradicional."
+🍚 Bibimbap
+├─ Fome: 80% · Preço: R$ 35
+├─ Efeito: —
+└─ "Arroz com legumes, carne, ovo, pasta de pimenta."
+【🇸🇾 ÁRABE】
+🥙 Esfiha
+├─ Fome: 50% · Preço: R$ 8-11
+├─ Efeito: —
+└─ "Massa aberta com recheio de carne, queijo. Comer com limão."
+🥙 Kibe
+├─ Fome: 50% · Preço: R$ 10-13
+├─ Efeito: —
+└─ "Trigo, carne, hortelã. Frito ou assado."
+🥗 Homus
+├─ Fome: 30% · Preço: R$ 13
+├─ Efeito: —
+└─ "Pasta de grão-de-bico com tahine. Acompanha pão sírio."
+🥙 Charutinho (folha de uva)
+├─ Fome: 40% · Preço: R$ 10
+├─ Efeito: —
+└─ "Folha de uva recheada. Comida árabe tradicional."
+【🇮🇹 ITALIANA】
+🍝 Macarrão
+├─ Fome: 80% · Preço: R$ 29-40
+├─ Efeito: -1 DE por 2h (sonolência)
+└─ "Molho à bolonhesa, ao sugo. Simples, perfeito, mas dá sono."
+🍕 Pizza
+├─ Fome: 100% · Preço: R$ 48-80
+├─ Efeito: +1 FP por 2h, -1 DE por 2h
+└─ "A pizza de SP é patrimônio. Mussarela, portuguesa, frango com catupiry."
+🍝 Lasanha
+├─ Fome: 90% · Preço: R$ 35-45
+├─ Efeito: —
+└─ "Massas, molho, queijo, carne. Camadas de sabor."
+🥟 Nhoque
+├─ Fome: 70% · Preço: R$ 29-35
+├─ Efeito: +1 Sorte (teste único) no dia 29
+└─ "Nhoque de batata, molho sugo. Tradição dia 29: comer e fazer pedido."
+【🇵🇪 ANDINA (bolivianos/peruanos)】
+🥟 Salteña
+├─ Fome: 60% · Preço: R$ 8-10
+├─ Efeito: +1 FP por 1h
+└─ "Pastel assado recheado com carne, frango ou queijo. Tradição andina."
+🥩 Anticucho
+├─ Fome: 70% · Preço: R$ 13
+├─ Efeito: -1 Insight?
+└─ "Espetinho de coração. Comida de rua nos Andes."
+🥣 Api
+├─ Sede: 30% · Preço: R$ 6
+├─ Efeito: +1 HT (frio) por 1h
+└─ "Bebida quente de milho roxo. Aquece nas noites frias."
+🥟 Humita
+├─ Fome: 50% · Preço: R$ 8
+├─ Efeito: —
+└─ "Pamonha andina. Doce ou salgada."
+🍲 Quinua
+├─ Fome: 60% · Preço: R$ 13
+├─ Efeito: +1 HT
+└─ "Grão sagrado dos Andes. Nutritivo."
+🐟 Ceviche
+├─ Fome: 70% · Preço: R$ 32
+├─ Efeito: +1 Percepção por 1h
+└─ "Peixe cru marinado no limão. Herança peruana."
+【🌭 COMIDA DE RUA】
+🌭 Cachorro-quente
+├─ Fome: 70% · Preço: R$ 13
+├─ Efeito: —
+└─ "Pão, salsicha, purê, milho, ervilha, batata palha. Completão."
+🥟 Pastel de feira
+├─ Fome: 60% · Preço: R$ 10
+├─ Efeito: risco (teste HT 10 se duvidoso) ou 1d4 dano
+└─ "Pastel gigante, carne ou queijo. Caldo de cana pra acompanhar."
+🍢 Espetinho
+├─ Fome: 70% · Preço: R$ 13
+├─ Efeito: —
+└─ "Carne na brasa, farofa, molho."
+🍦 Sorvete
+├─ Fome: 20% · Preço: R$ 8
+├─ Efeito: —
+└─ "Geladinho, qualquer sabor, qualquer esquina."
+【🏭 INDUSTRIALIZADOS (Omni, Solaris)】
+🍱 Omni Meal®
+├─ Fome: 100% · Preço: R$ 24
+├─ Efeito: -1 Insight/semana (uso contínuo)
+└─ "Refeição sintética da Omni. Prático, sem gosto, mas sustenta."
+🥤 Omni-Soda®
+├─ Sede: 20% · Preço: R$ 13
+├─ Efeito: +1 Computadores por 1h, depois -1 Computadores por 2h
+└─ "Refrigerante com aditivos neuroestimulantes. Omni patenteou."
+🍔 SolarisBurger®
+├─ Fome: 90% · Preço: R$ 40
+├─ Efeito: +1 Carisma por 1h
+└─ "Fast food da Solaris. O molho é segredo. Só nos shows."
+🥤 ÉTER® Energy
+├─ Sede: 20% · Preço: R$ 24
+├─ Efeito: +2 FP por 1h, risco dependência (teste HT 14 após 3 usos)
+└─ "Energético. Mesmo nome da droga. Solaris sabe o que faz."
+【💀 MERCADO PARALELO (Círculo)】
+🥫 Enlatado genérico
+├─ Fome: 70% · Preço: R$ 5
+├─ Efeito: risco botulismo (teste HT 10 ou 1d4 dano)
+└─ "Sem rótulo. Procedência? Melhor não perguntar."
+🍖 Carne "?"
+├─ Fome: 80% · Preço: R$ 16
+├─ Efeito: -1 Insight
+└─ "Barato. Muito barato. Tem gosto de frango? Porco? Gente?"
+【🙏 ABRIGOS (Mão de Deus)】
+🥣 Sopa comunitária
+├─ Fome: 70% · Preço: Grátis
+├─ Efeito: +1 Insight
+└─ "Distribuída toda noite. Qualquer um come."
+🍞 Pão doado
+├─ Fome: 40% · Preço: Doação
+├─ Efeito: —
+└─ "Pão francês, às vezes amanhecido. Mas é de graça."
+【🚇 SUBSULO (Surfistas)】
+🍄 Fungo bioluminescente
+├─ Fome: 50% · Preço: R$ 8
+├─ Efeito: visão noturna por 1h, depois teste HT 12 ou -1 FP
+└─ "Os Antigos comem isso. Tem gosto de cogumelo com terra."
+🐀 Rato grelhado
+├─ Fome: 60% · Preço: R$ 5
+├─ Efeito: -1 Insight
+└─ "Proteína de túnel. Os Surfistas juram que é igual frango."
+【💧 ÁGUA (todas as fontes)】
+💧 Água mineral
+├─ Sede: 80% · Preço: R$ 5
+├─ Efeito: —
+└─ "Garrafinha de 500ml."
+💧 Água Viva® (Verde Vivo)
+├─ Sede: 100% · Preço: R$ 13
+├─ Efeito: +1 FP
+└─ "Água Verde Vivo. Garrafa de vidro retornável. Mais cara, mas 'pura'."
+💧 Água de torneira
+├─ Sede: 50% · Preço: R$ 1 (paga na conta)
+├─ Efeito: —
+└─ "Da pia. Serve, mas não é a mesma coisa."
+💧 Água de poço
+├─ Sede: 60% · Preço: R$ 1
+├─ Efeito: risco contaminação (teste HT 10)
+└─ "Furaram o duto da Verde Vivo. Mais barato, mas arriscado."
+💧 Água de goteira (C5)
+├─ Sede: 60% · Preço: Grátis
+├─ Efeito: risco contaminação (teste HT 10)
+└─ "Os Surfistas conhecem as goteiras limpas. E as sujas também."
+---------------------------------------------------------------------
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9. 💊 DROGAS BRASILEIRAS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【🌿 MACONHA】
+├─ Ciclo: 8h (pós-uso) / Dependência: 24h
+├─ Preço: R$ 10-20 (baseado) / R$ 50-100 (5g)
+├─ Efeito (1h): +1 Insight, +1 Criatividade, -1 DE, -1 Percepção
+├─ Abstinência (24h sem): -1 Insight, -1 social, insônia
+├─ Overdose: impossível (mas larica leva a comer tudo)
+└─ Onde: boca do Círculo, estudantes, "medicinal" (Omni: R$ 200)
+【⚪ COCAÍNA】
+├─ Ciclo: 2h (pós-uso) / Dependência: 4h
+├─ Preço: R$ 50-100/g (R$ 30-50/papelinho)
+├─ Efeito (30min-2h): +2 FP, +2 DE, +2 Percepção, -2 social, HT 12 ou 1d3 dano
+├─ Pós-efeito (4h): -4 FP, -2 DE, -2 Percepção, -1 Insight
+├─ Abstinência (8h sem): -2 testes, fissura, -1 Insight/dia
+├─ Overdose: HT 14 ou 2d6 dano (com álcool: HT 16)
+└─ Onde: baladas da Solaris, escritórios, boca do Círculo
+【🪨 CRACK】
+├─ Ciclo: 15 MINUTOS / Dependência: 1h
+├─ Preço: R$ 10-20 (pedra)
+├─ Efeito (5-15min): +4 TUDO (super-humano), -4 social, HT 10 ou 1d6 dano
+├─ Pós-efeito (1h): -6 TUDO, -2 Insight, HT 16 ou 2d6 dano
+├─ Abstinência (2h sem): -4 testes, alucinações, -1d3 Insight/dia
+├─ Overdose: HT a cada 3 usos ou 2d6 dano
+└─ Onde: Cracolândia, bocas C4, Feira da Madrugada
+【🟫 OXI】
+├─ Ciclo: 10 MINUTOS / Dependência: 30min
+├─ Preço: R$ 5-10 (pedra)
+├─ Efeito: igual crack, mas duração menor, dano maior
+├─ Pós-efeito: -3 Insight por uso
+├─ Overdose: HT 12 ou 2d6 por uso
+├─ Onde: Norte/Nordeste, Cracolândia (raro)
+└─ Expectativa de vida: 2-3 anos de uso
+【💊 BENZODIAZEPÍNICOS (Rivotril®, Valium®, Frontal®)】
+├─ Ciclo: 12h / Dependência: 24h
+├─ Preço: R$ 20-50/caixa (R$ 5-10/comprimido avulso)
+├─ Efeito terapêutico: +1 Insight, -1 DE, -1 Percepção
+├─ Efeito abuso: +2 Insight (falso), -2 DE/PERC, amnésia (esquece 1d6 horas)
+├─ Abstinência: -2 Insight, ansiedade, convulsão (HT 14 ou 2d6)
+├─ Overdose: com álcool, HT 14 ou morte
+└─ Onde: farmácias (com receita), mercado negro
+【🧪 INALANTES (LANÇA-PERFUME, LOLÓ, COLA)】
+├─ Ciclo: 30min / Dependência: 2h
+├─ Preço: R$ 5-15 (dose) / R$ 30-50 (latinha)
+├─ Efeito (15min): +2 DE (alucinações), -2 IN, HT 12 ou desmaio
+├─ Pós-efeito: -4 testes, perda de 1d3 memória (curto prazo)
+├─ Overdose: morte súbita (HT 10 ou 3d6)
+└─ Onde: festas da Solaris, feiras, menores de rua
+---------------------------------------------------------------------
+10. PROGRAMAS DE NETRUNNING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📋 PROGRAMAS COMPLETOS:
+Programa | Tipo | Efeito | Preço (R$) | Slots
+Quebra-galho | Ataque | Desativa ICE 1 rodada | R$ 320 | 1
+Jeitinho | Ataque | Ignora 1 senha | R$ 640 | 1
+Puxadinho | Ataque | Acesso permanente (1d6 meses) | R$ 960 | 2
+Tapa-buraco | Defesa | Bloqueia ICE 1d6 rodadas | R$ 480 | 1
+Escudo | Defesa | +2 na defesa | R$ 640 | 1
+Camuflagem | Defesa | -2 para ser percebido | R$ 960 | 1
+Limpeza | Defesa | Remove rastros | R$ 480 | 1
+Copiador | Util | Copia dados | R$ 480 | 1
+Mapeador | Util | Revela arquitetura | R$ 640 | 1
+Decodificador | Util | Quebra criptografia | R$ 800 | 1
+Speed | Boost | Age primeiro contra ICE | R$ 1.280 | 2
+Banhammer | Ataque | +2d6 contra Black ICE | R$ 1.600 | 2
+---------------------------------------------------------------------
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+11. 💰 PREÇOS POR CAMADA E NOTA SOBRE ECONOMIA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📊 MULTIPLICADORES POR CAMADA:
+Camada | Multiplicador | Moeda aceita | Risco de golpe
+C1-2 | 200-500% | $, ₢, R$ | Baixo
+C3 | 100% | R$, $ | Médio
+C4 | 60-80% | R$, favor | Alto
+C5 | 30-50% | R$, troco | Altíssimo
+📋 PREÇOS RÁPIDOS (Camada 3 = base):
+Pistola 9mm · ID: pistola_9mm
+Preço base: R$ 560 · Dano: 1d8
+Onde encontrar:
+- loja_militar_centro (legal) · R$ 560
+- boca_ze (Heliópolis) · R$ 192 (C4, 60%)
+- galpoes_circulo (Brás) · R$ 192
+- boca_bras (Brás) · R$ 208
+- boca_cambuci (Cambuci) · R$ 240
+Datajack de rua · ID: datajack_rua
+Preço base: R$ 1.500 · Insight: -1
+Onde encontrar:
+- galpoes_circulo (Brás) · R$ 750 (C3, mercado negro)
+- boca_ze (Heliópolis) · R$ 825 (C4, 55%)
+- clinicas_ciber (Jardim Paulista) · R$ 1.500 (legal, C2)
+Pão francês · ID: pao
+Preço base: R$ 3
+Onde encontrar: padarias em todas as camadas
+Café · ID: cafe
+Preço base: R$ 5 · Efeito: +1 FP (1h)
+Onde encontrar: padarias, bares, botecos
+📌 NOTA SOBRE A ECONOMIA DE CYBER SP 2097
+A economia do jogo foi calibrada usando como referência o salário mínimo brasileiro de 2026 (R$ 1.600). Isso não significa que os preços são "reais" — significa que são PROPORCIONAIS à realidade brasileira.
+1 Salário Mínimo (SM) = R$ 1.600
+Ciberware nível 19 custa 5 SM (equivalente a um iPhone hoje).
+Ciberware nível 22 custa 25 SM (equivalente a um carro popular).
+Ciberware nível 24 custa 100 SM (equivalente a um apartamento).
+Se preferir números "redondos" ou ajustar a escala, mantenha a PROPORÇÃO. O que importa é a relação entre renda, custo de vida e preço dos itens.
+---------------------------------------------------------------------
+12. GAMBIARRAS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🛠️ GAMBIARRAS POR CATEGORIA:
+Original | Gambiarra ⭐ | Preço | Efeito | Falha
+Pistola 9mm | "Tiro Certo®" | R$ 168 | 1d6-2 | 1-3 falha
+Colete nível 2 | "Proteção Duvid."| R$ 240 | 1 prot. | 1-2 n f.
+Datajack | "Entrada Garagem"| R$ 450 | Instável | 1-3 quei
+Deck | "Calculad. Hack"| R$ 240 | +0 Comp | 1-4 n f.
+Analgésico | "DorMenos®" | R$ 5 | 1d3 HP | 1-3 n f.
+Água mineral | "Água Córrego®" | R$ 1 | 30% sede | 1-4 doen
+Café | "Café Varrido®" | R$ 2 | +1 FP | 1-2 náus
+📋 TABELA DE FALHAS (para itens ⭐ e ⭐⭐):
+1d6 | ⭐ GAMBIARRA | ⭐⭐ RECUPERADO
+1 | 🔴 Destrói +1d6 | 🔴 Falha crítica
+2 | 🔴 Não funciona | ⚠️ Falha
+3 | ⚠️ 50% efeito | ⚠️ Instável
+4 | ✅ Funciona 1d6 | ✅ Funciona
+5 | ✅ Funciona | ✅ Funciona
+6 | ⭐ +1 bônus | ⭐ +1 bônus
+📋 GAMBIARRAS DE ATRIBUTO (LIMITADAS):
+"Braço Forte do Zé" (FO +1, nível 19 temporário)
+├─ Materiais: 2 amortecedores de carro, cinto de couro, parafusos
+├─ CD: 16 · Tempo: 4h
+├─ Efeito: +1 FO (19) por 1d6 dias
+├─ Falha 1-3: trava na hora errada (-2 FO até desmontar)
+└─ Preço dos materiais: R$ 50
+"Perna Rápida do Baiano" (DE +1, nível 19 temporário)
+├─ Materiais: Molas de colchão, tubo de PVC, cadarço de coturno
+├─ CD: 16 · Tempo: 4h
+├─ Efeito: +1 DE (19) por 1d6 dias
+├─ Falha 1-3: range que até surdo ouve (-2 Furtividade)
+└─ Preço dos materiais: R$ 50
+"Coração de Mola" (HT +1, nível 19 temporário)
+├─ Materiais: Bateria de moto, fios, regulador de tensão (adaptado)
+├─ CD: 18 · Tempo: 6h
+├─ Efeito: +1 HT (19) por 1d6 dias
+├─ Falha 1-4: choque 1d6, desmaia se rolar 1
+└─ Preço dos materiais: R$ 80
+"Cérebro de Rato" (IN +1, nível 19 temporário)
+├─ Materiais: 3 celulares quebrados, placa Arduino (clonada), café
+├─ CD: 18 · Tempo: 6h
+├─ Efeito: +1 IN (19) por 1d6 dias
+├─ Falha 1-4: -2 IN (sobrecarga), vozes na cabeça
+└─ Preço dos materiais: R$ 80
+---------------------------------------------------------------------
+📚 REFERÊNCIAS DESTE ARQUIVO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ GURPS Ultra-Tech (#15) — ciberware e tecnologia
+├─ Cyberpunk RED (#90) — armas e equipamentos
+├─ Dados IBGE/Fundação SEADE (#77-84) — salário mínimo e desigualdade
+├─ Cultura alimentar brasileira — diversidade regional
+├─ 04_REGRAS_BASE — regras de atributos e manutenção
+└─ 7 horas de refinamento — versão 1.1
+---------------------------------------------------------------------
+FIM DO ARQUIVO 05_ITENS_v1.1.txt

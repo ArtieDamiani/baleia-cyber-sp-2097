@@ -1,0 +1,671 @@
+[INÍCIO DO ARQUIVO 17A_SISTEMAS_v2.0.txt]
+
+📦 CYBER SP 2097 — SISTEMAS DO JOGO v2.0
+╔═══════════════════════════════════════════════════════════════════╗
+║ ║
+║ CYBER SP 2097 — SISTEMAS DO JOGO v2.0 ║
+║ ║
+║ Versão: 2.0 — REGRAS FIXAS E RESUMOS ║
+║ Inclui: reputação, economia, vícios, Insight, ║
+║ classes completas (Solo, Netrunner, Fixer, ║
+║ Tech, Rockerboy), sistema de favores, ║
+║ TABELA DE CUSTO DE ATRIBUTOS, ║
+║ e RESUMOS de Super Humano, Downtime e Roubo. ║
+║ ║
+║ "As engrenagens que fazem o mundo girar." ║
+║ ║
+╚═══════════════════════════════════════════════════════════════════╝
+=====================================================================
+⚠️ INSTRUÇÃO: A PARTIR DAQUI, O CONTEÚDO É TEXTO PURO PARA COPIAR
+=====================================================================
+📚 SUMÁRIO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎭 REPUTAÇÃO
+💰 ECONOMIA
+🚬 VÍCIOS
+🧠 INSIGHT
+⚔️ SOLO
+💻 NETRUNNER
+🤝 FIXER
+🔧 TECH
+🎤 ROCKERBOY
+💾 BACKUP INTELIGENTE
+🤝 SISTEMA DE FAVORES
+📊 TABELA DE CUSTO DE ATRIBUTOS
+🦾 RESUMO: SISTEMA SUPER HUMANO (ATRIBUTOS 19-24)
+⏱️ RESUMO: DOWNTIME
+🦹 RESUMO: ROUBO
+🎭 REPUTAÇÃO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.1 NÍVEIS DE REPUTAÇÃO POR FACÇÃO
+───────────────────────────────────────────────────────────────────
+Nível | Nome | Benefícios
+0 | Neutro | Ignorado, preço normal
+1 | Conhecido | Informação básica, membros acenam
+2 | Cliente | Desconto de 10%
+3 | Confiável | Acesso a áreas restritas, missões sigilosas
+4 | Aliado | Favores, proteção, ajuda armada 1x
+5 | Lenda | Nome abre portas, pode indicar sucessor
+1.2 EFEITOS ESPECÍFICOS POR FACÇÃO (Nível 3+)
+───────────────────────────────────────────────────────────────────
+【🟦 OMNI CORP】
+├─ Nível 3: Acesso a ciberware nível 21-22, compra de fluidos
+├─ Nível 4: Acesso a protótipos (nível 23) mediante missão
+└─ Nível 5: Acesso a ciberware nível 24, Kenji pode pedir ajuda
+【🟩 VERDE VIVO】
+├─ Nível 3: Acesso a implantes nível 21-22, clínicas prioritárias
+├─ Nível 4: Acesso a clonagem (peças de reposição)
+└─ Nível 5: Acesso à verdade sobre as enchentes, Helena te convoca
+【🟪 SOLARIS】
+├─ Nível 3: Convites para festas VIP (onde a ÉTER é testada)
+├─ Nível 4: Acesso aos bastidores da Cidade Solaris
+└─ Nível 5: Saber a verdade sobre Solar (IA? vivo? morto?)
+【🙏 MÃO DE DEUS】
+├─ Nível 3: Acesso às catacumbas, conversa com o Profeta
+├─ Nível 4: Proteção dos Guardiões (1x, 2 guardiões)
+└─ Nível 5: Profeta confia o segredo dos pesadelos
+【🚆 SURFISTAS】
+├─ Nível 3: Acesso ao Maquinista, missões de resgate
+├─ Nível 4: Acesso ao -4 com escolta
+└─ Nível 5: Maquinista confia o segredo dos Antigos
+【💰 CÍRCULO】
+├─ Nível 3: Acesso a itens nível 21-22, empréstimos maiores
+├─ Nível 4: Sabe quem é UM dos Padrinhos
+└─ Nível 5: Acesso aos três Padrinhos, pode influenciar a política
+1.3 FAMA GERAL
+───────────────────────────────────────────────────────────────────
+Nível | Nome | Efeito
+-10 | Inimigo público | Caçadores, +100% preços
+-9 a -5 | Má fama | +50% preços, pessoas fogem
+-4 a -1 | Desconfiança | +25% preços, olhares
+0 | Anônimo | Preços normais
++1 a +2 | Conhecido local | -10% preços, favores
++3 a +5 | Conhecido regional| -15% preços, fãs
++6 a +7 | Famoso na cidade | -25% preços, ajuda gratuita
++8 a +9 | Muito famoso | -35% preços, convites
++10 | Lenda viva | -50% preços, celebridade
+1.4 REPUTAÇÃO PROFISSIONAL
+───────────────────────────────────────────────────────────────────
+Nível | Nome | Benefício
+0 | Desconhecido | Ninguém sabe quem é
+1 | Iniciante | Clientes procuram você
+2 | Praticante | Preços 10% maiores
+3 | Profissional | Pode escolher missões
+4 | Especialista | Concorrentes tentam te imitar
+5 | Mestre | Seu nome vira sinônimo na área
+1.5 COMO GANHAR E PERDER REPUTAÇÃO
+───────────────────────────────────────────────────────────────────
+Ações que GANHAM reputação:
+├─ Completar missões para a facção: +1 a +3
+├─ Ajudar membros da facção em perigo: +1
+├─ Presentear itens valiosos: +1 (proporcional)
+├─ Salvar um líder de facção: +3
+└─ Fazer negócios honestos: +1 a cada 3 transações
+Ações que PERDEM reputação:
+├─ Matar membros da facção: -2 a -5
+├─ Trair um acordo: -3
+├─ Roubar da facção: -4
+├─ Recusar ajuda em momento crítico: -2
+└─ Ser pego mentindo: -1
+💰 ECONOMIA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2.1 SALÁRIO MÍNIMO E PODER DE COMPRA
+───────────────────────────────────────────────────────────────────
+1 Salário Mínimo (SM) = R$ 1.600
+Nível | Renda mensal (R$) | Padrão de vida
+1 | 300-600 | Aperto (C4)
+2 | 600-1.000 | Estável
+3 | 1.000-2.000 | Confortável
+4 | 2.000-5.000 | Rico (pode morar C3)
+5 | 5.000-10.000 | Muito rico
+6 | 10.000-25.000 | Elite
+7 | 25.000-50.000 | Poderoso
+8 | 50.000+ | Lenda
+2.2 CUSTO DE VIDA MENSAL (EM SM)
+───────────────────────────────────────────────────────────────────
+Item | Custo (R$) | Em SM
+Aluguel C4 (quitinete)| 300-500 | 0,2-0,3 SM
+Aluguel C4 (casa) | 800-1.200 | 0,5-0,75 SM
+Aluguel C3 (apto) | 1.500-2.500| 1-1,5 SM
+Aluguel C2 (apto) | 3.000-6.000| 2-4 SM
+Aluguel C1 (cobertura)| 10.000+ | 6+ SM
+Comida (individual) | 800-1.200 | 0,5-0,75 SM
+Transporte (ônibus) | 200-300 | 0,1-0,2 SM
+Contas (luz, água) | 400-600 | 0,25-0,4 SM
+TOTAL C4 (mínimo) | 1.700 | 1,1 SM
+2.3 INFLAÇÃO E ESCASSEZ
+───────────────────────────────────────────────────────────────────
+A cada 1 mês de jogo (tempo da campanha), role 1d10 para inflação:
+1-3: 📉 Deflação (-5% nos preços)
+4-7: 📈 Estável (0%)
+8-9: 📈 Inflação leve (+10%)
+10: 📈 Crise (+25% em itens essenciais)
+Escassez (role 1d10 por semestre):
+1-2: Água (preço dobra)
+3-4: Comida (preço +50%)
+5-6: Munição (preço +50%)
+7-8: Ciberware (disponibilidade cai)
+9-10: Energia (apagões, preço +100%)
+2.4 MERCADO NEGRO
+───────────────────────────────────────────────────────────────────
+Itens ilegais têm preços variáveis. Role 1d10 ao comprar:
+1-2: ✅ Barganha (50% do preço normal)
+3-4: ✅ Preço justo (100%)
+5-6: ⚠️ Caro (150%)
+7-8: 🔴 Caríssimo (200%)
+9-10: ⚠️ Golpe (perde o dinheiro, sem item)
+Risco de golpe: role 1d6 ao negociar no mercado negro. Se 1, é polícia ou armadilha.
+2.5 TABELA DE PREÇOS POR NÍVEL (CIBERWARE)
+───────────────────────────────────────────────────────────────────
+Nv | Bônus | Preço compra (R$) | Preço compra (SM) | Preço missão (R$)
+19 | +4 | 8.000 | 5 SM | 4.000
+20 | +5 | 16.000 | 10 SM | 8.000
+21 | +5 | 24.000 | 15 SM | 12.000
+22 | +6 | 40.000 | 25 SM | 20.000
+23 | +6 | 80.000 | 50 SM | 30.000
+24 | +7 | 160.000 | 100 SM | 50.000
+🚬 VÍCIOS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3.1 ESTRUTURA DE VÍCIO
+───────────────────────────────────────────────────────────────────
+Cada vício tem:
+├─ Ciclo: tempo entre usos para evitar abstinência
+├─ Quantidade: quanto o personagem tem disponível
+├─ Último uso: registro de horário
+└─ Nível: Casual, Tolerância, Dependência
+Níveis de dependência:
+├─ Casual: -1 em testes se não usar no ciclo
+├─ Tolerância: -2 em testes, precisa de dose maior
+└─ Dependência: -3 em testes, risco de overdose dobrado
+3.2 DROGAS BRASILEIRAS (COMPLETO)
+───────────────────────────────────────────────────────────────────
+【🌿 MACONHA】
+├─ Ciclo: 8h (pós-uso) / Dependência: 24h
+├─ Preço: R$ 10-20 (baseado) / R$ 50-100 (5g)
+├─ Efeito (1h): +1 Insight, +1 Criatividade, -1 DE, -1 Percepção
+├─ Abstinência (24h sem): -1 Insight, -1 social, insônia
+├─ Overdose: impossível (mas larica leva a comer tudo)
+└─ Onde: boca do Círculo, estudantes, "medicinal" (Omni: R$200)
+【⚪ COCAÍNA】
+├─ Ciclo: 2h (pós-uso) / Dependência: 4h
+├─ Preço: R$ 50-100/g (R$ 30-50/papelinho)
+├─ Efeito (30min-2h): +2 FP, +2 DE, +2 Percepção, -2 social, HT 12 ou 1d3 dano
+├─ Pós-efeito (4h): -4 FP, -2 DE, -2 Percepção, -1 Insight
+├─ Abstinência (8h sem): -2 testes, fissura, -1 Insight/dia
+├─ Overdose: HT 14 ou 2d6 dano (com álcool: HT 16)
+└─ Onde: baladas da Solaris, escritórios, boca do Círculo
+【🪨 CRACK】
+├─ Ciclo: 15 MINUTOS / Dependência: 1h
+├─ Preço: R$ 10-20 (pedra)
+├─ Efeito (5-15min): +4 TUDO (super-humano), -4 social, HT 10 ou 1d6 dano
+├─ Pós-efeito (1h): -6 TUDO, -2 Insight, HT 16 ou 2d6 dano
+├─ Abstinência (2h sem): -4 testes, alucinações, -1d3 Insight/dia
+├─ Overdose: HT a cada 3 usos ou 2d6 dano
+└─ Onde: Cracolândia, bocas C4, Feira da Madrugada
+【🟫 OXI】
+├─ Ciclo: 10 MINUTOS / Dependência: 30min
+├─ Preço: R$ 5-10 (pedra)
+├─ Efeito: igual crack, mas duração menor, dano maior
+├─ Pós-efeito: -3 Insight por uso
+├─ Overdose: HT 12 ou 2d6 por uso
+├─ Onde: Norte/Nordeste, Cracolândia (raro)
+└─ Expectativa de vida: 2-3 anos de uso
+【💊 BENZODIAZEPÍNICOS】
+├─ Ciclo: 12h / Dependência: 24h
+├─ Preço: R$ 20-50/caixa (R$ 5-10/comprimido avulso)
+├─ Efeito terapêutico: +1 Insight, -1 DE, -1 Percepção
+├─ Efeito abuso: +2 Insight (falso), -2 DE/PERC, amnésia (esquece 1d6 horas)
+├─ Abstinência: -2 Insight, ansiedade, convulsão (HT 14 ou 2d6)
+├─ Overdose: com álcool, HT 14 ou morte
+└─ Onde: farmácias (com receita), mercado negro
+【🧪 INALANTES】
+├─ Ciclo: 30min / Dependência: 2h
+├─ Preço: R$ 5-15 (dose) / R$ 30-50 (latinha)
+├─ Efeito (15min): +2 DE (alucinações), -2 IN, HT 12 ou desmaio
+├─ Pós-efeito: -4 testes, perda de 1d3 memória (curto prazo)
+├─ Overdose: morte súbita (HT 10 ou 3d6)
+└─ Onde: festas da Solaris, feiras, menores de rua
+3.3 RECUPERAÇÃO DE VÍCIOS
+───────────────────────────────────────────────────────────────────
+Para superar um vício, o personagem precisa:
+├─ 1 mês sem usar: rolar HT 12. Sucesso: reduz um nível
+├─ Terapia profissional: R$ 200/sessão, +2 no teste
+├─ Apoio da Mão de Deus: abrigo gratuito, mas conversão religiosa
+└─ Substituição por outro vício: -2 no teste, mas novo vício
+🧠 INSIGHT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4.1 NÍVEIS DE INSIGHT
+───────────────────────────────────────────────────────────────────
+Nível | Efeito
+20+ | +1 em testes de resistência mental
+15-19 | Normal
+10-14 | -1 em testes de resistência mental
+5-9 | Alucinações 1 vez por dia
+1-4 | Paranoia severa, -2 em testes sociais
+0 | Catatônico (personagem inativo)
+4.2 PERDA DE INSIGHT
+───────────────────────────────────────────────────────────────────
+├─ Matar alguém a sangue frio: 1d3 (HT 14 reduz à metade)
+├─ Testemunhar morte violenta: 1 (HT 12 evita)
+├─ Sofrer trauma severo (HP <0): 1d6
+├─ Sofrer dano de Black ICE: 1d3
+├─ Receber novo implante: 1-3 (conforme tabela)
+├─ Abstinência (1 dia sem vício): 1 (HT 12 evita)
+└─ Atributo 19-24 (cada nível): -1 a -6 (permanente)
+4.3 RECUPERAÇÃO DE INSIGHT
+───────────────────────────────────────────────────────────────────
+├─ Dormir em local seguro (com animal): +1 por dia
+├─ Sessão de terapia: +1d3 (R$ 100)
+├─ Missão com propósito nobre: +1d6
+├─ Ato de bondade altruísta: +1
+├─ Ouvir música favorita: +1 (R$ 5)
+└─ Usar drogas (baseado): +1d3 (risco de bad trip 1-3)
+4.4 TRAUMAS (quando perde 3+ Insight de uma vez)
+───────────────────────────────────────────────────────────────────
+Role 1d6:
+Pesadelos Constantes: recupera metade do FP ao dormir
+Fobia: -2 em testes ao enfrentar objeto do trauma
+Flashbacks: HT 14 ou perde ação revivendo o momento
+Paranoia: -1 em testes sociais com aliados
+Conexão com Eva: chance de encontro dobra
+Aceitação Niilista: +1 testes mentais, -1 Insight permanente
+4.5 CONEXÃO COM EVA
+───────────────────────────────────────────────────────────────────
+Chance de encontro com Eva ao dormir:
+├─ Insight 15-19: 5%
+├─ Insight 10-14: 10%
+├─ Insight 5-9: 15%
+├─ Insight 1-4: 25%
+└─ Insight 0: 50% (e ela pode tomar controle)
+⚔️ SOLO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+"Se eu não proteger, quem vai?"
+5.1 HABILIDADES POR NÍVEL
+───────────────────────────────────────────────────────────────────
+Nível 1 (0 PP) — Instinto de Combate
+├─ Pode agir fora da ordem de iniciativa 1x por sessão
+├─ +2 em testes de percepção para emboscadas
+└─ Bônus: Pontaria +2, Briga +2, Esquiva +2, Intimidação +1
+Nível 2 (10 PP) — Proteção
+├─ Pode usar reação para proteger um aliado adjacente
+├─ Absorve metade do dano (arredondado para baixo)
+├─ Gasta 1 FP por proteção
+└─ +1 em todas as perícias de combate
+Nível 3 (25 PP) — Manobras Táticas
+├─ Pode realizar duas manobras de combate por rodada
+├─ +2 em testes de manobras (ataque poderoso, ataque rápido)
+└─ Ignora penalidades de terreno difícil em combate
+Nível 4 (45 PP) — Imortalidade Temporária
+├─ 1x por sessão, quando cair a 0 HP, pode continuar lutando
+├─ Fica com 1 HP e ganha +2 em todos testes por 3 rodadas
+├─ Após isso, desmaia automaticamente
+└─ +1 em todos os atributos de combate
+Nível 5 (70 PP) — Lenda de Batalha
+├─ Pode usar Instinto de Combate 2x por sessão
+├─ 1x por sessão, pode executar um golpe que causa dano máximo
+├─ +1 Insight
+└─ Nome conhecido entre mercenários e capangas
+5.2 COMANDOS DA CLASSE
+───────────────────────────────────────────────────────────────────
+/solo instinto — ativar instinto de combate
+/solo proteger [aliado] — proteger aliado adjacente
+/solo imortal — ativar imortalidade temporária
+💻 NETRUNNER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+"Seu sistema é meu. Seu segredo é meu. Sua vida... depende."
+6.1 HABILIDADES POR NÍVEL
+───────────────────────────────────────────────────────────────────
+Nível 1 (0 PP) — Mergulho Profundo
+├─ Pode entrar em sistemas sem datajack, sofrendo -2
+├─ +2 em testes de Computadores ao invadir
+├─ Bônus: Computadores +3, Eletrônica +2, Percepção +2
+└─ Insight: -2
+Nível 2 (10 PP) — Aceleração Neural
+├─ Pode realizar duas ações de netrunning por rodada
+├─ +2 em testes para mover entre andares
+└─ Programas ocupam 1 slot a menos
+Nível 3 (25 PP) — Escudo Mental
+├─ Reduz dano de Black ICE em 1d6
+├─ Pode tentar contra-atacar o ICE (Computadores CD 16)
+└─ +1 em testes de resistência mental
+Nível 4 (45 PP) — Mestre do Ciberespaço
+├─ Pode sentir a presença de Eva no sistema (+4 Percepção)
+├─ 1x por sessão, pode ignorar completamente um andar
+└─ Programas têm efeito dobrado
+Nível 5 (70 PP) — Fusão Parcial
+├─ Conexão com Eva se torna consciente (escolhe quando aparece)
+├─ 1x por sessão, pode pedir ajuda direta a ela
+├─ +1 Insight
+└─ Chance de encontrar a Mestra no cyberspace
+6.2 COMANDOS DA CLASSE
+───────────────────────────────────────────────────────────────────
+/net entrar [sistema] — iniciar netrunning
+/net mover — mover entre andares
+/net atacar [ICE] — atacar ICE
+/net defender — se defender
+/net sentir — sentir presenças no sistema
+🤝 FIXER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+"Tudo tem preço. O problema é achar quem paga."
+7.1 HABILIDADES POR NÍVEL
+───────────────────────────────────────────────────────────────────
+Nível 1 (0 PP) — Desenrolo
+├─ 1x/sessão: conseguir item ou serviço fora do comum
+├─ Role 1d10: 1-3 (2x preço), 4-6 (preço justo), 7-9 (metade), 10 (grátis)
+├─ Bônus: Lábia +3, Enganação +2, Percepção +2, Intimidação +1
+└─ Insight: +1
+Nível 2 (10 PP) — Rede de Contatos
+├─ Começa cada sessão com 1 favor disponível
+├─ +2 em testes para encontrar pessoas
+└─ Pode identificar facções apenas observando roupas/trejeitos
+Nível 3 (25 PP) — Negociação Ágil
+├─ Pode negociar em combate (ação de movimento)
+├─ Reduz penalidades de reputação negativa em 50%
+└─ +2 em testes de Lábia contra membros de facções
+Nível 4 (45 PP) — Informação é Poder
+├─ 1x por sessão, pode obter uma informação secreta (CD 16)
+├─ Sabe identificar mentiras com facilidade (+4 Percepção)
+└─ Desconto automático de 10% em qualquer compra
+Nível 5 (70 PP) — O Homem que Sabe Demais
+├─ Conhece pelo menos um segredo de cada facção
+├─ Pede 1 favor por sessão sem precisar rolar
+├─ +1 Insight
+└─ Pode sentar à mesa com qualquer líder de facção
+7.2 COMANDOS DA CLASSE
+───────────────────────────────────────────────────────────────────
+/fixer desenrolo [item] — tentar conseguir item
+/fixer contato — usar um favor de contato
+/fixer informação [assunto] — buscar informação
+🔧 TECH
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+"Original é para quem tem dinheiro. Gambiarra é para viver."
+8.1 HABILIDADES POR NÍVEL
+───────────────────────────────────────────────────────────────────
+Nível 1 (0 PP) — Gambiarra Absurda
+├─ 1x/sessão: fazer o impossível com sucata
+├─ Role 1d10: 1-3 (funciona 1d6 min), 4-6 (efeito colateral), 7-9 (perfeito), 10 (permanente +1 na perícia)
+├─ Bônus: Eletrônica +3, Mecânica +3, Computadores +2
+└─ Insight: +0
+Nível 2 (10 PP) — Improviso
+├─ +2 em testes com materiais improvisados
+├─ Gambiarra pode ser usada 2x/sessão
+└─ Pode consertar itens em metade do tempo
+Nível 3 (25 PP) — Conserto Rápido
+├─ Metade do tempo em consertos
+├─ +2 em testes de conserto
+└─ Pode consertar ciberware básico (nível 16-18)
+Nível 4 (45 PP) — Criador
+├─ Pode criar itens simples do zero (sucata R$10-50)
+├─ Pode tentar criar ciberware nível 19 (CD 18)
+└─ +2 em testes de fabricação
+Nível 5 (70 PP) — Mestre da Gambiarra
+├─ Gambiarra permanente (cria itens únicos)
+├─ +3 em testes de Mecânica/Eletrônica
+├─ +1 Insight
+└─ Pode consertar ciberware nível 20+ (com risco)
+8.2 GAMBIARRAS DE ATRIBUTO (LIMITADAS)
+───────────────────────────────────────────────────────────────────
+"Braço Forte do Zé" (FO +1, nível 19 temporário)
+├─ Materiais: 2 amortecedores de carro, cinto de couro, parafusos
+├─ CD: 16 · Tempo: 4h
+├─ Efeito: +1 FO (19) por 1d6 dias
+├─ Falha 1-3: trava na hora errada (-2 FO até desmontar)
+└─ Preço dos materiais: R$ 50
+"Perna Rápida do Baiano" (DE +1, nível 19 temporário)
+├─ Materiais: Molas de colchão, tubo de PVC, cadarço de coturno
+├─ CD: 16 · Tempo: 4h
+├─ Efeito: +1 DE (19) por 1d6 dias
+├─ Falha 1-3: range que até surdo ouve (-2 Furtividade)
+└─ Preço dos materiais: R$ 50
+"Coração de Mola" (HT +1, nível 19 temporário)
+├─ Materiais: Bateria de moto, fios, regulador de tensão (adaptado)
+├─ CD: 18 · Tempo: 6h
+├─ Efeito: +1 HT (19) por 1d6 dias
+├─ Falha 1-4: choque 1d6, desmaia se rolar 1
+└─ Preço dos materiais: R$ 80
+"Cérebro de Rato" (IN +1, nível 19 temporário)
+├─ Materiais: 3 celulares quebrados, placa Arduino (clonada), café
+├─ CD: 18 · Tempo: 6h
+├─ Efeito: +1 IN (19) por 1d6 dias
+├─ Falha 1-4: -2 IN (sobrecarga), vozes na cabeça
+└─ Preço dos materiais: R$ 80
+8.3 COMANDOS DA CLASSE
+───────────────────────────────────────────────────────────────────
+/tech gambiarra — ativar gambiarra
+/tech consertar [item] — consertar item
+/tech criar [item] — criar item (nível 4+)
+🎤 ROCKERBOY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+"Minha arma é o microfone. Minha bala é a verdade."
+9.1 HABILIDADES POR NÍVEL
+───────────────────────────────────────────────────────────────────
+Nível 1 (0 PP) — Inspiração
+├─ 1x/sessão: inspirar plateia
+├─ Role 1d10: 1-3 (1 pessoa), 4-6 (pequeno grupo), 7-9 (multidão), 10 (viraliza na cidade)
+├─ Bônus: Lábia +3, Atuação +3, Enganação +2, Percepção +1
+└─ Insight: +1
+Nível 2 (10 PP) — Fã-Clube
+├─ Tem 1d6 fãs leais que podem ajudar com pequenos favores
+├─ +2 em testes sociais em shows e eventos
+└─ Pede comida e abrigo de graça em locais Solaris
+Nível 3 (25 PP) — Música como Arma
+├─ Pode usar Atuação para desorientar inimigos (teste vs HT)
+├─ Em caso de sucesso, inimigo perde 1 rodada
+└─ +1 em testes de inspiração
+Nível 4 (45 PP) — Voz do Povo
+├─ Discurso pode mudar a opinião pública (+4 em Lábia)
+├─ 1x/sessão, pode iniciar um protesto (1d6×10 pessoas)
+└─ Fãs viram 2d6
+Nível 5 (70 PP) — Lenda Viva
+├─ Seu nome abre portas em qualquer lugar
+├─ 1x/sessão, pode pedir um favor a Solaris (Kond)
+├─ +1 Insight
+└─ Música viraliza automaticamente em momentos-chave
+9.2 COMANDOS DA CLASSE
+───────────────────────────────────────────────────────────────────
+/rock inspirar — ativar inspiração
+/rock fãs — pedir ajuda aos fãs
+/rock discursar — tentar influenciar opinião pública
+💾 BACKUP INTELIGENTE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+10.1 COMANDOS DE BACKUP
+───────────────────────────────────────────────────────────────────
+/backup_adicionar [arquivo] — adiciona arquivo ao backup atual
+/backup_remover [arquivo] — remove arquivo do backup atual
+/backup_finalizar — finaliza backup e gera resumo
+/backup_status — mostra status do backup atual
+/backup_swap — alterna entre backups salvos
+/restaurar [versão] — restaura um backup anterior
+10.2 ESTRUTURA DE BACKUP
+───────────────────────────────────────────────────────────────────
+Cada backup contém:
+├─ Timestamp (data/hora)
+├─ Hash de todos os arquivos incluídos
+├─ Estado da campanha (03_CAMPANHA_C)
+├─ Perfil do jogador (02_PERFIL_A)
+├─ Configurações de LLM (10_CONFIG_LLM)
+└─ Histórico de comandos da sessão
+10.3 QUANDO FAZER BACKUP
+───────────────────────────────────────────────────────────────────
+├─ Ao final de cada sessão (automaticamente via /finalizar_sessao)
+├─ Antes de grandes decisões
+├─ Após eventos importantes (morte de NPC, conclusão de arco)
+├─ Ao atingir marcos de campanha
+└─ Antes de migrar de plataforma
+🤝 SISTEMA DE FAVORES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+11.1 NÍVEIS DE FAVOR
+───────────────────────────────────────────────────────────────────
+Nível | Nome | O que significa
+1 | Pequeno favor | Informação banal, ajuda rápida (5-10 min), risco zero
+2 | Favor médio | Ajuda significativa (1h), risco baixo, envolve deslocamento
+3 | Favor grande | Envolve terceiros, risco moderado, pode exigir planejamento
+4 | Favor extremo | Risco alto, consequências reais se descoberto
+5 | Dívida de vida | Você deve a existência. Isso não se esquece.
+11.2 COMO GANHAR FAVORES
+───────────────────────────────────────────────────────────────────
+Ação | Nível
+Ajudar em tarefa simples (carregar algo, dar informação) | 1
+Salvar de perigo moderado (briga de bar, capanga bêbado) | 2
+Completar uma missão sem cobrar | 2-3
+Salvar a vida de alguém (em combate real) | 4-5
+Presentear item valioso (R$ 1.000 por nível) | 2-4
+Ser consistentemente útil por muito tempo | 1-3 (acumulativo)
+Sacrificar algo importante (reputação, dinheiro, membro) | 4-5
+11.3 COMO GASTAR FAVORES
+───────────────────────────────────────────────────────────────────
+Gasto | Nível necessário
+Informação pública ou de fácil acesso | 1
+Informação privilegiada (não pública) | 2
+Acesso a local restrito (sem risco) | 2
+Ajuda em combate (1 pessoa, 1 cena) | 2
+Empréstimo de dinheiro (R$ 500 × nível) | 2-4
+Informação secreta (comprometedora) | 3
+Acesso a local perigoso (com risco) | 3
+Item raro (nível 19-20) | 3-4
+Esconderijo seguro por tempo indeterminado | 3
+Hacker para serviço específico | 3-4
+Ajuda militar (2-3 pessoas, missão inteira) | 4
+Item lendário (nível 23-24) | 4-5
+Salvar a própria pele de situação impossível | 4-5
+Nova identidade / exílio | 4-5
+11.4 CONSEQUÊNCIAS DE NÃO PAGAR
+───────────────────────────────────────────────────────────────────
+Nível não pago | Consequência
+1-2 | Contato fica chateado, não ajuda mais, -1 reputação
+3 | Contato vira indiferente ou levemente hostil, -2 reputação
+4 | Contato vira inimigo, pode espalhar boatos, -3 reputação
+5 | Contato te caça. Pode virar arco inteiro de vingança
+11.5 INTEGRAÇÃO COM OUTROS SISTEMAS
+───────────────────────────────────────────────────────────────────
+├─ Reputação: Favores são uma moeda paralela à reputação, mas se cruzam.
+│ Alta reputação com uma facção pode gerar favores automaticamente.
+│ Perder um favor pode custar reputação.
+│
+├─ Contatos: Cada contato tem uma "carteira de favores" na ficha.
+│ Formato: "Favores a receber: [nível]" e "Favores a dever: [nível]".
+│ Quando um contato pede um favor, isso vira uma missão de prioridade alta.
+│
+├─ Missões: Pedido de favor é gatilho de missão (ver 17B_TRIGGERBOT).
+│
+└─ Downtime: "Pagar favores" é uma atividade de downtime (ver 17B_TRIGGERBOT).
+11.6 NOTAS DO MESTRE
+───────────────────────────────────────────────────────────────────
+├─ Favores NÃO são dinheiro. Não podem ser comprados.
+├─ Favores NÃO são reputação. Um contato pode te odiar (reputação baixa)
+│ mas ainda te dever um favor, e vice-versa.
+├─ O nível do favor deve ser claro para ambas as partes. Se não foi definido
+│ no momento da oferta, é nível 1 por padrão.
+└─ Dívidas de vida (nível 5) são raríssimas. Quando alguém deve uma,
+a história em torno disso deve ser memorável.
+📊 TABELA DE CUSTO DE ATRIBUTOS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+12.1 CUSTO PARA AUMENTAR ATRIBUTOS COM PP
+───────────────────────────────────────────────────────────────────
+Atributos podem ser aumentados com Pontos de Progressão (PP). O custo é progressivo.
+Nível atual → Próximo | Custo (PP)
+8 → 9 | 5
+9 → 10 | 5
+10 → 11 | 5
+11 → 12 | 6
+12 → 13 | 6
+13 → 14 | 7
+14 → 15 | 7
+15 → 16 | 8
+16 → 17 | 9
+17 → 18 | 10
+18 → 19 | Requer ciberware (não pode ser comprado com PP)
+19+ | Apenas ciberware
+12.2 REGRAS E LIMITAÇÕES
+───────────────────────────────────────────────────────────────────
+├─ Limite humano natural: 18. Atributos acima disso exigem ciberware obrigatoriamente.
+├─ Custo em PP: O valor gasto é consumido permanentemente e não pode ser reembolsado.
+├─ Início de jogo: Personagens começam com atributos entre 8 e 15 (com 70 pontos para distribuir).
+├─ Custo de Insight: Atributos acima de 18 custam Insight permanentemente (ver 04_REGRAS_BASE).
+└─ Teste de Rejeição: Obrigatório para todo ciberware (ver 04_REGRAS_BASE).
+12.3 EXEMPLOS DE CUSTO
+───────────────────────────────────────────────────────────────────
+Para aumentar DE 13 → 18 (limite humano):
+├─ 13→14: 7 PP
+├─ 14→15: 7 PP
+├─ 15→16: 8 PP
+├─ 16→17: 9 PP
+├─ 17→18: 10 PP
+└─ TOTAL: 41 PP (~4 sessões de 10 PP)
+Para aumentar IN 14 → 18:
+├─ 14→15: 7 PP
+├─ 15→16: 8 PP
+├─ 16→17: 9 PP
+├─ 17→18: 10 PP
+└─ TOTAL: 34 PP (~3-4 sessões)
+Para aumentar ambos os atributos principais (DE e IN) até 18:
+└─ TOTAL: 75 PP (~7-8 sessões de 10 PP)
+╔═══════════════════════════════════════════════════════════════════╗
+║ RESUMOS DA VERSÃO 2.0 ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ As seções abaixo são resumos de sistemas já detalhados em ║
+║ outros arquivos, compilados aqui para consulta rápida. ║
+╚═══════════════════════════════════════════════════════════════════╝
+🦾 RESUMO: SISTEMA SUPER HUMANO (ATRIBUTOS 19-24)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Para detalhes completos, consultar 04_REGRAS_BASE, seção 11.
+📊 TABELA RÁPIDA:
+Nv | Bônus | Custo Insight | Manutenção (R$/mês) | Fluido Necessário
+19 | +4 | -1 | R$ 400 | —
+20 | +5 | -2 | R$ 800 | —
+21 | +5 | -3 | R$ 1.200 | SynthOil®
+22 | +6 | -4 | R$ 2.000 | SynthOil® Avançado
+23 | +6 | -5 | R$ 4.000 | SynthBlood®
+24 | +7 | -6 | R$ 8.000 | Fluido Neural®
+⚙️ TESTE DE REJEIÇÃO: 1d10 + modificador negativo do nível (ex: -4 para Nv22). Resultados:
+├─ 1: 🔴 Rejeição total (perde implante, 2d6 dano)
+├─ 2-4: 🔴 Rejeição parcial (funciona, 1d6 dano, -1 Insight adicional)
+├─ 5-7: 🟢 Aceitação normal
+├─ 8-9: ✅ Aceitação boa (não perde Insight do nível)
+└─ 10: ⭐ Aceitação perfeita (custa 1 Insight a menos)
+⏱️ RESUMO: DOWNTIME
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Para processos detalhados, consultar 17B_TRIGGERBOT.
+Após uma missão, o personagem tem direito a 2 ATIVIDADES.
+📋 ATIVIDADES POSSÍVEIS:
+├─ Trabalhar (Hustle): Role 1d10 na tabela da sua classe (14_GERADORES).
+├─ Treinar: 1 semana = +1 PP; 1 mês = +3 PP. (Máx 1x por downtime).
+├─ Projeto Longo: Complete um relógio de 4-12 segmentos com testes de perícia.
+├─ Manutenção: Obrigatória para ciberware 19+. Pague o custo mensal.
+├─ Vice: Recupere 1d6 Insight, mas com risco de exagero (role 1-3).
+├─ Descansar: Recupere HP total (1 semana) ou +1 Insight (1 mês).
+├─ Investir: Compre novos equipamentos.
+└─ Pagar Favores: Use favores acumulados para bônus.
+🎲 EVENTOS DE DOWNTIME (role 1d10 ao final do período):
+1-2: 🔴 Problema · 3-4: ⚪ Nada · 5-7: 🟢 Normal · 8-9: 🟡 Oportunidade · 10: 👑 Evento Especial
+🦹 RESUMO: ROUBO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Para processos detalhados, consultar 17B_TRIGGERBOT.
+🔪 AS 5 FASES:
+Investigação
+Infiltração
+Execução
+Extração
+Cobertura
+📊 CÁLCULO DA QUALIDADE:
+QUALIDADE TOTAL = (PONTOS DO PLANO 0-2 por fase) + (SOMA DOS BÔNUS DA EXECUÇÃO)
+A pontuação da execução varia de -3 a +3 por fase (Crítico/Falha).
+📋 CONSEQUÊNCIAS:
+Qualidade | Resultado
+-3 a 0 | 💀 Desastre (preso, morto, item perdido)
+1 a 3 | 🔴 Fracasso (pego, mas sobrevive. Deve um favor)
+4 a 6 | 🟡 Parcial Sujo (conseguiu o item, mas sabem quem é)
+7 a 9 | 🟢 Sucesso Limpo (conseguiu, não sabem quem foi)
+10 a 12 | ⭐ Sucesso Perfeito (ninguém sabe que foi roubado)
+13+ | 👑 Lendário (a facção alvo quer te contratar)
+📚 REFERÊNCIAS DESTE ARQUIVO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+├─ GURPS Basic Set (#13-14) — Estrutura de classes e vantagens.
+├─ Cyberpunk RED (#90) — Inspiração para Humanidade e classes.
+├─ Blades in the Dark — Sistemas de downtime e favores.
+├─ 04_REGRAS_BASE_v2.0.txt — Sistema Super Humano completo.
+├─ 17B_TRIGGERBOT_v2.0.txt — Processos detalhados de downtime e roubo.
+├─ Feedback das sessões de 19-20/02/2097 — Custo de atributos calibrado.
+└─ 7 horas de refinamento — Versão 2.0 consolidada.
+
+FIM DO ARQUIVO 17A_SISTEMAS_v2.0.txt
