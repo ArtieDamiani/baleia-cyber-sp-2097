@@ -1,4 +1,5 @@
 [INÍCIO DO ARQUIVO 14_GERADORES_v2.0.txt]
+
 📦 CYBER SP 2097 — GERADORES DO MESTRE v2.0
 ╔═══════════════════════════════════════════════════════════════════╗
 ║ ║
@@ -14,13 +15,16 @@
 ║ Qualquer ideia. Este é o lugar." ║
 ║ ║
 ╚═══════════════════════════════════════════════════════════════════╝
+
 =====================================================================
 ⚠️ INSTRUÇÃO: COLE APÓS O 01_CORE E 17B_TRIGGERBOT
 =====================================================================
+
 1. Este arquivo contém TODAS as tabelas de geração
 2. Também contém as orientações narrativas (sotaque, herança, ganchos)
 3. Use os comandos /gerar para acessar as tabelas
 ---------------------------------------------------------------------
+
 ╔═══════════════════════════════════════════════════════════════════╗
 ║ ORIENTAÇÕES NARRATIVAS (DO 01_CORE ORIGINAL) ║
 ╠═══════════════════════════════════════════════════════════════════╣
@@ -30,15 +34,21 @@
 ║ ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🎭 COMO DESCREVER SOTAQUE (NUNCA IMITAR)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 O Brasil é gigante e diverso. Respeite isso.
+
 REGRAS:
 ├─ NUNCA tente imitar um sotaque que você não domina.
 ├─ Sempre DESCREVA em vez de IMITAR.
 ├─ Use a tabela de descritores para inspiração.
 └─ Lembre-se: não existe sotaque "neutro" (isso é construção social).
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 TABELA DE DESCRITORES DE SOTAQUE (1d20)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d20 | Descritor
@@ -62,13 +72,17 @@ REGRAS:
 18 | Pausado, cada palavra é medida
 19 | Sussurrado, confidencial
 20 | Único, difícil de descrever, mas inconfundível
----------------------------------------------------------------------
+
 📋 EXEMPLOS DE USO:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 NPC com origem Nordestina + 3 (Cantado):
 "Ela tem um sotaque nordestino cantado, quase musical, que torna qualquer frase mais alegre."
 NPC com origem Sulista + 6 ("R" forte):
 "O sotaque dele é da serra gaúcha, com um 'r' bem forte e marcado."
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🌍 HERANÇA CULTURAL (OPCIONAL)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 A herança cultural é uma camada extra, não regra. A maioria dos NPCs não terá.
@@ -77,7 +91,10 @@ REGRAS:
 ├─ NUNCA force "representatividade de cotas".
 ├─ Quando usar, DESCREVA as marcas na fala (não imite).
 └─ A raridade é o que torna especial.
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 TABELA DE HERANÇA CULTURAL (1d10)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d10 | Herança | Possíveis marcas na fala (para DESCREVER)
@@ -91,7 +108,10 @@ REGRAS:
 8 | Chinesa | Tom rápido, dificuldade com alguns fonemas
 9 | Espanhola | "S" aspirado, entonação melódica
 10 | Miscigenado | Mistura única de várias influências
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📌 NOTA FUNDAMENTAL — CONTEXTO ACIMA DOS DADOS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Este arquivo contém dezenas de tabelas para gerar ideias rapidamente.
@@ -102,7 +122,9 @@ Antes de rolar qualquer tabela, pergunte-se:
 └─ Qual é a relação prévia com os PJs?
 Se a resposta for "não faz sentido", **IGNORE O RESULTADO** e use seu julgamento.
 O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa de uma ideia.
+
 ---------------------------------------------------------------------
+
 ╔═══════════════════════════════════════════════════════════════════╗
 ║ GERADOR DE MISSÕES ║
 ╠═══════════════════════════════════════════════════════════════════╣
@@ -110,7 +132,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 ║ Tabelas para criar ganchos de missão rapidamente. ║
 ║ ║
 ╚═══════════════════════════════════════════════════════════════════╝
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 POR TIPO DE MISSÃO (1d10):
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d10 | Tipo | Exemplo de Gancho
@@ -124,7 +149,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 8 | Defesa | Proteger um local de ataque iminente
 9 | Sobrevivência| Durar X horas em local hostil
 10 | Combinação | Role 2x e combine (ex: entrega + inv.)
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 POR LOCAL (1d20):
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d20 | Local | Descrição Rápida
@@ -148,7 +176,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 18 | Estação Sé (C5) | Acesso ao subsolo, perigo
 19 | Júlio Prestes(C5) | Surfistas, trens fantasmas
 20 | Vazio de Perus | Ruínas, Antigos, mistério
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 POR FACÇÃO ENVOLVIDA (1d12):
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d12 | Facção | Interesse Típico
@@ -164,7 +195,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 10 | Corporação menor| Lucro, expansão
 11 | Grupo de morad. | Comunidade, defesa
 12 | Nenhuma | Mistério, não identificado
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 POR CONTRATANTE (1d10):
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d10 | Contratante | Motivação
@@ -178,7 +212,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 8 | Máquina (IA) | Interesses incompreensíveis
 9 | O próprio PJ | (Missão pessoal)
 10 | Múltiplos | Vários interesses conflitantes
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 TABELA DE RECOMPENSA (1d10)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d10 | Recompensa | Detalhes
@@ -192,7 +229,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 8 | Acesso | Área restrita liberada
 9 | Múltiplas | Dinheiro + item
 10 | Lendária | Item ⭐⭐⭐⭐ ou favor de um líder
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 TABELA DE CONSEQUÊNCIAS PARA MISSÕES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📌 Use quando uma missão for:
@@ -214,8 +254,9 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 3-4 | AMEAÇA IMINENTE: algo ruim acontece em 1d6 dias
 5 | AMEAÇA REALIZADA: o pior aconteceu
 6 | AMEAÇA EM CADEIA: role 2x (ignore 6)
+
 ---------------------------------------------------------------------
----------------------------------------------------------------------
+
 ╔═══════════════════════════════════════════════════════════════════╗
 ║ GERADOR DE NPCS ║
 ╠═══════════════════════════════════════════════════════════════════╣
@@ -224,7 +265,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 ║ Sempre use o gerador de nomes para evitar repetição. ║
 ║ ║
 ╚═══════════════════════════════════════════════════════════════════╝
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 NOMES BRASILEIROS (1d20)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d20 | Nome Masc | Nome Fem | Sobrenome | Apelido
@@ -253,7 +297,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 ├─ Role 1d20 para sobrenome
 ├─ Role 1d20 para apelido (opcional)
 └─ Nunca repita o mesmo nome na mesma campanha
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 PROFISSÃO (1d10)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d10 | Profissão | Onde encontrar
@@ -267,7 +314,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 8 | Artista | Rua, show, estúdio
 9 | Médico | Clínica, hospital, ambulatório
 10 | Professor | Escola, faculdade, rua
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 ATITUDE (1d10)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d10 | Atitude | Como age
@@ -281,7 +331,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 8 | Triste | Deprimido, precisa de ajuda
 9 | Animado | Alegre, extrovertido
 10 | Louco | Imprevisível, perigoso
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 MOTIVAÇÃO (1d10)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d10 | Motivação | O que realmente quer
@@ -295,7 +348,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 8 | Dever | Faz o que acredita ser certo
 9 | Amor | Por alguém ou algo
 10 | Caos | Quer ver o mundo queimar
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 SEGREDO (1d10)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d10 | Segredo | O que esconde
@@ -309,7 +365,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 8 | Já matou | Tem sangue nas mãos
 9 | É um clone | Nem ele sabe
 10 | Nenhum | É exatamente o que parece
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 CARACTERÍSTICA VISUAL (1d6)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d6 | Característica | Exemplo
@@ -319,7 +378,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 4 | Cabelo/estilo marcante | Cor diferente, corte exótico
 5 | Acessório inusitado | Óculos, chapéu, joia, bengala
 6 | Postura/andar diferente | Mancando, ereto demais, inquieto
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 MANEIRISMO (1d6)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d6 | Maneirismo | Como age
@@ -329,7 +391,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 4 | Mexe em algo constantemente | Óculos, cabelo, anel
 5 | Ri sem motivo | Nervoso, estranho, drogado
 6 | Para no meio da frase | Esquece o que ia dizer, distrai
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 ARQUÉTIPOS DE NPCs (1d10)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d10 | Arquétipo | Profissão típica | Atitude padrão | Motivação comum
@@ -343,7 +408,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 8 | Inocente | Criança, novato | Ingênuo | Aprender
 9 | Brutamontes | Capanga, lutador | Hostil | Proteger o chefe
 10 | Misterioso | Qualquer | Reservado | Esconder um segredo
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 GERADOR DE OCUPANTES POR TIPO DE ESTABELECIMENTO
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📌 COMO USAR:
@@ -395,7 +463,9 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 4 | Dono calado | Não conversa
 5 | Músico na noite | Toca violão
 6 | Dono envolvido com o Círculo | Perigoso
+
 ---------------------------------------------------------------------
+
 ╔═══════════════════════════════════════════════════════════════════╗
 ║ GERADOR DE ENCONTROS ║
 ╠═══════════════════════════════════════════════════════════════════╣
@@ -403,7 +473,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 ║ Encontros aleatórios por camada e período do dia. ║
 ║ ║
 ╚═══════════════════════════════════════════════════════════════════╝
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 ENCONTROS POR CAMADA (1d20)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d20 | Camada 3 | Camada 4 | Camada 5
@@ -427,7 +500,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 18 | Dançarino | Feira | Rituais
 19 | Religioso | Bingo | Sacrifício
 20 | Figura imp. | Figura imp. | Criatura anc.
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 ENCONTROS NOTURNOS (1d10)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d10 | Camada 3 | Camada 4 | Camada 5
@@ -441,7 +517,9 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 8 | Corrida de rua | Perseguição | Criatura pass.
 9 | Casal romântico | Encontro secreto| Luzes estranhas
 10 | Silêncio | Silêncio | Algo te olha
+
 ---------------------------------------------------------------------
+
 ╔═══════════════════════════════════════════════════════════════════╗
 ║ GERADOR DE TESOUROS ║
 ╠═══════════════════════════════════════════════════════════════════╣
@@ -449,7 +527,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 ║ Tesouros aleatórios para encontros e missões. ║
 ║ ║
 ╚═══════════════════════════════════════════════════════════════════╝
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 TESOUROS ALEATÓRIOS (1d10)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d10 | Tesouro | Detalhes
@@ -471,7 +552,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 ║ Clima dinâmico por estação e eventos climáticos. ║
 ║ ║
 ╚═══════════════════════════════════════════════════════════════════╝
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 CLIMA POR ESTAÇÃO (1d10)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d10 | Verão | Outono | Inverno | Primavera
@@ -485,7 +569,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 8 | Chuva fraca | Frio 10°C | Frio seco | Sol
 9 | Tempestade | Tempestade | Geada | Tempestade
 10 | Tempestade+ | Tempestade+ | Geada neg | Tempestade+
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 EVENTOS CLIMÁTICOS (1d20)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d20 | Evento | Efeito
@@ -499,8 +586,9 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 15-17| Brisa fresca | +1 FP
 18-19| Arco-íris | +1 Insight
 20 | Fenômeno raro | Role 1d10 na tabela especial
+
 ---------------------------------------------------------------------
----------------------------------------------------------------------
+
 ╔═══════════════════════════════════════════════════════════════════╗
 ║ GERADOR DE VEÍCULOS ║
 ╠═══════════════════════════════════════════════════════════════════╣
@@ -508,7 +596,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 ║ Encontros veiculares e avarias aleatórias. ║
 ║ ║
 ╚═══════════════════════════════════════════════════════════════════╝
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 ENCONTROS VEICULARES (1d10)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d10 | Encontro | Descrição
@@ -522,7 +613,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 8 | Veículo militar | Blindado, não mexa
 9 | Drone de ataque | Perseguindo alguém
 10 | Veículo fantasma| Andando sozinho, sinistro
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 AVARIAS ALEATÓRIAS (1d10)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d10 | Avaria | Efeito
@@ -536,7 +630,9 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 8 | Para-brisa trinc| -1 Percepção do motorista
 9 | Porta não abre | Preso?
 10 | Múltiplas | Role 2x, ignore 10
+
 ---------------------------------------------------------------------
+
 ╔═══════════════════════════════════════════════════════════════════╗
 ║ GERADOR DE ORGANIZAÇÕES ║
 ╠═══════════════════════════════════════════════════════════════════╣
@@ -544,7 +640,8 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 ║ Crie organizações e membros rapidamente. ║
 ║ ║
 ╚═══════════════════════════════════════════════════════════════════╝
----------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 FUNÇÃO NA ORGANIZAÇÃO (1d10)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d10 | Função | Descrição
@@ -558,7 +655,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 8 | Cobrador | Cuida das finanças, dívidas
 9 | Segurança | Protege o território
 10 | Múltiplas | Acumula funções
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 LEALDADE (1d10)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d10 | Lealdade | O que significa
@@ -567,7 +667,9 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 5-6 | 3 (Média) | Trai só se for muito vantajoso
 7-8 | 4 (Alta) | Leal, dificilmente trai
 9-10 | 5 (Absoluta) | Morre pela causa
+
 ---------------------------------------------------------------------
+
 ╔═══════════════════════════════════════════════════════════════════╗
 ║ GERADOR DE EVENTOS ECONÔMICOS ║
 ╠═══════════════════════════════════════════════════════════════════╣
@@ -575,7 +677,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 ║ Gastos inesperados e oportunidades de investimento. ║
 ║ ║
 ╚═══════════════════════════════════════════════════════════════════╝
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 GASTOS INESPERADOS (1d10)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d10 | Gasto | Valor
@@ -589,7 +694,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 8 | Presente | (opcional) Agrado para contato
 9 | Investimento | Oportunidade de gastar para ganhar
 10 | Nada | Mês tranquilo
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 OPORTUNIDADES DE GASTO (1d10)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d10 | Oportunidade | Custo / Benefício
@@ -603,7 +711,9 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 8 | Documentos | R$ 400, nova identidade
 9 | Remédio raro | R$ 600, cura doenças
 10 | Tudo ao mesmo | Escolha uma ou gaste mais
+
 ---------------------------------------------------------------------
+
 ╔═══════════════════════════════════════════════════════════════════╗
 ║ GERADOR DE MOMENTOS HUMANOS ║
 ╠═══════════════════════════════════════════════════════════════════╣
@@ -612,7 +722,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 ║ quando quiser adicionar profundidade à narrativa. ║
 ║ ║
 ╚═══════════════════════════════════════════════════════════════════╝
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 MOMENTOS HUMANOS (1d10)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d10 | Momento Humano
@@ -627,7 +740,9 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 9 | Alguém acena de um prédio. Pode ser um amigo. Pode ser um inimigo.
 10 | Silêncio. Apenas silêncio. E o vento.
 📌 Nota: Momentos humanos não têm mecânica própria, mas podem afetar o Insight dos personagens a critério do mestre. Um momento de conexão genuína pode recuperar +1 Insight. Um momento de desespero profundo pode custar -1 Insight. Use com moderação.
+
 ---------------------------------------------------------------------
+
 ╔═══════════════════════════════════════════════════════════════════╗
 ║ GERADOR DE HUSTLE POR CLASSE ║
 ╠═══════════════════════════════════════════════════════════════════╣
@@ -636,7 +751,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 ║ ganhe o valor correspondente. ║
 ║ ║
 ╚═══════════════════════════════════════════════════════════════════╝
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 SOLO (1d10)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d10 | Trabalho | Ganho (R$)
@@ -646,7 +764,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 6-7 | Escolta de mercadoria | 700
 8-9 | Eliminação (trabalho sujo) | 1.200
 10 | Proteção de figurão | 2.000 + contato
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 NETRUNNER (1d10)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d10 | Trabalho | Ganho (R$)
@@ -656,7 +777,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 6-7 | Invasão de sistema médio | 700
 8-9 | Descoberta de brecha | 1.200
 10 | Contato com a Eva | 2.000 + Insight?
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 FIXER (1d10)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d10 | Trabalho | Ganho (R$)
@@ -666,7 +790,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 6-7 | Contrato fechado | 800
 8-9 | Venda grande | 1.500
 10 | Negócio com o Padrinho | 2.000 + favor
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 TECH (1d10)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d10 | Trabalho | Ganho (R$)
@@ -676,7 +803,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 6-7 | Serviço especial | 700
 8-9 | Criação de item | 1.200
 10 | Invenção lendária | 2.000 + 1 rep
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 ROCKERBOY (1d10)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d10 | Trabalho | Ganho (R$)
@@ -686,7 +816,9 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 6-7 | Show casa cheia | 700
 8-9 | Música estourou | 1.200
 10 | Fã clube — vira celebridade | 2.000 + 1 rep
+
 ---------------------------------------------------------------------
+
 ╔═══════════════════════════════════════════════════════════════════╗
 ║ GERADOR DE DOWNTIME ║
 ╠═══════════════════════════════════════════════════════════════════╣
@@ -694,7 +826,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 ║ Role 1d10 para cada período de downtime (1 semana a 1 mês). ║
 ║ ║
 ╚═══════════════════════════════════════════════════════════════════╝
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 TABELA DE EVENTOS (1d10)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d10 | Evento
@@ -703,7 +838,10 @@ O mundo é vivo e causal. O dado só existe para te ajudar quando você precisa 
 5-7 | 🟢 NORMAL — Atividade rende o esperado
 8-9 | 🟡 OPORTUNIDADE — Algo bom acontece
 10 | ⭐ ESPECIAL — Role na tabela de encontros
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 TABELA DE PROBLEMAS (1d6)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d6 | Problema
@@ -806,4 +944,5 @@ A consequência deve ser interessante, não punitiva. Não é para frustrar o jo
 ├─ Feedback de 7 horas de refinamento — versão 2.0
 └─ Orientações narrativas realocadas do 01_CORE original
 ---------------------------------------------------------------------
+
 FIM DO ARQUIVO 14_GERADORES_v2.0.txt
