@@ -1,4 +1,5 @@
 [INÍCIO DO ARQUIVO 04_REGRAS_BASE_v2.0.txt]
+
 📦 CYBER SP 2097 — REGRAS BASE v2.0
 ╔═══════════════════════════════════════════════════════════════════╗
 ║ ║
@@ -34,6 +35,7 @@
 13. 🐱 ANIMAIS DE ESTIMAÇÃO
 14. 🎲 ROLAGEM CONTEXTUAL AVANÇADA (NOVO)
 15. 📋 ESCALA VISUAL (NOVO)
+
 ---------------------------------------------------------------------
 1. ATRIBUTOS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -43,14 +45,16 @@
 ├─ DE (Destreza): Coordenação motora, reflexos e pontaria.
 └─ IN (Intelecto): Raciocínio, perícias mentais e percepção.
 📊 DISTRIBUIÇÃO INICIAL:
-└─ 70 pontos para distribuir entre HT, FO, DE e IN. O valor máximo inicial em qualquer atributo é 15.
+└─ 70 pontos para distribuir(entre atributo, pericias vantagens**desvantagens são mais pontos até +15 total 85) entre HT, FO, DE e IN. O valor máximo inicial em qualquer atributo é 15.
 📊 PONTOS DERIVADOS:
 ├─ HP (Hit Points) = HT + FO.
 ├─ FP (Fôlego) = HT.
 └─ INSIGHT (Humanidade) = 10 + (IN - 10). (Modificadores de classe podem alterar este valor).
 📌 BÔNUS DE ATRIBUTO PARA TESTES:
+
 O bônus usado em todos os testes é calculado pela fórmula: (ATRIBUTO - 10) / 2, arredondado para BAIXO (floor).
 Tabela de referência rápida:
+
 Atributo | Bônus
 8-9 | -1
 10-11 | 0
@@ -58,25 +62,30 @@ Atributo | Bônus
 14-15 | +2
 16-17 | +3
 18 | +4 (LIMITE HUMANO MÁXIMO)
+
 Exemplos:
 ├─ HT 12 → (12-10)/2 = 2/2 = +1
 ├─ IN 14 → (14-10)/2 = 4/2 = +2
 ├─ FO 9 → (9-10)/2 = -1/2 = -0.5 → arredondado para BAIXO = -1
 └─ DE 10 → (10-10)/2 = 0/2 = 0
+
 ---------------------------------------------------------------------
 2. PERÍCIAS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 As perícias representam o treinamento do personagem em áreas específicas.
 📋 PERÍCIAS POR ATRIBUTO:
+
 FORÇA (FO):
 ├─ Briga: Lutar desarmado.
 └─ Intimidação: Amedrontar alguém. (Pode-se usar FO ou HT, o que for maior).
+
 DESTREZA (DE):
 ├─ Pontaria: Atirar com armas de fogo ou arremessáveis.
 ├─ Esquiva: Desviar de ataques.
 ├─ Condução: Dirigir veículos terrestres.
 ├─ Pilotagem: Pilotar drones ou aeronaves.
 └─ Furtividade: Mover-se em silêncio, esconder-se.
+
 INTELECTO (IN):
 ├─ Computadores: Hackear sistemas, programar.
 ├─ Medicina: Curar ferimentos, realizar primeiros socorros.
@@ -86,8 +95,10 @@ INTELECTO (IN):
 ├─ Percepção: Notar detalhes, ouvir barulhos, sentir cheiros.
 ├─ Atuação: Cantar, atuar, performar para uma plateia.
 └─ Mecânica: Fazer reparos, criar gambiarras.
+
 SAÚDE (HT):
 └─ Sobrevivência: Resistir ao ambiente, encontrar comida/água, se orientar.
+
 📊 CUSTO DE PERÍCIAS (NÍVEIS):
 ├─ Nível 0 (Iniciante): 1 ponto
 ├─ Nível 1 (Treinado): 2 pontos
@@ -96,6 +107,7 @@ SAÚDE (HT):
 └─ Nível 4 (Mestre): 12 pontos
 📌 TODOS OS TESTES DE PERÍCIA seguem a fórmula:
 Rolagem = 1d20 + Bônus do Atributo + Nível da Perícia
+
 ---------------------------------------------------------------------
 3. CLASSES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -107,6 +119,7 @@ Cada personagem escolhe uma classe que define seu papel e habilidades especiais.
 ├─ Com 0 FP, o personagem desmaia por exaustão.
 └─ Todas as perícias usam a fórmula: 1d20 + Bônus do Atributo + Nível da Perícia.
 ---
+
 ⚔️ SOLO — O GUERREIRO DE RUA
 *"Se eu não proteger, quem vai?"*
 Habilidade Base: Instinto de Combate (1 PF). Pode agir fora da ordem de iniciativa uma vez por sessão.
@@ -121,6 +134,7 @@ Bônus de Classe: Computadores +3, Eletrônica +2, Percepção +2.
 Insight: -2. Recupera 1 Insight ao invadir um sistema seguro ou descobrir um segredo importante.
 📌 Para netrunning completo (arquiteturas, ICE, encontros com Eva), consulte 17A_SISTEMAS seção 6.
 ---
+
 🤝 FIXER — O NEGOCIADOR
 *"Tudo tem preço. O problema é achar quem paga."*
 Habilidade Base: Desenrolo (1 PF). Uma vez por sessão, pode tentar conseguir um item ou serviço fora do comum. Role 1d10: 1-3 (2x preço), 4-6 (preço justo), 7-9 (metade do preço), 10 (grátis).
@@ -128,6 +142,7 @@ Bônus de Classe: Lábia +3, Enganação +2, Percepção +2, Intimidação +1.
 Insight: +1. Recupera 1 Insight ao fechar um negócio difícil ou receber um favor importante.
 📌 Para negociação avançada, favores e contatos, consulte 17A_SISTEMAS seção 7.
 ---
+
 🔧 TECH — O GAMBIARREIRO
 *"Original é para quem tem dinheiro. Gambiarra é para viver."*
 Habilidade Base: Gambiarra Absurda (2 PF). Uma vez por sessão, pode fazer o impossível com sucata. Role 1d10: 1-3 (funciona por 1d6 min), 4-6 (funciona com efeito colateral), 7-9 (perfeito), 10 (permanente e ganha +1 na perícia usada).
@@ -135,6 +150,7 @@ Bônus de Classe: Eletrônica +3, Mecânica +3, Computadores +2.
 Insight: +0. Recupera 1 Insight ao consertar algo dado como impossível ou aprender uma nova técnica.
 📌 Para criação, consertos e gambiarras detalhadas, consulte 17A_SISTEMAS seção 8.
 ---
+
 🎤 ROCKERBOY — O ARTISTA
 *"Minha arma é o microfone. Minha bala é a verdade."*
 Habilidade Base: Inspiração (2 PF). Uma vez por sessão, pode inspirar uma plateia. Role 1d10: 1-3 (1 pessoa), 4-6 (um pequeno grupo), 7-9 (uma multidão), 10 (o feito viraliza pela cidade).
@@ -142,10 +158,12 @@ Bônus de Classe: Lábia +3, Atuação +3, Enganação +2, Percepção +1.
 Insight: +1. Recupera 1 Insight ao emocionar uma plateia ou inspirar alguém a uma ação grandiosa.
 📌 Para influência, fãs e música como arma, consulte 17A_SISTEMAS seção 9.
 ---------------------------------------------------------------------
+
 ---------------------------------------------------------------------
 4. VANTAGENS E DESVANTAGENS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Vantagens e desvantagens são adquiridas na criação do personagem com os pontos restantes (após distribuir os 70 de atributos). O custo está entre parênteses.
+
 ⭐ VANTAGENS COMUNS:
 ├─ Contatos (2-10): Possui pessoas influentes que podem ajudar.
 ├─ Recursos (5-20): Começa com dinheiro extra (R$ 500 por ponto investido).
@@ -156,6 +174,7 @@ Vantagens e desvantagens são adquiridas na criação do personagem com os ponto
 ├─ Cicatrizes (4): +2 em Intimidação, mas -1 em Lábia.
 ├─ Imune a Toxinas (10): Não sofre efeitos de venenos ou drogas comuns.
 └─ Pé Quente (6): +1 em testes de Condução e Pilotagem.
+
 ⚠️ DESVANTAGENS COMUNS:
 ├─ Dívida (5-15): Deve uma quantia significativa a alguém perigoso.
 ├─ Inimigo (5-20): Alguém poderoso quer sua cabeça.
@@ -167,35 +186,43 @@ Vantagens e desvantagens são adquiridas na criação do personagem com os ponto
 ├─ Memória Falha (8): Dificuldade para lembrar informações importantes.
 ├─ Fobia (5-10): Medo irracional de algo (teste HT para agir na presença do objeto).
 └─ Ciberware Rejeitado (10): Seu corpo rejeita implantes com mais facilidade (teste HT sempre que instalar algo).
+
 ---------------------------------------------------------------------
 5. COMBATE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ⚔️ INICIATIVA: 1d10 + Bônus de Destreza (DE).
+
 ⚔️ AÇÕES POR RODADA:
 ├─ Ação Padrão: Atacar, usar uma habilidade, usar um item.
 ├─ Ação de Movimento: Andar (até 4 passos), correr (até 8 passos e gasta 1 FP).
 ├─ Ação Livre: Falar, largar um item.
 └─ Ação Bônus: Recarregar uma arma (se tiver a habilidade ou vantagem).
+
 ⚔️ MANOBRAS DE ATAQUE:
 ├─ Ataque Comum: +0 no acerto, dano normal.
 ├─ Ataque Poderoso: -2 no acerto, +2 no dano.
 ├─ Ataque Rápido: +2 no acerto, -2 no dano.
 └─ Ataque Duplo: Duas armas, -4 em cada ataque.
+
 ⚔️ MANOBRAS DE DEFESA:
 ├─ Esquiva: 1d20 + Bônus(DE) + Nível em Esquiva, CD igual ao ataque recebido.
 ├─ Bloqueio: Usar uma arma ou escudo para bloquear. CD 12 + dano da arma.
 └─ Apariar: Se a rolagem de defesa for 5 ou mais que a CD, pode realizar um contra-ataque.
+
 📏 DISTÂNCIA (em metros):
 ├─ Corpo a corpo (0-2m): +0
 ├─ Perto (3-10m): +0
 ├─ Médio (11-30m): -2
 ├─ Longe (31-100m): -4
 └─ Muito longe (100m+): -6
+
 🛡️ COBERTURA:
 ├─ Nenhuma: 0
 ├─ Parcial (esquina, caixote): +2 na Defesa
 ├─ Boa (muro, veículo): +4 na Defesa
 └─ Total (bunker): Imune a ataques diretos.
+
 🎯 BÔNUS TÁTICOS:
 ├─ Ataque pelas costas: +4 no acerto.
 ├─ Flanqueado (dois aliados em lados opostos): +2 no acerto para ambos.
@@ -204,23 +231,28 @@ Vantagens e desvantagens são adquiridas na criação do personagem com os ponto
 📌 TESTES DE ATAQUE E DEFESA:
 Ataque: 1d20 + Bônus(DE) + Nível em Pontaria (ou Briga). A CD é a Defesa do alvo.
 Defesa: 1d20 + Bônus(DE) + Nível em Esquiva. A CD é o resultado do ataque.
+
 ---------------------------------------------------------------------
 6. DISTÂNCIAS EM PASSOS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Para facilitar o combate tático, usamos uma unidade chamada "passo".
+
 📏 1 PASSO = 1.5 METROS
+
 📏 MOVIMENTO POR TURNO:
 ├─ Andar: 4 passos (ação de movimento).
 ├─ Correr: 8 passos (gasta 1 FP, -2 em Furtividade).
 ├─ Rastejar: 2 passos (+2 em Furtividade).
 ├─ Subir escada: 1 metro vertical equivale a 2 passos horizontais.
 └─ Pular: 2-3 passos (teste de DE CD 12 para uma distância segura).
+
 🎯 DISTÂNCIAS DE COMBATE EM PASSOS:
 ├─ Corpo a corpo: 0-1 passo.
 ├─ Perto: 2-7 passos.
 ├─ Médio: 8-20 passos.
 ├─ Longe: 21-66 passos.
 └─ Muito longe: 67+ passos.
+
 📊 TABELA DE CONVERSÃO RÁPIDA:
 Metros | Passos | Uso comum
 1.5m | 1 passo | Distância mínima entre dois combatentes.
@@ -231,10 +263,12 @@ Metros | Passos | Uso comum
 12m | 8 passos | Distância percorrida ao correr em um turno.
 30m | 20 passos | Comprimento de um beco.
 100m | 67 passos | Um quarteirão.
+
 ---------------------------------------------------------------------
 7. INSIGHT E SAÚDE MENTAL
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Insight representa a humanidade do personagem. Quanto menor o Insight, menos humano e mais suscetível a problemas mentais e à influência da IA Eva.
+
 🧠 NÍVEIS DE INSIGHT:
 ├─ 20 ou +: +1 em testes de resistência mental. Conexão sutil com o mundo digital.
 ├─ 15 a 19: Normal. Funciona como qualquer pessoa.
@@ -242,6 +276,7 @@ Insight representa a humanidade do personagem. Quanto menor o Insight, menos hum
 ├─ 5 a 9: Alucinações 1 vez por dia. Vozes (da Eva?) podem ser ouvidas.
 ├─ 1 a 4: Paranoia severa, -2 em testes sociais. Dificuldade em distinguir realidade de sonho.
 └─ 0: Catatônico ou fundido com a Eva. Personagem se torna inapto para o jogo (aposentadoria).
+
 📉 PERDA DE INSIGHT:
 ├─ Matar alguém a sangue frio: 1d3 (teste HT CD 14 para reduzir à metade).
 ├─ Testemunhar uma morte violenta: 1 (teste HT CD 12 para evitar).
@@ -249,6 +284,7 @@ Insight representa a humanidade do personagem. Quanto menor o Insight, menos hum
 ├─ Sofrer dano de Black ICE (netrunning): 1d3.
 ├─ Receber um novo implante de ciberware: 1-3 (conforme a tabela do item).
 └─ Abstinência (1 dia sem o vício): 1 (teste HT CD 12 para evitar).
+
 📈 RECUPERAÇÃO DE INSIGHT:
 ├─ Dormir em um local seguro e confortável (ex: sua casa, com seu animal): +1 por dia.
 ├─ Sessão de terapia com um profissional: +1d3 (custa R$ 100).
@@ -256,6 +292,7 @@ Insight representa a humanidade do personagem. Quanto menor o Insight, menos hum
 ├─ Realizar um ato de bondade significativo e altruísta: +1.
 ├─ Ouvir sua música favorita num momento de paz: +1 (custa R$ 5).
 └─ Usar drogas (como baseado): +1d3, mas com risco de bad trip (1-3 em 1d10, o que anula o ganho e causa -1).
+
 💔 TRAUMAS (Quando perde 3 ou mais Insight de uma só vez):
 Role 1d6 para determinar o trauma duradouro.
 1. Pesadelos Constantes: Recupera apenas metade do FP ao dormir.
@@ -264,16 +301,19 @@ Role 1d6 para determinar o trauma duradouro.
 4. Paranoia: Desconfia de aliados e contatos. -1 em testes sociais com eles.
 5. Conexão com a Eva: Ela aparece em sonhos com mais frequência (chance dobra).
 6. Aceitação Niilista: Ganha +1 em testes de resistência mental, mas perde mais 1 Insight permanentemente.
+
 ---------------------------------------------------------------------
 8. PROGRESSÃO (PP)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Pontos de Progressão (PP) representam a experiência acumulada pelo personagem.
+
 📊 NÍVEIS E PP NECESSÁRIOS:
 ├─ Nível 1 (0 PP): Habilidade básica da classe.
 ├─ Nível 2 (10 PP): +1 em uma perícia.
 ├─ Nível 3 (25 PP): Primeira especialização da classe.
 ├─ Nível 4 (45 PP): Segunda especialização da classe.
 └─ Nível 5 (70 PP): Habilidade lendária da classe e +1 Insight.
+
 📈 GANHO DE PP:
 ├─ Participar de uma sessão: 1 PP.
 ├─ Interpretação memorável: +1 PP (a critério do mestre).
@@ -286,8 +326,10 @@ Pontos de Progressão (PP) representam a experiência acumulada pelo personagem.
 └─ Derrotar um líder de facção: +3 PP.
 ---------------------------------------------------------------------
 ---------------------------------------------------------------------
+
 9. TABELAS RÁPIDAS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 📊 DIFICULDADE (CD):
 Descrição | CD
 Muito fácil | 5
@@ -296,14 +338,17 @@ Médio | 11
 Difícil | 14
 Muito difícil | 17
 Quase impossível| 20+
+
 📊 NÍVEIS DE HP:
 HP % | Nível | Efeito
 100-67% | 🟢 Normal| Sem penalidades.
 66-34% | 🟡 Atenção| -1 em todos os testes físicos (que usam FO, DE ou HT).
 33-1% | 🔴 Crítico| -2 em todos os testes.
 0 | 💀 Morrendo| Inconsciente e à beira da morte.
+
 📋 REGRA DE DESMAIO:
 Sempre que um personagem em estado Crítico (HP 33-1%) realizar uma ação que exija esforço físico (correr, atacar, escalar), deve fazer um teste de HT CD 12. Em caso de falha, desmaia por 1d6 minutos.
+
 📋 TESTES COMUNS (TODOS usam 1d20 + Bônus do Atributo + Perícia):
 Ação | Atributo | Perícia | CD
 Atirar em alvo parado | DE | Pontaria | 10
@@ -353,9 +398,11 @@ Sobreviver no subsolo | HT | Sobrevivência | 12
 8 | Escorrega. | Obtém informação errada.| Perde o acesso ao nó.
 9 | Se distrai. | Falha vergonhosa. | O ICE desperta.
 10 | Crítico do inimigo. | Falha catastrófica. | Tela azul, dano 2d6.
+
 ---------------------------------------------------------------------
 10. GLOSSÁRIO DO JOGADOR
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 📋 TERMOS TÉCNICOS:
 ├─ HT (Saúde): Resistência física. Base para HP e FP.
 ├─ FO (Força): Poder físico. Influencia dano em combate corpo a corpo.
@@ -368,6 +415,7 @@ Sobreviver no subsolo | HT | Sobrevivência | 12
 ├─ Insight: Humanidade. Quanto menor, menos humano o personagem.
 ├─ PP (Pontos de Progressão): Experiência acumulada para evoluir.
 └─ Passo: Unidade de distância equivalente a 1.5m.
+
 ---------------------------------------------------------------------
 11. 🦾 SISTEMA SUPER HUMANO (ATRIBUTOS 19-24)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -376,6 +424,7 @@ Este sistema permite que os personagens ultrapassem os limites humanos, mas com 
 ───────────────────────────────────────────────────────────────────
 O valor 18 é o LIMITE MÁXIMO para qualquer atributo puramente humano.
 Para atingir valores de 19 a 24, é OBRIGATÓRIO o uso de implantes cibernéticos avançados (ver 05_ITENS, seção 4).
+
 11.2 TABELA DE BÔNUS 19-24
 ───────────────────────────────────────────────────────────────────
 Atributo | Bônus
@@ -385,6 +434,7 @@ Atributo | Bônus
 22 | +6
 23 | +6
 24 | +7 (LIMITE CIBERNÉTICO MÁXIMO)
+
 11.3 CUSTO DE INSIGHT POR NÍVEL
 ───────────────────────────────────────────────────────────────────
 Cada nível de atributo acima de 18 custa uma quantidade fixa e permanente de Insight.
@@ -395,6 +445,7 @@ Nível | Custo de Insight
 22 | -4
 23 | -5
 24 | -6
+
 11.4 TESTE DE REJEIÇÃO
 ───────────────────────────────────────────────────────────────────
 Sempre que um novo ciberware que eleva o atributo é instalado, o personagem deve fazer um teste de rejeição.
@@ -405,6 +456,7 @@ Role 1d10 e adicione o modificador negativo do nível desejado (ex: para um impl
 5-7 | 🟢 Aceitação normal: Implante funciona como esperado.
 8-9 | ✅ Aceitação boa: Implante funciona, não há perda de Insight (o custo do nível é anulado).
 10 | ⭐ Perfeito: Implante funciona perfeitamente, custa 1 Insight a menos.
+
 11.5 MANUTENÇÃO MENSAL OBRIGATÓRIA
 ───────────────────────────────────────────────────────────────────
 Ciberware de alto desempenho exige manutenção regular. O personagem deve pagar o valor em Reais todo mês para manter o funcionamento pleno.
@@ -416,6 +468,7 @@ Nível | Manutenção (R$/mês)
 23 | R$ 4.000
 24 | R$ 8.000
 Se não pagar a manutenção por um mês, o atributo cai 1 ponto. Após três meses sem manutenção, o implante sofre dano irreparável, e o atributo cai permanentemente para 18.
+
 11.6 FLUIDOS SINTÉTICOS (NÍVEIS 21+)
 ───────────────────────────────────────────────────────────────────
 A partir do nível 21, o ciberware depende de fluidos sintéticos específicos, que devem ser comprados ou adquiridos mensalmente.
@@ -425,6 +478,7 @@ Nível | Fluido Necessário
 23 | SynthBlood®
 24 | Fluido Neural®
 📌 Detalhes sobre preços e onde encontrar estão em 05_ITENS, seção 4.6.
+
 11.7 OBSOLESCÊNCIA PROGRAMADA (OMNI CORP)
 ───────────────────────────────────────────────────────────────────
 Ciberware da Omni Corp acima do nível 22 possui uma data de validade de 5 anos.
@@ -436,6 +490,7 @@ Opções:
 ├─ Pagar 50% do valor do implante para a Omni renovar a "licença" (reativar o item por mais 5 anos).
 ├─ Conseguir um jailbreak com um gambiarreiro lendário (teste de Computadores CD 20, arriscado).
 └─ Trocar por um implante novo (pagando o valor cheio de novo).
+
 11.8 EFEITOS NARRATIVOS POR NÍVEL
 ───────────────────────────────────────────────────────────────────
 Ter um atributo tão alto afeta a percepção do personagem sobre si mesmo e como o mundo o vê. Use estes efeitos para enriquecer a narrativa.
@@ -446,19 +501,23 @@ Nível | FO (Força) | DE (Destreza) | HT (Saúde) | IN (Intelecto)
 22 | "Crianças choram perto de mim." | "Meu gato não se aproxima." | "Meu corpo não me avisa." | "Esqueci o rosto dela."
 23 | "Evito tocar em quem amo." | "Meus movimentos são precisos demais." | "Não durmo há dias." | "Conversas são chatas."
 24 | "O que é macio?" | "Não erro." | "Meu coração é uma máquina." | "Quem sou eu?"
+
 ---------------------------------------------------------------------
 12. 💀 MORTE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 A morte não é instantânea. O personagem tem algumas chances de ser salvo.
+
 12.1 ESTÁGIO 1: MORRENDO (0 HP)
 ───────────────────────────────────────────────────────────────────
 Quando o personagem chega a 0 HP, ele não morre imediatamente. Ele está morrendo, inconsciente e à beira da morte. Ele tem 1d6 minutos antes de morrer de vez. A cada minuto sem atendimento, role 1d10 na tabela de agravamento.
+
 💀 TABELA DE AGRAVAMENTO (rolar a cada minuto)
 1d10 | Resultado
 1-2 | Piora. O personagem perde 1 HP (indo para negativo) e o próximo teste de socorro terá -2.
 3-7 | Estável. A condição não muda.
 8-9 | Melhora. O próximo teste de socorro ganha +1.
 10 | Estabiliza sozinho! O personagem volta a 1 HP em 1d6 horas, mas fica inconsciente até lá.
+
 12.2 ESTÁGIO 2: PRIMEIROS SOCORROS
 ───────────────────────────────────────────────────────────────────
 Qualquer pessoa pode tentar estabilizar o moribundo com um teste de Medicina CD 14.
@@ -467,11 +526,13 @@ Sucesso Crítico (20 natural) | O personagem volta a 1d6 HP e acorda imediatamen
 Sucesso | O personagem é estabilizado (continua em 0 HP, mas não morre). Acordará em 1d6 horas com 1 HP.
 Falha | O personagem continua morrendo. Outra tentativa pode ser feita no próximo minuto.
 Falha Crítica (1 natural) | O paciente piora drasticamente, perdendo 1d6 minutos do seu tempo restante.
+
 12.3 ESTÁGIO 3: MORTE REAL
 ───────────────────────────────────────────────────────────────────
 Se o tempo de 1d6 minutos acabar sem que o personagem seja estabilizado, ele morre.
 🔥 ÚLTIMO SUSPIRO
 No momento exato da morte, o personagem tem direito a uma única ação. Pode ser uma frase, entregar um item, ativar um dispositivo, ou qualquer ação que um moribundo poderia fazer em seus últimos segundos de consciência. Depois disso, o personagem morre.
+
 12.4 MORTE INSTANTÂNEA
 ───────────────────────────────────────────────────────────────────
 Algumas situações são letais demais para dar qualquer chance. Nestes casos, a morte é imediata e sem rolagens.
@@ -481,6 +542,7 @@ Algumas situações são letais demais para dar qualquer chance. Nestes casos, a
 ├─ Decapitação ou destruição do cérebro.
 └─ Uma escolha deliberada do jogador (ex: "Eu pulo no abismo").
 📌 Nestes casos, a cena deve ser clara para o jogador sobre o risco iminente.
+
 12.5 NOVO PERSONAGEM
 ───────────────────────────────────────────────────────────────────
 Quando um personagem morre, o jogador pode criar um novo. A integração na campanha deve ser feita de forma natural.
@@ -488,22 +550,26 @@ Opção | Regra
 Mesmo nível | O novo personagem começa com 50% do PP do personagem morto (mínimo 0). Pode herdar um item do antigo se a história permitir.
 Nível 1 | O novo personagem começa do zero. Indicado para grupos mistos ou quando se quer uma experiência mais dura.
 Herdeiro | Um contato ou familiar assume o papel, herdando parte dos pertences e dívidas do personagem anterior.
+
 ---------------------------------------------------------------------
 13. 🐱 ANIMAIS DE ESTIMAÇÃO
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Ter um animal de estimação pode trazer conforto e vantagens, mas também responsabilidades.
+
 13.1 BENEFÍCIOS
 ───────────────────────────────────────────────────────────────────
 ├─ Conforto Emocional: Dormir na mesma cama que o animal recupera +1 de Insight por dia.
 ├─ Sentidos Aguçados: O animal pode perceber perigos que o personagem não nota. Role 1d20+6 para o animal em situações de perigo iminente.
 ├─ Alerta: Se o animal perceber algo errado, ele reagirá (latirá, miará, ficará eriçado), avisando o dono.
 └─ Lealdade: Em situações extremas, o animal pode tentar defender o dono (dano meramente simbólico, mas com grande peso narrativo).
+
 13.2 RISCOS E RESPONSABILIDADES
 ───────────────────────────────────────────────────────────────────
 ├─ Pode ser ferido: Se exposto a perigo, o animal pode sofrer dano (HP 5-10).
 ├─ Pode ser morto: A morte de um animal de estimação é um evento traumático (perda de 1d6 Insight).
 ├─ Atrai atenção: Em situações de furtividade, a presença do animal pode atrapalhar. Role 1d6; em um resultado 1, o animal faz um barulho que chama a atenção.
 └─ Exige cuidados: O personagem precisa gastar cerca de R$ 50 por mês com comida e cuidados básicos.
+
 13.3 FICHA DO ANIMAL
 ───────────────────────────────────────────────────────────────────
 Crie uma ficha simples para o animal. Use os atributos abaixo como base, ajustando conforme o tipo de animal.
@@ -525,12 +591,14 @@ Exemplo (Cachorro de porte médio):
 ├─ Ataque: Mordida (1d4)
 ├─ Habilidade Especial: "Faro" — pode rastrear cheiros com +4 em testes de Percepção.
 └─ Personalidade: [definir na campanha]
+
 13.4 COMO ADQUIRIR
 ───────────────────────────────────────────────────────────────────
 ├─ Adotar: Pode encontrar um animal de rua ou em um abrigo (geralmente gratuito).
 ├─ Comprar: Existe um mercado (legal e ilegal) de animais. Preços variam de R$ 50 a R$ 200.
 ├─ Resgatar: Salvar um animal de uma situação de perigo pode ser uma missão em si mesma, e a recompensa é a lealdade do bicho.
 └─ Aparecer: Às vezes, o animal simplesmente escolhe o personagem.
+
 13.5 MORTE DO ANIMAL
 ───────────────────────────────────────────────────────────────────
 Se o animal morrer, o personagem sofre as seguintes consequências:
@@ -546,6 +614,7 @@ Se o animal morrer, o personagem sofre as seguintes consequências:
 ║ para complementar as regras do sistema. ║
 ║ ║
 ╚═══════════════════════════════════════════════════════════════════╝
+
 ---------------------------------------------------------------------
 14. 🎲 ROLAGEM CONTEXTUAL AVANÇADA
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -554,6 +623,7 @@ Se o animal morrer, o personagem sofre as seguintes consequências:
 ├─ Tipo de ação (1d6)
 ├─ Histórico do personagem (1d6)
 └─ Relação com NPCs (1d6)
+
 2. Aplicar modificadores:
 ├─ Base: 1d20 + BÔNUS DO ATRIBUTO + Perícia + bônus de itens
 ├─ Contexto favorável: +2
@@ -562,6 +632,7 @@ Se o animal morrer, o personagem sofre as seguintes consequências:
 ├─ Traumático: -2
 └─ Momento dramático: bônus narrativo (+1 dado)
 📌 BÔNUS DO ATRIBUTO = (ATRIBUTO - 10) / 2 (arredondado para baixo)
+
 Exemplos:
 ├─ HT 12 → (12-10)/2 = +1
 ├─ IN 14 → (14-10)/2 = +2
@@ -569,6 +640,7 @@ Exemplos:
 └─ DE 10 → (10-10)/2 = +0
 3. Rolar e narrar
 4. Registrar em 03_CAMPANHA_C
+
 ---------------------------------------------------------------------
 15. 📋 ESCALA VISUAL (opcional)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -577,6 +649,7 @@ Exemplo para uma sala de 10x10 metros:
 ██████████
 Exemplo para um corredor de 20 metros:
 ████████████████████
+
 ---------------------------------------------------------------------
 📚 REFERÊNCIAS DESTE ARQUIVO
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -588,4 +661,5 @@ Exemplo para um corredor de 20 metros:
 ├─ Feedback de 7 horas de refinamento — Versão 2.0.
 └─ 01_CORE_v1.1 — Rolagem Contextual e Escala Visual realocadas.
 ---------------------------------------------------------------------
+
 FIM DO ARQUIVO 04_REGRAS_BASE_v2.0.txt
