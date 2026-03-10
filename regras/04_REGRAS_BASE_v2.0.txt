@@ -49,8 +49,10 @@
 ├─ FO (Força): Poder físico, dano em combate corpo a corpo.
 ├─ DE (Destreza): Coordenação motora, reflexos e pontaria.
 └─ IN (Intelecto): Raciocínio, perícias mentais e percepção.
+
 📊 DISTRIBUIÇÃO INICIAL:
-└─ 70 pontos para distribuir(entre atributo, pericias vantagens**desvantagens são mais pontos até +15 total 85) entre HT, FO, DE e IN. O valor máximo inicial em qualquer atributo é 15.
+└─ 70 pontos para distribuir entre HT, FO, DE e IN. O valor máximo inicial em qualquer atributo é 15. 
+└─ PPs são usados para a montagem da ficha completa, incluindo atributos, pericias e vantagens **desvantagens somam + 15 pontos total máximo até 85, podendo ser negociado com mestre**
 📊 PONTOS DERIVADOS:
 ├─ HP (Hit Points) = HT + FO.
 ├─ FP (Fôlego) = HT.
@@ -668,4 +670,5 @@ Exemplo para um corredor de 20 metros:
 ---------------------------------------------------------------------
 
 FIM DO ARQUIVO 04_REGRAS_BASE_v2.0.txt
+
 
