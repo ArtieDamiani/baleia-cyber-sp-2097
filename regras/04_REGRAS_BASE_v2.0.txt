@@ -53,6 +53,7 @@
 📊 DISTRIBUIÇÃO INICIAL:
 └─ 70 pontos para distribuir entre HT, FO, DE e IN. O valor máximo inicial em qualquer atributo é 15. 
 └─ PPs são usados para a montagem da ficha completa, incluindo atributos, pericias e vantagens **desvantagens somam + 15 pontos total máximo até 85, podendo ser negociado com mestre**
+
 📊 PONTOS DERIVADOS:
 ├─ HP (Hit Points) = HT + FO.
 ├─ FP (Fôlego) = HT.
@@ -77,6 +78,8 @@ Exemplos:
 └─ DE 10 → (10-10)/2 = 0/2 = 0
 
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 2. PERÍCIAS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 As perícias representam o treinamento do personagem em áreas específicas.
@@ -116,6 +119,8 @@ SAÚDE (HT):
 Rolagem = 1d20 + Bônus do Atributo + Nível da Perícia
 
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 3. CLASSES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Cada personagem escolhe uma classe que define seu papel e habilidades especiais.
@@ -166,7 +171,7 @@ Insight: +1. Recupera 1 Insight ao emocionar uma plateia ou inspirar alguém a u
 📌 Para influência, fãs e música como arma, consulte 17A_SISTEMAS seção 9.
 ---------------------------------------------------------------------
 
----------------------------------------------------------------------
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 4. VANTAGENS E DESVANTAGENS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Vantagens e desvantagens são adquiridas na criação do personagem com os pontos restantes (após distribuir os 70 de atributos). O custo está entre parênteses.
@@ -195,6 +200,8 @@ Vantagens e desvantagens são adquiridas na criação do personagem com os ponto
 └─ Ciberware Rejeitado (10): Seu corpo rejeita implantes com mais facilidade (teste HT sempre que instalar algo).
 
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 5. COMBATE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -240,6 +247,8 @@ Ataque: 1d20 + Bônus(DE) + Nível em Pontaria (ou Briga). A CD é a Defesa do a
 Defesa: 1d20 + Bônus(DE) + Nível em Esquiva. A CD é o resultado do ataque.
 
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 6. DISTÂNCIAS EM PASSOS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Para facilitar o combate tático, usamos uma unidade chamada "passo".
@@ -272,6 +281,8 @@ Metros | Passos | Uso comum
 100m | 67 passos | Um quarteirão.
 
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 7. INSIGHT E SAÚDE MENTAL
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Insight representa a humanidade do personagem. Quanto menor o Insight, menos humano e mais suscetível a problemas mentais e à influência da IA Eva.
@@ -310,6 +321,8 @@ Role 1d6 para determinar o trauma duradouro.
 6. Aceitação Niilista: Ganha +1 em testes de resistência mental, mas perde mais 1 Insight permanentemente.
 
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 8. PROGRESSÃO (PP)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Pontos de Progressão (PP) representam a experiência acumulada pelo personagem.
@@ -332,8 +345,8 @@ Pontos de Progressão (PP) representam a experiência acumulada pelo personagem.
 ├─ Salvar um NPC importante: +2 PP.
 └─ Derrotar um líder de facção: +3 PP.
 ---------------------------------------------------------------------
----------------------------------------------------------------------
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 9. TABELAS RÁPIDAS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -407,6 +420,8 @@ Sobreviver no subsolo | HT | Sobrevivência | 12
 10 | Crítico do inimigo. | Falha catastrófica. | Tela azul, dano 2d6.
 
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 10. GLOSSÁRIO DO JOGADOR
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -424,6 +439,8 @@ Sobreviver no subsolo | HT | Sobrevivência | 12
 └─ Passo: Unidade de distância equivalente a 1.5m.
 
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 11. 🦾 SISTEMA SUPER HUMANO (ATRIBUTOS 19-24)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Este sistema permite que os personagens ultrapassem os limites humanos, mas com um custo altíssimo.
@@ -510,6 +527,8 @@ Nível | FO (Força) | DE (Destreza) | HT (Saúde) | IN (Intelecto)
 24 | "O que é macio?" | "Não erro." | "Meu coração é uma máquina." | "Quem sou eu?"
 
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 12. 💀 MORTE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 A morte não é instantânea. O personagem tem algumas chances de ser salvo.
@@ -559,6 +578,8 @@ Nível 1 | O novo personagem começa do zero. Indicado para grupos mistos ou qua
 Herdeiro | Um contato ou familiar assume o papel, herdando parte dos pertences e dívidas do personagem anterior.
 
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 13. 🐱 ANIMAIS DE ESTIMAÇÃO
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Ter um animal de estimação pode trazer conforto e vantagens, mas também responsabilidades.
@@ -623,6 +644,8 @@ Se o animal morrer, o personagem sofre as seguintes consequências:
 ╚═══════════════════════════════════════════════════════════════════╝
 
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 14. 🎲 ROLAGEM CONTEXTUAL AVANÇADA
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1. Consultar 14_GERADORES 2.8 para:
@@ -649,6 +672,8 @@ Exemplos:
 4. Registrar em 03_CAMPANHA_C
 
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 15. 📋 ESCALA VISUAL (opcional)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ████ = tamanho proporcional (1 █ ≈ 1 metro)
@@ -658,6 +683,8 @@ Exemplo para um corredor de 20 metros:
 ████████████████████
 
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📚 REFERÊNCIAS DESTE ARQUIVO
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ├─ GURPS Basic Set (#13-14) — Estrutura de atributos e perícias.
@@ -670,5 +697,6 @@ Exemplo para um corredor de 20 metros:
 ---------------------------------------------------------------------
 
 FIM DO ARQUIVO 04_REGRAS_BASE_v2.0.txt
+
 
 
