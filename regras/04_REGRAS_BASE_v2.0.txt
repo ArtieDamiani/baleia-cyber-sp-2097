@@ -2,22 +2,25 @@
 
 📦 CYBER SP 2097 — REGRAS BASE v2.0
 ╔═══════════════════════════════════════════════════════════════════╗
-║ ║
-║ CYBER SP 2097 — REGRAS BASE v2.0 ║
-║ ║
-║ Versão: 2.0 — LIVRO DO JOGADOR CONSOLIDADO ║
-║ Inclui: atributos, perícias, classes, ║
-║ combate, Insight, progressão, ║
-║ SISTEMA SUPER HUMANO (19-24), ║
-║ MORTE EM 3 ESTÁGIOS, ANIMAIS, ║
-║ ROLAGEM CONTEXTUAL e ESCALA VISUAL. ║
-║ ║
-║ "Tudo que você precisa para sobreviver — e talvez vencer." ║
-║ ║
+║                                                                   ║
+║ CYBER SP 2097 — REGRAS BASE v2.0                                  ║
+║                                                                   ║
+║ Versão: 2.0 — LIVRO DO JOGADOR CONSOLIDADO                        ║
+║ Inclui: atributos, perícias, classes,                             ║
+║ combate, Insight, progressão,                                     ║
+║ SISTEMA SUPER HUMANO (19-24),                                     ║
+║ MORTE EM 3 ESTÁGIOS, ANIMAIS,                                     ║
+║ ROLAGEM CONTEXTUAL e ESCALA VISUAL.                               ║  
+║                                                                   ║
+║ "Tudo que você precisa para sobreviver — e talvez vencer."        ║
+║                                                                   ║
 ╚═══════════════════════════════════════════════════════════════════╝
+
 =====================================================================
 ⚠️ INSTRUÇÃO: A PARTIR DAQUI, O CONTEÚDO É TEXTO PURO PARA COPIAR
 =====================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📚 SUMÁRIO
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1. ATRIBUTOS
@@ -37,6 +40,8 @@
 15. 📋 ESCALA VISUAL (NOVO)
 
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1. ATRIBUTOS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📊 ATRIBUTOS BÁSICOS:
@@ -663,3 +668,4 @@ Exemplo para um corredor de 20 metros:
 ---------------------------------------------------------------------
 
 FIM DO ARQUIVO 04_REGRAS_BASE_v2.0.txt
+
