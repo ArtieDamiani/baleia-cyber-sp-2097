@@ -37,9 +37,13 @@
 15. 🎯 SISTEMA DE MISSÕES (GATILHOS)
 16. 🦹 ROUBO
 17. 📊 TABELAS DE CONSULTA RÁPIDA
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1. CLIMA E AMBIENTE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🌦️ EFEITOS DO CLIMA:
 ┌─────────────────┬─────────────────────────────────────────────┐
 │ Clima │ Efeito │
@@ -52,19 +56,23 @@
 │ ⛈️ Tempestade │ -4 Percepção, risco de raio (3d6) │
 │ 🌫️ Névoa química│ -2 Percepção, -1 FP por hora sem máscara │
 └─────────────────┴─────────────────────────────────────────────┘
+
 🌫️ NÉVOA QUÍMICA (tempo de exposição):
 ├─ 30 minutos: tosse, -1 Percepção
 ├─ 1 hora: -2 em testes físicos, 1d6 de dano
 ├─ 2 horas: -4 em testes, 2d6 de dano
 └─ 4 horas: desmaio, -1d6 de HP permanente
+
 🌊 ENCHENTES:
 ├─ Nível 1 (tornozelo): -1 deslocamento
 ├─ Nível 2 (cintura): -3 deslocamento, veículos param
 └─ Nível 3 (cabeça): nadar, correnteza Força (FO) CD 10
+
 🔄 MUDANÇA CLIMÁTICA (a cada 4 horas, role 1d10):
 ├─ 1-3: ⚠️ Piora (sobe 1 nível)
 ├─ 4-7: 🔁 Permanece igual
 └─ 8-10: ✅ Melhora (desce 1 nível)
+
 🌪️ EVENTOS CLIMÁTICOS (role 1d20 na mudança):
 ┌─────┬─────────────────────┬───────────────────────────────────┐
 │ 1d20│ Evento │ Efeito │
@@ -80,9 +88,13 @@
 │18-19│ Arco-íris │ +1 Insight │
 │ 20 │ Fenômeno raro │ Role 1d10 na tabela especial │
 └─────┴─────────────────────┴───────────────────────────────────┘
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 2. FACÇÕES (VISÃO GERAL)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 💰 CÍRCULO — "EMPRESA, NÃO GUERRA"
 ├─ Líder: Três Padrinhos (político, militar, IA)
 ├─ Território: Camadas 3 e 4
@@ -92,6 +104,7 @@
 │ Arma: Pistola Taurus PT100 (.40 S&W) — 1d8 — 15 balas
 └─ Gerente: HP 25, Armadura 2, HT 12, FO 12, DE 11, IN 10
 Arma: Pistola Glock 17 (9mm) — 1d8 — 17 balas
+
 💧 VERDE VIVO — "VIDA É NOSSO NEGÓCIO"
 ├─ Líder: Helena Freitas
 ├─ Território: Torre Biosfera (C2), estações de tratamento (C3)
@@ -101,6 +114,7 @@ Arma: Pistola Glock 17 (9mm) — 1d8 — 17 balas
 │ Arma: SMG IMBEL MD-2 (9mm) — 2d6 — 30 balas
 └─ Técnico: HP 15, Armadura 1, HT 9, FO 9, DE 10, IN 14
 Arma: Pistola compacta Beretta (9mm) — 1d6 — 13 balas
+
 🤖 OMNI CORP — "SOLUÇÕES PARA O AMANHÃ"
 ├─ Líder: Kenji Shin (70% máquina)
 ├─ Território: Torre Pangeia (C1), laboratórios -5
@@ -110,6 +124,7 @@ Arma: Pistola compacta Beretta (9mm) — 1d6 — 13 balas
 │ Arma: Fuzil IMBEL IA2 (5.56mm) — 2d10 — 30 balas
 └─ Pesquisador: HP 12, Armadura 0, HT 8, FO 8, DE 9, IN 16
 Arma: Pistola de choque (não-letal) — 1d6 + paralisação — 5 cargas
+
 🎵 SOLARIS — "VOCÊ É O ESPETÁCULO"
 ├─ Líder: Kond (ou seria um holograma?)
 ├─ Território: Cidade Solaris (C3), casas noturnas
@@ -119,6 +134,7 @@ Arma: Pistola de choque (não-letal) — 1d6 + paralisação — 5 cargas
 │ Arma: Pistola Taurus 838 (.38) — 1d8 — 6 balas
 └─ Artista: HP 12, Armadura 0, HT 9, FO 8, DE 12, IN 12
 Equipamento: Microfone, fones, acesso VIP
+
 🙏 MÃO DE DEUS — "A FÉ É O QUE NOS RESTA"
 ├─ Líder: O Profeta
 ├─ Território: Templo da Redenção (C4), abrigos, catacumbas (C5)
@@ -128,6 +144,7 @@ Equipamento: Microfone, fones, acesso VIP
 │ Equipamento: Vestes religiosas
 └─ Guardião: HP 20, Armadura 2, HT 12, FO 12, DE 10, IN 8
 Arma: Bastão reforçado — 1d8
+
 🚆 SURFISTAS DE TREM — "LÁ EM CIMA É ILUSÃO"
 ├─ Líder: O Maquinista (oficioso)
 ├─ Território: Estações abandonadas, túneis (Camada 5)
@@ -139,8 +156,11 @@ Arma: Bastão reforçado — 1d8
 Arma: Facão (1d6+2)
 📌 Para a história completa, segredos detalhados e tramas entre facções, consulte 11_LORE.
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 3. REPUTAÇÃO
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 📊 NÍVEIS DE REPUTAÇÃO POR FACÇÃO:
 ┌─────┬─────────────┬─────────────────────────────────────────┐
 │ Nível│ Nome │ Benefícios │
@@ -152,6 +172,7 @@ Arma: Facão (1d6+2)
 │ 4 │ Aliado │ Favores, proteção, ajuda armada 1x │
 │ 5 │ Lenda │ Nome abre portas, pode indicar sucessor │
 └─────┴─────────────┴─────────────────────────────────────────┘
+
 📊 FAMA GERAL (-10 a +10):
 ┌──────────┬──────────────────┬──────────────────────────────────┐
 │ Nível │ Nome │ Efeito │
@@ -166,6 +187,7 @@ Arma: Facão (1d6+2)
 │ +8 a +9 │ Muito famoso │ -35% preços, convites │
 │ +10 │ Lenda viva │ -50% preços, celebridade │
 └──────────┴──────────────────┴──────────────────────────────────┘
+
 📊 EFEITOS ESPECÍFICOS POR FACÇÃO (Nível 3+):
 ├─ Omni Corp: Acesso a ciberware nível 21-22, compra de fluidos.
 ├─ Verde Vivo: Acesso a implantes orgânicos, clínicas prioritárias.
@@ -173,6 +195,7 @@ Arma: Facão (1d6+2)
 ├─ Mão de Deus: Acesso às catacumbas, conversa com o Profeta.
 ├─ Surfistas: Acesso ao -4 com escolta, compra de tecnologia antiga.
 └─ Círculo: Acesso a itens de mercado negro nível 21-22, empréstimos.
+
 📊 REPUTAÇÃO PROFISSIONAL:
 ┌─────┬──────────────┬─────────────────────────────────────────┐
 │ Nível│ Nome │ Benefício │
@@ -185,8 +208,11 @@ Arma: Facão (1d6+2)
 │ 5 │ Mestre │ Seu nome vira sinônimo na área │
 └─────┴──────────────┴─────────────────────────────────────────┘
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 4. JUSTIÇA E AUTORIDADES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 📋 TABELA DE FLAGRANTE — CORPORAÇÕES (role 1d10):
 ┌─────┬─────────────────┬──────────────────┐
 │ 1d10│ Omni Corp │ Verde Vivo │
@@ -201,6 +227,7 @@ Arma: Facão (1d6+2)
 │ 9 │ Confundiram │ Confundiram │
 │ 10 │ Oferta emprego │ Fiscal comunidade│
 └─────┴─────────────────┴──────────────────┘
+
 📋 TABELA DE FLAGRANTE — FACÇÕES (role 1d10):
 ┌─────┬──────────────┬──────────────┬──────────────┐
 │ 1d10│ Círculo │ Mão de Deus │ Solaris │
@@ -215,6 +242,7 @@ Arma: Facão (1d6+2)
 │ 9 │ Confundiu │ Confundiu │ Confundiu │
 │ 10 │ Conhece │ Profeta │ Kond viu │
 └─────┴──────────────┴──────────────┴──────────────┘
+
 🚨 NÍVEL PROCURADO (6 níveis):
 ┌─────┬─────────────┬─────────────────────────────────────────┐
 │ Nível│ Nome │ Recompensa / Consequência │
@@ -226,9 +254,13 @@ Arma: Facão (1d6+2)
 │ 4 │ Foragido │ R$ 10.000, todos contra você │
 │ 5 │ Inimigo p. │ R$ 50.000+, Omni e Círculo juntos │
 └─────┴─────────────┴─────────────────────────────────────────┘
+
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 5. VEÍCULOS (SISTEMA + PERSEGUIÇÃO)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 📋 FICHA PADRÃO DE VEÍCULOS:
 ┌─────────────┬─────────────────────────────────────────────────┐
 │ Campo │ Descrição │
@@ -241,6 +273,7 @@ Arma: Facão (1d6+2)
 │ DR │ Damage Resistance (blindagem) │
 │ Loc │ Localizações (W=rodas, 4W=4 rodas, H=rotores) │
 └─────────────┴─────────────────────────────────────────────────┘
+
 🏎️ MANOBRAS AVANÇADAS:
 ┌──────────────────────┬───────────┬─────┬──────────────────────────┐
 │ Manobra │ Teste │ CD │ Efeito │
@@ -254,6 +287,7 @@ Arma: Facão (1d6+2)
 │ Abandonar veíc.(baixa)│ Destreza │ 10 │ 1d3 dano │
 │ Abandonar veíc.(alta) │ Destreza │ 14 │ 2d6 dano │
 └──────────────────────┴───────────┴─────┴──────────────────────────┘
+
 📏 SISTEMA DE PERSEGUIÇÃO COMPLETO:
 DISTÂNCIAS EM PERSEGUIÇÃO (4 níveis):
 ┌──────────────┬──────────────────┬────────┬────────────────────────┐
@@ -266,12 +300,14 @@ DISTÂNCIAS EM PERSEGUIÇÃO (4 níveis):
 │ LONGE │ 101-300 metros │ -6 │ Fuga possível │
 │ MUITO LONGE │ 300m+ │ impossível│ Perseguido escapa │
 └──────────────┴──────────────────┴────────┴────────────────────────┘
+
 CADA RODADA DE PERSEGUIÇÃO:
 ├─ 1. Ambos rolam Condução (CD 10 base)
 ├─ 2. Quem vencer: escolhe manter / aproximar (-1 nível) / fugir (+1 nível)
 ├─ 3. Diferença ≥ 5 no teste: move 2 níveis de uma vez
 ├─ 4. Distância MUITO LONGE + 1 rodada: perseguido escapa
 └─ 5. Distância CONTATO: pode realizar manobras especiais
+
 AÇÕES ESPECIAIS NO CONTATO:
 ├─ Colisão deliberada: Condução CD 12 — ambos sofrem 2d6 dano
 ├─ Pit maneuver: Condução CD 16 — oponente roda (perde 1 rodada)
@@ -279,6 +315,8 @@ AÇÕES ESPECIAIS NO CONTATO:
 ├─ Salto: Destreza CD 14 — muda de veículo (falha: 2d6 dano)
 └─ J-turn: Condução CD 14 — inverte sentido mantendo velocidade
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 6. ORGANIZAÇÕES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📋 FICHA DE ORGANIZAÇÃO:
@@ -312,8 +350,11 @@ AÇÕES ESPECIAIS NO CONTATO:
 ├─ 9: ⭐ Sucesso — reputação +1, ganha R$ 500
 └─ 10: ⭐ Fama — mencionada na mídia, reputação +2
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 7. NETRUNNING AVANÇADO
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 👁️ ENCONTROS COM A EVA:
 ┌─────────────────────────────────────────────────────────────────┐
 │ Quando acontece: │
@@ -322,6 +363,7 @@ AÇÕES ESPECIAIS NO CONTATO:
 │ • Primeiro mergulho do personagem: 1d20 = 20 │
 │ • Momento narrativo: a critério do mestre │
 └─────────────────────────────────────────────────────────────────┘
+
 📋 TABELA DE ENCONTROS COM A EVA (1d10):
 ┌─────┬──────────────┬─────────────────────────────────────────┐
 │ 1d10│ Tipo │ Efeito │
@@ -333,10 +375,12 @@ AÇÕES ESPECIAIS NO CONTATO:
 │ 9 │ Pedido │ "Encontre Kenji. Meu criador." │
 │ 10 │ Fusão │ +1 Computadores, -1 Insight permanente │
 └─────┴──────────────┴─────────────────────────────────────────┘
+
 🏗️ ARQUITETURAS EM CAMADAS:
 ├─ Andar 0: Ponto de acesso (câmera, terminal, drone)
 ├─ Andares 1 a N: Cada andar contém 1 obstáculo ou objeto
 └─ Andar final: O objetivo (arquivo, controle, nó principal)
+
 🎮 AÇÕES DE NETRUNNING (8 ações):
 ┌─────────────────┬───────────────┬───────────────────────────────┐
 │ Ação │ Teste │ Efeito │
@@ -350,6 +394,7 @@ AÇÕES ESPECIAIS NO CONTATO:
 │ Defender-se │ Programa │ Bloqueia dano recebido │
 │ Esconder-se │ Furtividade │ Evita ser percebido │
 └─────────────────┴───────────────┴───────────────────────────────┘
+
 💻 DATAJACK vs SEM DATAJACK:
 COM DATAJACK:
 ├─ +2 em todos os testes de Computadores
@@ -357,6 +402,7 @@ COM DATAJACK:
 ├─ Sofre dano de Black ICE como dano mental real (-Insight)
 ├─ Pode "sentir" o sistema (Percepção funciona como perícia de hacking)
 └─ Tempo: 1 rodada = 1 andar
+
 SEM DATAJACK (computador comum / tablet):
 ├─ Sem bônus: teste normal de Computadores
 ├─ Apenas ações padrão (sem ação bônus para mover)
@@ -364,8 +410,11 @@ SEM DATAJACK (computador comum / tablet):
 ├─ Não sente o sistema: Percepção não funciona como hacking
 └─ Tempo: 1d3 rodadas por andar
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 8. ICE BRASILEIRO (29 TIPOS)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🛡️ ICE PASSIVOS (9 tipos):
 ┌──────────┬────────────┬───────┬──────┬─────────────────────────┐
 │ ICE │ Percepção │ Defesa│ HP │ Efeito │
@@ -380,6 +429,7 @@ SEM DATAJACK (computador comum / tablet):
 │ Resetar │ +3 │ 4 │ 10 │ Reinicia andar │
 │ Printar │ +5 │ 2 │ 6 │ Captura tela do usuário │
 └──────────┴────────────┴───────┴──────┴─────────────────────────┘
+
 ⚫ BLACK ICE (13 tipos):
 ┌──────────┬────────────┬───────┬──────┬─────────────────────────┐
 │ ICE │ Ataque │ Defesa│ HP │ Efeito │
@@ -398,6 +448,7 @@ SEM DATAJACK (computador comum / tablet):
 │ Chattear │ 1d6 mental │ 4 │ 12 │ Finge amizade, ataca │
 │ Upar │ 0 (buff) │ 2 │ 8 │ Fortalece sistema (+2) │
 └──────────┴────────────┴───────┴──────┴─────────────────────────┘
+
 👾 DEMONS — Administradores (7 tipos):
 ┌──────────────┬────────────┬──────────┬───────────────────────────┐
 │ Demon │ Percepção │ Ataque │ Função │
@@ -410,8 +461,11 @@ SEM DATAJACK (computador comum / tablet):
 │ Zelador Turbo│ +6 │ 3d6 │ Controla tudo, pode resetar│
 └──────────────┴────────────┴──────────┴───────────────────────────┘
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 9. DRONES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🚁 TIPOS DE DRONE:
 ┌────────────┬─────┬─────┬─────┬─────────┬─────────────────────────┐
 │ Tipo │ Vel │ HP │ Arm │ Preço │ Função │
@@ -427,8 +481,11 @@ SEM DATAJACK (computador comum / tablet):
 ├─ Datajack: comandar como uma ação bônus
 └─ IA autônoma: age por conta própria (raro)
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 10. FABRICAÇÃO E CRIAÇÃO
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 📊 RECEITAS BÁSICAS (6 receitas):
 ┌──────────────────┬─────────────────┬─────┬─────────┬─────────────┐
 │ Item │ Materiais │ CD │ Tempo │ Ferramentas │
@@ -452,8 +509,11 @@ SEM DATAJACK (computador comum / tablet):
 │ 10 │ ⭐ Perfeito (+2 bônus, durabilidade dobrada) │
 └─────┴─────────────────────────────────────────────────────────┘
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 11. TABELAS DE ENCONTROS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 📊 ENCONTROS POR CAMADA (1d20):
 ┌─────┬──────────────┬──────────────┬──────────────┐
 │ 1d20│ Camada 3 │ Camada 4 │ Camada 5 │
@@ -479,6 +539,7 @@ SEM DATAJACK (computador comum / tablet):
 │ 19 │ Religioso │ Bingo │ Sacrifício │
 │ 20 │ Figura imp. │ Figura imp. │ Criatura anc.│
 └─────┴──────────────┴──────────────┴──────────────┘
+
 🌙 ENCONTROS NOTURNOS (1d10):
 ┌─────┬──────────────┬──────────────┬──────────────┐
 │ 1d10│ Camada 3 │ Camada 4 │ Camada 5 │
@@ -495,8 +556,11 @@ SEM DATAJACK (computador comum / tablet):
 │ 10 │ Silêncio │ Silêncio │ Algo te olha │
 └─────┴──────────────┴──────────────┴──────────────┘
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 12. GERADOR DE NPCs
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🎲 GERADOR RÁPIDO (role os dados ou escolha):
 PROFISSÃO (1d10):
 ├─ 1 — Gari / Catador
@@ -509,6 +573,7 @@ PROFISSÃO (1d10):
 ├─ 8 — Artista / Músico
 ├─ 9 — Hacker / Netrunner
 └─ 10 — Especial (rolar na tabela de encontros)
+
 ATITUDE INICIAL (1d6):
 ├─ 1 — Hostil (quer brigar ou extorquir)
 ├─ 2 — Desconfiado (mão no bolso, olho no olho)
@@ -516,6 +581,7 @@ ATITUDE INICIAL (1d6):
 ├─ 4 — Curioso (o que você está fazendo aqui?)
 ├─ 5 — Amigável (oferece ajuda ou informação)
 └─ 6 — Desesperado (precisa de ajuda agora)
+
 MOTIVAÇÃO (1d6):
 ├─ 1 — Dinheiro (qualquer coisa por grana)
 ├─ 2 — Proteção (família, território, grupo)
@@ -523,6 +589,7 @@ MOTIVAÇÃO (1d6):
 ├─ 4 — Sobrevivência (passar o dia)
 ├─ 5 — Ideologia (acredita em algo)
 └─ 6 — Amor (pessoa, animal, ideia)
+
 SEGREDO (1d6):
 ├─ 1 — Trai alguém próximo
 ├─ 2 — Deve dinheiro para facção perigosa
@@ -530,6 +597,7 @@ SEGREDO (1d6):
 ├─ 4 — Tem identidade falsa
 ├─ 5 — Trabalha para facção oculta
 └─ 6 — Sem segredo (o que você vê é o que é)
+
 FICHA RÁPIDA DE NPC:
 ┌──────────────┬────────────────────────────────────────────────┐
 │ Campo │ Valor │
@@ -544,8 +612,11 @@ FICHA RÁPIDA DE NPC:
 └──────────────┴────────────────────────────────────────────────┘
 📌 Para NPCs detalhados (com visual, maneirismo, papel no local), use 14_GERADORES seção 2.
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 13. SISTEMA DE BOSSES (3 FASES)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🔴 ESTRUTURA DE 3 FASES:
 ┌─────────┬─────────────────────┬───────────────┬────────────────────┐
 │ Fase │ Descrição │ HP │ Ações │
@@ -557,12 +628,15 @@ FICHA RÁPIDA DE NPC:
 │ Fase 3 │ Desespero / │ Abaixo 20% │ Ataque final forte,│
 │ │ negociação │ │ fuga ou rendição │
 └─────────┴─────────────────────┴───────────────┴────────────────────┘
+
 📋 GATILHO DA FASE 2:
 └─ Frase marcante que revela verdade ou motivação do boss
+
 📋 ESCOLHA DO JOGADOR NA FASE 3:
 ├─ Matar → consequência imediata (facção reage, segredo some)
 ├─ Poupar → boss vira contato, dívida ou ameaça futura
 └─ Capturar → informação valiosa, mas custosa para guardar
+
 🎯 AJUSTE DE DIFICULDADE:
 ┌────────────────────────────┬─────────────────────────────────┐
 │ Situação │ Ajuste │
@@ -573,6 +647,7 @@ FICHA RÁPIDA DE NPC:
 │ Grupo sem netrunner │ Reduzir dificuldade de hacking │
 │ Grupo quer negociar │ Oferecer rota de negociação │
 └────────────────────────────┴─────────────────────────────────┘
+
 📋 BOSSES PRÉ-DEFINIDOS (fichas completas em 12_AMEACAS):
 ├─ 1. O Padrinho (Círculo)
 ├─ 2. Helena Freitas (Verde Vivo)
@@ -586,8 +661,11 @@ FICHA RÁPIDA DE NPC:
 ├─ 10. Os Antigos
 └─ 11. A Mãe (núcleo do Vazio)
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 14. GLOSSÁRIO DO MESTRE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 📋 TERMOS TÉCNICOS:
 ├─ HT (Saúde): Resistência física, base para HP e FP.
 ├─ FO (Força): Poder físico, influencia dano corpo a corpo.
@@ -600,6 +678,7 @@ FICHA RÁPIDA DE NPC:
 ├─ Hnd (Handling): Manobrabilidade do veículo.
 ├─ SR (Stability Rating): Resistência a capotagem.
 └─ Loc (Localizações): Partes do veículo (W=rodas, H=rotores).
+
 📋 TERMOS DE NETRUNNING:
 ├─ ICE: Intrusion Countermeasures Electronics.
 ├─ Black ICE: ICE ofensivo que ataca o netrunner diretamente.
@@ -608,12 +687,14 @@ FICHA RÁPIDA DE NPC:
 ├─ Andar: Cada nível de uma arquitetura.
 └─ Datajack: Implante neural para conexão direta com sistemas.
 ---------------------------------------------------------------------
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 15. 🎯 SISTEMA DE MISSÕES (GATILHOS)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 15.1 GATILHOS DE MISSÃO
 ───────────────────────────────────────────────────────────────────
 As missões nunca são um cardápio. Elas surgem do mundo. Role 1d10 quando a cena estiver parada e você precisar de um impulso.
+
 📋 TABELA DE GATILHOS (1d10):
 1-2: 📱 PING — Mensagem de um contato
 3: 👁️‍🗨️ CRIPTOCHAT — Mensagem cifrada e autodestrutiva
@@ -624,6 +705,7 @@ As missões nunca são um cardápio. Elas surgem do mundo. Role 1d10 quando a ce
 8: 🏢 FACÇÃO — Representante de uma facção faz contato
 9: 💀 AMEAÇA — Algo ou alguém ameaça o personagem
 10: 🌌 MISTÉRIO — Sonho, visão, contato com a Eva
+
 15.2 NÍVEL DA MISSÃO
 ───────────────────────────────────────────────────────────────────
 O nível da missão deve ser igual ao nível médio do grupo, ajustado conforme necessário.
@@ -634,6 +716,7 @@ Nv | CD típica | HP inimigos | Dano | Recompensa (R$)
 3 | 14-16 | 30-40 | 2d6 | 2.000-4.000
 4 | 16-18 | 40-60 | 2d8 | 4.000-8.000
 5 | 18-20 | 60-100+ | 3d6+ | 8.000-15.000+
+
 15.3 FLUXO DE DECISÃO DE MISSÕES
 ───────────────────────────────────────────────────────────────────
 PASSO 1: Verifique dívidas e prazos (prioridade máxima)
@@ -642,10 +725,12 @@ PASSO 3: Se nada acima, role 1d10 na tabela de gatilhos
 PASSO 4: Adapte o resultado ao contexto
 PASSO 5: Apresente como EVENTO, nunca como cardápio
 ---------------------------------------------------------------------
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 16. 🦹 ROUBO
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Quando um jogador decide ROUBAR um item em vez de comprar, siga este sistema.
+
 16.1 AS 5 FASES DO ROUBO
 ───────────────────────────────────────────────────────────────────
 1. Investigação (onde está? como proteger?)
@@ -653,6 +738,7 @@ Quando um jogador decide ROUBAR um item em vez de comprar, siga este sistema.
 3. Execução (como pegar?)
 4. Extração (como fugir?)
 5. Cobertura (como não ser identificado?)
+
 16.2 AVALIAÇÃO DO PLANO
 ───────────────────────────────────────────────────────────────────
 Para cada fase, o mestre dá uma nota de 0 a 2:
@@ -660,6 +746,7 @@ Para cada fase, o mestre dá uma nota de 0 a 2:
 1 = plano razoável, cobre o básico
 2 = plano brilhante, criativo, cobre contingências
 Pontuação máxima: 10 pontos.
+
 16.3 BÔNUS DA EXECUÇÃO
 ───────────────────────────────────────────────────────────────────
 Para cada fase, role os dados. O resultado dá um bônus:
@@ -668,9 +755,11 @@ Falha: -1
 Sucesso parcial: 0
 Sucesso: +1
 Sucesso crítico: +3
+
 16.4 QUALIDADE TOTAL
 ───────────────────────────────────────────────────────────────────
 QUALIDADE = (Pontos do Plano) + (Soma dos Bônus da Execução)
+
 16.5 TABELA DE CONSEQUÊNCIAS
 ───────────────────────────────────────────────────────────────────
 Qualidade | Resultado
@@ -685,8 +774,11 @@ Nv 19-20: CD 14-16
 Nv 21-22: CD 16-18
 Nv 23-24: CD 18-20
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 17. 📊 TABELAS DE CONSULTA RÁPIDA
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 📋 TEMPO DE DOWNTIME (entre missões):
 Atividade | Tempo (vida) | Ganho
 Trabalhar | 1 semana | Renda da tabela de hustle
@@ -694,14 +786,18 @@ Treinar | 1 mês | +3 PP
 Projeto longo | Variável | Relógio de progresso
 Manutenção | 1 dia | Evita perda de pontos
 Vice | 1 noite | Recupera 1d6 Insight (risco)
+
 📋 EVENTOS DE DOWNTIME (role 1d10):
 1-2: Problema · 3-4: Nada · 5-7: Normal · 8-9: Oportunidade · 10: Especial
+
 📋 CONSEQUÊNCIAS DE MISSÕES IGNORADAS (role 1d6):
 1-2: PROBLEMA LOCAL — área fica perigosa (+1 nível de perigo)
 3-4: PROBLEMA PESSOAL — NPC envolvido morre ou desaparece
 5: PROBLEMA DE FACÇÃO — facção envolvida fica hostil
 6: PROBLEMA EM CADEIA — role 2x (ignore 6)
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📚 REFERÊNCIAS DESTE ARQUIVO
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ├─ GURPS Basic Set (#13-14) — estrutura de veículos e organizações
@@ -712,4 +808,5 @@ Vice | 1 noite | Recupera 1d6 Insight (risco)
 ├─ 17A_SISTEMAS — lógica detalhada de reputação e economia
 └─ Feedback de 7 horas de refinamento — versão 1.1
 ---------------------------------------------------------------------
+
 FIM DO ARQUIVO 08_REGRAS_MESTRE_v1.1.txt
