@@ -16,9 +16,12 @@
 ║ "O que você tem define quem você é." ║
 ║ ║
 ╚═══════════════════════════════════════════════════════════════════╝
+
 =====================================================================
 ⚠️ INSTRUÇÃO: A PARTIR DAQUI, O CONTEÚDO É TEXTO PURO PARA COPIAR
 =====================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📚 SUMÁRIO
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1. QUALIDADE DOS ITENS
@@ -47,6 +50,8 @@ Qualidade | Preço | Efeito | Falha | Manutenção
 ⭐⭐⭐⭐⭐ LENDA | 300% | +2 bônus, especial | — | 6 meses
 
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 2. ARMAS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -104,6 +109,8 @@ Dinamite (barra) | 3d6 | 3m | R$ 96 | 0,06 SM
 C4 (1kg) | 6d6 | 5m | R$ 640 | 0,4 SM
 
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 3. PROTEÇÃO E BLINDAGEM
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -126,6 +133,7 @@ Luvas táticas| 1 | Mãos | R$ 240 | 0,15 SM
 Joelheiras | 1 | Joelhos | R$ 160 | 0,1 SM
 Cotoveleiras | 1 | Cotovelos | R$ 160 | 0,1 SM
 Bota tática | 1 | Pés | R$ 320 | 0,2 SM
+
 ---------------------------------------------------------------------
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -290,6 +298,8 @@ Fluido Neural® (nível 24)
 └─ Onde: SÓ o Maquinista. Ou a Eva entrega pessoalmente.
 
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 5. ELETRÔNICOS E COMUNICAÇÃO (APPS)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📱 CELULARES E SUAS CAPACIDADES:
@@ -392,6 +402,8 @@ Grande | 4 | 30 min | R$ 240
 Turbo | 2 | 15 min | R$ 320
 
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 6. FERRAMENTAS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🧰 KITS DE FERRAMENTAS:
@@ -403,6 +415,8 @@ Kit de primeiros socorros| +2 Medicina | R$ 160
 Kit cirúrgico | Para ciberware | R$ 1.280
 
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 7. VEÍCULOS E DRONES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🚁 DRONES COMERCIAIS:
@@ -437,297 +451,367 @@ SUV | 55 | 0 | 4 | 8/55 | R$ 40.000
 Pickup | 60 | 0 | 4 | 7/50 | R$ 32.000
 Van/Furgão | 65 | -1 | 4 | 6/45 | R$ 40.000
 Esportivo | 45 | +3 | 2 | 12/100 | R$ 96.000
+
 ---------------------------------------------------------------------
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 8. 🍲 CONSUMÍVEIS (COMIDAS COMPLETAS)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 【🇧🇷 BRASILEIRA (Norte/Nordeste integrados)】
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🍛 Prato feito (PF)
 ├─ Fome: 100% · Preço: R$ 24-32
 ├─ Efeito: +1 FO por 2h
 └─ "Arroz, feijão, bife, ovo, batata. O almoço do brasileiro."
+
 🍲 Feijoada
 ├─ Fome: 120% (dura 2 refeições) · Preço: R$ 40-56
 ├─ Efeito: +2 FP por 3h, -1 DE por 3h
 └─ "Feijão preto, carne de porco. Tradição de sábado. Pesada, mas dá energia."
+
 🥟 Coxinha
 ├─ Fome: 60% · Preço: R$ 10-13
 ├─ Efeito: —
 └─ "Frango com catupiry, empanada e frita. Ícone de boteco."
+
 🥟 Pastel
 ├─ Fome: 60% · Preço: R$ 10-13
 ├─ Efeito: —
 └─ "Massa frita recheada (carne, queijo, pizza). Feira é lugar certo."
+
 🍢 Espetinho
 ├─ Fome: 70% · Preço: R$ 13-19
 ├─ Efeito: —
 └─ "Carne na brasa. Vendedor de esquina, farofa e molho."
+
 🍛 Arroz com feijão
 ├─ Fome: 80% · Preço: R$ 16-19
 ├─ Efeito: recupera 1d4 HP
 └─ "A base. Comida caseira cura a alma."
+
 🥣 Baião de dois (nordestino)
 ├─ Fome: 90% · Preço: R$ 24-32
 ├─ Efeito: —
 └─ "Arroz, feijão de corda, queijo coalho, carne seca. Herança nordestina."
+
 🥩 Carne de sol (nordestino)
 ├─ Fome: 70% · Preço: R$ 29-40
 ├─ Efeito: —
 └─ "Carne salgada e seca ao sol. Acompanha mandioca."
+
 🦆 Pato no tucupi (norte)
 ├─ Fome: 90% · Preço: R$ 40
 ├─ Efeito: +1 HT por 2h
 └─ "Pato cozido no tucupi. Herança paraense. Forte."
+
 🥣 Tacacá (norte)
 ├─ Fome: 60% · Preço: R$ 13
 ├─ Efeito: +1 HT (frio) por 1h
 └─ "Sopa amazônica de tucupi, camarão, jambu. Aquece."
+
 🥟 Acarajé (baiano)
 ├─ Fome: 70% · Preço: R$ 16
 ├─ Efeito: —
 └─ "Bolinho de feijão-fradinho, dendê, vatapá, camarão. Herança baiana."
+
 🥣 Cuscuz
 ├─ Fome: 60% · Preço: R$ 8
 ├─ Efeito: —
 └─ "Flocos de milho cozidos. Nordestino pela manhã, paulista à tarde."
+
 🥔 Macaxeira
 ├─ Fome: 50% · Preço: R$ 8
 ├─ Efeito: —
 └─ "Mandioca, aipim, macaxeira. Mesma raiz, mesmo Brasil."
+
 🥣 Canjica
 ├─ Fome: 40% · Preço: R$ 10
 ├─ Efeito: —
 └─ "Milho branco cozido com leite, canela. Festa junina."
+
 🥟 Pamonha
 ├─ Fome: 50% · Preço: R$ 8
 ├─ Efeito: —
 └─ "Massa de milho, doce ou salgada. Do Norte ao Sudeste."
+
 🥟 Angu
 ├─ Fome: 60% · Preço: R$ 8
 ├─ Efeito: —
 └─ "Mingau de fubá. Comida de escravo, hoje de raiz."
 
 【🇨🇳 CHINESA】
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🥟 Guioza
 ├─ Fome: 40% · Preço: R$ 16-19
 ├─ Efeito: —
 └─ "Pastel chinês cozido no vapor. Rua da Glória, Liberdade."
+
 🍜 Lámen chinês
 ├─ Fome: 80% · Preço: R$ 29
 ├─ Efeito: —
 └─ "Macarrão em caldo, versão chinesa (mais encorpada que a japonesa)."
+
 🍚 Arroz chop suey
 ├─ Fome: 70% · Preço: R$ 24
 ├─ Efeito: —
 └─ "Arroz frito com legumes, ovo, carne. 'Chop suey' = 'pedaços misturados'."
+
 🥘 Frango xadrez
 ├─ Fome: 80% · Preço: R$ 35
 ├─ Efeito: +1 FP
 └─ "Frango, amendoim, pimentão, molho agridoce. Versão brasileira."
+
 🥠 Rolinho primavera
 ├─ Fome: 50% · Preço: R$ 13
 ├─ Efeito: —
 └─ "Massa frita recheada com legumes. Entrada clássica."
+
 🥡 Comida chinesa (caixa)
 ├─ Fome: 100% · Preço: R$ 40
 ├─ Efeito: —
 └─ "Yakisoba, arroz, legumes, carne. A famosa 'caixinha chinesa' de SP."
 
 【🇯🇵 JAPONESA】
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🍜 Lámen
 ├─ Fome: 80% · Preço: R$ 40-56
 ├─ Efeito: +1 HT por 2h
 └─ "Macarrão em caldo, porco, ovo. Conforto japonês."
+
 🍣 Sushi
 ├─ Fome: 60% · Preço: R$ 32-64
 ├─ Efeito: +1 Percepção por 1h
 └─ "Arroz com peixe cru. Leve, fresco, dá clareza mental."
+
 🥟 Gyoza
 ├─ Fome: 40% · Preço: R$ 19-24
 ├─ Efeito: —
 └─ "Pastel japonês frito, carne com legumes."
+
 🍛 Curry japonês (kare)
 ├─ Fome: 80% · Preço: R$ 32-40
 ├─ Efeito: —
 └─ "Arroz com curry, carne, legumes. Conforto."
+
 🍱 Yakisoba
 ├─ Fome: 80% · Preço: R$ 29-35
 ├─ Efeito: —
 └─ "Macarrão frito com legumes e carne. Versão brasileira já é clássico."
+
 🍚 Ochá (chá verde)
 ├─ Sede: 20% · Preço: R$ 5
 ├─ Efeito: —
 └─ "Chá quente ou gelado. Acompanha qualquer refeição oriental."
 
 【🇰🇷 COREANA】
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🥬 Kimchi
 ├─ Fome: 20% · Preço: R$ 8
 ├─ Efeito: +1 HT (imunidade) por 1h
 └─ "Acompanhamento fermentado. Bom pra saúde (dizem)."
+
 🍖 Bulgogi
 ├─ Fome: 80% · Preço: R$ 40
 ├─ Efeito: +1 FO por 2h
 └─ "Carne marinada grelhada. Coreano tradicional."
+
 🍚 Bibimbap
 ├─ Fome: 80% · Preço: R$ 35
 ├─ Efeito: —
 └─ "Arroz com legumes, carne, ovo, pasta de pimenta."
 
 【🇸🇾 ÁRABE】
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🥙 Esfiha
 ├─ Fome: 50% · Preço: R$ 8-11
 ├─ Efeito: —
 └─ "Massa aberta com recheio de carne, queijo. Comer com limão."
+
 🥙 Kibe
 ├─ Fome: 50% · Preço: R$ 10-13
 ├─ Efeito: —
 └─ "Trigo, carne, hortelã. Frito ou assado."
+
 🥗 Homus
 ├─ Fome: 30% · Preço: R$ 13
 ├─ Efeito: —
 └─ "Pasta de grão-de-bico com tahine. Acompanha pão sírio."
+
 🥙 Charutinho (folha de uva)
 ├─ Fome: 40% · Preço: R$ 10
 ├─ Efeito: —
 └─ "Folha de uva recheada. Comida árabe tradicional."
 
 【🇮🇹 ITALIANA】
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🍝 Macarrão
 ├─ Fome: 80% · Preço: R$ 29-40
 ├─ Efeito: -1 DE por 2h (sonolência)
 └─ "Molho à bolonhesa, ao sugo. Simples, perfeito, mas dá sono."
+
 🍕 Pizza
 ├─ Fome: 100% · Preço: R$ 48-80
 ├─ Efeito: +1 FP por 2h, -1 DE por 2h
 └─ "A pizza de SP é patrimônio. Mussarela, portuguesa, frango com catupiry."
+
 🍝 Lasanha
 ├─ Fome: 90% · Preço: R$ 35-45
 ├─ Efeito: —
 └─ "Massas, molho, queijo, carne. Camadas de sabor."
+
 🥟 Nhoque
 ├─ Fome: 70% · Preço: R$ 29-35
 ├─ Efeito: +1 Sorte (teste único) no dia 29
 └─ "Nhoque de batata, molho sugo. Tradição dia 29: comer e fazer pedido."
 
 【🇵🇪 ANDINA (bolivianos/peruanos)】
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🥟 Salteña
 ├─ Fome: 60% · Preço: R$ 8-10
 ├─ Efeito: +1 FP por 1h
 └─ "Pastel assado recheado com carne, frango ou queijo. Tradição andina."
+
 🥩 Anticucho
 ├─ Fome: 70% · Preço: R$ 13
 ├─ Efeito: -1 Insight?
 └─ "Espetinho de coração. Comida de rua nos Andes."
+
 🥣 Api
 ├─ Sede: 30% · Preço: R$ 6
 ├─ Efeito: +1 HT (frio) por 1h
 └─ "Bebida quente de milho roxo. Aquece nas noites frias."
+
 🥟 Humita
 ├─ Fome: 50% · Preço: R$ 8
 ├─ Efeito: —
 └─ "Pamonha andina. Doce ou salgada."
+
 🍲 Quinua
 ├─ Fome: 60% · Preço: R$ 13
 ├─ Efeito: +1 HT
 └─ "Grão sagrado dos Andes. Nutritivo."
+
 🐟 Ceviche
 ├─ Fome: 70% · Preço: R$ 32
 ├─ Efeito: +1 Percepção por 1h
 └─ "Peixe cru marinado no limão. Herança peruana."
 
 【🌭 COMIDA DE RUA】
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🌭 Cachorro-quente
 ├─ Fome: 70% · Preço: R$ 13
 ├─ Efeito: —
 └─ "Pão, salsicha, purê, milho, ervilha, batata palha. Completão."
+
 🥟 Pastel de feira
 ├─ Fome: 60% · Preço: R$ 10
 ├─ Efeito: risco (teste HT 10 se duvidoso) ou 1d4 dano
 └─ "Pastel gigante, carne ou queijo. Caldo de cana pra acompanhar."
+
 🍢 Espetinho
 ├─ Fome: 70% · Preço: R$ 13
 ├─ Efeito: —
 └─ "Carne na brasa, farofa, molho."
+
 🍦 Sorvete
 ├─ Fome: 20% · Preço: R$ 8
 ├─ Efeito: —
 └─ "Geladinho, qualquer sabor, qualquer esquina."
 
 【🏭 INDUSTRIALIZADOS (Omni, Solaris)】
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🍱 Omni Meal®
 ├─ Fome: 100% · Preço: R$ 24
 ├─ Efeito: -1 Insight/semana (uso contínuo)
 └─ "Refeição sintética da Omni. Prático, sem gosto, mas sustenta."
+
 🥤 Omni-Soda®
 ├─ Sede: 20% · Preço: R$ 13
 ├─ Efeito: +1 Computadores por 1h, depois -1 Computadores por 2h
 └─ "Refrigerante com aditivos neuroestimulantes. Omni patenteou."
+
 🍔 SolarisBurger®
 ├─ Fome: 90% · Preço: R$ 40
 ├─ Efeito: +1 Carisma por 1h
 └─ "Fast food da Solaris. O molho é segredo. Só nos shows."
+
 🥤 ÉTER® Energy
 ├─ Sede: 20% · Preço: R$ 24
 ├─ Efeito: +2 FP por 1h, risco dependência (teste HT 14 após 3 usos)
 └─ "Energético. Mesmo nome da droga. Solaris sabe o que faz."
 
 【💀 MERCADO PARALELO (Círculo)】
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🥫 Enlatado genérico
 ├─ Fome: 70% · Preço: R$ 5
 ├─ Efeito: risco botulismo (teste HT 10 ou 1d4 dano)
 └─ "Sem rótulo. Procedência? Melhor não perguntar."
+
 🍖 Carne "?"
 ├─ Fome: 80% · Preço: R$ 16
 ├─ Efeito: -1 Insight
 └─ "Barato. Muito barato. Tem gosto de frango? Porco? Gente?"
+
 【🙏 ABRIGOS (Mão de Deus)】
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🥣 Sopa comunitária
 ├─ Fome: 70% · Preço: Grátis
 ├─ Efeito: +1 Insight
 └─ "Distribuída toda noite. Qualquer um come."
+
 🍞 Pão doado
 ├─ Fome: 40% · Preço: Doação
 ├─ Efeito: —
 └─ "Pão francês, às vezes amanhecido. Mas é de graça."
 
 【🚇 SUBSULO (Surfistas)】
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🍄 Fungo bioluminescente
 ├─ Fome: 50% · Preço: R$ 8
 ├─ Efeito: visão noturna por 1h, depois teste HT 12 ou -1 FP
 └─ "Os Antigos comem isso. Tem gosto de cogumelo com terra."
+
 🐀 Rato grelhado
 ├─ Fome: 60% · Preço: R$ 5
 ├─ Efeito: -1 Insight
 └─ "Proteína de túnel. Os Surfistas juram que é igual frango."
 
 【💧 ÁGUA (todas as fontes)】
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 💧 Água mineral
 ├─ Sede: 80% · Preço: R$ 5
 ├─ Efeito: —
 └─ "Garrafinha de 500ml."
+
 💧 Água Viva® (Verde Vivo)
 ├─ Sede: 100% · Preço: R$ 13
 ├─ Efeito: +1 FP
 └─ "Água Verde Vivo. Garrafa de vidro retornável. Mais cara, mas 'pura'."
+
 💧 Água de torneira
 ├─ Sede: 50% · Preço: R$ 1 (paga na conta)
 ├─ Efeito: —
 └─ "Da pia. Serve, mas não é a mesma coisa."
+
 💧 Água de poço
 ├─ Sede: 60% · Preço: R$ 1
 ├─ Efeito: risco contaminação (teste HT 10)
 └─ "Furaram o duto da Verde Vivo. Mais barato, mas arriscado."
+
 💧 Água de goteira (C5)
 ├─ Sede: 60% · Preço: Grátis
 ├─ Efeito: risco contaminação (teste HT 10)
 └─ "Os Surfistas conhecem as goteiras limpas. E as sujas também."
+
 ---------------------------------------------------------------------
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 9. 💊 DROGAS BRASILEIRAS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 【🌿 MACONHA】
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ├─ Ciclo: 8h (pós-uso) / Dependência: 24h
 ├─ Preço: R$ 10-20 (baseado) / R$ 50-100 (5g)
 ├─ Efeito (1h): +1 Insight, +1 Criatividade, -1 DE, -1 Percepção
@@ -736,6 +820,7 @@ Esportivo | 45 | +3 | 2 | 12/100 | R$ 96.000
 └─ Onde: boca do Círculo, estudantes, "medicinal" (Omni: R$ 200)
 
 【⚪ COCAÍNA】
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ├─ Ciclo: 2h (pós-uso) / Dependência: 4h
 ├─ Preço: R$ 50-100/g (R$ 30-50/papelinho)
 ├─ Efeito (30min-2h): +2 FP, +2 DE, +2 Percepção, -2 social, HT 12 ou 1d3 dano
@@ -745,6 +830,7 @@ Esportivo | 45 | +3 | 2 | 12/100 | R$ 96.000
 └─ Onde: baladas da Solaris, escritórios, boca do Círculo
 
 【🪨 CRACK】
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ├─ Ciclo: 15 MINUTOS / Dependência: 1h
 ├─ Preço: R$ 10-20 (pedra)
 ├─ Efeito (5-15min): +4 TUDO (super-humano), -4 social, HT 10 ou 1d6 dano
@@ -754,6 +840,7 @@ Esportivo | 45 | +3 | 2 | 12/100 | R$ 96.000
 └─ Onde: Cracolândia, bocas C4, Feira da Madrugada
 
 【🟫 OXI】
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ├─ Ciclo: 10 MINUTOS / Dependência: 30min
 ├─ Preço: R$ 5-10 (pedra)
 ├─ Efeito: igual crack, mas duração menor, dano maior
@@ -763,6 +850,7 @@ Esportivo | 45 | +3 | 2 | 12/100 | R$ 96.000
 └─ Expectativa de vida: 2-3 anos de uso
 
 【💊 BENZODIAZEPÍNICOS (Rivotril®, Valium®, Frontal®)】
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ├─ Ciclo: 12h / Dependência: 24h
 ├─ Preço: R$ 20-50/caixa (R$ 5-10/comprimido avulso)
 ├─ Efeito terapêutico: +1 Insight, -1 DE, -1 Percepção
@@ -772,6 +860,7 @@ Esportivo | 45 | +3 | 2 | 12/100 | R$ 96.000
 └─ Onde: farmácias (com receita), mercado negro
 
 【🧪 INALANTES (LANÇA-PERFUME, LOLÓ, COLA)】
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ├─ Ciclo: 30min / Dependência: 2h
 ├─ Preço: R$ 5-15 (dose) / R$ 30-50 (latinha)
 ├─ Efeito (15min): +2 DE (alucinações), -2 IN, HT 12 ou desmaio
@@ -780,23 +869,29 @@ Esportivo | 45 | +3 | 2 | 12/100 | R$ 96.000
 └─ Onde: festas da Solaris, feiras, menores de rua
 
 ---------------------------------------------------------------------
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 10. PROGRAMAS DE NETRUNNING
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 📋 PROGRAMAS COMPLETOS:
-Programa | Tipo | Efeito | Preço (R$) | Slots
-Quebra-galho | Ataque | Desativa ICE 1 rodada | R$ 320 | 1
-Jeitinho | Ataque | Ignora 1 senha | R$ 640 | 1
-Puxadinho | Ataque | Acesso permanente (1d6 meses) | R$ 960 | 2
-Tapa-buraco | Defesa | Bloqueia ICE 1d6 rodadas | R$ 480 | 1
-Escudo | Defesa | +2 na defesa | R$ 640 | 1
-Camuflagem | Defesa | -2 para ser percebido | R$ 960 | 1
-Limpeza | Defesa | Remove rastros | R$ 480 | 1
-Copiador | Util | Copia dados | R$ 480 | 1
-Mapeador | Util | Revela arquitetura | R$ 640 | 1
-Decodificador | Util | Quebra criptografia | R$ 800 | 1
-Speed | Boost | Age primeiro contra ICE | R$ 1.280 | 2
-Banhammer | Ataque | +2d6 contra Black ICE | R$ 1.600 | 2
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+| Programa       | Tipo   | Efeito                       | Preço (R$) | Slots  |
+|----------------|--------|------------------------------|------------|------- |
+| Quebra-galho   | Ataque | Desativa ICE 1 rodada        | R$ 320     | 1      |
+| Jeitinho       | Ataque | Ignora 1 senha               | R$ 640     | 1      |
+| Puxadinho      | Ataque | Acesso permanente (1d6 meses)| R$ 960     | 2      |
+| Tapa-buraco    | Defesa | Bloqueia ICE 1d6 rodadas     | R$ 480     | 1      |
+| Escudo         | Defesa | +2 na defesa                 | R$ 640     | 1      |
+| Camuflagem     | Defesa | -2 para ser percebido        | R$ 960     | 1      |
+| Limpeza        | Defesa | Remove rastros               | R$ 480     | 1      |
+| Copiador       | Util   | Copia dados                  | R$ 480     | 1      |
+| Mapeador       | Util   | Revela arquitetura           | R$ 640     | 1      |
+| Decodificador  | Util   | Quebra criptografia          | R$ 800     | 1      |
+| Speed          | Boost  | Age primeiro contra ICE      | R$ 1.280   | 2      |
+| Banhammer      | Ataque | +2d6 contra Black ICE        | R$ 1.600   | 2      |
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ---------------------------------------------------------------------
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -911,3 +1006,4 @@ Café | "Café Varrido®" | R$ 2 | +1 FP | 1-2 náus
 ---------------------------------------------------------------------
 
 FIM DO ARQUIVO 05_ITENS_v1.1.txt
+
