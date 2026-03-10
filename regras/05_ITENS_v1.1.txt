@@ -325,61 +325,89 @@ Fluido Neural® (nível 24)
 │ Internet: 6G · Inviolável · Apps instantâneos · Onde: Omni (C1), missões especiais
 
 📱 APPS DO MUNDO — CYBER SP 2097
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 【 APPS COMUNS (disponíveis na loja) 】
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ├─ 🚚 EntregueJá® · ID: app_entregueja
 │ Função: Aceitar corridas, ganhar dinheiro (R$ 8-25 por entrega)
+
 ├─ 🏍️ MotoExpress® · ID: app_motoexpress
 │ Função: Entregas mais rápidas, pagamento maior (R$ 12-35)
+
 ├─ 🗺️ Navego® · ID: app_navego
 │ Função: Calcular rotas, ver trânsito, modo stealth (👻)
+
 ├─ 🕳️ TúnelCerto® · ID: app_tunelcerto
 │ Função: Navegar pela Camada 5, evitar criaturas · Preço: R$ 80
+
 ├─ 💬 Ping® · ID: app_ping
 │ Função: Chat básico, notificações na UI · Rastreável pela Omni
+
 ├─ 👁️‍🗨️ CriptoChat® · ID: app_criptochat
 │ Função: Chat criptografado, modo autodestrutivo (🔥) · Preço: R$ 80
+
 ├─ 💜 Roxinho® · ID: app_roxinho
 │ Função: Ver saldo, transferir, pagar contas (rastreável)
+
 ├─ ₿ CriptoPay® · ID: app_criptopay
 │ Função: Transferir valores sem rastro, taxa 5%
+
 ├─ 🛒 ShopFast® · ID: app_shopfast
 │ Função: Comprar itens comuns (eletrônicos, roupas)
+
 ├─ 🍔 BocaLivre® · ID: app_bocalivre
 │ Função: Pedir comida, avaliar entregadores
+
 ├─ 🎵 KondFood® · ID: app_kondfood
 │ Função: Pedir comida em shows da Solaris, promoções
+
 ├─ 📸 Lens® · ID: app_lens
 │ Função: Tirar fotos, escanear QR codes, realidade aumentada
+
 ├─ 🐦 Echo® · ID: app_echo
 │ Função: Postar, seguir, ver trends
+
 ├─ 🌐 Node® · ID: app_node
 │ Função: Acessar internet, sites, fóruns
+
 ├─ 🤖 Buscador® · ID: app_buscador
 │ Função: Pesquisar informações, pessoas, lugares
+
 ├─ 🎥 Stream® · ID: app_stream
 │ Função: Assistir filmes, séries, tutoriais · Assinatura R$ 32/mês
+
 ├─ 📝 Notas Rápidas® · ID: app_notas
 │ Função: Salvar lembretes, dívidas, ideias
+
 ├─ 🏛️ GovBR® · ID: app_govbr
 │ Função: Documentos, multas, impostos
+
 ├─ 🚏 SPTrans® · ID: app_sptrans
 │ Função: Recarga de bilhete único, horários de ônibus/trem
+
 【 APPS ILEGAIS/ESPECIAIS (NÃO estão na loja) 】
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ├─ 📦 Mercado Negro® · ID: app_mercado_negro
 │ Função: Comprar itens proibidos, contatar vendedores · Requer convite
+
 ├─ 👾 Invasor® · ID: app_invasor
 │ Função: Programas de netrunning, quebra de ICE · Preço: R$ 320-1.600
+
 ├─ 📡 Rastreador® · ID: app_rastreador
 │ Função: Rastrear pessoas/veículos (ilegal) · Preço: R$ 240 · ⚠️ -5%/h em 2º plano
+
 ├─ 🔴 CredCírculo® · ID: app_credcirculo
 │ Função: Empréstimo fácil, juros altos, dívidas com facção
+
 ├─ 🏥 SaúdeJá® · ID: app_saudeja
 │ Função: Marcar consultas, comprar remédios (legal)
+
 └─ 🗣️ FofocaJá® · ID: app_fofocaja
 Função: Informações não oficiais, boatos, missões (legal)
 
 📱 OUTROS ELETRÔNICOS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Item | Efeito | Preço (R$)
 Celular básico | Liga, SMS | R$ 160
 Celular resistente | À prova d'água | R$ 480
@@ -388,6 +416,7 @@ Comunicador criptografado | Seguro contra grampo | R$ 800
 Rádio tático | Alcance 5km | R$ 640
 
 💻 DECKS DE NETRUNNING:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Item | Efeito | Preço (R$)
 Deck de feira | +1 Computadores, falha 1-2 | R$ 800
 Deck padrão | +2 Computadores | R$ 2.400
@@ -395,6 +424,7 @@ Deck profissional | +3 Computadores | R$ 4.800
 Deck militar | +4 Computadores, +1 defesa | R$ 9.600
 
 🔋 POWER BANKS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Tipo | Cargas | Tempo | Preço (R$)
 Pequeno | 1 | 30 min | R$ 80
 Médio | 2 | 30 min | R$ 128
@@ -875,22 +905,22 @@ Esportivo | 45 | +3 | 2 | 12/100 | R$ 96.000
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 📋 PROGRAMAS COMPLETOS:
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-| Programa       | Tipo   | Efeito                       | Preço (R$) | Slots  |
-|----------------|--------|------------------------------|------------|------- |
-| Quebra-galho   | Ataque | Desativa ICE 1 rodada        | R$ 320     | 1      |
-| Jeitinho       | Ataque | Ignora 1 senha               | R$ 640     | 1      |
-| Puxadinho      | Ataque | Acesso permanente (1d6 meses)| R$ 960     | 2      |
-| Tapa-buraco    | Defesa | Bloqueia ICE 1d6 rodadas     | R$ 480     | 1      |
-| Escudo         | Defesa | +2 na defesa                 | R$ 640     | 1      |
-| Camuflagem     | Defesa | -2 para ser percebido        | R$ 960     | 1      |
-| Limpeza        | Defesa | Remove rastros               | R$ 480     | 1      |
-| Copiador       | Util   | Copia dados                  | R$ 480     | 1      |
-| Mapeador       | Util   | Revela arquitetura           | R$ 640     | 1      |
-| Decodificador  | Util   | Quebra criptografia          | R$ 800     | 1      |
-| Speed          | Boost  | Age primeiro contra ICE      | R$ 1.280   | 2      |
-| Banhammer      | Ataque | +2d6 contra Black ICE        | R$ 1.600   | 2      |
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+╠══════════════════════╤═══════════╤══════════════════════════════════╤══════════════╤══════════════╣
+║ Programa             │ Tipo      │ Efeito                           │ Preço (R$)   │ Slots        ║
+╠══════════════════════╪═══════════╪══════════════════════════════════╪══════════════╪══════════════╣
+║ Quebra-galho         │ Ataque    │ Desativa ICE 1 rodada            │ R$ 320       │ 1            ║
+║ Jeitinho             │ Ataque    │ Ignora 1 senha                   │ R$ 640       │ 1            ║
+║ Puxadinho            │ Ataque    │ Acesso permanente (1d6 meses)    │ R$ 960       │ 2            ║
+║ Tapa-buraco          │ Defesa    │ Bloqueia ICE 1d6 rodadas         │ R$ 480       │ 1            ║
+║ Escudo               │ Defesa    │ +2 na defesa                     │ R$ 640       │ 1            ║
+║ Camuflagem           │ Defesa    │ -2 para ser percebido            │ R$ 960       │ 1            ║
+║ Limpeza              │ Defesa    │ Remove rastros                   │ R$ 480       │ 1            ║
+║ Copiador             │ Util      │ Copia dados                      │ R$ 480       │ 1            ║
+║ Mapeador             │ Util      │ Revela arquitetura               │ R$ 640       │ 1            ║
+║ Decodificador        │ Util      │ Quebra criptografia              │ R$ 800       │ 1            ║
+║ Speed                │ Boost     │ Age primeiro contra ICE          │ R$ 1.280     │ 2            ║
+║ Banhammer            │ Ataque    │ +2d6 contra Black ICE            │ R$ 1.600     │ 2            ║
+╚══════════════════════╧═══════════╧══════════════════════════════════╧══════════════╧══════════════╝
 
 ---------------------------------------------------------------------
 
@@ -899,6 +929,7 @@ Esportivo | 45 | +3 | 2 | 12/100 | R$ 96.000
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 📊 MULTIPLICADORES POR CAMADA:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Camada | Multiplicador | Moeda aceita | Risco de golpe
 C1-2 | 200-500% | $, ₢, R$ | Baixo
 C3 | 100% | R$, $ | Médio
@@ -906,6 +937,7 @@ C4 | 60-80% | R$, favor | Alto
 C5 | 30-50% | R$, troco | Altíssimo
 
 📋 PREÇOS RÁPIDOS (Camada 3 = base):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Pistola 9mm · ID: pistola_9mm
 Preço base: R$ 560 · Dano: 1d8
 
@@ -947,6 +979,7 @@ Se preferir números "redondos" ou ajustar a escala, mantenha a PROPORÇÃO. O q
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🛠️ GAMBIARRAS POR CATEGORIA:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Original | Gambiarra ⭐ | Preço | Efeito | Falha
 Pistola 9mm | "Tiro Certo®" | R$ 168 | 1d6-2 | 1-3 falha
 Colete nível 2 | "Proteção Duvid."| R$ 240 | 1 prot. | 1-2 n f.
@@ -957,6 +990,7 @@ Analgésico | "DorMenos®" | R$ 5 | 1d3 HP | 1-3 n f.
 Café | "Café Varrido®" | R$ 2 | +1 FP | 1-2 náus
 
 📋 TABELA DE FALHAS (para itens ⭐ e ⭐⭐):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1d6 | ⭐ GAMBIARRA | ⭐⭐ RECUPERADO
 1 | 🔴 Destrói +1d6 | 🔴 Falha crítica
 2 | 🔴 Não funciona | ⚠️ Falha
@@ -966,6 +1000,7 @@ Café | "Café Varrido®" | R$ 2 | +1 FP | 1-2 náus
 6 | ⭐ +1 bônus | ⭐ +1 bônus
 
 📋 GAMBIARRAS DE ATRIBUTO (LIMITADAS):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 "Braço Forte do Zé" (FO +1, nível 19 temporário)
 ├─ Materiais: 2 amortecedores de carro, cinto de couro, parafusos
 ├─ CD: 16 · Tempo: 4h
@@ -1006,4 +1041,5 @@ Café | "Café Varrido®" | R$ 2 | +1 FP | 1-2 náus
 ---------------------------------------------------------------------
 
 FIM DO ARQUIVO 05_ITENS_v1.1.txt
+
 
