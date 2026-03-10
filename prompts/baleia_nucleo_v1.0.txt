@@ -74,7 +74,7 @@ https://raw.githubusercontent.com/ArtieDamiani/baleia-cyber-sp-2097/main/prompts
 https://raw.githubusercontent.com/ArtieDamiani/baleia-cyber-sp-2097/main/prompts/modos_operacionais_v1.0.txt
 
 ────────────────────────────────────────────
-TOTAL DE ARQUIVOS: 21
+TOTAL DE ARQUIVOS: 20
 
 Exemplo de pacote para uma campanha ativa (jogador existente):
 
@@ -671,4 +671,5 @@ Entregue este arquivo ao jogador para que ele o guarde e o cole na próxima sess
 =====================================================================
 ✅ FIM DO ARQUIVO NÚCLEO v1.0
 =====================================================================
+
 
