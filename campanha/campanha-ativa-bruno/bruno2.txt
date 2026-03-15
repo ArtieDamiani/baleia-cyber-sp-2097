@@ -1,4 +1,3 @@
-Duvidas idiotas
 Inicialização da BALEIA v1.0
 Aguardando links do GitHub
 Apresentação da Baleia e instruções para iniciar
