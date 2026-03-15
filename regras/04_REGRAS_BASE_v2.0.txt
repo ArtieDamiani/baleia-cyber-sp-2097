@@ -51,8 +51,8 @@
 └─ IN (Intelecto): Raciocínio, perícias mentais e percepção.
 
 📊 DISTRIBUIÇÃO INICIAL:
-└─ 70 pontos para distribuir entre HT, FO, DE e IN. O valor máximo inicial em qualquer atributo é 15. 
-└─ PPs são usados para a montagem da ficha completa, incluindo atributos, pericias e vantagens **desvantagens somam + 15 pontos total máximo até 85, podendo ser negociado com mestre**
+└─ 70 pontos para distribuir entre HT, FO, DE e IN. O valor máximo inicial em qualquer atributo é 20. 
+└─ PPs são usados para a montagem da ficha completa, incluindo atributos, pericias e vantagens **desvantagens somam + 20 pontos total máximo até 90, podendo ser negociado com mestre**
 
 📊 PONTOS DERIVADOS:
 ├─ HP (Hit Points) = HT + FO.
